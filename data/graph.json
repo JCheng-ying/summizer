@@ -99,6 +99,146 @@
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.820021+00:00",
       "last_seen": "2026-08-03T00:42:27.820021+00:00"
+    },
+    "cornell tech": {
+      "name": "Cornell Tech",
+      "type": "institution",
+      "sectors": [
+        "optical computing edge AI hardware"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:07.981708+00:00",
+      "last_seen": "2026-08-03T04:04:07.981708+00:00"
+    },
+    "university of michigan": {
+      "name": "University of Michigan",
+      "type": "institution",
+      "sectors": [
+        "semiconductor research"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:07.981708+00:00",
+      "last_seen": "2026-08-03T04:04:07.981708+00:00"
+    },
+    "generalist": {
+      "name": "Generalist",
+      "type": "company",
+      "sectors": [
+        "embodied AI foundation models"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "flexion": {
+      "name": "Flexion",
+      "type": "company",
+      "sectors": [
+        "robotics simulation sim-to-real"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "niantic spatial": {
+      "name": "Niantic Spatial",
+      "type": "company",
+      "sectors": [
+        "spatial computing mapping"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "nvidia": {
+      "name": "Nvidia",
+      "type": "company",
+      "sectors": [
+        "AI compute GPU"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "wing": {
+      "name": "Wing",
+      "type": "company",
+      "sectors": [
+        "drone delivery"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "aurora": {
+      "name": "Aurora",
+      "type": "company",
+      "sectors": [
+        "autonomous trucking"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "air lab": {
+      "name": "AIR Lab",
+      "type": "institution",
+      "sectors": [
+        "aerospace UAV design"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "limx dynamics": {
+      "name": "LimX Dynamics",
+      "type": "company",
+      "sectors": [
+        "humanoid robotics"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "pndbotics": {
+      "name": "PNDbotics",
+      "type": "company",
+      "sectors": [
+        "humanoid robotics"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "engineai": {
+      "name": "EngineAI",
+      "type": "company",
+      "sectors": [
+        "humanoid robotics"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "sharpa": {
+      "name": "Sharpa",
+      "type": "company",
+      "sectors": [
+        "service robotics"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+    },
+    "south west london pathology": {
+      "name": "South West London Pathology",
+      "type": "institution",
+      "sectors": [
+        "healthcare NHS"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-03T04:04:08.213293+00:00"
     }
   },
   "edges": [
@@ -144,6 +284,51 @@
           "source_name": "The Robot Report - Haptics",
           "published": "Wed, 29 Jul 2026 14:53:15 +0000",
           "added_at": "2026-08-03T00:42:27.587137+00:00"
+        }
+      ]
+    },
+    {
+      "source": "flexion",
+      "target": "niantic spatial",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "联合用高保真三维空间重建(高斯溅射)技术生成仿真训练场景",
+          "article_title": "Video Friday: An Italian Humanoid Comes to Life",
+          "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "2026-07-24",
+          "added_at": "2026-08-03T04:04:08.213293+00:00"
+        }
+      ]
+    },
+    {
+      "source": "flexion",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "利用Nvidia算力平台做并行强化学习训练,策略零样本迁移到真实机器人",
+          "article_title": "Video Friday: An Italian Humanoid Comes to Life",
+          "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "2026-07-24",
+          "added_at": "2026-08-03T04:04:08.213293+00:00"
+        }
+      ]
+    },
+    {
+      "source": "wing",
+      "target": "south west london pathology",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "自2026年2月起为SWLP提供加急医疗样本无人机配送服务,速度比地面运输快最多85%",
+          "article_title": "Video Friday: An Italian Humanoid Comes to Life",
+          "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "2026-07-24",
+          "added_at": "2026-08-03T04:04:08.213293+00:00"
         }
       ]
     }
