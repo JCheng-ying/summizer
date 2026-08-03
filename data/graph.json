@@ -1,0 +1,151 @@
+{
+  "nodes": {
+    "gmex": {
+      "name": "GMEX Robotics",
+      "type": "company",
+      "sectors": [
+        "service robotics automation"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.587137+00:00",
+      "last_seen": "2026-08-03T00:42:27.587137+00:00"
+    },
+    "mediametaai": {
+      "name": "MediaMeta.ai",
+      "type": "company",
+      "sectors": [
+        "AI social intelligence"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.587137+00:00",
+      "last_seen": "2026-08-03T00:42:27.587137+00:00"
+    },
+    "alpha meta ai pte": {
+      "name": "Alpha Meta AI Pte. Ltd.",
+      "type": "company",
+      "sectors": [
+        "AI"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.587137+00:00",
+      "last_seen": "2026-08-03T00:42:27.587137+00:00"
+    },
+    "metagen ai": {
+      "name": "MetaGen AI Ltd.",
+      "type": "company",
+      "sectors": [
+        "AI"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.587137+00:00",
+      "last_seen": "2026-08-03T00:42:27.587137+00:00"
+    },
+    "queen mary university of london": {
+      "name": "Queen Mary University of London",
+      "type": "institution",
+      "sectors": [
+        "haptics"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.820021+00:00",
+      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+    },
+    "university of florence": {
+      "name": "University of Florence",
+      "type": "institution",
+      "sectors": [
+        "haptics"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.820021+00:00",
+      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+    },
+    "university of trieste": {
+      "name": "University of Trieste",
+      "type": "institution",
+      "sectors": [
+        "haptics"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.820021+00:00",
+      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+    },
+    "university of trento": {
+      "name": "University of Trento",
+      "type": "institution",
+      "sectors": [
+        "haptics"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.820021+00:00",
+      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+    },
+    "shadow robot": {
+      "name": "Shadow Robot",
+      "type": "company",
+      "sectors": [
+        "robotic hands"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.820021+00:00",
+      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+    },
+    "daimon": {
+      "name": "Daimon Robotics",
+      "type": "company",
+      "sectors": [
+        "vision-based tactile sensing"
+      ],
+      "mentions": 1,
+      "first_seen": "2026-08-03T00:42:27.820021+00:00",
+      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+    }
+  },
+  "edges": [
+    {
+      "source": "gmex",
+      "target": "mediametaai",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "GMEX初期收购MediaMeta.ai 30%股权,附带5年5260万美元营收对赌及永久免版税技术授权,计划整合其社会智能建模技术进服务机器人产品",
+          "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+          "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Wed, 29 Jul 2026 14:53:15 +0000",
+          "added_at": "2026-08-03T00:42:27.587137+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gmex",
+      "target": "alpha meta ai pte",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "作为同一笔股权收购协议的共同交易方之一",
+          "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+          "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Wed, 29 Jul 2026 14:53:15 +0000",
+          "added_at": "2026-08-03T00:42:27.587137+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gmex",
+      "target": "metagen ai",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "作为同一笔股权收购协议的共同交易方之一",
+          "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+          "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Wed, 29 Jul 2026 14:53:15 +0000",
+          "added_at": "2026-08-03T00:42:27.587137+00:00"
+        }
+      ]
+    }
+  ]
+}
