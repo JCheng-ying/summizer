@@ -124,8 +124,11 @@ ANTHROPIC_API_KEY。
    ```
 
 5. **只有在云端定时任务里运行时**(不是用户本地手动开的会话),才需要执行这一步 —— 把这次
-   跑出来的结果同步回 GitHub,这样用户本地 `git pull` 就能看到:
+   跑出来的结果同步回 GitHub,这样用户本地 `git pull` 就能看到。云端沙盒是全新环境,没有
+   git 身份,先配置一个机器人身份(不要用用户本人的名义提交):
    ```bash
+   git config user.email "summizer-bot@users.noreply.github.com"
+   git config user.name "Summizer Bot"
    git add data/ web/
    git commit -m "Summizer: 自动更新 $(date +%Y-%m-%d) 的文章与图谱"
    git push
