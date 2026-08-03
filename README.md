@@ -49,7 +49,9 @@ python -m src.main init
 如果想手动触发一次,直接开一个 Claude Code 会话说"按 PIPELINE_INSTRUCTIONS.md 跑一遍
 Summizer"即可。
 
-生成的文章在 `data/articles/`,是可以直接复制发布的成品 Markdown。
+生成的文章在 `data/articles/`,是可以直接复制发布的成品 Markdown。写作逻辑不是固定模板,
+严格照着 [style_reference.md](style_reference.md) 里用户自己写过的三篇分析去模仿(连续论述 +
+"个人看法"显式标注 + 分层价值链投资分析 + 和其他文章互相引用),每次运行前都会重读这份文件。
 
 查看知识图谱:用浏览器打开 `web/graph.html`(或者起个本地静态服务器 `python -m http.server
 --directory web`)。支持拖动节点、滚轮缩放、按关系类型/实体类型筛选、搜索、点击节点或连线
@@ -57,8 +59,11 @@ Summizer"即可。
 
 ## 定时任务
 
-见项目里配置的 scheduled task(Claude Code 的定时能力),会定期自动跑一遍
-PIPELINE_INSTRUCTIONS.md 里的流程。
+目标是用 `/schedule`(claude.ai 云端 routine)每天自动跑一遍,通过这个 GitHub 仓库同步结果——
+但目前卡在 claude.ai 的 GitHub 连接器上(连接 GitHub 账号后仍然 403,看起来是平台侧问题,
+不是账号权限配置错误),还没建成。当前用本地 `CronCreate` 应急(每天 7:13 跑一次),但这
+只在某个 Claude Code 会话开着时有效,最长 7 天失效,不是真正的长期自动化。GitHub 连接器
+问题解决后需要回来用 `/schedule` 补建云端 routine。
 
 ## 关于知识图谱的准确性
 
