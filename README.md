@@ -8,6 +8,9 @@
 - The Robot Report - Haptics 分类(用主站 `/feed/` 按 category 过滤,因为分类专属 feed 被 Cloudflare 拦截)
 - ScienceDaily - Robotics
 - IEEE Spectrum - Robotics
+- Import AI(Substack)—— 偏宏观/产业,适合投资角度分析
+- DeepLearning.AI - The Batch,Research 标签 —— 偏研究类文章(没有 RSS,`src/sources.py`
+  里对这个源做的是轻量 HTML 列表页抓取,不是 feedparser)
 
 ## 架构
 

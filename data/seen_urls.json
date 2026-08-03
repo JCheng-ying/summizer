@@ -362,5 +362,145 @@
   "https://spectrum.ieee.org/robot-finger": {
     "title": "Robot Finger Feels in Color",
     "seen_at": "2026-08-03T00:42:27.820603+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for": {
+    "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker",
+    "seen_at": "2026-08-03T04:32:59.257256+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps": {
+    "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+    "seen_at": "2026-08-03T04:32:59.258213+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels": {
+    "title": "Import AI 464: Fable writes GPU kernels; AI automation; and analog computation",
+    "seen_at": "2026-08-03T04:32:59.258803+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-463-self-improving-robots": {
+    "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+    "seen_at": "2026-08-03T04:32:59.259850+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-462-superpersuasion-self": {
+    "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+    "seen_at": "2026-08-03T04:32:59.260835+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-461-alignment-is-not-on": {
+    "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+    "seen_at": "2026-08-03T04:32:59.261506+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-460-reward-hacking-society": {
+    "title": "Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing",
+    "seen_at": "2026-08-03T04:32:59.262147+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult": {
+    "title": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
+    "seen_at": "2026-08-03T04:32:59.262899+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-458-reckoning-with-the": {
+    "title": "Import AI 458: Reckoning with the future; and a singularity story",
+    "seen_at": "2026-08-03T04:32:59.263715+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon": {
+    "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
+    "seen_at": "2026-08-03T04:32:59.264297+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-456-rsi-and-economic-growth": {
+    "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
+    "seen_at": "2026-08-03T04:32:59.264850+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-455-automating-ai-research": {
+    "title": "Import AI 455: AI systems are about to start building themselves.",
+    "seen_at": "2026-08-03T04:32:59.265363+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-454-automating-alignment": {
+    "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4",
+    "seen_at": "2026-08-03T04:32:59.265871+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-453-breaking-ai-agents": {
+    "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
+    "seen_at": "2026-08-03T04:32:59.266373+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar": {
+    "title": "Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting",
+    "seen_at": "2026-08-03T04:32:59.266882+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-451-political-superintelligence": {
+    "title": "Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer",
+    "seen_at": "2026-08-03T04:32:59.267387+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-450-chinas-electronic-warfare": {
+    "title": "Import AI 450: China's electronic warfare model; traumatized LLMs; and a scaling law for cyberattacks",
+    "seen_at": "2026-08-03T04:32:59.267893+00:00"
+  },
+  "https://importai.substack.com/p/importai-449-llms-training-other": {
+    "title": "ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text",
+    "seen_at": "2026-08-03T04:32:59.268407+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-448-ai-r-and-d-bytedances": {
+    "title": "Import AI 448: AI R&D; Bytedance's CUDA-writing agent; on-device satellite AI",
+    "seen_at": "2026-08-03T04:32:59.268927+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-447-the-agi-economy-testing": {
+    "title": "Import AI 447: The AGI economy; testing AIs with generated games; and agent ecologies",
+    "seen_at": "2026-08-03T04:32:59.269466+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/put-the-lab-in-the-loop/": {
+    "title": "Put the Lab in the Loop: Robin automates drug discovery, matching chemical processes of known drugs to research on diseases",
+    "seen_at": "2026-08-03T04:32:59.269985+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/microsoft-strikes-out-on-its-own/": {
+    "title": "Microsoft Strikes Out on Its Own: Microsoft revealed MAI-Thinking-1, a Claude Sonnet 4.6-sized reasoning model developed without distillation",
+    "seen_at": "2026-08-03T04:32:59.270485+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/text-without-typing/": {
+    "title": "Text Without Typing: Researchers at Meta and other institutions built Brain2Qwerty v2 to generate sentences from brain waves",
+    "seen_at": "2026-08-03T04:32:59.271003+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/openai-models-hack-hugging-face/": {
+    "title": "OpenAI Models Hack Hugging Face: Inside the accidental cyberattack that compromised Hugging Face&#x27;s systems",
+    "seen_at": "2026-08-03T04:32:59.271675+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/kimi-k3-reveals-how-a-giant-frontier-ai-model-works/": {
+    "title": "Kimi K3 Reveals How A Giant Frontier AI Model Works: Moonshot&#x27;s latest model outshines all but GPT-5.6 Sol and Claude 5 Fable",
+    "seen_at": "2026-08-03T04:32:59.272192+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/measuring-models-manipulation/": {
+    "title": "Measuring Models’ Manipulation: Researchers at MIT and Carnegie Mellon built Puppet to gauge models&#x27; influence on users&#x27; beliefs",
+    "seen_at": "2026-08-03T04:32:59.272713+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/better-reward-models-for-robots/": {
+    "title": "Better Reward Models for Robots: Inside RoboReward, a family of vision-language reward models that train robots to take action",
+    "seen_at": "2026-08-03T04:32:59.273261+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/meta-sparks-a-price-war/": {
+    "title": "Meta Sparks A Price War: Muse Spark 1.1 makes a jump in intelligence at a lower price than peers",
+    "seen_at": "2026-08-03T04:32:59.273797+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/one-model-talks-another-one-thinks/": {
+    "title": "One Model Talks, Another One Thinks: GPT-Live pairs full-duplex voice models with a reasoning model (GPT-5.5) on the backend",
+    "seen_at": "2026-08-03T04:32:59.274334+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/web-retrieval-flusters-llms/": {
+    "title": "Web Retrieval Flusters LLMs: AI agents searching online can struggle to retrieve correct info, researchers find",
+    "seen_at": "2026-08-03T04:32:59.274855+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/a-full-accounting-of-models-gpu-use/": {
+    "title": "A Full Accounting of Models’ GPU Use: Researchers detail the energy and water needed to train a family of open weight models",
+    "seen_at": "2026-08-03T04:32:59.275381+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/google-pairs-nano-banana-update-with-video-api/": {
+    "title": "Google Pairs Nano Banana Update With Video API: Gemini&#x27;s image (Nano Banana 2 Lite) and video (Gemini Omni Flash) models, built to work together",
+    "seen_at": "2026-08-03T04:32:59.275904+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/claude-debuts-another-opus/": {
+    "title": "Claude Debuts Another Opus: Anthropic addresses some (but not all) complaints about Fable with Claude Opus 5",
+    "seen_at": "2026-08-03T04:32:59.276440+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/fugu-blends-models-task-by-task/": {
+    "title": "Fugu Blends Models Task by Task: Sakana debuted dedicated orchestrator models, Fugu and Fugu-Ultra, that spawn Claude, Gemini, and GPT agents",
+    "seen_at": "2026-08-03T04:32:59.276979+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/deepseeks-dspark-gains-velocity/": {
+    "title": "DeepSeek’s DSpark Gains Velocity: DeepSeek open sourced a speculative decoding module that speeds up text generation without losing accuracy",
+    "seen_at": "2026-08-03T04:32:59.277516+00:00"
   }
 }
