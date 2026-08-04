@@ -6,6 +6,17 @@ from src.config import GRAPH_PATH
 
 SYMMETRIC_TYPES = {"partnership", "competition"}
 
+# the six sectors the user tracks for investment purposes -- entities and
+# article signals should tag onto these where relevant, not free-text sectors
+CANONICAL_SECTORS = [
+    "机器人板块",
+    "AI板块",
+    "能源板块",
+    "量子计算板块",
+    "太空经济板块",
+    "edge AI板块",
+]
+
 _SUFFIX_RE = re.compile(
     r"\b(inc\.?|corp\.?|corporation|ltd\.?|llc|co\.?|company|group|holdings|"
     r"technologies|technology|robotics)\b\.?",
@@ -22,14 +33,16 @@ def normalize(name: str) -> str:
 
 
 def _empty_graph() -> dict:
-    return {"nodes": {}, "edges": []}
+    return {"nodes": {}, "edges": [], "sector_signals": []}
 
 
 def load() -> dict:
     if not GRAPH_PATH.exists():
         return _empty_graph()
     with open(GRAPH_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+        graph = json.load(f)
+    graph.setdefault("sector_signals", [])
+    return graph
 
 
 def save(graph: dict) -> None:
@@ -37,23 +50,46 @@ def save(graph: dict) -> None:
         json.dump(graph, f, ensure_ascii=False, indent=2)
 
 
-def _upsert_node(graph: dict, name: str, node_type: str, sector: str, now: str) -> str:
+def _upsert_node(
+    graph: dict,
+    name: str,
+    node_type: str,
+    sector: str,
+    now: str,
+    sector_tags: list | None = None,
+    hot: str | None = None,
+    ticker: str | None = None,
+) -> str:
     key = normalize(name)
     node = graph["nodes"].get(key)
     if node is None:
-        graph["nodes"][key] = {
+        node = {
             "name": name.strip(),
             "type": node_type,
             "sectors": [sector] if sector else [],
+            "sector_tags": [],
+            "hot": None,
+            "ticker": None,
             "mentions": 1,
             "first_seen": now,
             "last_seen": now,
         }
+        graph["nodes"][key] = node
     else:
         node["mentions"] += 1
         node["last_seen"] = now
+        node.setdefault("sector_tags", [])
         if sector and sector not in node["sectors"]:
             node["sectors"].append(sector)
+
+    for tag in sector_tags or []:
+        if tag in CANONICAL_SECTORS and tag not in node["sector_tags"]:
+            node["sector_tags"].append(tag)
+    if hot in ("hot", "cold"):
+        node["hot"] = hot
+    if ticker:
+        node["ticker"] = ticker
+
     return key
 
 
@@ -76,13 +112,20 @@ def merge(extraction: dict, article: dict) -> dict:
     graph = load()
     now = datetime.now(timezone.utc).isoformat()
 
-    name_to_key = {}
     for ent in extraction.get("entities", []):
         name = ent.get("name", "").strip()
         if not name:
             continue
-        key = _upsert_node(graph, name, ent.get("type", "company"), ent.get("sector", ""), now)
-        name_to_key[normalize(name)] = key
+        _upsert_node(
+            graph,
+            name,
+            ent.get("type", "company"),
+            ent.get("sector", ""),
+            now,
+            sector_tags=ent.get("sector_tags"),
+            hot=ent.get("hot"),
+            ticker=ent.get("ticker"),
+        )
 
     evidence = {
         "description": None,
@@ -126,5 +169,32 @@ def merge(extraction: dict, article: dict) -> dict:
             if rel_evidence["article_url"] not in urls:
                 edge["evidence"].append(rel_evidence)
 
+    save(graph)
+    return graph
+
+
+def record_signal(sector: str, description: str, article: dict) -> dict:
+    """Record that an article is a bullish/bearish signal for one of the six
+    tracked sectors, independent of any specific company relationship."""
+    graph = load()
+    now = datetime.now(timezone.utc).isoformat()
+
+    existing = [
+        s
+        for s in graph["sector_signals"]
+        if s["sector"] == sector and s["article_url"] == article["link"]
+    ]
+    if not existing:
+        graph["sector_signals"].append(
+            {
+                "sector": sector,
+                "description": description,
+                "article_title": article["title"],
+                "article_url": article["link"],
+                "source_name": article.get("source_name", ""),
+                "published": article.get("published", ""),
+                "added_at": now,
+            }
+        )
     save(graph)
     return graph

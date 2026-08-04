@@ -28,6 +28,13 @@ def main():
     mark_seen_parser.add_argument("--url", required=True)
     mark_seen_parser.add_argument("--title", default="")
 
+    signal_parser = sub.add_parser(
+        "record-signal", help="记录一篇文章对某个板块的利好/利空信号(不涉及具体公司关系时用这个)"
+    )
+    signal_parser.add_argument("--sector", required=True, help="六个板块之一,见 src/graph_store.py CANONICAL_SECTORS")
+    signal_parser.add_argument("--description", required=True, help="一句话说明为什么利好/利空这个板块")
+    signal_parser.add_argument("--item-file", required=True, help="new-items 输出中单篇文章对象的 JSON 文件路径")
+
     sub.add_parser("graph", help="重新渲染知识图谱 HTML")
 
     args = parser.parse_args()
@@ -53,6 +60,16 @@ def main():
 
         state.mark_seen(args.url, args.title)
         print(f"[main] 已标记已读: {args.url}")
+
+    elif args.command == "record-signal":
+        from src import graph_store
+
+        with open(args.item_file, "r", encoding="utf-8") as f:
+            item = json.load(f)
+        if args.sector not in graph_store.CANONICAL_SECTORS:
+            print(f"[main] 警告: {args.sector} 不在 CANONICAL_SECTORS 里,仍然会记录,但图谱切换器可能不识别")
+        graph_store.record_signal(args.sector, args.description, item)
+        print(f"[main] 已记录板块信号: {args.sector} <- {item['title']}")
 
     elif args.command == "graph":
         path = graph_viz.render()

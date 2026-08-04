@@ -93,6 +93,31 @@
     font-size: 11px; text-transform: uppercase; letter-spacing: .04em;
     color: var(--text-muted); margin: 14px 0 6px;
   }
+
+  #sector-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .sector-tab {
+    font-size: 12px; padding: 6px 11px; border-radius: 8px;
+    border: 1px solid var(--border); cursor: pointer; user-select: none;
+    color: var(--text-secondary); background: transparent;
+  }
+  .sector-tab.active { color: var(--surface-1); background: var(--slot-1); border-color: var(--slot-1); }
+
+  #sector-signals { margin-bottom: 4px; }
+  .signal-item {
+    border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; margin-bottom: 8px;
+    font-size: 12px; line-height: 1.5;
+  }
+  .signal-item .desc { margin-bottom: 4px; }
+  .signal-item a { color: var(--slot-1); text-decoration: none; font-size: 11px; }
+  .signal-item .src { color: var(--text-muted); font-size: 11px; }
+
+  .badge {
+    display: inline-block; font-size: 10px; padding: 1px 6px; border-radius: 999px;
+    border: 1px solid var(--border); margin-left: 6px; color: var(--text-secondary);
+  }
+  .badge.hot { color: var(--slot-8); border-color: var(--slot-8); }
+  .badge.cold { color: var(--text-muted); }
+
   .chip-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 4px; }
   .chip {
     font-size: 12px; padding: 4px 9px; border-radius: 999px;
@@ -147,6 +172,8 @@
   <div id="sidebar">
     <h1>机器人 / 科技产业关系图谱</h1>
     <div class="sub" id="generated-at"></div>
+    <div id="sector-tabs"></div>
+    <div id="sector-signals"></div>
     <input type="search" id="search" placeholder="搜索公司 / 技术 / 机构…" />
     <div class="section-title">关系类型</div>
     <div class="chip-row" id="edge-type-filters"></div>
@@ -162,7 +189,7 @@
 </div>
 
 <script>
-const GRAPH = {"nodes": {"gmex": {"name": "GMEX Robotics", "type": "company", "sectors": ["service robotics automation"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.587137+00:00", "last_seen": "2026-08-03T00:42:27.587137+00:00"}, "mediametaai": {"name": "MediaMeta.ai", "type": "company", "sectors": ["AI social intelligence"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.587137+00:00", "last_seen": "2026-08-03T00:42:27.587137+00:00"}, "alpha meta ai pte": {"name": "Alpha Meta AI Pte. Ltd.", "type": "company", "sectors": ["AI"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.587137+00:00", "last_seen": "2026-08-03T00:42:27.587137+00:00"}, "metagen ai": {"name": "MetaGen AI Ltd.", "type": "company", "sectors": ["AI"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.587137+00:00", "last_seen": "2026-08-03T00:42:27.587137+00:00"}, "queen mary university of london": {"name": "Queen Mary University of London", "type": "institution", "sectors": ["haptics"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00"}, "university of florence": {"name": "University of Florence", "type": "institution", "sectors": ["haptics"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00"}, "university of trieste": {"name": "University of Trieste", "type": "institution", "sectors": ["haptics"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00"}, "university of trento": {"name": "University of Trento", "type": "institution", "sectors": ["haptics"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00"}, "shadow robot": {"name": "Shadow Robot", "type": "company", "sectors": ["robotic hands"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00"}, "daimon": {"name": "Daimon Robotics", "type": "company", "sectors": ["vision-based tactile sensing"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00"}, "cornell tech": {"name": "Cornell Tech", "type": "institution", "sectors": ["optical computing edge AI hardware"], "mentions": 1, "first_seen": "2026-08-03T04:04:07.981708+00:00", "last_seen": "2026-08-03T04:04:07.981708+00:00"}, "university of michigan": {"name": "University of Michigan", "type": "institution", "sectors": ["semiconductor research"], "mentions": 1, "first_seen": "2026-08-03T04:04:07.981708+00:00", "last_seen": "2026-08-03T04:04:07.981708+00:00"}, "generalist": {"name": "Generalist", "type": "company", "sectors": ["embodied AI foundation models"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "flexion": {"name": "Flexion", "type": "company", "sectors": ["robotics simulation sim-to-real"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "niantic spatial": {"name": "Niantic Spatial", "type": "company", "sectors": ["spatial computing mapping"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "nvidia": {"name": "Nvidia", "type": "company", "sectors": ["AI compute GPU"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "wing": {"name": "Wing", "type": "company", "sectors": ["drone delivery"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "aurora": {"name": "Aurora", "type": "company", "sectors": ["autonomous trucking"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "air lab": {"name": "AIR Lab", "type": "institution", "sectors": ["aerospace UAV design"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "limx dynamics": {"name": "LimX Dynamics", "type": "company", "sectors": ["humanoid robotics"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "pndbotics": {"name": "PNDbotics", "type": "company", "sectors": ["humanoid robotics"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "engineai": {"name": "EngineAI", "type": "company", "sectors": ["humanoid robotics"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "sharpa": {"name": "Sharpa", "type": "company", "sectors": ["service robotics"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}, "south west london pathology": {"name": "South West London Pathology", "type": "institution", "sectors": ["healthcare NHS"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00"}}, "edges": [{"source": "gmex", "target": "mediametaai", "type": "acquisition", "evidence": [{"description": "GMEX初期收购MediaMeta.ai 30%股权,附带5年5260万美元营收对赌及永久免版税技术授权,计划整合其社会智能建模技术进服务机器人产品", "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence", "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/", "source_name": "The Robot Report - Haptics", "published": "Wed, 29 Jul 2026 14:53:15 +0000", "added_at": "2026-08-03T00:42:27.587137+00:00"}]}, {"source": "gmex", "target": "alpha meta ai pte", "type": "acquisition", "evidence": [{"description": "作为同一笔股权收购协议的共同交易方之一", "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence", "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/", "source_name": "The Robot Report - Haptics", "published": "Wed, 29 Jul 2026 14:53:15 +0000", "added_at": "2026-08-03T00:42:27.587137+00:00"}]}, {"source": "gmex", "target": "metagen ai", "type": "acquisition", "evidence": [{"description": "作为同一笔股权收购协议的共同交易方之一", "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence", "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/", "source_name": "The Robot Report - Haptics", "published": "Wed, 29 Jul 2026 14:53:15 +0000", "added_at": "2026-08-03T00:42:27.587137+00:00"}]}, {"source": "flexion", "target": "niantic spatial", "type": "partnership", "evidence": [{"description": "联合用高保真三维空间重建(高斯溅射)技术生成仿真训练场景", "article_title": "Video Friday: An Italian Humanoid Comes to Life", "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "2026-07-24", "added_at": "2026-08-03T04:04:08.213293+00:00"}]}, {"source": "flexion", "target": "nvidia", "type": "partnership", "evidence": [{"description": "利用Nvidia算力平台做并行强化学习训练,策略零样本迁移到真实机器人", "article_title": "Video Friday: An Italian Humanoid Comes to Life", "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "2026-07-24", "added_at": "2026-08-03T04:04:08.213293+00:00"}]}, {"source": "wing", "target": "south west london pathology", "type": "customer", "evidence": [{"description": "自2026年2月起为SWLP提供加急医疗样本无人机配送服务,速度比地面运输快最多85%", "article_title": "Video Friday: An Italian Humanoid Comes to Life", "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "2026-07-24", "added_at": "2026-08-03T04:04:08.213293+00:00"}]}], "generated_at": "2026-08-03T04:04:08.441208+00:00"};
+const GRAPH = {"nodes": {"gmex": {"name": "GMEX Robotics", "type": "company", "sectors": ["service robotics automation"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.587137+00:00", "last_seen": "2026-08-03T00:42:27.587137+00:00", "sector_tags": ["机器人板块", "AI板块"], "hot": null, "ticker": null}, "mediametaai": {"name": "MediaMeta.ai", "type": "company", "sectors": ["AI social intelligence"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.587137+00:00", "last_seen": "2026-08-03T00:42:27.587137+00:00", "sector_tags": ["机器人板块", "AI板块"], "hot": null, "ticker": null}, "alpha meta ai pte": {"name": "Alpha Meta AI Pte. Ltd.", "type": "company", "sectors": ["AI"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.587137+00:00", "last_seen": "2026-08-03T00:42:27.587137+00:00", "sector_tags": ["AI板块"], "hot": null, "ticker": null}, "metagen ai": {"name": "MetaGen AI Ltd.", "type": "company", "sectors": ["AI"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.587137+00:00", "last_seen": "2026-08-03T00:42:27.587137+00:00", "sector_tags": ["AI板块"], "hot": null, "ticker": null}, "queen mary university of london": {"name": "Queen Mary University of London", "type": "institution", "sectors": ["haptics"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "university of florence": {"name": "University of Florence", "type": "institution", "sectors": ["haptics"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "university of trieste": {"name": "University of Trieste", "type": "institution", "sectors": ["haptics"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "university of trento": {"name": "University of Trento", "type": "institution", "sectors": ["haptics"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "shadow robot": {"name": "Shadow Robot", "type": "company", "sectors": ["robotic hands"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "daimon": {"name": "Daimon Robotics", "type": "company", "sectors": ["vision-based tactile sensing"], "mentions": 1, "first_seen": "2026-08-03T00:42:27.820021+00:00", "last_seen": "2026-08-03T00:42:27.820021+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "cornell tech": {"name": "Cornell Tech", "type": "institution", "sectors": ["optical computing edge AI hardware"], "mentions": 1, "first_seen": "2026-08-03T04:04:07.981708+00:00", "last_seen": "2026-08-03T04:04:07.981708+00:00", "sector_tags": ["edge AI板块", "能源板块"], "hot": null, "ticker": null}, "university of michigan": {"name": "University of Michigan", "type": "institution", "sectors": ["semiconductor research"], "mentions": 1, "first_seen": "2026-08-03T04:04:07.981708+00:00", "last_seen": "2026-08-03T04:04:07.981708+00:00", "sector_tags": ["edge AI板块"], "hot": null, "ticker": null}, "generalist": {"name": "Generalist", "type": "company", "sectors": ["embodied AI foundation models"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块", "AI板块"], "hot": null, "ticker": null}, "flexion": {"name": "Flexion", "type": "company", "sectors": ["robotics simulation sim-to-real"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块", "AI板块"], "hot": null, "ticker": null}, "niantic spatial": {"name": "Niantic Spatial", "type": "company", "sectors": ["spatial computing mapping"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["AI板块"], "hot": null, "ticker": null}, "nvidia": {"name": "Nvidia", "type": "company", "sectors": ["AI compute GPU"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["AI板块"], "hot": null, "ticker": null}, "wing": {"name": "Wing", "type": "company", "sectors": ["drone delivery"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "aurora": {"name": "Aurora", "type": "company", "sectors": ["autonomous trucking"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "air lab": {"name": "AIR Lab", "type": "institution", "sectors": ["aerospace UAV design"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "limx dynamics": {"name": "LimX Dynamics", "type": "company", "sectors": ["humanoid robotics"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "pndbotics": {"name": "PNDbotics", "type": "company", "sectors": ["humanoid robotics"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "engineai": {"name": "EngineAI", "type": "company", "sectors": ["humanoid robotics"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "sharpa": {"name": "Sharpa", "type": "company", "sectors": ["service robotics"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": ["机器人板块"], "hot": null, "ticker": null}, "south west london pathology": {"name": "South West London Pathology", "type": "institution", "sectors": ["healthcare NHS"], "mentions": 1, "first_seen": "2026-08-03T04:04:08.213293+00:00", "last_seen": "2026-08-03T04:04:08.213293+00:00", "sector_tags": [], "hot": null, "ticker": null}}, "edges": [{"source": "gmex", "target": "mediametaai", "type": "acquisition", "evidence": [{"description": "GMEX初期收购MediaMeta.ai 30%股权,附带5年5260万美元营收对赌及永久免版税技术授权,计划整合其社会智能建模技术进服务机器人产品", "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence", "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/", "source_name": "The Robot Report - Haptics", "published": "Wed, 29 Jul 2026 14:53:15 +0000", "added_at": "2026-08-03T00:42:27.587137+00:00"}]}, {"source": "gmex", "target": "alpha meta ai pte", "type": "acquisition", "evidence": [{"description": "作为同一笔股权收购协议的共同交易方之一", "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence", "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/", "source_name": "The Robot Report - Haptics", "published": "Wed, 29 Jul 2026 14:53:15 +0000", "added_at": "2026-08-03T00:42:27.587137+00:00"}]}, {"source": "gmex", "target": "metagen ai", "type": "acquisition", "evidence": [{"description": "作为同一笔股权收购协议的共同交易方之一", "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence", "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/", "source_name": "The Robot Report - Haptics", "published": "Wed, 29 Jul 2026 14:53:15 +0000", "added_at": "2026-08-03T00:42:27.587137+00:00"}]}, {"source": "flexion", "target": "niantic spatial", "type": "partnership", "evidence": [{"description": "联合用高保真三维空间重建(高斯溅射)技术生成仿真训练场景", "article_title": "Video Friday: An Italian Humanoid Comes to Life", "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "2026-07-24", "added_at": "2026-08-03T04:04:08.213293+00:00"}]}, {"source": "flexion", "target": "nvidia", "type": "partnership", "evidence": [{"description": "利用Nvidia算力平台做并行强化学习训练,策略零样本迁移到真实机器人", "article_title": "Video Friday: An Italian Humanoid Comes to Life", "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "2026-07-24", "added_at": "2026-08-03T04:04:08.213293+00:00"}]}, {"source": "wing", "target": "south west london pathology", "type": "customer", "evidence": [{"description": "自2026年2月起为SWLP提供加急医疗样本无人机配送服务,速度比地面运输快最多85%", "article_title": "Video Friday: An Italian Humanoid Comes to Life", "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "2026-07-24", "added_at": "2026-08-03T04:04:08.213293+00:00"}]}], "sector_signals": [{"sector": "机器人板块", "description": "GEN-1跨执行器预训练和Flexion的sim-to-real零样本迁移,分别打通了具身智能两条降本路径,降低通用人形/灵巧手机器人的研发和部署门槛", "article_title": "Video Friday: An Italian Humanoid Comes to Life", "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "Fri, 24 Jul 2026", "added_at": "2026-08-03T06:11:52.795529+00:00"}, {"sector": "AI板块", "description": "Flexion的仿真训练依赖Nvidia算力和仿真平台基础设施,不管哪家具身智能公司跑出来,这一层大概率都是受益方", "article_title": "Video Friday: An Italian Humanoid Comes to Life", "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "Fri, 24 Jul 2026", "added_at": "2026-08-03T06:11:52.796171+00:00"}, {"sector": "edge AI板块", "description": "康奈尔理工展示用光直接改写芯片内存,目标是降低边缘AI设备(机器人、自动驾驶等)更新模型参数的能耗,是边缘AI硬件的早期技术信号", "article_title": "Optical Tech Would Update a Robot's AI on the Fly", "article_url": "https://spectrum.ieee.org/ai-in-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "Sun, 26 Jul 2026", "added_at": "2026-08-03T06:11:52.796539+00:00"}, {"sector": "能源板块", "description": "核心诉求是降低数据中心和边缘设备的AI推理/更新能耗,和芯片-内存搬运的能耗瓶颈直接相关", "article_title": "Optical Tech Would Update a Robot's AI on the Fly", "article_url": "https://spectrum.ieee.org/ai-in-robotics", "source_name": "IEEE Spectrum - Robotics", "published": "Sun, 26 Jul 2026", "added_at": "2026-08-03T06:11:52.796900+00:00"}, {"sector": "机器人板块", "description": "材料自带触觉感知方案绕开指尖空间限制,如果耐久性问题解决,可降低机械手指尖传感器成本和集成复杂度,是机器人感知层的精细化进展", "article_title": "Robot Finger Feels in Color", "article_url": "https://spectrum.ieee.org/robot-finger", "source_name": "IEEE Spectrum - Robotics", "published": "Tue, 28 Jul 2026", "added_at": "2026-08-03T06:11:52.797234+00:00"}, {"sector": "机器人板块", "description": "GMEX通过并购快速拼齐社会智能技术栈,反映服务机器人在近距离人机互动场景对语境理解能力的需求正在变成独立技术层", "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence", "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/", "source_name": "The Robot Report - Haptics", "published": "Wed, 29 Jul 2026", "added_at": "2026-08-03T06:11:52.797680+00:00"}, {"sector": "AI板块", "description": "MediaMeta的行为/社会语境建模技术是AI应用层的一个细分方向,被机器人本体公司并购整合", "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence", "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/", "source_name": "The Robot Report - Haptics", "published": "Wed, 29 Jul 2026", "added_at": "2026-08-03T06:11:52.798190+00:00"}], "generated_at": "2026-08-03T06:13:21.525319+00:00"};
 
 const NODE_TYPE_COLOR = {
   company: "var(--slot-1)",
@@ -190,9 +217,12 @@ const EDGE_TYPE_LABEL = {
   supplier: "供应", customer: "客户", research_collaboration: "研究合作", subsidiary: "母子公司",
 };
 
+const CANONICAL_SECTORS = ["机器人板块", "AI板块", "能源板块", "量子计算板块", "太空经济板块", "edge AI板块"];
+
 const nodeEntries = Object.entries(GRAPH.nodes || {});
 const nodes = nodeEntries.map(([key, n]) => ({
   id: key, name: n.name, type: n.type, sectors: n.sectors || [],
+  sectorTags: n.sector_tags || [], hot: n.hot || null, ticker: n.ticker || null,
   mentions: n.mentions || 1, first_seen: n.first_seen, last_seen: n.last_seen,
   x: Math.random() * 800 - 400, y: Math.random() * 600 - 300, vx: 0, vy: 0,
 }));
@@ -205,9 +235,56 @@ document.getElementById("generated-at").textContent =
   `${nodes.length} 个实体 · ${links.length} 条关系 · 生成于 ${GRAPH.generated_at || ""}`;
 document.getElementById("stats").textContent = "拖动节点调整位置 · 滚轮缩放 · 点击查看详情";
 
+// ---------- sector switcher ----------
+let currentSector = null; // null = 全部
+
+function renderSectorTabs() {
+  const container = document.getElementById("sector-tabs");
+  container.innerHTML = "";
+  const allTab = document.createElement("div");
+  allTab.className = "sector-tab" + (currentSector === null ? " active" : "");
+  allTab.textContent = "全部";
+  allTab.addEventListener("click", () => { currentSector = null; onSectorChange(); });
+  container.appendChild(allTab);
+
+  CANONICAL_SECTORS.forEach(sector => {
+    const tab = document.createElement("div");
+    tab.className = "sector-tab" + (currentSector === sector ? " active" : "");
+    tab.textContent = sector;
+    tab.addEventListener("click", () => { currentSector = sector; onSectorChange(); });
+    container.appendChild(tab);
+  });
+}
+
+function renderSectorSignals() {
+  const container = document.getElementById("sector-signals");
+  if (!currentSector) { container.innerHTML = ""; return; }
+  const signals = (GRAPH.sector_signals || []).filter(s => s.sector === currentSector);
+  if (!signals.length) {
+    container.innerHTML = `<div class="section-title">${currentSector} 近期信号</div><div class="signal-item">暂无记录</div>`;
+    return;
+  }
+  const sorted = signals.slice().sort((a, b) => (b.published || "").localeCompare(a.published || ""));
+  container.innerHTML = `<div class="section-title">${currentSector} 近期信号(${sorted.length})</div>` +
+    sorted.map(s => `
+      <div class="signal-item">
+        <div class="desc">${s.description}</div>
+        <div class="src"><a href="${s.article_url}" target="_blank" rel="noopener">${s.article_title}</a> · ${s.source_name || ""}</div>
+      </div>
+    `).join("");
+}
+
+function onSectorChange() {
+  renderSectorTabs();
+  renderSectorSignals();
+  applyFilters();
+}
+
 // ---------- filters ----------
 const activeEdgeTypes = new Set(Object.keys(EDGE_TYPE_COLOR));
 const activeNodeTypes = new Set(Object.keys(NODE_TYPE_COLOR));
+renderSectorTabs();
+renderSectorSignals();
 
 function buildChips(container, entries, colorMap, activeSet, onChange) {
   entries.forEach(([key, label]) => {
@@ -268,7 +345,7 @@ const nodeGroups = nodes.map(n => {
   g.appendChild(circle);
   g.appendChild(text);
   g.addEventListener("click", (ev) => { ev.stopPropagation(); showNodeDetail(n); });
-  g.addEventListener("mouseenter", (ev) => showTooltip(ev, `<b>${n.name}</b><br><span style="color:var(--text-muted)">${NODE_TYPE_LABEL[n.type] || n.type} · 提及 ${n.mentions} 次</span>`));
+  g.addEventListener("mouseenter", (ev) => showTooltip(ev, `<b>${n.name}</b>${n.ticker ? ` <span style="color:var(--text-muted)">(${n.ticker})</span>` : ""}${n.hot ? `<span class="badge ${n.hot}">${n.hot === "hot" ? "热门" : "冷门"}</span>` : ""}<br><span style="color:var(--text-muted)">${NODE_TYPE_LABEL[n.type] || n.type} · 提及 ${n.mentions} 次</span>`));
   g.addEventListener("mouseleave", hideTooltip);
   g.addEventListener("mousemove", moveTooltip);
   makeDraggable(g, n);
@@ -411,8 +488,8 @@ function showNodeDetail(n) {
     </div>`;
   }).join("");
   document.getElementById("detail").innerHTML = `
-    <h2>${n.name}</h2>
-    <div class="meta">${NODE_TYPE_LABEL[n.type] || n.type}${n.sectors.length ? " · " + n.sectors.join(", ") : ""} · 提及 ${n.mentions} 次</div>
+    <h2>${n.name}${n.ticker ? ` <span style="color:var(--text-muted); font-weight:normal;">(${n.ticker})</span>` : ""}${n.hot ? `<span class="badge ${n.hot}">${n.hot === "hot" ? "热门" : "冷门"}</span>` : ""}</h2>
+    <div class="meta">${NODE_TYPE_LABEL[n.type] || n.type}${n.sectorTags.length ? " · " + n.sectorTags.join(", ") : (n.sectors.length ? " · " + n.sectors.join(", ") : "")} · 提及 ${n.mentions} 次</div>
     ${evidenceHtml || '<div class="placeholder">暂无关系记录</div>'}
   `;
 }
@@ -464,7 +541,8 @@ function applyFilters() {
   nodes.forEach((n, i) => {
     const typeOk = activeNodeTypes.has(n.type);
     const searchOk = !searchTerm || n.name.toLowerCase().includes(searchTerm);
-    nodeGroups[i].style.display = (typeOk && searchOk) ? "" : "none";
+    const sectorOk = !currentSector || n.sectorTags.includes(currentSector);
+    nodeGroups[i].style.display = (typeOk && searchOk && sectorOk) ? "" : "none";
   });
   links.forEach((l, i) => {
     const typeOk = activeEdgeTypes.has(l.type);

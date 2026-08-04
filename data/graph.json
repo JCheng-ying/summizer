@@ -8,7 +8,13 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.587137+00:00",
-      "last_seen": "2026-08-03T00:42:27.587137+00:00"
+      "last_seen": "2026-08-03T00:42:27.587137+00:00",
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "mediametaai": {
       "name": "MediaMeta.ai",
@@ -18,7 +24,13 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.587137+00:00",
-      "last_seen": "2026-08-03T00:42:27.587137+00:00"
+      "last_seen": "2026-08-03T00:42:27.587137+00:00",
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "alpha meta ai pte": {
       "name": "Alpha Meta AI Pte. Ltd.",
@@ -28,7 +40,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.587137+00:00",
-      "last_seen": "2026-08-03T00:42:27.587137+00:00"
+      "last_seen": "2026-08-03T00:42:27.587137+00:00",
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "metagen ai": {
       "name": "MetaGen AI Ltd.",
@@ -38,7 +55,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.587137+00:00",
-      "last_seen": "2026-08-03T00:42:27.587137+00:00"
+      "last_seen": "2026-08-03T00:42:27.587137+00:00",
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "queen mary university of london": {
       "name": "Queen Mary University of London",
@@ -48,7 +70,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.820021+00:00",
-      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+      "last_seen": "2026-08-03T00:42:27.820021+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "university of florence": {
       "name": "University of Florence",
@@ -58,7 +85,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.820021+00:00",
-      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+      "last_seen": "2026-08-03T00:42:27.820021+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "university of trieste": {
       "name": "University of Trieste",
@@ -68,7 +100,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.820021+00:00",
-      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+      "last_seen": "2026-08-03T00:42:27.820021+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "university of trento": {
       "name": "University of Trento",
@@ -78,7 +115,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.820021+00:00",
-      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+      "last_seen": "2026-08-03T00:42:27.820021+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "shadow robot": {
       "name": "Shadow Robot",
@@ -88,7 +130,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.820021+00:00",
-      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+      "last_seen": "2026-08-03T00:42:27.820021+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "daimon": {
       "name": "Daimon Robotics",
@@ -98,7 +145,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T00:42:27.820021+00:00",
-      "last_seen": "2026-08-03T00:42:27.820021+00:00"
+      "last_seen": "2026-08-03T00:42:27.820021+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "cornell tech": {
       "name": "Cornell Tech",
@@ -108,7 +160,13 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:07.981708+00:00",
-      "last_seen": "2026-08-03T04:04:07.981708+00:00"
+      "last_seen": "2026-08-03T04:04:07.981708+00:00",
+      "sector_tags": [
+        "edge AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "university of michigan": {
       "name": "University of Michigan",
@@ -118,7 +176,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:07.981708+00:00",
-      "last_seen": "2026-08-03T04:04:07.981708+00:00"
+      "last_seen": "2026-08-03T04:04:07.981708+00:00",
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "generalist": {
       "name": "Generalist",
@@ -128,7 +191,13 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "flexion": {
       "name": "Flexion",
@@ -138,7 +207,13 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "niantic spatial": {
       "name": "Niantic Spatial",
@@ -148,7 +223,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "nvidia": {
       "name": "Nvidia",
@@ -158,7 +238,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "wing": {
       "name": "Wing",
@@ -168,7 +253,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "aurora": {
       "name": "Aurora",
@@ -178,7 +268,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "air lab": {
       "name": "AIR Lab",
@@ -188,7 +283,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "limx dynamics": {
       "name": "LimX Dynamics",
@@ -198,7 +298,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "pndbotics": {
       "name": "PNDbotics",
@@ -208,7 +313,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "engineai": {
       "name": "EngineAI",
@@ -218,7 +328,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "sharpa": {
       "name": "Sharpa",
@@ -228,7 +343,12 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null
     },
     "south west london pathology": {
       "name": "South West London Pathology",
@@ -238,7 +358,10 @@
       ],
       "mentions": 1,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00"
+      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null
     }
   },
   "edges": [
@@ -331,6 +454,71 @@
           "added_at": "2026-08-03T04:04:08.213293+00:00"
         }
       ]
+    }
+  ],
+  "sector_signals": [
+    {
+      "sector": "机器人板块",
+      "description": "GEN-1跨执行器预训练和Flexion的sim-to-real零样本迁移,分别打通了具身智能两条降本路径,降低通用人形/灵巧手机器人的研发和部署门槛",
+      "article_title": "Video Friday: An Italian Humanoid Comes to Life",
+      "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 24 Jul 2026",
+      "added_at": "2026-08-03T06:11:52.795529+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Flexion的仿真训练依赖Nvidia算力和仿真平台基础设施,不管哪家具身智能公司跑出来,这一层大概率都是受益方",
+      "article_title": "Video Friday: An Italian Humanoid Comes to Life",
+      "article_url": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 24 Jul 2026",
+      "added_at": "2026-08-03T06:11:52.796171+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "康奈尔理工展示用光直接改写芯片内存,目标是降低边缘AI设备(机器人、自动驾驶等)更新模型参数的能耗,是边缘AI硬件的早期技术信号",
+      "article_title": "Optical Tech Would Update a Robot's AI on the Fly",
+      "article_url": "https://spectrum.ieee.org/ai-in-robotics",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Sun, 26 Jul 2026",
+      "added_at": "2026-08-03T06:11:52.796539+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "核心诉求是降低数据中心和边缘设备的AI推理/更新能耗,和芯片-内存搬运的能耗瓶颈直接相关",
+      "article_title": "Optical Tech Would Update a Robot's AI on the Fly",
+      "article_url": "https://spectrum.ieee.org/ai-in-robotics",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Sun, 26 Jul 2026",
+      "added_at": "2026-08-03T06:11:52.796900+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "材料自带触觉感知方案绕开指尖空间限制,如果耐久性问题解决,可降低机械手指尖传感器成本和集成复杂度,是机器人感知层的精细化进展",
+      "article_title": "Robot Finger Feels in Color",
+      "article_url": "https://spectrum.ieee.org/robot-finger",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 28 Jul 2026",
+      "added_at": "2026-08-03T06:11:52.797234+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "GMEX通过并购快速拼齐社会智能技术栈,反映服务机器人在近距离人机互动场景对语境理解能力的需求正在变成独立技术层",
+      "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+      "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Wed, 29 Jul 2026",
+      "added_at": "2026-08-03T06:11:52.797680+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "MediaMeta的行为/社会语境建模技术是AI应用层的一个细分方向,被机器人本体公司并购整合",
+      "article_title": "GMEX Robotics to acquire MediaMeta.ai for social intelligence",
+      "article_url": "https://www.therobotreport.com/gmex-robotics-to-acquire-mediameta-ai-social-intelligence/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Wed, 29 Jul 2026",
+      "added_at": "2026-08-03T06:11:52.798190+00:00"
     }
   ]
 }
