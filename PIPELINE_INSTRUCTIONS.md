@@ -76,12 +76,16 @@ ANTHROPIC_API_KEY。
    直接执行 3d(mark-seen)。
 
    把结果按下面的 schema 写成 JSON,存到一个临时文件(比如
-   `/tmp/summizer_extraction_<n>.json`):
+   `/tmp/summizer_extraction_<n>.json`)。`sector_tags` 只能从这六个里选(见
+   `src/graph_store.py` 的 `CANONICAL_SECTORS`,和 `style_reference.md` 规则 12 是同一套):
+   机器人板块、AI板块、能源板块、量子计算板块、太空经济板块、edge AI板块 —— 一个实体可以挂
+   多个,不相关的板块不要硬挂。`hot` 只在你确实知道这家公司是知名大盘股/极高知名度时填
+   `"hot"`,不确定就留空,不要瞎猜;`ticker` 同理,不确定就留 `null`。
 
    ```json
    {
      "entities": [
-       {"name": "实体名(用最常见/官方的英文名或通用简称)", "type": "company | technology | institution | product | person", "sector": "如 haptics / humanoid robotics / sensors / space economy / AI 等"}
+       {"name": "实体名(用最常见/官方的英文名或通用简称)", "type": "company | technology | institution | product | person", "sector": "如 haptics / humanoid robotics 这种细分描述", "sector_tags": ["机器人板块"], "hot": "hot 或 cold 或不填", "ticker": "TSLA 或 null"}
      ],
      "relationships": [
        {"source": "实体名", "target": "实体名", "type": "partnership | competition | investment | acquisition | supplier | customer | research_collaboration | subsidiary", "description": "一句中文说明这段关系的具体内容,源自原文"}
@@ -100,12 +104,22 @@ ANTHROPIC_API_KEY。
    这一步会把实体/关系合并进 `data/graph.json`,并把这篇文章标记为已读(不会再被
    `new-items` 返回)。
 
-   ### 3d. 如果没有可抽取的关系
+   ### 3d. 如果没有可抽取的公司关系
 
    直接标记已读,不用建图谱:
    ```bash
    python -m src.main mark-seen --url "<文章链接>" --title "<文章标题>"
    ```
+
+   ### 3e. 记录板块利好/利空信号
+
+   这一步和 3b/3c 是分开的、独立的一步,不是互斥关系——只要文章的"个人看法"投资角度段落里
+   点名了某个板块,就要执行这一步(不管前面 3b 有没有具体公司关系可抽取)。对文章里提到的
+   每一个板块,各跑一次:
+   ```bash
+   python -m src.main record-signal --sector "机器人板块" --description "一句中文说明为什么这篇文章利好/利空这个板块(呼应文章里"个人看法"段落的判断)" --item-file /tmp/summizer_item_<n>.json
+   ```
+   一篇文章可能对应零到多个板块信号,原样照抄文章里已经写好的板块判断即可,不用重新想。
 
 4. 所有新文章处理完之后,重新生成图谱可视化:
    ```bash
