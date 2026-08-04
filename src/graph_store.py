@@ -152,7 +152,14 @@ def merge(extraction: dict, article: dict) -> dict:
         if tgt_key not in graph["nodes"]:
             tgt_key = _upsert_node(graph, tgt_name, "company", "", now)
 
-        rel_evidence = dict(evidence, description=rel.get("description", ""))
+        rel_evidence = dict(
+            evidence,
+            description=rel.get("description", ""),
+            article_title=rel.get("source_title") or evidence["article_title"],
+            article_url=rel.get("source_url") or evidence["article_url"],
+            source_name=rel.get("source_name") or evidence["source_name"],
+            published=rel.get("published") or evidence["published"],
+        )
 
         edge = _find_edge(graph, src_key, tgt_key, edge_type)
         if edge is None:
