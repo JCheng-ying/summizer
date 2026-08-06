@@ -236,14 +236,15 @@
       "sectors": [
         "AI compute GPU"
       ],
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00",
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "量子计算板块"
       ],
-      "hot": null,
-      "ticker": null
+      "hot": "hot",
+      "ticker": "NVDA"
     },
     "wing": {
       "name": "Wing",
@@ -362,6 +363,904 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null
+    },
+    "microsoft": {
+      "name": "Microsoft Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块",
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "MSFT",
+      "mentions": 2,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "openai": {
+      "name": "OpenAI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "alphabet google": {
+      "name": "Alphabet Inc. (Google)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "GOOGL",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "amazoncom": {
+      "name": "Amazon.com Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "AMZN",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "meta platforms": {
+      "name": "Meta Platforms Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "META",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "anthropic": {
+      "name": "Anthropic",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "advanced micro devices amd": {
+      "name": "Advanced Micro Devices (AMD)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "AMD",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "broadcom": {
+      "name": "Broadcom Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "AVGO",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "oracle": {
+      "name": "Oracle Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "ORCL",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "palantir": {
+      "name": "Palantir Technologies",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "PLTR",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "taiwan semiconductor manufacturing tsmc": {
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "TSM",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "coreweave": {
+      "name": "CoreWeave",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "CRWV",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "soundhound ai": {
+      "name": "SoundHound AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "SOUN",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "c3ai": {
+      "name": "C3.ai",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "AI",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "cerebras systems": {
+      "name": "Cerebras Systems",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "CBRS",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "sambanova systems": {
+      "name": "SambaNova Systems",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "groq": {
+      "name": "Groq",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "together ai": {
+      "name": "Together AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "mistral ai": {
+      "name": "Mistral AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "cohere": {
+      "name": "Cohere",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "scale ai": {
+      "name": "Scale AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "nebius": {
+      "name": "Nebius Group",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "NBIS",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "langchain": {
+      "name": "LangChain",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+    },
+    "spacex": {
+      "name": "SpaceX",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "blue origin": {
+      "name": "Blue Origin",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "rocket lab": {
+      "name": "Rocket Lab",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "RKLB",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "boeing": {
+      "name": "Boeing",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "BA",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "lockheed martin": {
+      "name": "Lockheed Martin",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "LMT",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "northrop grumman": {
+      "name": "Northrop Grumman",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "NOC",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "l3harris": {
+      "name": "L3Harris Technologies",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "LHX",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "united launch alliance ula": {
+      "name": "United Launch Alliance (ULA)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "ast spacemobile": {
+      "name": "AST SpaceMobile",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "ASTS",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "iridium communications": {
+      "name": "Iridium Communications",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "IRDM",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "intuitive machines": {
+      "name": "Intuitive Machines",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "LUNR",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "viasat": {
+      "name": "Viasat",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": "VSAT",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "redwire space": {
+      "name": "Redwire Space",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "RDW",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "spire global": {
+      "name": "Spire Global",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "SPIR",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "blacksky": {
+      "name": "BlackSky Technology",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "BKSY",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "planet labs pbc": {
+      "name": "Planet Labs PBC",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "PL",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "firefly aerospace": {
+      "name": "Firefly Aerospace",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "FLY",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "voyager": {
+      "name": "Voyager Technologies",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "VOYG",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "karman space defense": {
+      "name": "Karman Space & Defense",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "KRMN",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "terran orbital": {
+      "name": "Terran Orbital",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "iceye": {
+      "name": "ICEYE",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "axiom space": {
+      "name": "Axiom Space",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "astroscale": {
+      "name": "Astroscale Holdings",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "186A.T",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "ispace": {
+      "name": "ispace, inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "9348.T",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:44:48.296846+00:00",
+      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+    },
+    "ionq": {
+      "name": "IonQ",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "IONQ",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "rigetti computing": {
+      "name": "Rigetti Computing",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "RGTI",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "dwave quantum": {
+      "name": "D-Wave Quantum",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "QBTS",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "ibm": {
+      "name": "IBM",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "IBM",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "google google quantum ai": {
+      "name": "Google (Google Quantum AI)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "GOOGL",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "amazon aws": {
+      "name": "Amazon (AWS)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "AMZN",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "honeywell": {
+      "name": "Honeywell",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "HON",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "quantinuum": {
+      "name": "Quantinuum",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "QNT",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "psiquantum": {
+      "name": "PsiQuantum",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "intel": {
+      "name": "Intel",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "INTC",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "arqit quantum": {
+      "name": "Arqit Quantum",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": "ARQQ",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "iqm quantum computers": {
+      "name": "IQM Quantum Computers",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": "IQMX",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "pasqal": {
+      "name": "Pasqal",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "xanadu quantum": {
+      "name": "Xanadu Quantum Technologies",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": "XNDU",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "bluefors": {
+      "name": "Bluefors",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "oxford instruments": {
+      "name": "Oxford Instruments",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": "OXIG",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "quantum machines": {
+      "name": "Quantum Machines",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "seeqc": {
+      "name": "SEEQC",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "atom computing": {
+      "name": "Atom Computing",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "oxford quantum circuits oqc": {
+      "name": "Oxford Quantum Circuits (OQC)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "quera computing": {
+      "name": "QuEra Computing",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "quantum circuits": {
+      "name": "Quantum Circuits, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:45:56.401807+00:00"
     }
   },
   "edges": [
@@ -452,6 +1351,1461 @@
           "source_name": "IEEE Spectrum - Robotics",
           "published": "2026-07-24",
           "added_at": "2026-08-03T04:04:08.213293+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "openai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "OpenAI重组为营利性公益公司后,微软获得其新实体约27%股权(价值约1350亿美元),同时OpenAI承诺追加采购2500亿美元Azure云服务。",
+          "article_title": "The next chapter of the Microsoft–OpenAI partnership",
+          "article_url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+          "source_name": "Microsoft Official Blog",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "openai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英伟达计划分阶段投资OpenAI最多1000亿美元,支持其建设10GW数据中心,并作为OpenAI芯片与网络设备的\"优先供应商\"。",
+          "article_title": "Nvidia plans to invest up to $100 billion in OpenAI as part of data center buildout",
+          "article_url": "https://www.cnbc.com/2025/09/22/nvidia-openai-data-center.html",
+          "source_name": "CNBC",
+          "published": "2025-09-22",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices amd",
+      "target": "openai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "AMD与OpenAI签署芯片供应协议,将部署6GW AMD Instinct(MI450系列起)GPU算力,并向OpenAI发行认股权证,若全部行权OpenAI可获得约10%的AMD股权。",
+          "article_title": "OpenAI looks to take 10% stake in AMD through AI chip deal",
+          "article_url": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
+          "source_name": "CNBC",
+          "published": "2025-10-06",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "broadcom",
+      "target": "openai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "OpenAI与博通合作设计、生产其首款定制AI处理器,协议价值约100亿美元,计划部署10GW定制芯片算力,2026下半年投产,2029年底前完成全部部署。",
+          "article_title": "Broadcom stock pops 9% on OpenAI custom chip deal, adding to Nvidia and AMD agreements",
+          "article_url": "https://www.cnbc.com/2025/10/13/openai-partners-with-broadcom-custom-ai-chips-alongside-nvidia-amd.html",
+          "source_name": "CNBC",
+          "published": "2025-10-13",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oracle",
+      "target": "openai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "OpenAI与甲骨文签署约3000亿美元、为期约5年的云计算基础设施采购协议,作为Stargate项目一部分,双方将建设约4.5GW数据中心算力。",
+          "article_title": "OpenAI and Oracle strike $300B cloud computing deal to power AI",
+          "article_url": "https://siliconangle.com/2025/09/10/openai-oracle-strike-300b-cloud-computing-deal-power-ai/",
+          "source_name": "SiliconANGLE",
+          "published": "2025-09-10",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "openai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "AWS与OpenAI签署为期七年、价值380亿美元的战略合作协议,为OpenAI提供包括英伟达GB200/GB300 GPU集群在内的大规模云计算基础设施。",
+          "article_title": "AWS and OpenAI announce multi-year strategic partnership",
+          "article_url": "https://openai.com/index/aws-and-openai-partnership/",
+          "source_name": "OpenAI",
+          "published": "2025-11-03",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coreweave",
+      "target": "openai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "CoreWeave多次扩大与OpenAI的算力采购协议(初始最高119亿美元,后续再增4亿及6.5亿美元等),累计合同总额约224亿美元,为OpenAI提供英伟达GPU云算力。",
+          "article_title": "CoreWeave inks $6.5 billion deal with OpenAI",
+          "article_url": "https://www.cnbc.com/2025/09/25/coreweave-openai-6point5-billion-deal.html",
+          "source_name": "CNBC",
+          "published": "2025-09-25",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "coreweave",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "微软是CoreWeave最大客户,占其2025财年营收约67%(2024财年约62%),CoreWeave出租搭载英伟达GPU的数据中心算力给微软等大厂。",
+          "article_title": "CoreWeave surges after top customer Microsoft reaffirms spending plans",
+          "article_url": "https://www.cnbc.com/2025/05/01/coreweave-stock-surges-after-microsoft-sticks-to-spending-plans.html",
+          "source_name": "CNBC",
+          "published": "2025-05-01",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "coreweave",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英伟达投资约20亿美元购得CoreWeave约9%股权,同时将双方主服务协议扩大63亿美元,承诺回购CoreWeave未售出的云算力至2032年,CoreWeave则承诺采用英伟达CPU/存储平台及未来Rubin GPU。",
+          "article_title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
+          "article_url": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
+          "source_name": "TechCrunch",
+          "published": "2026-01-26",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "亚马逊在此前累计约80亿美元投资基础上,同意再投资最多250亿美元(其中50亿美元即时到位,最多200亿美元与商业里程碑挂钩)。",
+          "article_title": "Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal",
+          "article_url": "https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html",
+          "source_name": "CNBC",
+          "published": "2026-04-20",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "anthropic",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "AWS与Anthropic合作打造Project Rainier超算集群,部署近50万颗Trainium2芯片用于训练和部署Claude模型;作为扩展合作的一部分,Anthropic承诺未来十年向AWS采购超1000亿美元云服务,并获得最多5GW Trainium芯片算力。",
+          "article_title": "AWS activates Project Rainier: One of the world's largest AI compute clusters comes online",
+          "article_url": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster",
+          "source_name": "About Amazon (AWS)",
+          "published": "2025-11",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet google",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "谷歌承诺向Anthropic投资最多400亿美元(初始约100亿美元,估值380亿美元基础上,其余300亿美元与业绩里程碑挂钩),并通过云合作向其提供最多100万块TPU算力。",
+          "article_title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
+          "article_url": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
+          "source_name": "CNBC",
+          "published": "2026-04-24",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "微软承诺投资Anthropic最多50亿美元,与英伟达合计最多150亿美元投资一并宣布;Anthropic同时承诺向Azure采购300亿美元云计算能力,Anthropic估值升至约3500亿美元。",
+          "article_title": "Anthropic valued in range of $350 billion following investment deal with Microsoft, Nvidia",
+          "article_url": "https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html",
+          "source_name": "CNBC",
+          "published": "2025-11-18",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英伟达承诺投资Anthropic最多100亿美元,与微软最多50亿美元投资一同宣布,三方并就芯片供应等展开合作。",
+          "article_title": "Anthropic lands $15 billion investment from Microsoft, Nvidia",
+          "article_url": "https://www.axios.com/2025/11/18/anthropic-microsoft-nvidia-15-billion",
+          "source_name": "Axios",
+          "published": "2025-11-18",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "broadcom",
+      "target": "alphabet google",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "博通与谷歌达成长期协议,负责基于谷歌规格设计TPU定制AI芯片(由代工厂制造),供应保障延续至2031年,为市场提供英伟达GPU之外的替代方案。",
+          "article_title": "Broadcom locks in long-term Google TPU deal through 2031",
+          "article_url": "https://capacityglobal.com/news/broadcom-locks-in-long-term-google-tpu-deal/",
+          "source_name": "Capacity",
+          "published": "2025-10",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "broadcom",
+      "target": "anthropic",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "博通、谷歌与Anthropic三方扩大合作,Anthropic将于2027年起通过博通获得约3.5GW新一代TPU计算能力。",
+          "article_title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+          "article_url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+          "source_name": "Anthropic",
+          "published": "2026-04",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meta platforms",
+      "target": "scale ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Meta以143亿美元投资Scale AI,获得49%无投票权股权(Scale AI估值达290亿美元),并招募其CEO Alexandr Wang加入Meta超级智能团队。",
+          "article_title": "Scale AI's Alexandr Wang confirms departure for Meta as part of $14.3 billion deal",
+          "article_url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html",
+          "source_name": "CNBC",
+          "published": "2025-06-12",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "mistral ai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "微软与Mistral扩大战略合作,数十亿美元投资其欧洲(英伟达GPU驱动)数据中心基础设施,并将Mistral最新模型(Medium 3.5)整合进Microsoft Foundry和Copilot Studio,通过Azure Local提供云端/连接/气隙三种部署模式。",
+          "article_title": "Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control",
+          "article_url": "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/",
+          "source_name": "Microsoft Official Blog (Source)",
+          "published": "2026-07-21",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "mistral ai",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "英伟达与Mistral AI作为Nemotron Coalition创始成员合作开发开源前沿模型,结合Mistral的模型架构与英伟达的算力、开发工具及合成数据能力;英伟达GPU同时为Mistral在法国的新数据中心(Mistral Compute)提供算力支持。",
+          "article_title": "Mistral AI partners with NVIDIA to accelerate open frontier models",
+          "article_url": "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/",
+          "source_name": "Mistral AI",
+          "published": "2026-03-16",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "nebius",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "微软与Nebius签署五年期协议,价值至少174亿美元(若行使额外选项最高194亿美元),购买其位于新泽西Vineland数据中心的AI算力。",
+          "article_title": "Nebius stock soars nearly 50% on Microsoft AI deal",
+          "article_url": "https://www.cnbc.com/2025/09/09/nebius-nbis-soars-after-ai-infrastructure-deal-with-microsoft-msft.html",
+          "source_name": "CNBC",
+          "published": "2025-09-09",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "nebius",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英伟达向Nebius投资约20亿美元并披露持股,同时持续供应包括100,000余颗GB300芯片在内的最新一代GPU,支持其扩展AI云算力。",
+          "article_title": "Nebius stock surges nearly 19% as Nvidia discloses significant stake in neocloud",
+          "article_url": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
+          "source_name": "CNBC",
+          "published": "2026-07-21",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "taiwan semiconductor manufacturing tsmc",
+      "target": "nvidia",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "台积电是英伟达AI芯片(5nm/4nm等先进制程)的主要代工厂;英伟达因AI芯片订单激增,已超越苹果成为台积电最大客户。",
+          "article_title": "Nvidia set to supplant Apple as TSMC's top customer, signaling chip industry's 'changing dynamic'",
+          "article_url": "https://www.cnbc.com/2026/01/26/nvidia-set-to-supplant-apple-as-tsmcs-largest-customer.html",
+          "source_name": "CNBC",
+          "published": "2026-01-26",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "taiwan semiconductor manufacturing tsmc",
+      "target": "advanced micro devices amd",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "台积电是AMD最主要的晶圆代工合作伙伴,采用3纳米等先进制程为其生产CPU/GPU产品,AMD是台积电前三大客户之一。",
+          "article_title": "TSMC empowers semiconductor fabrication expansion with AMD",
+          "article_url": "https://www.amd.com/en/resources/case-studies/tsmc.html",
+          "source_name": "AMD",
+          "published": "2024",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "palantir",
+      "target": "microsoft",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Palantir与微软合作,将Foundry、Gotham、Apollo、AIP等平台部署于Azure Government及机密云(DoD Impact Level 6/Top Secret)环境,并整合Azure OpenAI服务用于国防和情报领域,Palantir是首个在机密环境部署Azure OpenAI服务的行业伙伴。",
+          "article_title": "Palantir and Microsoft Partner to Deliver Enhanced Analytics and AI Services to Classified Networks for Critical National Security Operations",
+          "article_url": "https://news.microsoft.com/source/2024/08/08/palantir-and-microsoft-partner-to-deliver-enhanced-analytics-and-ai-services-to-classified-networks-for-critical-national-security-operations/",
+          "source_name": "Microsoft Official Blog (Source)",
+          "published": "2024-08-08",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "c3ai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "微软与C3.ai持续扩大战略联盟,微软成为C3.ai产品的首选云平台,双方在Microsoft Copilot、Fabric、Azure AI Foundry等领域深化整合,共同服务Shell、Dow等企业客户。",
+          "article_title": "C3.ai Expands Microsoft Cloud Integrations to Boost Enterprise AI",
+          "article_url": "https://finance.yahoo.com/news/c3-ai-expands-microsoft-165100912.html",
+          "source_name": "Yahoo Finance",
+          "published": "2025-11",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "cohere",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英伟达参与Cohere 5亿美元D轮融资(公司估值升至68亿美元),延续其自2023年C轮以来对Cohere的持续投资。",
+          "article_title": "Nvidia backs $500M funding round for Cohere at $6.8B valuation",
+          "article_url": "https://siliconangle.com/2025/08/14/nvidia-backs-500m-funding-round-cohere-6-8b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "2025-08-14",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices amd",
+      "target": "cohere",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "AMD Ventures参与Cohere 5亿美元D轮融资(估值68亿美元)。",
+          "article_title": "Canadian AI startup Cohere valued at $6.8bn in $500m round with AMD and Nvidia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/canadian-ai-startup-cohere-valued-at-68bn-in-500m-round-with-amd-and-nvidia/",
+          "source_name": "DataCenterDynamics",
+          "published": "2025-08-14",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "cohere",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Cohere的Command、Embed(含多模态Embed 4)、Rerank等模型通过Amazon Bedrock以全托管形式向企业客户提供服务。",
+          "article_title": "Cohere - Models in Amazon Bedrock",
+          "article_url": "https://aws.amazon.com/bedrock/cohere/",
+          "source_name": "AWS",
+          "published": "2025-10",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meta platforms",
+      "target": "groq",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Meta与Groq合作,由Groq LPU芯片为官方Llama API提供加速推理服务,早期基准显示Llama 4模型吞吐量最高达每秒625个token。",
+          "article_title": "Meta and Groq Collaborate to Deliver Fast Inference for the Official Llama API",
+          "article_url": "https://groq.com/newsroom/meta-and-groq-collaborate-to-deliver-fast-inference-for-the-official-llama-api",
+          "source_name": "Groq Newsroom",
+          "published": "2025-04-29",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "groq",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "英伟达以约200亿美元现金收购Groq的芯片资产及推理技术(非独家许可协议),Groq创始人兼CEO Jonathan Ross、总裁Sunny Madra及核心团队加入英伟达;Groq云业务不在收购范围内,将作为独立公司由新任CEO Simon Edwards继续运营,为英伟达迄今最大规模收购。",
+          "article_title": "Nvidia buying AI chip startup Groq's assets for about $20 billion in its largest deal on record",
+          "article_url": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
+          "source_name": "CNBC",
+          "published": "2025-12-24",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "langchain",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "LangChain与英伟达合作打造企业级Agentic AI平台,将LangSmith观测平台及LangGraph等开源框架与英伟达Nemotron模型、NeMo Agent Toolkit、NIM微服务等结合,LangChain同时加入英伟达Nemotron Coalition开放模型联盟。",
+          "article_title": "LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA",
+          "article_url": "https://www.langchain.com/blog/nvidia-enterprise",
+          "source_name": "LangChain Blog",
+          "published": "2026-03-16",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "together ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英伟达参投Together AI 8亿美元C轮融资(投后估值达83亿美元),此前双方已合作部署由英伟达Blackwell GPU驱动的算力集群。",
+          "article_title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+          "article_url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+          "source_name": "TechCrunch",
+          "published": "2026-07-01",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "soundhound ai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SoundHound与英伟达合作,采用NVIDIA AI Enterprise(NIM微服务、NeMo Retriever、NeMo微调)提升车载及语音AI的推理速度与RAG检索能力,Lucid Motors是该整合技术的首个应用客户。",
+          "article_title": "SoundHound AI Delivers Faster, Smarter Voice Assistants At Scale with NVIDIA AI Enterprise",
+          "article_url": "https://www.soundhound.com/newsroom/press-releases/soundhound-ai-delivers-faster-smarter-voice-assistants-at-scale-with-nvidia-ai-enterprise/",
+          "source_name": "SoundHound AI",
+          "published": "2025-03-19",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "cerebras systems",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AWS与Cerebras达成多年合作,将Cerebras CS-3晶圆级芯片与AWS Trainium芯片结合(Trainium负责prefill、CS-3负责decode),通过Amazon Bedrock提供比现有方案快一个数量级的AI推理性能。",
+          "article_title": "AWS and Cerebras Collaboration Aims to Set a New Standard for AI Inference Speed and Performance in the Cloud",
+          "article_url": "https://press.aboutamazon.com/aws/2026/3/aws-and-cerebras-collaboration-aims-to-set-a-new-standard-for-ai-inference-speed-and-performance-in-the-cloud",
+          "source_name": "Amazon Press Center",
+          "published": "2026-03-13",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cerebras systems",
+      "target": "mistral ai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Cerebras为Mistral旗下Le Chat应用提供晶圆级芯片算力支持,协助其实现每秒约1000个单词的生成速度纪录,超过DeepSeek等同类产品。",
+          "article_title": "AI chip firm Cerebras partners with France's Mistral, claims speed record",
+          "article_url": "https://www.investing.com/news/stock-market-news/ai-chip-firm-cerebras-partners-with-frances-mistral-claims-speed-record-3855415",
+          "source_name": "Reuters (via Investing.com)",
+          "published": "2025-02",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "advanced micro devices amd",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "英伟达与AMD在数据中心AI加速芯片市场激烈竞争;截至2025年三季度英伟达市场份额约85%,AMD约7%,双方在硬件之外的软件生态(CUDA vs ROCm)竞争也日趋激烈。",
+          "article_title": "Nvidia's 85% GPU Market Share Faces Growing Competition: Is This AI Stock Still a Buy for 2026?",
+          "article_url": "https://www.fool.com/investing/2026/01/25/nvidias-85-gpu-market-share-faces-growing-competit/",
+          "source_name": "The Motley Fool",
+          "published": "2026-01-25",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "anthropic",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "OpenAI与Anthropic在企业级大模型市场激烈竞争,双方曾在一小时内先后发布新旗舰模型;OpenAI在分发渠道、消费者触达方面占优,Anthropic则在安全敏感部署及长上下文推理、Claude Code开发者采用方面领先。",
+          "article_title": "OpenAI and Anthropic Roll Out Rival AI Models as Competition for Enterprise Heats Up",
+          "article_url": "https://decrypt.co/357142/openai-anthropic-rival-ai-models-competition-enterprise-heats-up",
+          "source_name": "Decrypt",
+          "published": "2026-02-06",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sambanova systems",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "SambaNova推出第五代芯片SN50,定位为英伟达Blackwell B200在大规模AI推理场景的直接替代方案,称其算力较上代SN40提升5倍、网络带宽提升4倍。",
+          "article_title": "SambaNova steps up its challenge to Nvidia with new chip, $350M funding and a powerful ally in Intel",
+          "article_url": "https://siliconangle.com/2026/02/24/sambanova-steps-challenge-nvidia-new-chip-350m-funding-powerful-ally-intel/",
+          "source_name": "SiliconANGLE",
+          "published": "2026-02-24",
+          "added_at": "2026-08-06T04:43:25.270278+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "ast spacemobile",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SpaceX用猎鹰9号为AST SpaceMobile发射直连手机BlueBird卫星,2026年6月发射3颗二代Block 2 BlueBird卫星",
+          "article_title": "Direct-to-Device Momentum: AST SpaceMobile Successfully Launches Giant Next-Gen BlueBird Satellites Atop SpaceX Falcon 9",
+          "article_url": "https://satnews.com/2026/06/17/direct-to-device-momentum-ast-spacemobile-successfully-launches-giant-next-gen-bluebird-satellites-atop-spacex-falcon-9/",
+          "source_name": "SatNews",
+          "published": "2026-06-17",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rocket lab",
+      "target": "spacex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Rocket Lab的Neutron中型火箭定位为猎鹰9号的直接替代品,双方在可回收中型运力发射市场竞争;截至2026年年中Neutron仍在研发并出现延误",
+          "article_title": "Rocket Lab sees Electron gains, Neutron delays in first half of 2026",
+          "article_url": "https://www.nasaspaceflight.com/2026/07/rocket-lab-update-072026/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "2026-07",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "boeing",
+      "target": "lockheed martin",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "波音与洛克希德·马丁各持股50%成立合资企业联合发射联盟(ULA),共同运营Vulcan Centaur等火箭发射业务",
+          "article_title": "To rival SpaceX's Starship, Boeing and Lockheed Martin's joint venture eyes Vulcan rocket upgrade",
+          "article_url": "https://www.cnbc.com/2024/12/14/boeing-and-lockheed-martins-joint-venture-eyes-vulcan-rocket-upgrade.html",
+          "source_name": "CNBC",
+          "published": "2024-12-14",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "united launch alliance ula",
+      "target": "spacex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "ULA的Vulcan Centaur火箭与SpaceX猎鹰系列/Starship在军方及商业发射市场直接竞争",
+          "article_title": "To rival SpaceX's Starship, Boeing and Lockheed Martin's joint venture eyes Vulcan rocket upgrade",
+          "article_url": "https://www.cnbc.com/2024/12/14/boeing-and-lockheed-martins-joint-venture-eyes-vulcan-rocket-upgrade.html",
+          "source_name": "CNBC",
+          "published": "2024-12-14",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blue origin",
+      "target": "united launch alliance ula",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Blue Origin的BE-4发动机为ULA的Vulcan Centaur火箭提供助推级动力,已完成首飞发动机交付",
+          "article_title": "Blue Origin Completes the Delivery of Flight Engines to ULA for Vulcan's Initial Launch",
+          "article_url": "https://www.blueorigin.com/news/blue-origin-completes-the-delivery-of-flight-engines-to-ula-for-vulcan-initial-launch",
+          "source_name": "Blue Origin",
+          "published": "2023",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "northrop grumman",
+      "target": "united launch alliance ula",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Northrop Grumman为ULA Vulcan火箭提供GEM 63XL固体火箭助推器,提供全箭起飞推力近三分之二",
+          "article_title": "Northrop Grumman's GEM 63XL Solid Rocket Boosters Help Power First Certified Flight of ULA's Vulcan Rocket",
+          "article_url": "https://news.northropgrumman.com/launch/northrop-grummans-gem-63xl-solid-rocket-boosters-help-power-first-certified-flight-of-ulas-vulcan-rocket",
+          "source_name": "Northrop Grumman",
+          "published": "2025-08",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "karman space defense",
+      "target": "united launch alliance ula",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Karman Space & Defense为ULA Vulcan火箭首次认证任务(Cert-1)提供GEM 63XL助推器相关硬件及多项动态与火工系统组件",
+          "article_title": "Karman Space & Defense, A Key Supplier in ULA's Vulcan Rocket Certification Mission (Cert-1)",
+          "article_url": "https://www.prnewswire.com/news-releases/karman-space--defense-a-key-supplier-in-ulas-vulcan-rocket-certification-mission-cert-1-302081843.html",
+          "source_name": "PR Newswire",
+          "published": "2024-03-06",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "l3harris",
+      "target": "united launch alliance ula",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "L3Harris为ULA的Vulcan第二次发射任务提供关键系统支持",
+          "article_title": "L3Harris Supports United Launch Alliance's Second Vulcan Launch",
+          "article_url": "https://www.l3harris.com/newsroom/press-release/2024/10/l3harris-supports-united-launch-alliances-second-vulcan-launch",
+          "source_name": "L3Harris",
+          "published": "2024-10",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "boeing",
+      "target": "blue origin",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "波音与Blue Origin、Sierra Space共同开发Orbital Reef商业空间站,波音负责科学舱段、站务运营并提供Starliner载人飞船",
+          "article_title": "Orbital Reef Space Station Advances to Design Phase After NASA Review",
+          "article_url": "https://www.blueorigin.com/news/sdr-milestone",
+          "source_name": "Blue Origin",
+          "published": "2025-06",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "boeing",
+      "target": "spacex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "波音Starliner与SpaceX Crew Dragon同为NASA商业乘员计划的两家竞争供应商,承担国际空间站载人运输任务",
+          "article_title": "Starliner Vs Dragon: A Comparative Review of NASA's Next-Gen Crew Capsules",
+          "article_url": "https://orbitaltoday.com/2025/07/05/boeing-starliner-vs-spacex-dragon-comparison/",
+          "source_name": "Orbital Today",
+          "published": "2025-07-05",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "lockheed martin",
+      "target": "terran orbital",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "洛克希德·马丁于2024年10月30日完成对小卫星制造商Terran Orbital(及子公司Tyvak International)的收购,约4.5亿美元,现作为洛马子公司运营",
+          "article_title": "Lockheed Martin Advances Space Capabilities through Strategic Terran Orbital Acquisition",
+          "article_url": "https://news.lockheedmartin.com/2024-10-30-Lockheed-Martin-Advances-Space-Capabilities-through-Strategic-Terran-Orbital-Acquisition",
+          "source_name": "Lockheed Martin",
+          "published": "2024-10-30",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "terran orbital",
+      "target": "lockheed martin",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Terran Orbital自2024年10月30日起作为洛克希德·马丁的全资子公司运营,品牌为\"Terran Orbital, a Lockheed Martin Company\"",
+          "article_title": "Lockheed Martin completes acquisition of smallsat manufacturer Terran Orbital",
+          "article_url": "https://spacenews.com/lockheed-martin-completes-acquisition-of-smallsat-manufacturer-terran-orbital/",
+          "source_name": "SpaceNews",
+          "published": "2024-10-30",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "northrop grumman",
+      "target": "firefly aerospace",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Northrop Grumman向Firefly Aerospace投资5000万美元,共同开发Eclipse中型运载火箭及Antares 330火箭第一级(采用Firefly的Miranda发动机)",
+          "article_title": "Northrop Grumman Invests $50 Million in Firefly Aerospace to Advance Eclipse Medium Launch Vehicle",
+          "article_url": "https://news.northropgrumman.com/launch/Northrop-Grumman-Invests-50-Million-in-Firefly-Aerospace-to-Advance-Eclipse-Medium-Launch-Vehicle",
+          "source_name": "Northrop Grumman",
+          "published": "2025-05-29",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "voyager",
+      "target": "northrop grumman",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Voyager(原Voyager Space)与Northrop Grumman就Starlab商业空间站达成合作协议,Northrop Grumman提供技术支持并开发可与Starlab对接的Cygnus货运飞船衍生型",
+          "article_title": "Voyager Space Announces Teaming Agreement with Northrop Grumman for the Starlab Space Station",
+          "article_url": "https://www.prnewswire.com/news-releases/voyager-space-announces-teaming-agreement-with-northrop-grumman-for-the-starlab-space-station-301947600.html",
+          "source_name": "PR Newswire",
+          "published": "2023-10",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "redwire space",
+      "target": "blue origin",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Redwire获选为Blue Origin\"Blue Ring\"太空机动平台的战略供应商,提供4套Roll-Out展开式太阳能阵列(ROSA)、Argus相机系统及低压配电单元",
+          "article_title": "Redwire Selected as Strategic Supplier for Blue Origin's Trailblazing Blue Ring Space Mobility Platform",
+          "article_url": "https://www.businesswire.com/news/home/20240122344372/en/Redwire-Selected-as-Strategic-Supplier-for-Blue-Origins-Trailblazing-Blue-Ring-Space-Mobility-Platform",
+          "source_name": "Business Wire",
+          "published": "2024-01-22",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "intuitive machines",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SpaceX猎鹰9号为Intuitive Machines执行NASA商业月球有效载荷服务(CLPS)任务发射,IM-2于2025年2月26日发射,IM-3计划2026年下半年发射",
+          "article_title": "NASA, Intuitive Machines, SpaceX Targeting IM-2 Launch Tonight",
+          "article_url": "https://www.nasa.gov/blogs/clps/2025/02/26/nasa-intuitive-machines-spacex-targeting-im-2-launch-tonight/",
+          "source_name": "NASA",
+          "published": "2025-02-26",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "firefly aerospace",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SpaceX猎鹰9号于2025年1月15日搭载发射Firefly Aerospace的Blue Ghost 1号月球着陆器",
+          "article_title": "Two privately-built moon landers share a ride to space atop a Falcon 9 SpaceX rocket",
+          "article_url": "https://www.cbsnews.com/news/moon-landers-2-privately-built-falcon-9-rocket/",
+          "source_name": "CBS News",
+          "published": "2025-01-15",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "ispace",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SpaceX猎鹰9号搭载发射日本ispace公司的Hakuto-R月球着陆器(M1于2022年12月、M2\"Resilience\"于2025年1月15日)",
+          "article_title": "SpaceX launches Falcon 9 carrying private Japanese moon lander",
+          "article_url": "https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "2022-12",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "axiom space",
+      "target": "spacex",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Axiom Space向SpaceX购买多次Crew Dragon飞船发射服务,执行Ax-1至Ax-4等私人宇航员赴国际空间站任务",
+          "article_title": "Axiom Space purchases three Crew Dragon missions",
+          "article_url": "https://spacenews.com/axiom-space-purchases-three-crew-dragon-missions/",
+          "source_name": "SpaceNews",
+          "published": "2022",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "iridium communications",
+      "target": "spacex",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Iridium与SpaceX签订约4.92亿美元发射合同,分8次猎鹰9号发射完成75颗Iridium NEXT卫星部署(2017-2019),是SpaceX当时最大商业客户;2022年双方再签约发射备用卫星",
+          "article_title": "Iridium Announces Ninth SpaceX Launch",
+          "article_url": "https://investor.iridium.com/2022-09-08-Iridium-Announces-Ninth-SpaceX-Launch",
+          "source_name": "Iridium Communications",
+          "published": "2022-09-08",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rocket lab",
+      "target": "blacksky",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Rocket Lab为BlackSky提供多次Electron专属发射服务,最新为2026年2月签订的4次专属发射合同,双方自2019年以来累计完成17次Electron发射",
+          "article_title": "Rocket Lab Secures Latest Multi-Launch Contract with BlackSky for 4x Dedicated Electron Missions",
+          "article_url": "https://rocketlabcorp.com/updates/rocket-lab-secures-latest-multi-launch-contract-with-blacksky-for-4x-dedicated-electron-missions/",
+          "source_name": "Rocket Lab",
+          "published": "2026-02",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rocket lab",
+      "target": "astroscale",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Rocket Lab签约为Astroscale Japan发射ADRAS-J主动碎片清除演示卫星,该任务由日本JAXA的CRD2项目遴选",
+          "article_title": "Rocket Lab Wins Contract to Launch Orbital Debris Removal Demonstration Mission for Astroscale",
+          "article_url": "https://rocketlabcorp.com/updates/rocket-lab-wins-contract-to-launch-orbital-debris-removal-demonstration-mission-for-astroscale/",
+          "source_name": "Rocket Lab",
+          "published": "2021-09-21",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rocket lab",
+      "target": "spire global",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Rocket Lab为Spire Global及NorthStar执行太空态势感知(SSA)卫星专属发射任务,双方自2018年Electron早期商业任务起即有合作",
+          "article_title": "Rocket Lab to Launch Space Object Monitoring Mission For Spire Global & NorthStar",
+          "article_url": "https://spacenews.com/rocket-lab-to-launch-space-object-monitoring-mission-for-spire-global-northstar/",
+          "source_name": "SpaceNews",
+          "published": "2023",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "iceye",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "ICEYE的SAR卫星持续通过SpaceX Transporter拼车发射任务入轨,如2026年3月Transporter-16发射6颗、7月Transporter-17发射4颗",
+          "article_title": "Advancing sovereign intelligence from space: ICEYE launches six new satellites aboard Transporter-16",
+          "article_url": "https://www.iceye.com/newsroom/press-releases/advancing-sovereign-intelligence-from-space-iceye-launches-six-new-satellites-aboard-transporter-16",
+          "source_name": "ICEYE",
+          "published": "2026-03-30",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "spire global",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Spire Global通过SpaceX Transporter-17拼车任务发射10颗卫星,其中7颗为Spire Space Services客户卫星",
+          "article_title": "Spire Global launches 10 satellites on SpaceX mission",
+          "article_url": "https://www.investing.com/news/company-news/spire-global-launches-10-satellites-on-spacex-mission-93CH-4781220",
+          "source_name": "Investing.com",
+          "published": "2026",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "planet labs pbc",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Planet Labs与SpaceX签订多年多次拼车发射协议;2025年1月Transporter-12任务搭载Planet的Pelican-2卫星及36颗SuperDove卫星",
+          "article_title": "SpaceX Launches 131 Payloads to LEO in its 12th Rideshare Mission",
+          "article_url": "https://www.satellitetoday.com/launch/2025/01/14/spacex-launches-131-payloads-to-leo-in-its-12th-rideshare-mission/",
+          "source_name": "Via Satellite",
+          "published": "2025-01-14",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ast spacemobile",
+      "target": "iridium communications",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "AST SpaceMobile与Iridium同为卫星直连手机赛道的竞争对手,前者主打直连普通手机的颠覆性技术,后者依靠成熟的66颗卫星网络",
+          "article_title": "AST SpaceMobile vs. Iridium: Disruptive Tech vs. Relentless Stability in the Satellite Race",
+          "article_url": "https://www.ainvest.com/news/ast-spacemobile-iridium-disruptive-tech-relentless-stability-satellite-race-2506/",
+          "source_name": "AInvest",
+          "published": "2025-06",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ast spacemobile",
+      "target": "spacex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "AST SpaceMobile被视为SpaceX Starlink卫星直连手机业务在美股市场唯一的公开对标竞争对手",
+          "article_title": "The SpaceX IPO Put a Spotlight on Starlink -- and on the One Public Company Building a Rival Direct-to-Phone Network",
+          "article_url": "https://www.prnewswire.com/news-releases/the-spacex-ipo-put-a-spotlight-on-starlink--and-on-the-one-public-company-building-a-rival-direct-to-phone-network-302812572.html",
+          "source_name": "PR Newswire",
+          "published": "2025",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "viasat",
+      "target": "spacex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Viasat与SpaceX Starlink在卫星宽带市场直接竞争,前者采用地球同步轨道卫星,后者采用低地球轨道星座",
+          "article_title": "Viasat vs. Starlink Review: Real Speeds, Costs, Pros & Cons + What to Expect in 2026",
+          "article_url": "https://orbitaltoday.com/2026/02/10/viasat-vs-starlink-2025-review-2026-outlook/",
+          "source_name": "Orbital Today",
+          "published": "2026-02-10",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "blue origin",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "NASA阿尔忒弥斯载人登月计划中,SpaceX的Starship HLS(用于Artemis III/IV)与Blue Origin的Blue Moon Mk2(用于Artemis V)是两套相互竞争的载人登月着陆器方案",
+          "article_title": "NASA wants to land astronauts on the moon in 2028. Will SpaceX's Starship or Blue Origin's Blue Moon lander be ready in time?",
+          "article_url": "https://www.space.com/space-exploration/artemis/nasa-wants-to-land-astronauts-on-the-moon-in-2028-will-spacexs-starship-or-blue-origins-blue-moon-lander-be-ready-in-time",
+          "source_name": "Space.com",
+          "published": "2026",
+          "added_at": "2026-08-06T04:44:48.296846+00:00"
+        }
+      ]
+    },
+    {
+      "source": "honeywell",
+      "target": "quantinuum",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Honeywell是Quantinuum的控股股东,2025年9月完成6亿美元融资轮后持股约53%,并借此推动Quantinuum走向2026年IPO。",
+          "article_title": "Honeywell Announces $600 Million Capital Raise For Quantinuum at $10 Billion Pre-Money Equity Valuation to Advance Quantum Computing at Scale",
+          "article_url": "https://www.quantinuum.com/press-releases/honeywell-announces-600-million-capital-raise-for-quantinuum-at-10-billion-pre-money-equity-valuation-to-advance-quantum-computing-at-scale",
+          "source_name": "Quantinuum",
+          "published": "2025-09-04",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "quantinuum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "NVIDIA风险投资部门NVentures参与了Quantinuum 2025年9月约6亿美元的股权融资轮。",
+          "article_title": "Honeywell Announces $600 Million Capital Raise For Quantinuum at $10 Billion Pre-Money Equity Valuation to Advance Quantum Computing at Scale",
+          "article_url": "https://www.quantinuum.com/press-releases/honeywell-announces-600-million-capital-raise-for-quantinuum-at-10-billion-pre-money-equity-valuation-to-advance-quantum-computing-at-scale",
+          "source_name": "Quantinuum",
+          "published": "2025-09-04",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "ionq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "IonQ是NVIDIA推出的NVQLink量子-GPU互联架构的量子硬件合作伙伴之一,该架构连接量子处理器与NVIDIA Grace Blackwell超算平台。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "rigetti computing",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Rigetti是NVQLink量子-GPU互联架构的量子硬件合作伙伴之一。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "pasqal",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Pasqal是NVQLink量子-GPU互联架构的量子硬件合作伙伴之一。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "quera computing",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "QuEra是NVQLink量子-GPU互联架构的量子硬件合作伙伴之一。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "oxford quantum circuits oqc",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "OQC是NVQLink量子-GPU互联架构的量子硬件合作伙伴之一。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "atom computing",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Atom Computing是NVQLink量子-GPU互联架构的量子硬件合作伙伴之一。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "iqm quantum computers",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "IQM是NVQLink量子-GPU互联架构的量子硬件合作伙伴之一。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "quantum machines",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Quantum Machines作为控制系统供应商加入NVQLink生态,提供量子处理器与GPU间的实时经典-量子集成解决方案。",
+          "article_title": "Quantum Machines Announces NVIDIA NVQLink Integration, Extending Real-Time Quantum-Classical Computing Solution",
+          "article_url": "https://www.quantum-machines.co/press-release/quantum-machines-announces-nvidia-nvqlink-integration-extending-real-time-quantum-classical-computing-solution/",
+          "source_name": "Quantum Machines",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "seeqc",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NVIDIA与SEEQC在GTC 2025上展示了首个量子处理器与GPU之间的全数字芯片级接口,实现实时量子纠错,并将该技术整合进NVQLink架构。",
+          "article_title": "SEEQC Enables Real-Time, Digital Quantum–GPU Connectivity With NVIDIA NVQLink",
+          "article_url": "https://thequantuminsider.com/2025/10/30/seeqc-enables-real-time-digital-quantum-gpu-connectivity-with-nvidia-nvqlink/",
+          "source_name": "The Quantum Insider",
+          "published": "2025-10-30",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "quantum circuits",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Quantum Circuits, Inc.是NVQLink架构的私营部门合作伙伴之一。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "psiquantum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "NVIDIA风险投资部门NVentures参与了PsiQuantum约10亿美元的E轮融资(估值70亿美元)。",
+          "article_title": "PsiQuantum raises $1bn in funding, including from Nvidia's venture capital arm",
+          "article_url": "https://www.datacenterdynamics.com/en/news/psiquantum-raises-1bn-in-funding-including-from-nvidias-venture-capital-arm/",
+          "source_name": "DatacenterDynamics",
+          "published": "2025",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "quantinuum",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Quantinuum是NVQLink量子-GPU互联架构的量子硬件合作伙伴之一。",
+          "article_title": "NVIDIA Introduces NVQLink — Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs",
+          "article_url": "https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing",
+          "source_name": "NVIDIA Newsroom",
+          "published": "2025-10-28",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rigetti computing",
+      "target": "quantum machines",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两家公司联合完成了基于Rigetti Novera QPU的AI自动化量子计算机校准演示,展示了Quantum Machines控制系统与Rigetti超导量子处理器的深度集成。",
+          "article_title": "Quantum Machines and Rigetti Announce Successful AI-Powered Calibration of a Quantum Computer",
+          "article_url": "https://investors.rigetti.com/news-releases/news-release-details/quantum-machines-and-rigetti-announce-successful-ai-powered",
+          "source_name": "Rigetti Computing (投资者新闻稿)",
+          "published": "2024",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazon aws",
+      "target": "ionq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "IonQ的离子阱量子计算机作为硬件提供商接入Amazon Braket云平台,供客户按需调用。",
+          "article_title": "Amazon Braket – Hardware Providers",
+          "article_url": "https://aws.amazon.com/braket/hardware-providers/",
+          "source_name": "AWS",
+          "published": "N/A",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazon aws",
+      "target": "rigetti computing",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Rigetti的超导量子处理器(Cepheus系列)作为硬件提供商接入Amazon Braket云平台。",
+          "article_title": "Amazon Braket – Hardware Providers",
+          "article_url": "https://aws.amazon.com/braket/hardware-providers/",
+          "source_name": "AWS",
+          "published": "N/A",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazon aws",
+      "target": "quera computing",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "QuEra基于里德堡态中性原子的量子计算机作为硬件提供商接入Amazon Braket云平台。",
+          "article_title": "Amazon Braket – Hardware Providers",
+          "article_url": "https://aws.amazon.com/braket/hardware-providers/",
+          "source_name": "AWS",
+          "published": "N/A",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazon aws",
+      "target": "iqm quantum computers",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "IQM的超导量子计算机作为硬件提供商接入Amazon Braket云平台。",
+          "article_title": "Amazon Braket – Hardware Providers",
+          "article_url": "https://aws.amazon.com/braket/hardware-providers/",
+          "source_name": "AWS",
+          "published": "N/A",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "ionq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "IonQ的量子计算机(如Aria系统)接入Microsoft Azure Quantum云平台,用户可通过Azure订阅使用。",
+          "article_title": "IonQ Aria, Newest Quantum Computer, Coming to Microsoft's Azure Quantum Platform",
+          "article_url": "https://ionq.com/news/march-21-2022-ionq-aria-coming-to-microsoft-azure-quantum",
+          "source_name": "IonQ",
+          "published": "2022-03-21",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "quantinuum",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "双方利用Microsoft的量子比特虚拟化纠错系统与Quantinuum的离子阱硬件,联合创建了12个逻辑量子比特,并完成端到端混合化学模拟。",
+          "article_title": "Microsoft and Quantinuum create 12 logical qubits and demonstrate a hybrid, end-to-end chemistry simulation",
+          "article_url": "https://azure.microsoft.com/en-us/blog/quantum/2024/09/10/microsoft-and-quantinuum-create-12-logical-qubits-and-demonstrate-a-hybrid-end-to-end-chemistry-simulation/",
+          "source_name": "Microsoft Azure Quantum Blog",
+          "published": "2024-09-10",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "atom computing",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "双方利用Microsoft的量子比特虚拟化纠错系统与Atom Computing的中性原子硬件,纠缠了24个逻辑量子比特,并联合推出可交付的商用量子机器。",
+          "article_title": "Microsoft and Atom Computing offer a commercial quantum machine with the largest number of entangled logical qubits on record",
+          "article_url": "https://azure.microsoft.com/en-us/blog/quantum/2024/11/19/microsoft-and-atom-computing-offer-a-commercial-quantum-machine-with-the-largest-number-of-entangled-logical-qubits-on-record/",
+          "source_name": "Microsoft Azure Quantum Blog",
+          "published": "2024-11-19",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google google quantum ai",
+      "target": "ionq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "IonQ的量子计算硬件在Google Cloud Marketplace上架,是首家登陆该平台的第三方量子计算公司,并支持Google开源框架Cirq。",
+          "article_title": "IonQ's Leading Trapped-Ion Quantum Hardware Now Available on Google Cloud Marketplace",
+          "article_url": "https://investors.ionq.com/news/news-details/2021/IonQs-Leading-Trapped-Ion-Quantum-Hardware-Now-Available-on-Google-Cloud-Marketplace/default.aspx",
+          "source_name": "IonQ Investor Relations",
+          "published": "2021-06-17",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "google google quantum ai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "IBM与Google在超导量子芯片技术路线上展开竞赛:谷歌2024年底发布Willow芯片并宣称实现量子优势,IBM则公布了至2029年的容错量子计算路线图作为回应。",
+          "article_title": "A seismic shift in computing is on the horizon (and it's not AI)",
+          "article_url": "https://www.cnn.com/2025/11/12/tech/quantum-computing-ibm-microsoft-google",
+          "source_name": "CNN Business",
+          "published": "2025-11-12",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "microsoft",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "IBM与Microsoft在量子计算技术路线和商业化路径上互为竞争对手。",
+          "article_title": "A seismic shift in computing is on the horizon (and it's not AI)",
+          "article_url": "https://www.cnn.com/2025/11/12/tech/quantum-computing-ibm-microsoft-google",
+          "source_name": "CNN Business",
+          "published": "2025-11-12",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google google quantum ai",
+      "target": "microsoft",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Google与Microsoft在量子计算硬件与纠错技术路线上互为竞争对手。",
+          "article_title": "A seismic shift in computing is on the horizon (and it's not AI)",
+          "article_url": "https://www.cnn.com/2025/11/12/tech/quantum-computing-ibm-microsoft-google",
+          "source_name": "CNN Business",
+          "published": "2025-11-12",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dwave quantum",
+      "target": "quantum circuits",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "D-Wave宣布以5.5亿美元收购Quantum Circuits公司,获得其双轨超导门模型量子比特技术,以拓展在容错超导量子计算领域的布局。",
+          "article_title": "D-Wave Announces Agreement to Acquire Quantum Circuits Inc., Establishing World's Leading Quantum Computing Company",
+          "article_url": "https://www.dwavequantum.com/company/newsroom/press-release/d-wave-to-acquire-quantum-circuits/",
+          "source_name": "D-Wave Quantum Inc.",
+          "published": "2026-01-07",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "pasqal",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "IBM与Pasqal启动合作,共同定义量子中心超算的经典-量子集成架构,Qiskit用户可借此接入Pasqal的中性原子量子处理器开发混合工作流。",
+          "article_title": "IBM and Pasqal Initiate Collaboration to Define Classical-Quantum Integration for Quantum-Centric Supercomputers",
+          "article_url": "https://newsroom.ibm.com/2024-06-06-IBM-and-Pasqal-Initiate-Collaboration-to-Define-Classical-Quantum-Integration-for-Quantum-Centric-Supercomputers",
+          "source_name": "IBM Newsroom",
+          "published": "2024-06-06",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oxford instruments",
+      "target": "oxford quantum circuits oqc",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Oxford Instruments NanoScience的ProteoxLX稀释制冷机被用于Oxford Quantum Circuits位于纽约的量子-AI数据中心,为其超导量子比特提供毫开尔文级低温环境。",
+          "article_title": "Oxford Instruments NanoScience Contributes Cutting-Edge Technology to OQC's New York Quantum-AI Data Centre",
+          "article_url": "https://www.oxinst.com/news/news/oxford-instruments-contributes-technology-to-oqc-quantum-ai-data-centre/",
+          "source_name": "Oxford Instruments",
+          "published": "2025",
+          "added_at": "2026-08-06T04:45:56.401807+00:00"
         }
       ]
     }
