@@ -236,12 +236,14 @@
       "sectors": [
         "AI compute GPU"
       ],
-      "mentions": 3,
+      "mentions": 5,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00",
       "sector_tags": [
         "AI板块",
-        "量子计算板块"
+        "量子计算板块",
+        "机器人板块",
+        "edge AI板块"
       ],
       "hot": "hot",
       "ticker": "NVDA"
@@ -391,31 +393,20 @@
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
       "last_seen": "2026-08-06T04:43:25.270278+00:00"
     },
-    "alphabet google": {
-      "name": "Alphabet Inc. (Google)",
-      "type": "company",
-      "sectors": [],
-      "sector_tags": [
-        "AI板块"
-      ],
-      "hot": "hot",
-      "ticker": "GOOGL",
-      "mentions": 1,
-      "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
-    },
     "amazoncom": {
       "name": "Amazon.com Inc.",
       "type": "company",
       "sectors": [],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "机器人板块",
+        "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -439,19 +430,6 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
-      "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
-    },
-    "advanced micro devices amd": {
-      "name": "Advanced Micro Devices (AMD)",
-      "type": "company",
-      "sectors": [],
-      "sector_tags": [
-        "AI板块"
-      ],
-      "hot": "hot",
-      "ticker": "AMD",
       "mentions": 1,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
       "last_seen": "2026-08-06T04:43:25.270278+00:00"
@@ -1028,32 +1006,6 @@
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
       "last_seen": "2026-08-06T04:45:56.401807+00:00"
     },
-    "google google quantum ai": {
-      "name": "Google (Google Quantum AI)",
-      "type": "company",
-      "sectors": [],
-      "sector_tags": [
-        "量子计算板块"
-      ],
-      "hot": "hot",
-      "ticker": "GOOGL",
-      "mentions": 1,
-      "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
-    },
-    "amazon aws": {
-      "name": "Amazon (AWS)",
-      "type": "company",
-      "sectors": [],
-      "sector_tags": [
-        "量子计算板块"
-      ],
-      "hot": "hot",
-      "ticker": "AMZN",
-      "mentions": 1,
-      "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
-    },
     "honeywell": {
       "name": "Honeywell",
       "type": "company",
@@ -1098,13 +1050,14 @@
       "type": "company",
       "sectors": [],
       "sector_tags": [
-        "量子计算板块"
+        "量子计算板块",
+        "edge AI板块"
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -1261,6 +1214,945 @@
       "mentions": 1,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
       "last_seen": "2026-08-06T04:45:56.401807+00:00"
+    },
+    "tesla": {
+      "name": "Tesla, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "TSLA",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "figure ai": {
+      "name": "Figure AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "boston dynamics": {
+      "name": "Boston Dynamics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "hyundai motor": {
+      "name": "Hyundai Motor Group",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "005380.KS",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "abb": {
+      "name": "ABB Ltd",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "ABBN",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "fanuc": {
+      "name": "Fanuc Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "6954.T",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "intuitive surgical": {
+      "name": "Intuitive Surgical, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "ISRG",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "unitree": {
+      "name": "Unitree Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "symbotic": {
+      "name": "Symbotic Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "SYM",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "irobot": {
+      "name": "iRobot Corp.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "IRBT",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "teradyne": {
+      "name": "Teradyne, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": "TER",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "universal robots": {
+      "name": "Universal Robots",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "mobile industrial robots mir": {
+      "name": "Mobile Industrial Robots (MiR)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "nabtesco": {
+      "name": "Nabtesco Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": "6268.T",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "harmonic drive ag": {
+      "name": "Harmonic Drive AG",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "cognex": {
+      "name": "Cognex Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": "CGNX",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "apptronik": {
+      "name": "Apptronik",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "agility": {
+      "name": "Agility Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "robosense suteng innovation": {
+      "name": "RoboSense (Suteng Innovation Technology)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": "2498.HK",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "kuka ag": {
+      "name": "KUKA AG",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "sanhua intelligent controls": {
+      "name": "Sanhua Intelligent Controls Co., Ltd.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": "002050.SZ",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "midea": {
+      "name": "Midea Group Co., Ltd.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": "000333.SZ",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:57:08.306288+00:00",
+      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+    },
+    "qualcomm incorporated": {
+      "name": "Qualcomm Incorporated",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "QCOM",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "apple": {
+      "name": "Apple Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "AAPL",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "arm plc": {
+      "name": "Arm Holdings plc",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "ARM",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "advanced micro devices": {
+      "name": "Advanced Micro Devices, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块",
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "AMD",
+      "mentions": 2,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "mediatek": {
+      "name": "MediaTek Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "2454.TW",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "samsung electronics": {
+      "name": "Samsung Electronics Co., Ltd.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "005930.KS",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "alphabet": {
+      "name": "Alphabet Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块",
+        "AI板块",
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": "GOOGL",
+      "mentions": 3,
+      "first_seen": "2026-08-06T04:43:25.270278+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "microchip incorporated": {
+      "name": "Microchip Technology Incorporated",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "MCHP",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "texas instruments incorporated": {
+      "name": "Texas Instruments Incorporated",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "TXN",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "micron": {
+      "name": "Micron Technology, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "MU",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "ambarella": {
+      "name": "Ambarella, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "AMBA",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "hailo": {
+      "name": "Hailo Technologies Ltd.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "simaai": {
+      "name": "SiMa.ai, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "axelera ai bv": {
+      "name": "Axelera AI B.V.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "kneron": {
+      "name": "Kneron, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "ceva": {
+      "name": "CEVA, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "CEVA",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "teramount": {
+      "name": "Teramount Ltd.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "lattice semiconductor": {
+      "name": "Lattice Semiconductor Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "LSCC",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "blaize": {
+      "name": "Blaize Holdings, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "BZAI",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "mythic": {
+      "name": "Mythic, Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "mobileye global": {
+      "name": "Mobileye Global Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": "MBLY",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "edge impulse": {
+      "name": "Edge Impulse Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+    },
+    "nextera energy": {
+      "name": "NextEra Energy",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "NEE",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "constellation energy": {
+      "name": "Constellation Energy",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "CEG",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "vistra": {
+      "name": "Vistra Corp",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "VST",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "talen energy": {
+      "name": "Talen Energy",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "TLN",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "american electric power": {
+      "name": "American Electric Power",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "AEP",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "southern": {
+      "name": "Southern Company",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "SO",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "duke energy": {
+      "name": "Duke Energy",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "DUK",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "chevron": {
+      "name": "Chevron",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "CVX",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "ge vernova": {
+      "name": "GE Vernova",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "GEV",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "vertiv": {
+      "name": "Vertiv Holdings",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "VRT",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "eaton": {
+      "name": "Eaton Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "ETN",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "bloom energy": {
+      "name": "Bloom Energy",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "BE",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "oklo": {
+      "name": "Oklo Inc",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "OKLO",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "nuscale power": {
+      "name": "NuScale Power",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": "SMR",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "xenergy": {
+      "name": "X-energy",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": "XE",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "kairos power": {
+      "name": "Kairos Power",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "terrapower": {
+      "name": "TerraPower",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "coolit systems": {
+      "name": "CoolIT Systems",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "jetcool": {
+      "name": "JetCool Technologies",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "boyd thermal": {
+      "name": "Boyd Thermal",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "modine manufacturing": {
+      "name": "Modine Manufacturing",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": "MOD",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "nvent electric": {
+      "name": "nVent Electric",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": "NVT",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "nano nuclear energy": {
+      "name": "NANO Nuclear Energy",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": "NNE",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "fervo energy": {
+      "name": "Fervo Energy",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": "FRVO",
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "standard power": {
+      "name": "Standard Power",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "switch": {
+      "name": "Switch",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "engine no 1": {
+      "name": "Engine No. 1",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "sabey data centers": {
+      "name": "Sabey Data Centers",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T04:59:53.197516+00:00",
+      "last_seen": "2026-08-06T04:59:53.197516+00:00"
     }
   },
   "edges": [
@@ -1385,7 +2277,7 @@
       ]
     },
     {
-      "source": "advanced micro devices amd",
+      "source": "advanced micro devices",
       "target": "openai",
       "type": "supplier",
       "evidence": [
@@ -1520,7 +2412,7 @@
       ]
     },
     {
-      "source": "alphabet google",
+      "source": "alphabet",
       "target": "anthropic",
       "type": "investment",
       "evidence": [
@@ -1566,7 +2458,7 @@
     },
     {
       "source": "broadcom",
-      "target": "alphabet google",
+      "target": "alphabet",
       "type": "supplier",
       "evidence": [
         {
@@ -1686,7 +2578,7 @@
     },
     {
       "source": "taiwan semiconductor manufacturing tsmc",
-      "target": "advanced micro devices amd",
+      "target": "advanced micro devices",
       "type": "supplier",
       "evidence": [
         {
@@ -1745,7 +2637,7 @@
       ]
     },
     {
-      "source": "advanced micro devices amd",
+      "source": "advanced micro devices",
       "target": "cohere",
       "type": "investment",
       "evidence": [
@@ -1881,7 +2773,7 @@
     },
     {
       "source": "nvidia",
-      "target": "advanced micro devices amd",
+      "target": "advanced micro devices",
       "type": "competition",
       "evidence": [
         {
@@ -2600,7 +3492,7 @@
       ]
     },
     {
-      "source": "amazon aws",
+      "source": "amazoncom",
       "target": "ionq",
       "type": "partnership",
       "evidence": [
@@ -2615,7 +3507,7 @@
       ]
     },
     {
-      "source": "amazon aws",
+      "source": "amazoncom",
       "target": "rigetti computing",
       "type": "partnership",
       "evidence": [
@@ -2630,7 +3522,7 @@
       ]
     },
     {
-      "source": "amazon aws",
+      "source": "amazoncom",
       "target": "quera computing",
       "type": "partnership",
       "evidence": [
@@ -2645,7 +3537,7 @@
       ]
     },
     {
-      "source": "amazon aws",
+      "source": "amazoncom",
       "target": "iqm quantum computers",
       "type": "partnership",
       "evidence": [
@@ -2705,7 +3597,7 @@
       ]
     },
     {
-      "source": "google google quantum ai",
+      "source": "alphabet",
       "target": "ionq",
       "type": "partnership",
       "evidence": [
@@ -2721,7 +3613,7 @@
     },
     {
       "source": "ibm",
-      "target": "google google quantum ai",
+      "target": "alphabet",
       "type": "competition",
       "evidence": [
         {
@@ -2750,7 +3642,7 @@
       ]
     },
     {
-      "source": "google google quantum ai",
+      "source": "alphabet",
       "target": "microsoft",
       "type": "competition",
       "evidence": [
@@ -2806,6 +3698,1116 @@
           "source_name": "Oxford Instruments",
           "published": "2025",
           "added_at": "2026-08-06T04:45:56.401807+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "figure ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英伟达参与Figure AI 2024年2月6.75亿美元B轮融资(与Amazon关联基金各投约5000万美元)",
+          "article_title": "Figure Raises $675M at $2.6B Valuation and Signs Collaboration Agreement with OpenAI",
+          "article_url": "https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html",
+          "source_name": "PR Newswire / Figure",
+          "published": "2024-02-29",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "figure ai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "在2026年3月GTC大会上,英伟达将Figure列为基于其Isaac/Jetson Thor物理AI平台构建产品的全球机器人合作伙伴之一",
+          "article_title": "NVIDIA and Global Robotics Leaders Take Physical AI to the Real World",
+          "article_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx",
+          "source_name": "NVIDIA Investor Relations",
+          "published": "2026-03-16",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "boston dynamics",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "双方扩大合作,波士顿动力Atlas人形机器人采用英伟达Jetson Thor计算平台,并使用Isaac Lab开源仿真框架联合开发灵巧操作与运动控制AI能力",
+          "article_title": "Boston Dynamics Expands Collaboration with NVIDIA",
+          "article_url": "https://bostondynamics.com/news/boston-dynamics-expands-collaboration-with-nvidia/",
+          "source_name": "Boston Dynamics",
+          "published": "2025-03-18",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hyundai motor",
+      "target": "boston dynamics",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "现代汽车集团2021年6月完成对波士顿动力的收购,持股80%(软银旗下公司保留20%)",
+          "article_title": "Hyundai Motor Group Completes Acquisition of Boston Dynamics from SoftBank",
+          "article_url": "https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-group-completes-acquisition-of-boston-dynamics-from-softbank-0000000516",
+          "source_name": "Hyundai Motor Group Newsroom",
+          "published": "2021-06-21",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "teradyne",
+      "target": "universal robots",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "泰瑞达2015年5月宣布以约2.85亿美元收购协作机器人厂商Universal Robots",
+          "article_title": "Teradyne Inc. Acquires Universal Robots",
+          "article_url": "https://www.universal-robots.com/news-and-media/news-center/teradyne-inc-acquires-universal-robots/",
+          "source_name": "Universal Robots",
+          "published": "2015-05-13",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "teradyne",
+      "target": "mobile industrial robots mir",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "泰瑞达2018年4月以约2.72亿美元收购丹麦自主移动机器人(AMR)厂商MiR",
+          "article_title": "Teradyne acquires MiR for $272M, continues robotics spree",
+          "article_url": "https://www.therobotreport.com/teradyne-acquires-mir-272m/",
+          "source_name": "The Robot Report",
+          "published": "2018-04-25",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "unitree",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "英伟达将其Jetson Thor机载计算平台及Isaac GR00T人形机器人基础模型与宇树H2 Plus人形机器人结合,作为面向斯坦福等高校科研机构销售的首套完整机器人系统",
+          "article_title": "Nvidia picks Unitree for humanoid robot platform as Chinese startup eyes IPO",
+          "article_url": "https://www.cnbc.com/2026/06/01/nvidia-unitree-humanoid-robotics-system-researchers.html",
+          "source_name": "CNBC",
+          "published": "2026-06-01",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "abb",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "ABB机器人与英伟达合作推出RobotStudio HyperReality平台,将Omniverse与Isaac仿真库整合进RobotStudio离线编程软件以生成合成数据训练物理AI模型",
+          "article_title": "ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale",
+          "article_url": "https://www.businesswire.com/news/home/20260309674828/en/ABB-Robotics-Partners-with-NVIDIA-to-Deliver-Industrial-Grade-Physical-AI-at-Scale",
+          "source_name": "Business Wire",
+          "published": "2026-03-09",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fanuc",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "发那科在英伟达2026年GTC大会上宣布合作,将Isaac Sim、Omniverse与IGX Thor整合进虚拟调试与产线数字孪生方案",
+          "article_title": "NVIDIA and Global Robotics Leaders Take Physical AI to the Real World",
+          "article_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx",
+          "source_name": "NVIDIA Investor Relations",
+          "published": "2026-03-16",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kuka ag",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "库卡被英伟达列入2026年GTC大会公布的物理AI机器人合作伙伴名单",
+          "article_title": "NVIDIA and Global Robotics Leaders Take Physical AI to the Real World",
+          "article_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx",
+          "source_name": "NVIDIA Investor Relations",
+          "published": "2026-03-16",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "universal robots",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Universal Robots被英伟达列入2026年GTC大会公布的物理AI机器人合作伙伴名单",
+          "article_title": "NVIDIA and Global Robotics Leaders Take Physical AI to the Real World",
+          "article_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx",
+          "source_name": "NVIDIA Investor Relations",
+          "published": "2026-03-16",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agility",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Agility Robotics被英伟达列入2026年GTC大会公布的物理AI机器人合作伙伴名单",
+          "article_title": "NVIDIA and Global Robotics Leaders Take Physical AI to the Real World",
+          "article_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Global-Robotics-Leaders-Take-Physical-AI-to-the-Real-World/default.aspx",
+          "source_name": "NVIDIA Investor Relations",
+          "published": "2026-03-16",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "robosense suteng innovation",
+      "target": "unitree",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "速腾聚创为宇树科技四足机器人(如B2系列)提供高性能激光雷达传感器",
+          "article_title": "RoboSense Crowns Embodied AI LiDAR Rankings: Powering the Next Era of Humanoid and Quadruped Robotics",
+          "article_url": "https://www.robosense.ai/en/tech-show-208",
+          "source_name": "RoboSense",
+          "published": "2026-03-19",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agility",
+      "target": "amazoncom",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "亚马逊通过Amazon Industrial Innovation Fund投资Agility Robotics,并自2023年10月起在其华盛顿州实验仓库试运行人形机器人Digit",
+          "article_title": "Amazon announces new fulfillment center robots, Sequoia and Digit",
+          "article_url": "https://www.aboutamazon.com/news/operations/amazon-introduces-new-robotics-solutions",
+          "source_name": "About Amazon",
+          "published": "2023-10",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "irobot",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "亚马逊2022年8月宣布以约14亿美元收购扫地机器人厂商iRobot,因欧盟监管反垄断担忧,双方于2024年1月29日宣布终止该收购协议",
+          "article_title": "Amazon and iRobot Agree to Terminate Pending Acquisition",
+          "article_url": "https://www.prnewswire.com/news-releases/amazon-and-irobot-agree-to-terminate-pending-acquisition-302046311.html",
+          "source_name": "PR Newswire / iRobot",
+          "published": "2024-01-29",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cognex",
+      "target": "universal robots",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Cognex与Universal Robots联合开发In-Sight 2D机器视觉URCap插件,为UR机器人提供视觉引导能力",
+          "article_title": "In-Sight 2D Robot Guidance for Universal Robots",
+          "article_url": "https://www.cognex.com/en-ca/programs/urcap-solution",
+          "source_name": "Cognex",
+          "published": "2026-08",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cognex",
+      "target": "fanuc",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Cognex与发那科机器人达成OEM协议,其PatMax图像识别技术被集成进发那科VisLOC视觉引导系统",
+          "article_title": "FANUC Robotics, Cognex Enter OEM Agreement",
+          "article_url": "https://www.packagingnetwork.com/doc/fanuc-robotics-cognex-enter-oem-agreement-0001",
+          "source_name": "Packaging Network",
+          "published": "1999",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "midea",
+      "target": "kuka ag",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "美的集团2016-2017年通过要约收购取得库卡约94.55%股权,2022年11月完成对剩余中小股东的强制挤出,库卡从法兰克福证券交易所退市,成为美的全资子公司",
+          "article_title": "Squeeze-out completed",
+          "article_url": "https://www.kuka.com/en-us/company/press/news/2022/11/squeeze-out-completed",
+          "source_name": "KUKA",
+          "published": "2022-11-08",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harmonic drive ag",
+      "target": "universal robots",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Harmonic Drive AG为Universal Robots UR5协作机器人六个轴关节提供HFUS-2SH系列谐波减速器",
+          "article_title": "Universal Robots given a helping hand",
+          "article_url": "https://www.electronicspecifier.com/industries/robotics/universal-robots-given-a-helping-hand/",
+          "source_name": "Electronic Specifier",
+          "published": "2024-02-12",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sanhua intelligent controls",
+      "target": "tesla",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "三花智控自2016年进入特斯拉供应链,长期为特斯拉电动车供应热管理部件;市场传其也在为Optimus人形机器人供应线性执行器,但具体订单金额已被三花方面回应'不实'",
+          "article_title": "Sanhua Gains After Chinese Auto Parts Supplier Says Tesla Recall Isn't Linked to Its Products",
+          "article_url": "https://www.yicaiglobal.com/news/sanhua-gains-after-chinese-auto-parts-supplier-says-tesla-recall-isnt-linked-to-its-products",
+          "source_name": "Yicai Global",
+          "published": "2022-02-21",
+          "added_at": "2026-08-06T04:57:08.306288+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microchip incorporated",
+      "target": "hailo",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Microchip宣布收购以色列边缘AI芯片初创Hailo,交易金额未披露",
+          "article_title": "Microchip Acquires Edge AI Chip Startup Hailo",
+          "article_url": "https://www.eetimes.com/microchip-acquires-edge-ai-chip-startup-hailo/",
+          "source_name": "EE Times",
+          "published": "2026-07-28",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qualcomm incorporated",
+      "target": "edge impulse",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Qualcomm收购边缘AI开发平台Edge Impulse,用于增强其Dragonwing系列芯片的机器学习软件与IoT边缘AI开发工具生态",
+          "article_title": "Qualcomm acquires edge AI development startup Edge Impulse",
+          "article_url": "https://siliconangle.com/2025/03/10/qualcomm-acquires-edge-ai-development-startup-edge-impulse/",
+          "source_name": "SiliconANGLE",
+          "published": "2025-03-10",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qualcomm incorporated",
+      "target": "kneron",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Qualcomm Ventures是边缘AI芯片初创Kneron的投资方之一",
+          "article_title": "Kneron - Qualcomm Ventures Portfolio",
+          "article_url": "https://www.qualcommventures.com/companies/artificial-intelligence/kneron",
+          "source_name": "Qualcomm Ventures",
+          "published": "2026",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "samsung electronics",
+      "target": "axelera ai bv",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Samsung Catalyst Fund参与了Axelera AI超过2.5亿美元的融资轮",
+          "article_title": "Axelera AI Secures More Than $250 Million Funding on Global Commercial Growth",
+          "article_url": "https://axelera.ai/news/axelera-ai-secures-more-than-250-million-funding-on-global-commercial-growth",
+          "source_name": "Axelera AI",
+          "published": "2026-02-24",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "samsung electronics",
+      "target": "axelera ai bv",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "三星电子晶圆代工业务以5nm制程为Axelera AI的Europa边缘AI加速芯片(AIPU)提供代工生产",
+          "article_title": "Axelera Announces Europa AIPU",
+          "article_url": "https://axelera.ai/news/axelera-announces-europa-aipu-setting-new-industry-benchmark-for-ai-accelerator-performance-power-efficiency-and-affordability",
+          "source_name": "Axelera AI",
+          "published": "2025-10-21",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qualcomm incorporated",
+      "target": "alphabet",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Qualcomm与Google扩大延续超十年的汽车领域合作,将Snapdragon Digital Chassis与Google汽车软件、云端AI服务深度整合",
+          "article_title": "Qualcomm Expands Decade-Long Collaboration with Google for Automotive Innovation and AI-Powered Mobility",
+          "article_url": "https://www.qualcomm.com/news/releases/2026/01/qualcomm-expands-decade-long-collaboration-with-google-for-autom",
+          "source_name": "Qualcomm",
+          "published": "2026-01-05",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "samsung electronics",
+      "target": "qualcomm incorporated",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Qualcomm宣布扩大与三星的合作,Snapdragon 8 Elite Gen 5、Snapdragon Wear Elite等端侧AI芯片将搭载于三星Galaxy系列产品",
+          "article_title": "Qualcomm and Samsung Deepen Snapdragon Ecosystem Partnership",
+          "article_url": "https://techaeris.com/2026/07/22/qualcomm-samsung-deepen-snapdragon-eco/",
+          "source_name": "Techaeris",
+          "published": "2026-07-22",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "arm plc",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "NVIDIA在2026年一季度清空了持有的全部Arm股份,但双方维持长达20年的架构授权合作关系",
+          "article_title": "Arm shares edge higher as Nvidia sells entire stake in company",
+          "article_url": "https://www.cnbc.com/2026/02/18/arm-nvidia-nokia-ai-stake-shares.html",
+          "source_name": "CNBC",
+          "published": "2026-02-18",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arm plc",
+      "target": "qualcomm incorporated",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Qualcomm基于与Arm的架构授权协议设计Snapdragon系列端侧AI芯片;双方曾就授权范围发生诉讼,2025年9月美国法院判决Qualcomm完全胜诉",
+          "article_title": "Qualcomm Achieves Complete Victory Over Arm in Litigation Challenging Licensing Agreements",
+          "article_url": "https://www.businesswire.com/news/home/20250930042277/en/Qualcomm-Achieves-Complete-Victory-Over-Arm-in-Litigation-Challenging-Licensing-Agreements",
+          "source_name": "Business Wire / Qualcomm",
+          "published": "2025-09-30",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "intel",
+      "target": "mobileye global",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "截至2026年4月22日股权登记日,Intel持有Mobileye约96.9%的投票权,为其控股母公司",
+          "article_title": "Mobileye Global Inc. Definitive Proxy Statement (DEF 14A, 2026)",
+          "article_url": "https://www.stocktitan.net/sec-filings/MBLY/def-14a-mobileye-global-inc-definitive-proxy-statement-393ca6d9f08f.html",
+          "source_name": "SEC文件",
+          "published": "2026-04-22",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ambarella",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Ambarella在10-K中披露,在IoT、汽车摄像头、无人机等市场,其主要竞争对手包括NVIDIA",
+          "article_title": "Ambarella, Inc. Form 10-K (FY2025)",
+          "article_url": "https://www.sec.gov/Archives/edgar/data/1280263/000095017025046499/amba-20250131.htm",
+          "source_name": "SEC EDGAR",
+          "published": "2025-03",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ambarella",
+      "target": "qualcomm incorporated",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Ambarella在10-K中披露,在IoT、汽车摄像头等市场,其主要竞争对手包括Qualcomm",
+          "article_title": "Ambarella, Inc. Form 10-K (FY2025)",
+          "article_url": "https://www.sec.gov/Archives/edgar/data/1280263/000095017025046499/amba-20250131.htm",
+          "source_name": "SEC EDGAR",
+          "published": "2025-03",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ambarella",
+      "target": "mobileye global",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Ambarella在10-K中披露,在汽车摄像头市场,其竞争对手包括Intel子公司Mobileye",
+          "article_title": "Ambarella, Inc. Form 10-K (FY2025)",
+          "article_url": "https://www.sec.gov/Archives/edgar/data/1280263/000095017025046499/amba-20250131.htm",
+          "source_name": "SEC EDGAR",
+          "published": "2025-03",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ambarella",
+      "target": "texas instruments incorporated",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Ambarella在10-K中披露,在边缘基础设施市场,其主要竞争对手包括德州仪器",
+          "article_title": "Ambarella, Inc. Form 10-K (FY2025)",
+          "article_url": "https://www.sec.gov/Archives/edgar/data/1280263/000095017025046499/amba-20250131.htm",
+          "source_name": "SEC EDGAR",
+          "published": "2025-03",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microchip incorporated",
+      "target": "mythic",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Microchip子公司SST的memBrain模拟存内计算IP被Mythic选用于新一代模拟处理单元,实现约120 TOPS/瓦的边缘推理能效",
+          "article_title": "Mythic Selects memBrain Technology from Silicon Storage Technology",
+          "article_url": "https://ir.microchip.com/news-events/press-releases/detail/1375/mythic-selects-membrain-technology-from-silicon-storage-technology-for-its-next-generation-of-ultra-low-power-analog-processing-units",
+          "source_name": "Microchip Technology",
+          "published": "2026-03-17",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "lattice semiconductor",
+      "target": "texas instruments incorporated",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Lattice与德州仪器合作,将TI毫米波雷达/摄像头传感技术与Lattice低功耗FPGA方案结合,面向机器人与工业边缘AI应用",
+          "article_title": "Lattice Collaborates with TI to Accelerate Edge AI for Robotics and Industrial Applications",
+          "article_url": "https://www.businesswire.com/news/home/20260420601906/en/Lattice-Collaborates-with-TI-to-Accelerate-Edge-AI-for-Robotics-and-Industrial-Applications",
+          "source_name": "Business Wire",
+          "published": "2026-04-20",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mediatek",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "MediaTek与NVIDIA战略合作,联合推出的Dimensity AX C-X1车用平台整合NVIDIA GPU与AI技术",
+          "article_title": "FOXTRON and MediaTek Collaborate to Advance AI-Powered Intelligent Vehicle Experiences with NVIDIA",
+          "article_url": "https://www.mediatek.com/press-room/foxtron-and-mediatek-collaborate-to-advance-ai-powered-intelligent-vehicle-experiences-with-nvidia",
+          "source_name": "MediaTek",
+          "published": "2026-06-01",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arm plc",
+      "target": "mediatek",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "MediaTek发布的Dimensity 7500是首款采用Arm全新C1 CPU核心的移动处理器",
+          "article_title": "Arm and MediaTek Deliver Performance and Efficiency for AI Experiences",
+          "article_url": "https://www.arm.com/company/success-library/made-possible/mediatek",
+          "source_name": "Arm",
+          "published": "2026",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ceva",
+      "target": "mediatek",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "MediaTek将CEVA的RealSpace Elevate空间音频IP集成到Dimensity 9400旗舰芯片中",
+          "article_title": "MediaTek and Ceva Collaborate for More Immersive Spatial Audio Mobile Entertainment Experience",
+          "article_url": "https://www.prnewswire.com/news-releases/mediatek-and-ceva-collaborate-for-more-immersive-spatial-audio-mobile-entertainment-experience-302342699.html",
+          "source_name": "PR Newswire",
+          "published": "2025-01-06",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "teramount",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "AMD Ventures参投以色列光互连初创Teramount的5000万美元A轮融资,Teramount为AI芯片提供光纤-芯片连接技术",
+          "article_title": "Teramount raises $50M to address growing demand for AI infrastructure optical connectivity",
+          "article_url": "https://www.globenewswire.com/news-release/2025/07/29/3123151/0/en/Teramount-raises-50M-to-address-growing-demand-for-AI-infrastructure-optical-connectivity.html",
+          "source_name": "GlobeNewswire",
+          "published": "2025-07-29",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "micron",
+      "target": "simaai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "美光对SiMa.ai进行战略投资,双方合作将SiMa.ai的Modalix MLSoC边缘AI平台与美光LPDDR5X内存结合",
+          "article_title": "SiMa.ai Secures Strategic Investment from Micron to Scale High-Performance, Power-Efficient Physical AI",
+          "article_url": "https://www.prnewswire.com/news-releases/simaai-secures-strategic-investment-from-micron-to-scale-high-performance-power-efficient-physical-ai-302736503.html",
+          "source_name": "PR Newswire",
+          "published": "2026-04-08",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blaize",
+      "target": "ambarella",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Blaize在SEC S-1文件中披露,在无人机、机器人及嵌入式应用市场,其竞争对手包括Ambarella",
+          "article_title": "Blaize Holdings, Inc. Form S-1",
+          "article_url": "https://www.sec.gov/Archives/edgar/data/1871638/000119312525008689/d906819ds1.htm",
+          "source_name": "SEC EDGAR",
+          "published": "2025",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blaize",
+      "target": "hailo",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Blaize在SEC S-1文件中明确将Hailo Technologies列为其边缘AI硬件初创竞争对手之一",
+          "article_title": "Blaize Holdings, Inc. Form S-1",
+          "article_url": "https://www.sec.gov/Archives/edgar/data/1871638/000119312525008689/d906819ds1.htm",
+          "source_name": "SEC EDGAR",
+          "published": "2025",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blaize",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Blaize在SEC S-1文件中披露,NVIDIA的Jetson平台是其机器视觉及边缘AI市场的主要竞争产品之一",
+          "article_title": "Blaize Holdings, Inc. Form S-1",
+          "article_url": "https://www.sec.gov/Archives/edgar/data/1871638/000119312525008689/d906819ds1.htm",
+          "source_name": "SEC EDGAR",
+          "published": "2025",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blaize",
+      "target": "qualcomm incorporated",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Blaize在SEC S-1文件中披露,Qualcomm是其机器视觉及边缘AI嵌入式应用市场的主要竞争对手之一",
+          "article_title": "Blaize Holdings, Inc. Form S-1",
+          "article_url": "https://www.sec.gov/Archives/edgar/data/1871638/000119312525008689/d906819ds1.htm",
+          "source_name": "SEC EDGAR",
+          "published": "2025",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "qualcomm incorporated",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "在2026年AI PC/端侧NPU芯片竞争格局中,AMD、Intel、Qualcomm、Apple四家架构在同一批笔记本采购需求上正面竞争",
+          "article_title": "The Laptop Chip War Has Never Been This Competitive",
+          "article_url": "https://www.techbetweenthelines.com/articles/the-laptop-chip-war-has-never-been-this-competitive-heres-whos-actually-winning/",
+          "source_name": "Tech Between the Lines",
+          "published": "2026-04-27",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "intel",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "AMD与Intel在2026年AI PC/端侧NPU芯片市场正面竞争",
+          "article_title": "The Laptop Chip War Has Never Been This Competitive",
+          "article_url": "https://www.techbetweenthelines.com/articles/the-laptop-chip-war-has-never-been-this-competitive-heres-whos-actually-winning/",
+          "source_name": "Tech Between the Lines",
+          "published": "2026-04-27",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "apple",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Apple Silicon与AMD的x86端侧AI方案并列为2026年笔记本芯片市场的主要竞争架构之一",
+          "article_title": "The Laptop Chip War Has Never Been This Competitive",
+          "article_url": "https://www.techbetweenthelines.com/articles/the-laptop-chip-war-has-never-been-this-competitive-heres-whos-actually-winning/",
+          "source_name": "Tech Between the Lines",
+          "published": "2026-04-27",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qualcomm incorporated",
+      "target": "apple",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Qualcomm的Snapdragon X2 Elite与Apple Silicon在Windows-on-Arm与Mac端侧AI处理器市场形成直接竞争",
+          "article_title": "The Laptop Chip War Has Never Been This Competitive",
+          "article_url": "https://www.techbetweenthelines.com/articles/the-laptop-chip-war-has-never-been-this-competitive-heres-whos-actually-winning/",
+          "source_name": "Tech Between the Lines",
+          "published": "2026-04-27",
+          "added_at": "2026-08-06T04:58:40.050696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "constellation energy",
+      "target": "microsoft",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Constellation与微软签署20年电力购买协议,重启三里岛1号机组(更名为Crane Clean Energy Center,835MW),为微软数据中心提供无碳核电,预计2028年投运",
+          "article_title": "Constellation to Launch Crane Clean Energy Center",
+          "article_url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+          "source_name": "Constellation Energy",
+          "published": "2024-09-20",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "talen energy",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Talen扩大与Amazon(AWS)的核能合作,承诺自Susquehanna核电站向AWS宾夕法尼亚数据中心供应1920MW无碳电力至2042年",
+          "article_title": "Talen Energy Expands Nuclear Energy Relationship with Amazon",
+          "article_url": "https://ir.talenenergy.com/news-releases/news-release-details/talen-energy-expands-nuclear-energy-relationship-amazon",
+          "source_name": "Talen Energy Investor Relations",
+          "published": "2025-06-11",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vistra",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Vistra与Amazon(AWS)签署20年电力购买协议,自Comanche Peak核电站向其供应最高1200MW无碳电力,2027年Q4起交付",
+          "article_title": "Vistra secures long-term nuclear PPA from Comanche Peak nuclear plant",
+          "article_url": "https://www.power-eng.com/nuclear/vistra-secures-long-term-nuclear-ppa-from-comanche-peak-nuclear-plant/",
+          "source_name": "Power Engineering",
+          "published": "2025-09-29",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "xenergy",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "亚马逊气候誓言基金牵头对X-energy约5亿美元的C-1轮融资,用于推进Xe-100 SMR反应堆设计许可及TRISO-X燃料工厂建设",
+          "article_title": "Amazon Invests in X-energy to Support Advanced Small Modular Nuclear Reactors and Expand Carbon-Free Power",
+          "article_url": "https://x-energy.com/media/news-releases/amazon-invests-in-x-energy-to-support-advanced-small-modular-nuclear-reactors-and-expand-carbon-free-power",
+          "source_name": "X-energy",
+          "published": "2024-10-16",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kairos power",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Kairos Power与谷歌签署主厂开发协议,计划到2035年部署500MW先进核电;首个项目Hermes 2通过TVA电网为谷歌数据中心供电,预计2030年投运",
+          "article_title": "Google and Kairos Power Partner to Deploy 500 MW of Clean Electricity Generation",
+          "article_url": "https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation",
+          "source_name": "Kairos Power",
+          "published": "2024-10",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oklo",
+      "target": "switch",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Oklo与数据中心开发商Switch签署非约束性主电力协议,计划到2044年部署12GW的Aurora核电设施为Switch美国各地数据中心供电",
+          "article_title": "Oklo and Switch Form Landmark Strategic Relationship to Deploy 12 Gigawatts of Advanced Nuclear Power",
+          "article_url": "https://www.switch.com/oklo-and-switch-form-landmark-strategic-relationship/",
+          "source_name": "Switch",
+          "published": "2024-12-18",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oklo",
+      "target": "meta platforms",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Oklo与Meta达成协议,推进在俄亥俄州派克县开发1.2GW核电园区以支持Meta当地数据中心供电",
+          "article_title": "Oklo, Meta Announce Agreement in Support of 1.2 GW Nuclear Energy Development in Southern Ohio",
+          "article_url": "https://oklo.com/newsroom/news-details/2026/Oklo-Meta-Announce-Agreement-in-Support-of-1-2-GW-Nuclear-Energy-Development-in-Southern-Ohio/default.aspx",
+          "source_name": "Oklo Inc.",
+          "published": "2026-01-09",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vertiv",
+      "target": "nvidia",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Vertiv与NVIDIA联合开发面向GB200 NVL72平台的7MW参考架构,整合液冷与气冷方案",
+          "article_title": "Vertiv Codevelops with NVIDIA Complete Power and Cooling Blueprint",
+          "article_url": "https://www.businesswire.com/news/home/20241014494536/en/Vertiv-Codevelops-with-NVIDIA-Complete-Power-and-Cooling-Blueprint-for-NVIDIA-GB200-NVL72-Platform",
+          "source_name": "Business Wire",
+          "published": "2024-10-14",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "eaton",
+      "target": "nvidia",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Eaton加入NVIDIA合作伙伴网络,双方联合开发面向AI工厂的800VDC电力架构与Beam Rubin DSX平台",
+          "article_title": "Eaton accelerates the transformation of data center infrastructure in the AI era with NVIDIA",
+          "article_url": "https://www.eaton.com/us/en-us/company/news-insights/news-releases/2025/eaton-accelerates-data-center-infrastrructure-in-ai-era-with-nvidia.html",
+          "source_name": "Eaton",
+          "published": "2025-07-15",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bloom energy",
+      "target": "american electric power",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "AEP与Bloom Energy签署供货协议,最高采购1GW固体氧化物燃料电池(20年、26.5亿美元承购协议),用于AI数据中心现场发电",
+          "article_title": "Bloom Energy Announces Gigawatt Fuel Cell Procurement Agreement with AEP to Power AI Data Centers",
+          "article_url": "https://investor.bloomenergy.com/press-releases/press-release-details/2024/Bloom-Energy-Announces-Gigawatt-Fuel-Cell-Procurement-Agreement-with-AEP-to-Power-AI-Data-Centers/default.aspx",
+          "source_name": "Bloom Energy Investor Relations",
+          "published": "2024-11-14",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bloom energy",
+      "target": "oracle",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Oracle与Bloom Energy合作,在新墨西哥州Project Jupiter AI数据中心园区部署最多2.45GW的Bloom燃料电池",
+          "article_title": "Oracle, BorderPlex, and Bloom Energy to Power Project Jupiter",
+          "article_url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/",
+          "source_name": "Oracle",
+          "published": "2026-04-27",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvent electric",
+      "target": "nvidia",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "nVent与NVIDIA合作开发支持GB200 NVL72及后续平台的液冷参考架构",
+          "article_title": "nVent Collaborates with NVIDIA on AI-Ready Liquid Cooling Solutions",
+          "article_url": "https://investors.nvent.com/press-releases/press-release-details/2024/nVent-Collaborates-with-NVIDIA-on-AI-Ready-Liquid-Cooling-Solutions/default.aspx",
+          "source_name": "nVent Electric",
+          "published": "2024-11-18",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coolit systems",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "CoolIT Systems加入NVIDIA合作伙伴网络,推出面向NVIDIA Blackwell平台的冷却液分配单元、直接液冷服务器及机架歧管系统",
+          "article_title": "CoolIT Systems' Liquid Cooling to Support Nvidia Blackwell",
+          "article_url": "https://insidehpc.com/2024/10/coolit-systems-liquid-cooling-to-support-nvidia-blackwell/",
+          "source_name": "Inside HPC & AI News",
+          "published": "2024-10-15",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coolit systems",
+      "target": "vertiv",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "市场研究机构将CoolIT Systems(现属Ecolab)与Vertiv并列为数据中心液冷歧管市场的领先竞争企业",
+          "article_title": "CoolIT Systems (Ecolab) and Vertiv are the leading key players in the Data Center Liquid Cooling Manifolds Market",
+          "article_url": "https://www.marketsandmarkets.com/ResearchInsight/data-center-liquid-cooling-manifolds-companies.asp",
+          "source_name": "MarketsandMarkets",
+          "published": "2026-06-30",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nuscale power",
+      "target": "standard power",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Standard Power选择NuScale经NRC认证的SMR技术,为其在俄亥俄州和宾夕法尼亚州的两座数据中心项目提供近2GW无碳电力",
+          "article_title": "Standard Power Chooses NuScale's Approved SMR Technology",
+          "article_url": "https://www.nuscalepower.com/press-releases/2023/standard-power-chooses-nuscales-approved-smr-technology-and-entra1-energy-to-energize-data-centers",
+          "source_name": "NuScale Power",
+          "published": "2023-10-06",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "terrapower",
+      "target": "sabey data centers",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "TerraPower与Sabey Data Centers签署合作备忘录,探索为Sabey现有及未来数据中心部署Natrium先进核电+储能系统",
+          "article_title": "TerraPower and Sabey Data Centers Developing Strategic Collaboration Agreement",
+          "article_url": "https://www.terrapower.com/terrapower-and-sabey-data-centers-agreement-for-natrium-wide-scale-deployment",
+          "source_name": "TerraPower",
+          "published": "2025-01-21",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "terrapower",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "TerraPower完成6.5亿美元融资,NVIDIA风险投资部门NVentures首次涉足能源领域参与本轮投资,资金用于支持其怀俄明州首座商用Natrium核电站建设",
+          "article_title": "TerraPower Announces $650 Million Fundraise",
+          "article_url": "https://www.businesswire.com/news/home/20250618150590/en/TerraPower-Announces-$650-Million-Fundraise",
+          "source_name": "Business Wire",
+          "published": "2025-06-18",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "southern",
+      "target": "openai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Southern Company旗下Georgia Power与OpenAI签署25年供电协议,为其\"Project Camellia\"数据中心园区分阶段供电最高3.2GW",
+          "article_title": "Georgia Power to serve OpenAI project in Effingham County",
+          "article_url": "https://www.georgiapower.com/news-hub/press-releases/georgia-power-to-serve-openai-project-in-effingham-county.html",
+          "source_name": "Georgia Power",
+          "published": "2026-07-22",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "duke energy",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "亚马逊在北卡罗来纳州建设AI云计算数据中心园区,选址毗邻Duke Energy的Smith Energy Complex燃气电厂,项目并网前由Duke Energy新增发电机组临时供电",
+          "article_title": "Amazon plans to invest $10 billion in North Carolina",
+          "article_url": "https://www.aboutamazon.com/news/aws/aws-investment-north-carolina-ai-cloud-infrastructure",
+          "source_name": "About Amazon",
+          "published": "2025-06-18",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ge vernova",
+      "target": "chevron",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Engine No. 1、Chevron与GE Vernova联合成立新公司,利用GE Vernova 7HA天然气轮机建设电力铸造厂,为数据中心提供最高4GW电力",
+          "article_title": "Chevron, Engine No. 1 and GE Vernova To Power U.S. Data Centers",
+          "article_url": "https://www.chevron.com/newsroom/2025/q1/power-solutions-for-us-data-centers",
+          "source_name": "Chevron",
+          "published": "2025-01-28",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ge vernova",
+      "target": "engine no 1",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "GE Vernova与投资机构Engine No. 1、Chevron共同组建新公司开发天然气发电电力铸造厂项目,为美国数据中心提供最高4GW就地供电",
+          "article_title": "Chevron, Engine No. 1 and GE Vernova To Power U.S. Data Centers",
+          "article_url": "https://www.chevron.com/newsroom/2025/q1/power-solutions-for-us-data-centers",
+          "source_name": "Chevron",
+          "published": "2025-01-28",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nextera energy",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NextEra Energy与谷歌云宣布战略合作,共建多个配套专属发电设施的吉瓦级数据中心园区,谷歌已从NextEra签约约3.5GW电力",
+          "article_title": "NextEra Energy and Google Cloud Announce Landmark Strategic Energy and Technology Partnership",
+          "article_url": "https://newsroom.nexteraenergy.com/2025-12-08-NextEra-Energy-and-Google-Cloud-Announce-Landmark-Strategic-Energy-and-Technology-Partnership-to-Accelerate-AI-Growth-and-Transform-the-Energy-Industry?l=12",
+          "source_name": "NextEra Energy Newsroom",
+          "published": "2025-12-08",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nextera energy",
+      "target": "meta platforms",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NextEra Energy Resources与Meta新签11份购电协议及2份储能协议,合计约2.5GW清洁能源产能,支持Meta数据中心用电增长",
+          "article_title": "NextEra Energy Resources and Meta Strengthen American Energy Leadership",
+          "article_url": "https://newsroom.nexteraenergy.com/2025-12-08-NextEra-Energy-Resources-and-Meta-Strengthen-American-Energy-Leadership?l=12",
+          "source_name": "NextEra Energy Newsroom",
+          "published": "2025-12-08",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vertiv",
+      "target": "eaton",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "行业分析将Vertiv、Schneider Electric与Eaton并列为AI数据中心供电与冷却解决方案市场的三大主要竞争者",
+          "article_title": "Vertiv vs Schneider vs Eaton",
+          "article_url": "https://introl.com/blog/vertiv-schneider-eaton-cooling-solutions-comparison-ai-data-centers",
+          "source_name": "Introl",
+          "published": "2026-03-11",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nuscale power",
+      "target": "oklo",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "NuScale Power与Oklo被行业报道并列为SMR/先进核能赛道中最受关注的两家竞争对手,双方在技术路线、监管进度和数据中心供电订单上直接竞争",
+          "article_title": "NuScale vs. Oklo: Which Nuclear Stock Will Come Out on Top?",
+          "article_url": "https://www.fool.com/investing/2025/08/27/nuscale-vs-oklo-which-nuclear-stock-will-come",
+          "source_name": "The Motley Fool",
+          "published": "2025-08-27",
+          "added_at": "2026-08-06T04:59:53.197516+00:00"
         }
       ]
     }
