@@ -52,6 +52,42 @@ SOURCES: list[Source] = [
         kind="html_listing",
         headers={"User-Agent": USER_AGENT},
     ),
+    Source(
+        id="spacenews",
+        name="SpaceNews",
+        feed_url="https://spacenews.com/feed/",
+        headers={"User-Agent": USER_AGENT},
+    ),
+    Source(
+        id="nasaspaceflight",
+        name="NASASpaceFlight.com",
+        feed_url="https://www.nasaspaceflight.com/feed/",
+        headers={"User-Agent": USER_AGENT},
+    ),
+    Source(
+        id="the_quantum_insider",
+        name="The Quantum Insider",
+        feed_url="https://thequantuminsider.com/feed/",
+        headers={"User-Agent": USER_AGENT},
+    ),
+    Source(
+        id="datacenterdynamics",
+        name="DataCenterDynamics",
+        feed_url="https://www.datacenterdynamics.com/en/rss/",
+        headers={"User-Agent": USER_AGENT},
+    ),
+    Source(
+        id="techcrunch_ai",
+        name="TechCrunch - AI",
+        feed_url="https://techcrunch.com/category/artificial-intelligence/feed/",
+        headers={"User-Agent": USER_AGENT},
+    ),
+    Source(
+        id="siliconangle",
+        name="SiliconANGLE",
+        feed_url="https://siliconangle.com/feed/",
+        headers={"User-Agent": USER_AGENT},
+    ),
 ]
 
 # path segments on a listing page that are never individual articles

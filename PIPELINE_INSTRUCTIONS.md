@@ -5,9 +5,8 @@
 
 ## 背景
 
-用户定期关注机器人/AI 科技领域的五个信息源(The Robot Report - Haptics 分类、ScienceDaily -
-Robotics、IEEE Spectrum - Robotics、Import AI Substack、DeepLearning.AI - The Batch 的
-Research 标签)。这套工具的目标:
+用户定期关注机器人/AI/太空经济/量子计算/能源等领域的十一个信息源,具体列表见
+[README.md](README.md#信息源),配置在 `src/sources.py` 里。这套工具的目标:
 
 1. 自动发现新文章,读全文,产出一篇中文成品分析文章,写作逻辑严格照着仓库根目录
    `style_reference.md` 里用户自己的写作风格模仿(连续论述 + 系统性拆解 + 显式"个人看法" +

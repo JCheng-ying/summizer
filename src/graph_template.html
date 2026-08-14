@@ -400,6 +400,7 @@ document.getElementById("modal-overlay").addEventListener("click", (e) => {
 window.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
 
 function onSectorChange() {
+  egoFocusId = null;
   renderSectorTabs();
   renderSectorSignals();
   applyFilters();
@@ -431,8 +432,13 @@ buildChips(document.getElementById("node-type-filters"),
   Object.entries(NODE_TYPE_LABEL), NODE_TYPE_COLOR, activeNodeTypes, applyFilters);
 
 let searchTerm = "";
+let egoFocusId = null; // when set, show only this node + its direct neighbors
 const searchInput = document.getElementById("search");
 const suggestionsBox = document.getElementById("search-suggestions");
+
+function isDirectNeighbor(idA, idB) {
+  return links.some(l => (l.source === idA && l.target === idB) || (l.source === idB && l.target === idA));
+}
 
 function renderSuggestions() {
   if (!searchTerm) { suggestionsBox.style.display = "none"; return; }
@@ -452,7 +458,8 @@ function renderSuggestions() {
     el.addEventListener("click", () => {
       const n = matches[parseInt(el.dataset.idx, 10)];
       searchInput.value = n.name;
-      searchTerm = n.name.toLowerCase();
+      searchTerm = "";
+      egoFocusId = n.id;
       suggestionsBox.style.display = "none";
       applyFilters();
       showNodeDetail(n);
@@ -468,6 +475,7 @@ function focusOnNode(n) {
 }
 
 searchInput.addEventListener("input", (e) => {
+  egoFocusId = null;
   searchTerm = e.target.value.trim().toLowerCase();
   applyFilters();
   renderSuggestions();
@@ -524,6 +532,11 @@ const nodeGroups = nodes.map(n => {
 svg.addEventListener("click", () => {
   document.getElementById("detail").innerHTML = '<div class="placeholder">点击一个节点或连线查看详情</div>';
   highlightNone();
+  if (egoFocusId) {
+    egoFocusId = null;
+    searchInput.value = "";
+    applyFilters();
+  }
 });
 
 // ---------- force simulation (self-contained, no external deps) ----------
@@ -708,9 +721,15 @@ function highlightNone() {
 function applyFilters() {
   nodes.forEach((n, i) => {
     const typeOk = activeNodeTypes.has(n.type);
-    const searchOk = !searchTerm || n.name.toLowerCase().includes(searchTerm);
     const sectorOk = !currentSector || n.sectorTags.includes(currentSector);
-    nodeGroups[i].style.display = (typeOk && searchOk && sectorOk) ? "" : "none";
+    let visible;
+    if (egoFocusId) {
+      visible = (n.id === egoFocusId || isDirectNeighbor(n.id, egoFocusId)) && typeOk && sectorOk;
+    } else {
+      const searchOk = !searchTerm || n.name.toLowerCase().includes(searchTerm);
+      visible = typeOk && searchOk && sectorOk;
+    }
+    nodeGroups[i].style.display = visible ? "" : "none";
   });
   links.forEach((l, i) => {
     const typeOk = activeEdgeTypes.has(l.type);

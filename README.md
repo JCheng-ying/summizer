@@ -5,12 +5,28 @@
 
 ## 信息源
 
+机器人/AI 综合:
 - The Robot Report - Haptics 分类(用主站 `/feed/` 按 category 过滤,因为分类专属 feed 被 Cloudflare 拦截)
 - ScienceDaily - Robotics
 - IEEE Spectrum - Robotics
 - Import AI(Substack)—— 偏宏观/产业,适合投资角度分析
 - DeepLearning.AI - The Batch,Research 标签 —— 偏研究类文章(没有 RSS,`src/sources.py`
   里对这个源做的是轻量 HTML 列表页抓取,不是 feedparser)
+- TechCrunch - Artificial Intelligence 分类
+- SiliconANGLE —— 偏企业级 AI/云/基础设施
+
+太空经济板块:
+- SpaceNews
+- NASASpaceFlight.com
+
+量子计算板块:
+- The Quantum Insider
+
+能源板块 / AI 基础设施:
+- DataCenterDynamics
+
+没有加 CNBC 通用科技版和 SEC EDGAR——前者覆盖面太杂(消费电子、社交媒体八卦都混在一起),
+后者是财报文件库不是文章流,不适合现有的 RSS/HTML 列表抓取机制。
 
 ## 架构
 
