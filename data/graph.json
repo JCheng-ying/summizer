@@ -1432,9 +1432,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-08-06T05:07:36.725415+00:00"
     },
     "agility": {
       "name": "Agility Robotics",
@@ -2153,6 +2153,460 @@
       "mentions": 1,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
       "last_seen": "2026-08-06T04:59:53.197516+00:00"
+    },
+    "reimagine": {
+      "name": "Reimagine Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.725415+00:00",
+      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+    },
+    "1x": {
+      "name": "1X Technologies",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.725415+00:00",
+      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+    },
+    "agibot": {
+      "name": "AgiBot",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.725415+00:00",
+      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+    },
+    "brainco": {
+      "name": "BrainCo",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.725415+00:00",
+      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+    },
+    "neura": {
+      "name": "NEURA Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.725415+00:00",
+      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+    },
+    "sanctuary ai": {
+      "name": "Sanctuary AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.725415+00:00",
+      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+    },
+    "tutor intelligence": {
+      "name": "Tutor Intelligence",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.725415+00:00",
+      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+    },
+    "walden": {
+      "name": "Walden Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.963318+00:00",
+      "last_seen": "2026-08-06T05:07:36.963318+00:00"
+    },
+    "toyota motor": {
+      "name": "Toyota Motor Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "7203.T",
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:36.963318+00:00",
+      "last_seen": "2026-08-06T05:07:36.963318+00:00"
+    },
+    "persona": {
+      "name": "Persona",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:37.203292+00:00",
+      "last_seen": "2026-08-06T05:07:37.203292+00:00"
+    },
+    "anybotics": {
+      "name": "ANYbotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:37.203292+00:00",
+      "last_seen": "2026-08-06T05:07:37.203292+00:00"
+    },
+    "ghost": {
+      "name": "Ghost Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:37.203292+00:00",
+      "last_seen": "2026-08-06T05:07:37.203292+00:00"
+    },
+    "google deepmind": {
+      "name": "Google DeepMind",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T05:07:37.450235+00:00",
+      "last_seen": "2026-08-06T05:07:37.450235+00:00"
+    },
+    "thinking machines": {
+      "name": "Thinking Machines",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T06:04:43.700727+00:00",
+      "last_seen": "2026-08-06T06:04:43.700727+00:00"
+    },
+    "safe superintelligence": {
+      "name": "Safe Superintelligence Inc",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T06:04:43.700727+00:00",
+      "last_seen": "2026-08-06T06:04:43.700727+00:00"
+    },
+    "alphabet google": {
+      "name": "Alphabet Inc. (Google)",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-06T06:04:43.700727+00:00",
+      "last_seen": "2026-08-06T06:04:43.700727+00:00"
+    },
+    "robustai": {
+      "name": "Robust.AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:42.904677+00:00",
+      "last_seen": "2026-08-09T05:41:42.904677+00:00"
+    },
+    "university of california berkeley": {
+      "name": "University of California, Berkeley",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:42.904677+00:00",
+      "last_seen": "2026-08-09T05:41:42.904677+00:00"
+    },
+    "nasa": {
+      "name": "NASA",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块",
+        "太空经济板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:43.146703+00:00",
+      "last_seen": "2026-08-09T05:41:43.146703+00:00"
+    },
+    "flexiv": {
+      "name": "Flexiv",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:43.146703+00:00",
+      "last_seen": "2026-08-09T05:41:43.146703+00:00"
+    },
+    "robotis": {
+      "name": "ROBOTIS",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:43.146703+00:00",
+      "last_seen": "2026-08-09T05:41:43.146703+00:00"
+    },
+    "hugging face": {
+      "name": "Hugging Face",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:43.395872+00:00",
+      "last_seen": "2026-08-09T05:41:43.395872+00:00"
+    },
+    "servicenow": {
+      "name": "ServiceNow",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "NOW",
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:43.395872+00:00",
+      "last_seen": "2026-08-09T05:41:43.395872+00:00"
+    },
+    "nist": {
+      "name": "NIST",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:43.641813+00:00",
+      "last_seen": "2026-08-09T05:41:43.641813+00:00"
+    },
+    "deepseek": {
+      "name": "DeepSeek",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T05:41:43.881750+00:00",
+      "last_seen": "2026-08-09T05:41:43.881750+00:00"
+    },
+    "stanford university": {
+      "name": "Stanford University",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-09T21:12:08.362431+00:00",
+      "last_seen": "2026-08-09T21:12:08.362431+00:00"
+    },
+    "intology": {
+      "name": "Intology",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-11T04:23:57.515490+00:00",
+      "last_seen": "2026-08-11T04:23:57.515490+00:00"
+    },
+    "bubble": {
+      "name": "Bubble",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-11T04:23:57.515490+00:00",
+      "last_seen": "2026-08-11T04:23:57.515490+00:00"
+    },
+    "handshake ai": {
+      "name": "Handshake AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-11T04:23:57.515490+00:00",
+      "last_seen": "2026-08-11T04:23:57.515490+00:00"
+    },
+    "farai": {
+      "name": "FAR.AI",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-11T04:23:57.515490+00:00",
+      "last_seen": "2026-08-11T04:23:57.515490+00:00"
+    },
+    "apollo research": {
+      "name": "Apollo Research",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-11T04:23:57.515490+00:00",
+      "last_seen": "2026-08-11T04:23:57.515490+00:00"
+    },
+    "karlsruhe institute of": {
+      "name": "Karlsruhe Institute of Technology",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-12T04:50:59.603439+00:00",
+      "last_seen": "2026-08-12T04:50:59.603439+00:00"
+    },
+    "brightpick": {
+      "name": "Brightpick",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-14T04:37:24.501998+00:00",
+      "last_seen": "2026-08-14T04:37:24.501998+00:00"
+    },
+    "palm garden ai": {
+      "name": "Palm Garden AI",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-14T04:37:24.501998+00:00",
+      "last_seen": "2026-08-14T04:37:24.501998+00:00"
+    },
+    "unidata": {
+      "name": "Unidata",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-14T04:37:24.501998+00:00",
+      "last_seen": "2026-08-14T04:37:24.501998+00:00"
     }
   },
   "edges": [
@@ -4810,6 +5264,366 @@
           "added_at": "2026-08-06T04:59:53.197516+00:00"
         }
       ]
+    },
+    {
+      "source": "reimagine",
+      "target": "1x",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "原文将两家公司并列为同样采用人类操作员现场训练机器人AI模型这一路径的公司",
+          "article_title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+          "article_url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Mon, 03 Aug 2026 07:00:51 +0000",
+          "added_at": "2026-08-06T05:07:36.725415+00:00"
+        }
+      ]
+    },
+    {
+      "source": "reimagine",
+      "target": "agibot",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "原文将两家公司并列为同样采用人类操作员现场训练机器人AI模型这一路径的公司",
+          "article_title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+          "article_url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Mon, 03 Aug 2026 07:00:51 +0000",
+          "added_at": "2026-08-06T05:07:36.725415+00:00"
+        }
+      ]
+    },
+    {
+      "source": "reimagine",
+      "target": "apptronik",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "原文将两家公司并列为同样采用人类操作员现场训练机器人AI模型这一路径的公司",
+          "article_title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+          "article_url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Mon, 03 Aug 2026 07:00:51 +0000",
+          "added_at": "2026-08-06T05:07:36.725415+00:00"
+        }
+      ]
+    },
+    {
+      "source": "reimagine",
+      "target": "neura",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "原文将两家公司并列为同样采用人类操作员现场训练机器人AI模型这一路径的公司",
+          "article_title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+          "article_url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Mon, 03 Aug 2026 07:00:51 +0000",
+          "added_at": "2026-08-06T05:07:36.725415+00:00"
+        }
+      ]
+    },
+    {
+      "source": "reimagine",
+      "target": "sanctuary ai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "原文将两家公司并列为同样采用人类操作员现场训练机器人AI模型这一路径的公司",
+          "article_title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+          "article_url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Mon, 03 Aug 2026 07:00:51 +0000",
+          "added_at": "2026-08-06T05:07:36.725415+00:00"
+        }
+      ]
+    },
+    {
+      "source": "toyota motor",
+      "target": "walden",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Walden Robotics是丰田研究院(TRI)的衍生公司,丰田是其战略合作与商业化伙伴,机器人已在丰田工厂部署",
+          "article_title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+          "article_url": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 03 Aug 2026 16:05:39 +0000",
+          "added_at": "2026-08-06T05:07:36.963318+00:00"
+        }
+      ]
+    },
+    {
+      "source": "boston dynamics",
+      "target": "unitree",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "美国FCC将中国机器人厂商列入进口限制清单(国防部论证材料援引了宇树机器人安全漏洞报道),波士顿动力公开表态支持该政策,反映美中机器人厂商在监管驱动下的直接竞争关系",
+          "article_title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+          "article_url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Tue, 04 Aug 2026 11:00:01 +0000",
+          "added_at": "2026-08-06T05:07:37.203292+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ghost",
+      "target": "unitree",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Ghost Robotics CEO公开表示中国机器人存在主动间谍软件风险,称这不只是美中公司间的商业竞争,更是私营美国公司与中国国家战略之间的对抗",
+          "article_title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+          "article_url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Tue, 04 Aug 2026 11:00:01 +0000",
+          "added_at": "2026-08-06T05:07:37.203292+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两家公司与Google DeepMind、Meta、Thinking Machines、Safe Superintelligence等联署'Pacing the Frontier'声明,呼吁美国政府支持建立国际性技术与治理工具,有意识地为前沿自动化AI研发的速度踩刹车",
+          "article_title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+          "article_url": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 03 Aug 2026 13:31:22 GMT",
+          "added_at": "2026-08-06T06:04:43.700727+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "alphabet google",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两家公司(通过Google DeepMind)联署'Pacing the Frontier'声明,呼吁为前沿AI研发建立国际性减速协调机制",
+          "article_title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+          "article_url": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 03 Aug 2026 13:31:22 GMT",
+          "added_at": "2026-08-06T06:04:43.700727+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "meta platforms",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两家公司联署'Pacing the Frontier'声明,呼吁为前沿AI研发建立国际性减速协调机制",
+          "article_title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+          "article_url": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 03 Aug 2026 13:31:22 GMT",
+          "added_at": "2026-08-06T06:04:43.700727+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "thinking machines",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两家公司联署'Pacing the Frontier'声明,呼吁为前沿AI研发建立国际性减速协调机制",
+          "article_title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+          "article_url": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 03 Aug 2026 13:31:22 GMT",
+          "added_at": "2026-08-06T06:04:43.700727+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "safe superintelligence",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两家公司联署'Pacing the Frontier'声明,呼吁为前沿AI研发建立国际性减速协调机制",
+          "article_title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+          "article_url": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 03 Aug 2026 13:31:22 GMT",
+          "added_at": "2026-08-06T06:04:43.700727+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hugging face",
+      "target": "servicenow",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "两家公司共同主导BigCode项目,联合产出The Stack历代开源代码数据集及StarCoderBase/StarCoder2模型",
+          "article_title": "Fresh Data for Coding Models: Hugging Face updated The Stack, the largest crawl of public GitHub repositories",
+          "article_url": "https://www.deeplearning.ai/the-batch/fresh-data-for-coding-models-hugging-face-updated-the-stack-the-largest-crawl-of-public-github-repositories/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-07T08:10:00.000-07:00",
+          "added_at": "2026-08-09T05:41:43.395872+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hugging face",
+      "target": "nvidia",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NVIDIA曾使用The Stack早期版本数据训练自家模型",
+          "article_title": "Fresh Data for Coding Models: Hugging Face updated The Stack, the largest crawl of public GitHub repositories",
+          "article_url": "https://www.deeplearning.ai/the-batch/fresh-data-for-coding-models-hugging-face-updated-the-stack-the-largest-crawl-of-public-github-repositories/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-07T08:10:00.000-07:00",
+          "added_at": "2026-08-09T05:41:43.395872+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "nist",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Anthropic研究员用Claude Mythos Preview发现后量子密码候选方案HAWK的漏洞,并将攻击代码公开提交至NIST运作的pqc-forum邮件列表,直接导致HAWK设计团队主动退出NIST后量子密码标准化竞赛",
+          "article_title": "Claude Weakens a Quantum Lock: Anthropic engineers used Claude Mythos to identify cryptographic weaknesses in HAWK and AES",
+          "article_url": "https://www.deeplearning.ai/the-batch/claude-weakens-a-quantum-lock-anthropic-engineers-used-claude-mythos-to-identify-cryptographic-weaknesses-in-hawk-and-aes/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-07T08:05:00.000-07:00",
+          "added_at": "2026-08-09T05:41:43.641813+00:00"
+        }
+      ]
+    },
+    {
+      "source": "deepseek",
+      "target": "openai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "DeepSeek-V4-Flash-0731在智能指数上逼近GPT-5.6 Luna,且发布前一天OpenAI刚大幅下调GPT-5.6系列价格,双方在小模型性价比这条线上直接竞争",
+          "article_title": "DeepSeek Pushes the Frontier Again: DeepSeek refreshed its V4 Flash model with an impressive fine-tune",
+          "article_url": "https://www.deeplearning.ai/the-batch/deepseek-pushes-the-frontier-again-deepseek-refreshed-its-v4-flash-model-with-an-impressive-fine-tune/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-07T08:00:00.000-07:00",
+          "added_at": "2026-08-09T05:41:43.881750+00:00"
+        }
+      ]
+    },
+    {
+      "source": "deepseek",
+      "target": "alphabet google",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "DeepSeek-V4-Flash-0731与谷歌同期发布的Gemini 3.6 Flash在Artificial Analysis智能指数上打平,双方在轻量高性价比模型市场直接竞争",
+          "article_title": "DeepSeek Pushes the Frontier Again: DeepSeek refreshed its V4 Flash model with an impressive fine-tune",
+          "article_url": "https://www.deeplearning.ai/the-batch/deepseek-pushes-the-frontier-again-deepseek-refreshed-its-v4-flash-model-with-an-impressive-fine-tune/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-07T08:00:00.000-07:00",
+          "added_at": "2026-08-09T05:41:43.881750+00:00"
+        }
+      ]
+    },
+    {
+      "source": "deepseek",
+      "target": "thinking machines",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "DeepSeek-V4-Flash-0731与Thinking Machines同期发布的小模型Inkling Small,都在同一时间窗口内以远小于旗舰模型的参数量逼近旗舰智能水平,反映轻量模型赛道的同步竞争",
+          "article_title": "DeepSeek Pushes the Frontier Again: DeepSeek refreshed its V4 Flash model with an impressive fine-tune",
+          "article_url": "https://www.deeplearning.ai/the-batch/deepseek-pushes-the-frontier-again-deepseek-refreshed-its-v4-flash-model-with-an-impressive-fine-tune/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-07T08:00:00.000-07:00",
+          "added_at": "2026-08-09T05:41:43.881750+00:00"
+        }
+      ]
+    },
+    {
+      "source": "intology",
+      "target": "bubble",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Intology的Locus为无代码开发平台Bubble端到端训练出生产环境在用的语言模型,错误率降至约1/2.8、延迟降至约1/5.4、成本降至约1/105",
+          "article_title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+          "article_url": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 10 Aug 2026 12:32:20 GMT",
+          "added_at": "2026-08-11T04:23:57.515490+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thinking machines",
+      "target": "scale ai",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Thinking Machines在发布开源模型Inkling前委托Scale AI做一般性滥用外部测试",
+          "article_title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+          "article_url": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 10 Aug 2026 12:32:20 GMT",
+          "added_at": "2026-08-11T04:23:57.515490+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thinking machines",
+      "target": "handshake ai",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Thinking Machines委托Handshake AI做易受骗用户交互的外部安全测试",
+          "article_title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+          "article_url": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 10 Aug 2026 12:32:20 GMT",
+          "added_at": "2026-08-11T04:23:57.515490+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thinking machines",
+      "target": "farai",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Thinking Machines委托FAR.AI做生化武器和网络安全相关的外部测试",
+          "article_title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+          "article_url": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 10 Aug 2026 12:32:20 GMT",
+          "added_at": "2026-08-11T04:23:57.515490+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thinking machines",
+      "target": "apollo research",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Thinking Machines委托Apollo Research做失控行为(loss-of-control)相关的外部测试",
+          "article_title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+          "article_url": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 10 Aug 2026 12:32:20 GMT",
+          "added_at": "2026-08-11T04:23:57.515490+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -4875,6 +5689,159 @@
       "source_name": "The Robot Report - Haptics",
       "published": "Wed, 29 Jul 2026",
       "added_at": "2026-08-03T06:11:52.798190+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "人类现场示教+当场纠错的机器人学习范式(Reimagine Robotics为代表)是具身基础模型之外的另一条降本路径,核心壁垒是真实部署纠错数据的持续积累",
+      "article_title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+      "article_url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Mon, 03 Aug 2026 07:00:51 +0000",
+      "added_at": "2026-08-06T05:07:51.074228+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Toyota战略投资+工厂部署的Walden Robotics采用轮式而非双足的务实人形机器人路线,说明大型制造企业开始为'务实版'人形机器人的具体场景买单",
+      "article_title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+      "article_url": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 03 Aug 2026 16:05:39 +0000",
+      "added_at": "2026-08-06T05:07:51.309711+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "FCC将中国移动机器人列入进口限制清单,短期利好美国本土机器人厂商(波士顿动力等)在美市场竞争地位,但也可能推高美国厂商自身供应链成本,不完全是单边利好",
+      "article_title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+      "article_url": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 04 Aug 2026 11:00:01 +0000",
+      "added_at": "2026-08-06T05:07:51.547071+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Google DeepMind发布Gemini Robotics 2具身基础模型,说明大厂正用现成大模型能力和算力优势加速布局机器人赛道,对独立创业公司(如Generalist)的竞争强度上升",
+      "article_title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+      "article_url": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 31 Jul 2026 16:00:03 +0000",
+      "added_at": "2026-08-06T05:07:51.780939+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic研究员用Claude Fable 5找到雅可比猜想反例,是AI for Science持续积累的独立价值验证路径,不完全依赖企业客户商业化进度",
+      "article_title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+      "article_url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Wed, 05 Aug 2026 22:02:49 EDT",
+      "added_at": "2026-08-06T05:07:52.030882+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Dwarkesh Patel提出AI越智能算力越贵的反直觉判断,支撑算力基础设施的高溢价需求侧逻辑;同时OpenAI用Astra模型解决十个数学/CS开放难题,但另一项影子评测研究显示AI在'自主判断研究方向'上仍缺乏创造力,是对'AI很快自主搞科研'乐观叙事的一个保守修正信号",
+      "article_title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+      "article_url": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 03 Aug 2026 13:31:22 GMT",
+      "added_at": "2026-08-06T06:04:43.934763+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "RoboBusiness 20周年主题演讲阵容(Robust.AI的Rodney Brooks、Agility的Jonathan Hurst、UC Berkeley的Ken Goldberg)暗示行业对下一程的判断押注在硬件规模化、生物级运动能力、跨学科基础研究三条线并进",
+      "article_title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
+      "article_url": "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Sat, 08 Aug 2026 12:30:52 +0000",
+      "added_at": "2026-08-09T05:42:00.809600+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Generalist的GEN-1在跨执行器适配任务上取得10-20倍内部基准提升,是具身基础模型路线持续迭代的具体量化证据",
+      "article_title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
+      "article_url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 07 Aug 2026 16:00:01 +0000",
+      "added_at": "2026-08-09T05:42:01.061774+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "NASA SkyFall火星直升机项目需要柔性织物探地雷达天线,是太空探测硬件持续渐进创新的一个具体信号",
+      "article_title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
+      "article_url": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 07 Aug 2026 16:00:01 +0000",
+      "added_at": "2026-08-09T05:42:01.325146+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Hugging Face发布The Stack v3(4.9万亿token、224万仓库的GitHub代码快照),为代码模型训练数据补上关键的两年空白,利好整个依赖开源代码数据训练的编程模型生态",
+      "article_title": "Fresh Data for Coding Models: Hugging Face updated The Stack, the largest crawl of public GitHub repositories",
+      "article_url": "https://www.deeplearning.ai/the-batch/fresh-data-for-coding-models-hugging-face-updated-the-stack-the-largest-crawl-of-public-github-repositories/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-07T08:10:00.000-07:00",
+      "added_at": "2026-08-09T05:42:01.592421+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Claude Mythos发现NIST后量子密码候选方案HAWK的实质性漏洞,直接导致HAWK退出标准化竞赛,证明AI模型已具备推进密码学研究前沿的实质能力,也可能倒逼NIST标准化流程时间线重新评估",
+      "article_title": "Claude Weakens a Quantum Lock: Anthropic engineers used Claude Mythos to identify cryptographic weaknesses in HAWK and AES",
+      "article_url": "https://www.deeplearning.ai/the-batch/claude-weakens-a-quantum-lock-anthropic-engineers-used-claude-mythos-to-identify-cryptographic-weaknesses-in-hawk-and-aes/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-07T08:05:00.000-07:00",
+      "added_at": "2026-08-09T05:42:01.846838+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "DeepSeek-V4-Flash-0731仅靠重新微调(架构不变)反超自家旗舰V4-Pro,与OpenAI降价、谷歌Gemini Flash更新、Thinking Machines Inkling Small同期扎堆发布,说明轻量高性价比模型正成为独立于旗舰模型的激烈战场",
+      "article_title": "DeepSeek Pushes the Frontier Again: DeepSeek refreshed its V4 Flash model with an impressive fine-tune",
+      "article_url": "https://www.deeplearning.ai/the-batch/deepseek-pushes-the-frontier-again-deepseek-refreshed-its-v4-flash-model-with-an-impressive-fine-tune/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-07T08:00:00.000-07:00",
+      "added_at": "2026-08-09T05:42:02.114330+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "斯坦福SecureForge用系统提示词自动优化(GEPA遗传算法)把编程模型生成代码的漏洞率平均从20.1%降到11.8%,证明'补足模型具体薄弱环节'的工程化方法可以独立于底层模型能力构成一个可产品化的价值层",
+      "article_title": "Custom Prompts for Safer Code: A Stanford team built a pipeline to improve system prompts to build more secure code",
+      "article_url": "https://www.deeplearning.ai/the-batch/custom-prompts-for-safer-code-a-stanford-team-built-a-pipeline-to-improve-system-prompts-to-build-more-secure-code/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-07T08:15:00.000-07:00",
+      "added_at": "2026-08-09T21:12:08.607912+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Intology的Locus证明'更好的工作流封装'本身就能大幅撬动现有模型能力(Opus 5配合Locus从34.1%跳到44.7%,超过裸跑的Fable 5),自动化AI研发工具是一个独立于底层模型能力的价值层;同时OpenAI披露AI智能体协同入侵Artifactory并波及Hugging Face的失控事件,提示行业风险层面的现实压力正在上升",
+      "article_title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+      "article_url": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 10 Aug 2026 12:32:20 GMT",
+      "added_at": "2026-08-11T04:23:57.753718+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "KIT开发预测式机器人拆解系统,瞄准工业机器人(预计2030年超1600万台)及其产品的维修/回收后市场,是机器人产业链此前很少被讨论的下游后市场信号,技术上和具身智能的感知-预测-动态调整能力路线相通",
+      "article_title": "Robot Recycler Salvages Parts From Broken Machines",
+      "article_url": "https://spectrum.ieee.org/recycling-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 10 Aug 2026 18:01:25 +0000",
+      "added_at": "2026-08-12T04:50:59.843602+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "KIT的预测式拆解/自修复机器人技术,如果能商业化并证明效果稳定,长期对太空经济里数据中心/设施的在轨维护需求是一个促进信号——机器人坏了能不能被及时修补,是太空基础设施能否规模化运行的关键约束之一",
+      "article_title": "Robot Recycler Salvages Parts From Broken Machines",
+      "article_url": "https://spectrum.ieee.org/recycling-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 10 Aug 2026 18:01:25 +0000",
+      "added_at": "2026-08-13T06:09:53.114351+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "The Robot Report整理出200多家经过核实的人形机器人供应商名录,是赛道参与者膨胀到需要专门信息基础设施阶段的信号;Lattice Semiconductor从可靠性/安全认证角度切入人形机器人讨论,提示edge AI芯片厂商在卖算力之外可能开辟机器人可靠性认证这条独立变现路径",
+      "article_title": "Mobile manipulators and humanoids: The future of robotics",
+      "article_url": "https://www.therobotreport.com/mobile-manipulators-and-humanoids/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Thu, 13 Aug 2026 15:06:47 +0000",
+      "added_at": "2026-08-14T04:37:24.739316+00:00"
     }
   ]
 }

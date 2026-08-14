@@ -502,5 +502,69 @@
   "https://www.deeplearning.ai/the-batch/deepseeks-dspark-gains-velocity/": {
     "title": "DeepSeek’s DSpark Gains Velocity: DeepSeek open sourced a speculative decoding module that speeds up text generation without losing accuracy",
     "seen_at": "2026-08-03T04:32:59.277516+00:00"
+  },
+  "": {
+    "title": "能源板块底图调研",
+    "seen_at": "2026-08-06T04:59:53.199779+00:00"
+  },
+  "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/": {
+    "title": "Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+    "seen_at": "2026-08-06T05:07:36.727543+00:00"
+  },
+  "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota": {
+    "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+    "seen_at": "2026-08-06T05:07:36.965669+00:00"
+  },
+  "https://spectrum.ieee.org/fcc-covered-list-mobile-robots": {
+    "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+    "seen_at": "2026-08-06T05:07:37.206010+00:00"
+  },
+  "https://spectrum.ieee.org/video-robot-gemini2-ai-robot": {
+    "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+    "seen_at": "2026-08-06T05:07:37.452478+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/08/260804034634.htm": {
+    "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+    "seen_at": "2026-08-06T05:07:37.685995+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-467-self-sustaining-ai": {
+    "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+    "seen_at": "2026-08-06T06:04:43.703125+00:00"
+  },
+  "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/": {
+    "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
+    "seen_at": "2026-08-09T05:41:42.907114+00:00"
+  },
+  "https://spectrum.ieee.org/video-friday-heavy-lift-drone": {
+    "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
+    "seen_at": "2026-08-09T05:41:43.148949+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/fresh-data-for-coding-models-hugging-face-updated-the-stack-the-largest-crawl-of-public-github-repositories/": {
+    "title": "Fresh Data for Coding Models: Hugging Face updated The Stack, the largest crawl of public GitHub repositories",
+    "seen_at": "2026-08-09T05:41:43.398822+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/claude-weakens-a-quantum-lock-anthropic-engineers-used-claude-mythos-to-identify-cryptographic-weaknesses-in-hawk-and-aes/": {
+    "title": "Claude Weakens a Quantum Lock: Anthropic engineers used Claude Mythos to identify cryptographic weaknesses in HAWK and AES",
+    "seen_at": "2026-08-09T05:41:43.643896+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/deepseek-pushes-the-frontier-again-deepseek-refreshed-its-v4-flash-model-with-an-impressive-fine-tune/": {
+    "title": "DeepSeek Pushes the Frontier Again: DeepSeek refreshed its V4 Flash model with an impressive fine-tune",
+    "seen_at": "2026-08-09T05:41:43.883858+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/custom-prompts-for-safer-code-a-stanford-team-built-a-pipeline-to-improve-system-prompts-to-build-more-secure-code/": {
+    "title": "Custom Prompts for Safer Code: A Stanford team built a pipeline to improve system prompts to build more secure code",
+    "seen_at": "2026-08-09T21:12:08.365478+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench": {
+    "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+    "seen_at": "2026-08-11T04:23:57.518100+00:00"
+  },
+  "https://spectrum.ieee.org/recycling-robot": {
+    "title": "Robot Recycler Salvages Parts From Broken Machines",
+    "seen_at": "2026-08-12T04:50:59.606187+00:00"
+  },
+  "https://www.therobotreport.com/mobile-manipulators-and-humanoids/": {
+    "title": "Mobile manipulators and humanoids: The future of robotics",
+    "seen_at": "2026-08-14T04:37:24.504656+00:00"
   }
 }

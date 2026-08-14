@@ -2,7 +2,7 @@
 <html lang="zh">
 <head>
 <meta charset="utf-8" />
-<title>机器人/科技产业关系图谱</title>
+<title>科技产业关系图谱</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <style>
   :root {
@@ -83,11 +83,25 @@
   #sidebar h1 { font-size: 15px; margin: 0 0 4px; }
   #sidebar .sub { font-size: 12px; color: var(--text-muted); margin-bottom: 16px; }
 
+  #search-wrap { position: relative; margin-bottom: 14px; }
   input[type="search"] {
     width: 100%; padding: 8px 10px; border-radius: 8px;
     border: 1px solid var(--border); background: var(--page);
-    color: var(--text-primary); font-size: 13px; margin-bottom: 14px;
+    color: var(--text-primary); font-size: 13px;
   }
+  #search-suggestions {
+    position: absolute; left: 0; right: 0; top: calc(100% + 4px); z-index: 10;
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 8px;
+    max-height: 220px; overflow-y: auto; display: none;
+    box-shadow: 0 8px 24px rgba(0,0,0,.18);
+  }
+  .suggestion-item {
+    padding: 7px 10px; font-size: 12px; cursor: pointer;
+    display: flex; align-items: center; gap: 8px; color: var(--text-primary);
+  }
+  .suggestion-item:hover { background: var(--page); }
+  .suggestion-item .dot { width: 8px; height: 8px; border-radius: 50%; flex: 0 0 auto; }
+  .suggestion-item .type-label { color: var(--text-muted); font-size: 11px; margin-left: auto; }
 
   .section-title {
     font-size: 11px; text-transform: uppercase; letter-spacing: .04em;
@@ -102,14 +116,21 @@
   }
   .sector-tab.active { color: var(--surface-1); background: var(--slot-1); border-color: var(--slot-1); }
 
-  #sector-signals { margin-bottom: 4px; }
-  .signal-item {
-    border: 1px solid var(--border); border-radius: 8px; padding: 8px 10px; margin-bottom: 8px;
-    font-size: 12px; line-height: 1.5;
+  #sector-signals {
+    margin-bottom: 4px; max-height: 340px; overflow-y: auto; padding-right: 4px;
   }
-  .signal-item .desc { margin-bottom: 4px; }
-  .signal-item a { color: var(--slot-1); text-decoration: none; font-size: 11px; }
-  .signal-item .src { color: var(--text-muted); font-size: 11px; }
+  .signal-item {
+    border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; margin-bottom: 8px;
+    font-size: 12px; line-height: 1.5; cursor: pointer; transition: border-color .15s;
+  }
+  .signal-item:hover { border-color: var(--slot-1); }
+  .signal-item .signal-date {
+    font-size: 10px; color: var(--text-muted); text-transform: uppercase;
+    letter-spacing: .04em; margin-bottom: 5px; font-variant-numeric: tabular-nums;
+  }
+  .signal-item .signal-title { font-weight: 600; color: var(--text-primary); margin-bottom: 5px; text-wrap: balance; }
+  .signal-item .signal-desc { color: var(--text-secondary); margin-bottom: 6px; }
+  .signal-item .signal-cta { color: var(--slot-1); font-size: 11px; font-weight: 500; }
 
   .badge {
     display: inline-block; font-size: 10px; padding: 1px 6px; border-radius: 999px;
@@ -165,16 +186,64 @@
     position: absolute; bottom: 12px; left: 12px;
     font-size: 11px; color: var(--text-muted);
   }
+
+  .modal-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,.55);
+    display: none; align-items: center; justify-content: center;
+    z-index: 100; padding: 24px;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal-panel {
+    position: relative; background: var(--surface-1); border: 1px solid var(--border);
+    border-radius: 16px; max-width: 640px; width: 100%; max-height: 84vh;
+    overflow-y: auto; padding: 36px 40px; box-shadow: 0 24px 64px rgba(0,0,0,.4);
+  }
+  .modal-close {
+    position: absolute; top: 16px; right: 16px; width: 30px; height: 30px;
+    border-radius: 50%; border: 1px solid var(--border); background: transparent;
+    color: var(--text-secondary); cursor: pointer; font-size: 14px; line-height: 1;
+  }
+  .modal-close:hover { background: var(--page); color: var(--text-primary); }
+  .modal-eyebrow {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .07em;
+    color: var(--slot-1); font-weight: 700; margin-bottom: 12px;
+  }
+  .modal-title {
+    font-size: 23px; font-weight: 700; line-height: 1.35; margin: 0 0 8px;
+    text-wrap: balance; color: var(--text-primary);
+  }
+  .modal-meta {
+    font-size: 12px; color: var(--text-muted); margin-bottom: 22px;
+    font-variant-numeric: tabular-nums;
+  }
+  .modal-lead {
+    font-size: 15px; font-weight: 500; line-height: 1.65; color: var(--text-primary);
+    border-left: 3px solid var(--slot-1); padding: 2px 0 2px 16px; margin-bottom: 26px;
+  }
+  .modal-body { font-size: 14px; line-height: 1.8; color: var(--text-secondary); }
+  .modal-body p { margin: 0 0 16px; max-width: 62ch; }
+  .modal-body p.personal-view {
+    background: var(--page); border-radius: 10px; padding: 14px 18px;
+    border-left: 3px solid var(--slot-7); color: var(--text-primary); max-width: none;
+  }
+  .modal-source-link {
+    display: inline-block; margin-top: 8px; font-size: 13px; font-weight: 500;
+    color: var(--slot-1); text-decoration: none;
+  }
+  .modal-source-link:hover { text-decoration: underline; }
 </style>
 </head>
 <body>
 <div id="app">
   <div id="sidebar">
-    <h1>机器人 / 科技产业关系图谱</h1>
+    <h1>科技产业关系图谱</h1>
     <div class="sub" id="generated-at"></div>
     <div id="sector-tabs"></div>
     <div id="sector-signals"></div>
-    <input type="search" id="search" placeholder="搜索公司 / 技术 / 机构…" />
+    <div id="search-wrap">
+      <input type="search" id="search" placeholder="搜索公司 / 技术 / 机构…" autocomplete="off" />
+      <div id="search-suggestions"></div>
+    </div>
     <div class="section-title">关系类型</div>
     <div class="chip-row" id="edge-type-filters"></div>
     <div class="section-title">实体类型</div>
@@ -185,6 +254,13 @@
     <svg id="svg"></svg>
     <div id="tooltip"></div>
     <div id="stats"></div>
+  </div>
+</div>
+
+<div id="modal-overlay" class="modal-overlay">
+  <div class="modal-panel">
+    <button id="modal-close" class="modal-close" aria-label="关闭">✕</button>
+    <div id="modal-content"></div>
   </div>
 </div>
 
@@ -256,23 +332,72 @@ function renderSectorTabs() {
   });
 }
 
+function formatDate(s) {
+  if (!s) return "";
+  const d = new Date(s);
+  if (isNaN(d.getTime())) return s;
+  return d.toISOString().slice(0, 10);
+}
+
+function mdToHtml(md) {
+  const escaped = (md || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+  return escaped
+    .split(/\n\s*\n/)
+    .map(p => p.trim())
+    .filter(p => p && p !== "---")
+    .map(p => p.startsWith("个人看法") ? `<p class="personal-view">${p}</p>` : `<p>${p}</p>`)
+    .join("");
+}
+
 function renderSectorSignals() {
   const container = document.getElementById("sector-signals");
   if (!currentSector) { container.innerHTML = ""; return; }
   const signals = (GRAPH.sector_signals || []).filter(s => s.sector === currentSector);
   if (!signals.length) {
-    container.innerHTML = `<div class="section-title">${currentSector} 近期信号</div><div class="signal-item">暂无记录</div>`;
+    container.innerHTML = `<div class="section-title">${currentSector} 近期信号</div><div class="signal-item" style="cursor:default">暂无记录</div>`;
     return;
   }
   const sorted = signals.slice().sort((a, b) => (b.published || "").localeCompare(a.published || ""));
   container.innerHTML = `<div class="section-title">${currentSector} 近期信号(${sorted.length})</div>` +
-    sorted.map(s => `
-      <div class="signal-item">
-        <div class="desc">${s.description}</div>
-        <div class="src"><a href="${s.article_url}" target="_blank" rel="noopener">${s.article_title}</a> · ${s.source_name || ""}</div>
+    sorted.map((s, i) => `
+      <div class="signal-item" data-idx="${i}">
+        <div class="signal-date">${formatDate(s.published)}${s.source_name ? " · " + s.source_name : ""}</div>
+        <div class="signal-title">${s.article_title || currentSector}</div>
+        <div class="signal-desc">${s.description}</div>
+        <div class="signal-cta">${s.article_body ? "查看完整分析 →" : (s.article_url ? "查看原文 →" : "")}</div>
       </div>
     `).join("");
+  container.querySelectorAll(".signal-item[data-idx]").forEach(el => {
+    el.addEventListener("click", () => openSignalModal(sorted[parseInt(el.dataset.idx, 10)]));
+  });
 }
+
+function openSignalModal(signal) {
+  const bodyHtml = signal.article_body
+    ? mdToHtml(signal.article_body)
+    : `<p>${signal.description}</p>`;
+  document.getElementById("modal-content").innerHTML = `
+    <div class="modal-eyebrow">${signal.sector}${signal.source_name ? " · " + signal.source_name : ""}</div>
+    <h2 class="modal-title">${signal.article_title || signal.sector}</h2>
+    <div class="modal-meta">${formatDate(signal.published)}</div>
+    <div class="modal-lead">${signal.description}</div>
+    <div class="modal-body">${bodyHtml}</div>
+    ${signal.article_url ? `<a class="modal-source-link" href="${signal.article_url}" target="_blank" rel="noopener">查看原文 →</a>` : ""}
+  `;
+  document.getElementById("modal-overlay").classList.add("open");
+}
+function closeModal() {
+  document.getElementById("modal-overlay").classList.remove("open");
+}
+document.getElementById("modal-close").addEventListener("click", closeModal);
+document.getElementById("modal-overlay").addEventListener("click", (e) => {
+  if (e.target.id === "modal-overlay") closeModal();
+});
+window.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
 
 function onSectorChange() {
   renderSectorTabs();
@@ -306,9 +431,52 @@ buildChips(document.getElementById("node-type-filters"),
   Object.entries(NODE_TYPE_LABEL), NODE_TYPE_COLOR, activeNodeTypes, applyFilters);
 
 let searchTerm = "";
-document.getElementById("search").addEventListener("input", (e) => {
+const searchInput = document.getElementById("search");
+const suggestionsBox = document.getElementById("search-suggestions");
+
+function renderSuggestions() {
+  if (!searchTerm) { suggestionsBox.style.display = "none"; return; }
+  const matches = nodes
+    .filter(n => n.name.toLowerCase().includes(searchTerm) && (!currentSector || n.sectorTags.includes(currentSector)))
+    .slice(0, 8);
+  if (!matches.length) { suggestionsBox.style.display = "none"; return; }
+  suggestionsBox.innerHTML = matches.map((n, i) => `
+    <div class="suggestion-item" data-idx="${i}">
+      <span class="dot" style="background:${NODE_TYPE_COLOR[n.type] || "var(--text-muted)"}"></span>
+      ${n.name}
+      <span class="type-label">${NODE_TYPE_LABEL[n.type] || n.type}</span>
+    </div>
+  `).join("");
+  suggestionsBox.style.display = "block";
+  suggestionsBox.querySelectorAll(".suggestion-item").forEach(el => {
+    el.addEventListener("click", () => {
+      const n = matches[parseInt(el.dataset.idx, 10)];
+      searchInput.value = n.name;
+      searchTerm = n.name.toLowerCase();
+      suggestionsBox.style.display = "none";
+      applyFilters();
+      showNodeDetail(n);
+      focusOnNode(n);
+    });
+  });
+}
+
+function focusOnNode(n) {
+  viewX = -n.x * viewScale;
+  viewY = -n.y * viewScale;
+  applyTransform();
+}
+
+searchInput.addEventListener("input", (e) => {
   searchTerm = e.target.value.trim().toLowerCase();
   applyFilters();
+  renderSuggestions();
+});
+searchInput.addEventListener("focus", renderSuggestions);
+document.addEventListener("click", (e) => {
+  if (e.target !== searchInput && !suggestionsBox.contains(e.target)) {
+    suggestionsBox.style.display = "none";
+  }
 });
 
 // ---------- svg setup ----------
