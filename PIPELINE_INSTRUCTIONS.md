@@ -74,6 +74,14 @@ ANTHROPIC_API_KEY。
    公司间关系(比如纯学术研究报道),relationships 可以是空数组 —— 这种情况可以跳过 3c,
    直接执行 3d(mark-seen)。
 
+   **写实体名前,先查一下这家公司在图谱里是不是已经存在**,避免同一家公司因为写法不同(比如
+   "Alphabet Inc." vs "Alphabet Inc. (Google)" vs "Google")产生重复节点——这个问题已经
+   发生过好几次。快速查法:
+   ```bash
+   python3 -c "from src.graph_store import load; [print(n['name']) for n in load()['nodes'].values()]" | grep -i "关键词"
+   ```
+   如果已经存在,直接复用图谱里现有的那个写法,不要自己另起一个。
+
    把结果按下面的 schema 写成 JSON,存到一个临时文件(比如
    `/tmp/summizer_extraction_<n>.json`)。`sector_tags` 只能从这六个里选(见
    `src/graph_store.py` 的 `CANONICAL_SECTORS`,和 `style_reference.md` 规则 12 是同一套):

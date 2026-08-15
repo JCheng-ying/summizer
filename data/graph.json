@@ -781,9 +781,9 @@
       ],
       "hot": "hot",
       "ticker": "LUNR",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-08-15T06:02:52.416096+00:00"
     },
     "viasat": {
       "name": "Viasat",
@@ -1591,9 +1591,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+      "last_seen": "2026-08-06T06:04:43.700727+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2349,17 +2349,6 @@
       "first_seen": "2026-08-06T06:04:43.700727+00:00",
       "last_seen": "2026-08-06T06:04:43.700727+00:00"
     },
-    "alphabet google": {
-      "name": "Alphabet Inc. (Google)",
-      "type": "company",
-      "sectors": [],
-      "sector_tags": [],
-      "hot": null,
-      "ticker": null,
-      "mentions": 1,
-      "first_seen": "2026-08-06T06:04:43.700727+00:00",
-      "last_seen": "2026-08-06T06:04:43.700727+00:00"
-    },
     "robustai": {
       "name": "Robust.AI",
       "type": "company",
@@ -2607,6 +2596,383 @@
       "mentions": 1,
       "first_seen": "2026-08-14T04:37:24.501998+00:00",
       "last_seen": "2026-08-14T04:37:24.501998+00:00"
+    },
+    "monumental": {
+      "name": "Monumental",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:16.095711+00:00",
+      "last_seen": "2026-08-15T05:50:16.095711+00:00"
+    },
+    "deep": {
+      "name": "DEEP Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:16.095711+00:00",
+      "last_seen": "2026-08-15T05:50:16.095711+00:00"
+    },
+    "agilex": {
+      "name": "AgileX",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:16.095711+00:00",
+      "last_seen": "2026-08-15T05:50:16.095711+00:00"
+    },
+    "technical university of munich": {
+      "name": "Technical University of Munich",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:16.566183+00:00",
+      "last_seen": "2026-08-15T05:50:16.566183+00:00"
+    },
+    "university of cambridge": {
+      "name": "University of Cambridge",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:16.566183+00:00",
+      "last_seen": "2026-08-15T05:50:16.566183+00:00"
+    },
+    "franka": {
+      "name": "Franka Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:16.805255+00:00",
+      "last_seen": "2026-08-15T05:50:16.805255+00:00"
+    },
+    "robotiq": {
+      "name": "Robotiq",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:16.805255+00:00",
+      "last_seen": "2026-08-15T05:50:16.805255+00:00"
+    },
+    "minimax": {
+      "name": "MiniMax",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:17.048449+00:00",
+      "last_seen": "2026-08-15T05:50:17.048449+00:00"
+    },
+    "black forest labs": {
+      "name": "Black Forest Labs",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:17.048449+00:00",
+      "last_seen": "2026-08-15T05:50:17.048449+00:00"
+    },
+    "bytedance": {
+      "name": "ByteDance",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:50:17.048449+00:00",
+      "last_seen": "2026-08-15T05:50:17.048449+00:00"
+    },
+    "mit lincoln laboratory": {
+      "name": "MIT Lincoln Laboratory",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.112336+00:00",
+      "last_seen": "2026-08-15T05:55:30.112336+00:00"
+    },
+    "mitsubishi electric": {
+      "name": "Mitsubishi Electric Corp.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.112336+00:00",
+      "last_seen": "2026-08-15T05:55:30.112336+00:00"
+    },
+    "us space force": {
+      "name": "U.S. Space Force",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.112336+00:00",
+      "last_seen": "2026-08-15T05:55:30.112336+00:00"
+    },
+    "kratos defense and security": {
+      "name": "Kratos Defense and Security",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": "KTOS",
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.362859+00:00",
+      "last_seen": "2026-08-15T05:55:30.362859+00:00"
+    },
+    "planetiq": {
+      "name": "PlanetiQ",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.607098+00:00",
+      "last_seen": "2026-08-15T05:55:30.607098+00:00"
+    },
+    "noaa": {
+      "name": "NOAA",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.607098+00:00",
+      "last_seen": "2026-08-15T05:55:30.607098+00:00"
+    },
+    "atomic6": {
+      "name": "Atomic-6",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.844988+00:00",
+      "last_seen": "2026-08-15T05:55:30.844988+00:00"
+    },
+    "astro digital": {
+      "name": "Astro Digital",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.844988+00:00",
+      "last_seen": "2026-08-15T05:55:30.844988+00:00"
+    },
+    "ses": {
+      "name": "SES",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T05:55:30.844988+00:00",
+      "last_seen": "2026-08-15T05:55:30.844988+00:00"
+    },
+    "lanteris space systems": {
+      "name": "Lanteris Space Systems",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:52.416096+00:00",
+      "last_seen": "2026-08-15T06:02:52.416096+00:00"
+    },
+    "eutelsat": {
+      "name": "Eutelsat",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:52.416096+00:00",
+      "last_seen": "2026-08-15T06:02:52.416096+00:00"
+    },
+    "telesat": {
+      "name": "Telesat",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:52.416096+00:00",
+      "last_seen": "2026-08-15T06:02:52.416096+00:00"
+    },
+    "endurosat": {
+      "name": "EnduroSat",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:52.655875+00:00",
+      "last_seen": "2026-08-15T06:02:52.655875+00:00"
+    },
+    "sfera": {
+      "name": "Sfera Technologies",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:52.655875+00:00",
+      "last_seen": "2026-08-15T06:02:52.655875+00:00"
+    },
+    "mynaric": {
+      "name": "Mynaric",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:52.895690+00:00",
+      "last_seen": "2026-08-15T06:02:52.895690+00:00"
+    },
+    "kepler communications": {
+      "name": "Kepler Communications",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:52.895690+00:00",
+      "last_seen": "2026-08-15T06:02:52.895690+00:00"
+    },
+    "photonic": {
+      "name": "Photonic Inc.",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:53.142819+00:00",
+      "last_seen": "2026-08-15T06:02:53.142819+00:00"
+    },
+    "telus": {
+      "name": "TELUS",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:53.142819+00:00",
+      "last_seen": "2026-08-15T06:02:53.142819+00:00"
+    },
+    "university of innsbruck": {
+      "name": "University of Innsbruck",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-15T06:02:53.142819+00:00",
+      "last_seen": "2026-08-15T06:02:53.142819+00:00"
     }
   },
   "edges": [
@@ -5402,7 +5768,7 @@
     },
     {
       "source": "openai",
-      "target": "alphabet google",
+      "target": "alphabet",
       "type": "partnership",
       "evidence": [
         {
@@ -5522,7 +5888,7 @@
     },
     {
       "source": "deepseek",
-      "target": "alphabet google",
+      "target": "alphabet",
       "type": "competition",
       "evidence": [
         {
@@ -5622,6 +5988,321 @@
           "source_name": "Import AI (Substack)",
           "published": "Mon, 10 Aug 2026 12:32:20 GMT",
           "added_at": "2026-08-11T04:23:57.515490+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meta platforms",
+      "target": "openai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Muse Spark 1.2贡献者档定价明显低于OpenAI大幅降价后的GPT-5.6 Luna,双方在轻量高性价比模型市场直接竞争",
+          "article_title": "Muse Code Wants Your Data: Meta&#x27;s Muse Spark 1.2 and Muse Code approach the intelligence frontier at a discount",
+          "article_url": "https://www.deeplearning.ai/the-batch/muse-code-wants-your-data/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-14T08:00:00.000-07:00",
+          "added_at": "2026-08-15T05:50:16.332199+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meta platforms",
+      "target": "deepseek",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Muse Spark 1.2贡献者档每百万token定价低于DeepSeek-V4-Flash-0731,双方在轻量高性价比模型价格战中直接竞争",
+          "article_title": "Muse Code Wants Your Data: Meta&#x27;s Muse Spark 1.2 and Muse Code approach the intelligence frontier at a discount",
+          "article_url": "https://www.deeplearning.ai/the-batch/muse-code-wants-your-data/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-14T08:00:00.000-07:00",
+          "added_at": "2026-08-15T05:50:16.332199+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "apptronik",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Gemini Robotics 2早期接入伙伴,同一套模型权重驱动Apptronik的Apollo 2人形机器人(分别搭配Sharpa手和Inspire手两种配置)",
+          "article_title": "Google’s Robotics Model Has Legs: Gemini Robotics 2 gets Google closer to true multi-embodiment",
+          "article_url": "https://www.deeplearning.ai/the-batch/googles-robotics-model-has-legs/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-14T08:05:00.000-07:00",
+          "added_at": "2026-08-15T05:50:16.805255+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "franka",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Gemini Robotics 2同一套权重也驱动Franka Duo双臂机械臂配合Robotiq夹爪完成精密插入、工具分拣等任务",
+          "article_title": "Google’s Robotics Model Has Legs: Gemini Robotics 2 gets Google closer to true multi-embodiment",
+          "article_url": "https://www.deeplearning.ai/the-batch/googles-robotics-model-has-legs/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-14T08:05:00.000-07:00",
+          "added_at": "2026-08-15T05:50:16.805255+00:00"
+        }
+      ]
+    },
+    {
+      "source": "minimax",
+      "target": "alphabet",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "MiniMax H3与谷歌Gemini Omni Flash在视频生成模型人类偏好评分上处于同一梯队",
+          "article_title": "Minimax’s State-of-the-Art Video Model Is Only Minimally Open: Minimax H3&#x27;s weights are free, but carry unusual restrictions",
+          "article_url": "https://www.deeplearning.ai/the-batch/minimaxs-state-of-the-art-video-model-is-only-minimally-open/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-14T08:10:00.000-07:00",
+          "added_at": "2026-08-15T05:50:17.048449+00:00"
+        }
+      ]
+    },
+    {
+      "source": "minimax",
+      "target": "bytedance",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "MiniMax H3与字节跳动Dreamina Seedance 2.0在视频生成模型人类偏好评分上处于同一梯队",
+          "article_title": "Minimax’s State-of-the-Art Video Model Is Only Minimally Open: Minimax H3&#x27;s weights are free, but carry unusual restrictions",
+          "article_url": "https://www.deeplearning.ai/the-batch/minimaxs-state-of-the-art-video-model-is-only-minimally-open/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-14T08:10:00.000-07:00",
+          "added_at": "2026-08-15T05:50:17.048449+00:00"
+        }
+      ]
+    },
+    {
+      "source": "minimax",
+      "target": "black forest labs",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Black Forest Labs最新FLUX 3转为纯闭源API模式,预计将加入MiniMax H3所在的视频生成第一梯队竞争",
+          "article_title": "Minimax’s State-of-the-Art Video Model Is Only Minimally Open: Minimax H3&#x27;s weights are free, but carry unusual restrictions",
+          "article_url": "https://www.deeplearning.ai/the-batch/minimaxs-state-of-the-art-video-model-is-only-minimally-open/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-14T08:10:00.000-07:00",
+          "added_at": "2026-08-15T05:50:17.048449+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mit lincoln laboratory",
+      "target": "mitsubishi electric",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "MIT林肯实验室设计制造的美国太空监视传感器,集成测试在三菱电机制造的日本准天顶卫星平台上,历时两年联合集成测试后随H3火箭发射入轨",
+          "article_title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+          "article_url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 22:26:27 +0000",
+          "added_at": "2026-08-15T05:55:30.112336+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firefly aerospace",
+      "target": "nasa",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Firefly计划2027年起从NASA的Wallops飞行设施同时发射Alpha小型火箭和Eclipse中型火箭",
+          "article_title": "Wallops gears up for an increase in launches",
+          "article_url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 22:02:28 +0000",
+          "added_at": "2026-08-15T05:55:30.362859+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rocket lab",
+      "target": "nasa",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Rocket Lab已在NASA的Wallops飞行设施运营,并与场地方合作用精益六西格玛方法把靶场运营成本降低了一半",
+          "article_title": "Wallops gears up for an increase in launches",
+          "article_url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 22:02:28 +0000",
+          "added_at": "2026-08-15T05:55:30.362859+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kratos defense and security",
+      "target": "nasa",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Kratos的MACH-TB 2.0高超音速项目已在NASA的Wallops飞行设施完成测试发射",
+          "article_title": "Wallops gears up for an increase in launches",
+          "article_url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 22:02:28 +0000",
+          "added_at": "2026-08-15T05:55:30.362859+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spire global",
+      "target": "noaa",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NOAA授予Spire Global 370万美元合同,每天提供4600组GNSS无线电掩星剖面数据和1200组时间分辨率增强数据,交付期2026年9月18日至12月1日",
+          "article_title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+          "article_url": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 16:33:58 +0000",
+          "added_at": "2026-08-15T05:55:30.607098+00:00"
+        }
+      ]
+    },
+    {
+      "source": "planetiq",
+      "target": "noaa",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NOAA授予PlanetiQ 270万美元合同,每天提供4200组GNSS剖面和500组总电子含量数据用于空间天气预报,交付期同上",
+          "article_title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+          "article_url": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 16:33:58 +0000",
+          "added_at": "2026-08-15T05:55:30.607098+00:00"
+        }
+      ]
+    },
+    {
+      "source": "boeing",
+      "target": "astro digital",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "波音为其Q4S量子网络演示任务选择Astro Digital的紧凑卫星平台,因为该平台能提供任务所需的持续稳定电力",
+          "article_title": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
+          "article_url": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 13:00:00 +0000",
+          "added_at": "2026-08-15T05:55:30.844988+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us space force",
+      "target": "blue origin",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "太空军2025年10月授予Blue Origin 7820万美元合同用于建设卡纳维拉尔角新发射台LC-36B配套的载荷处理设施",
+          "article_title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
+          "article_url": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 12:08:33 +0000",
+          "added_at": "2026-08-15T05:55:31.087290+00:00"
+        }
+      ]
+    },
+    {
+      "source": "intuitive machines",
+      "target": "lanteris space systems",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Intuitive Machines去年底收购Lanteris Space Systems(原Maxar Space Systems),借此获得GEO卫星制造业务(1300系列平台,现称IM 1300)",
+          "article_title": "Intuitive Machines wins contract for three GEO satellites",
+          "article_url": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 11:29:03 +0000",
+          "added_at": "2026-08-15T06:02:52.416096+00:00"
+        }
+      ]
+    },
+    {
+      "source": "l3harris",
+      "target": "intuitive machines",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "L3Harris作为主承包商,为美国太空发展局加速导弹防御三期项目向Intuitive Machines下单18颗IM 300卫星",
+          "article_title": "Intuitive Machines wins contract for three GEO satellites",
+          "article_url": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 14 Aug 2026 11:29:03 +0000",
+          "added_at": "2026-08-15T06:02:52.416096+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rocket lab",
+      "target": "mynaric",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Rocket Lab于2025年收购慕尼黑激光光通信终端制造商Mynaric,以此为基础成立Rocket Lab Germany子公司",
+          "article_title": "Rocket Lab advances via series of announcements",
+          "article_url": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sat, 15 Aug 2026 03:42:01 +0000",
+          "added_at": "2026-08-15T06:02:52.895690+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us space force",
+      "target": "rocket lab",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "太空军授予Rocket Lab 3.97亿美元合同,基于其可堆叠Flatellite设计建造、发射并运营空中威胁跟踪卫星星座,此前7月还有一份2.66亿美元导弹防御亚轨道发射合同",
+          "article_title": "Rocket Lab advances via series of announcements",
+          "article_url": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sat, 15 Aug 2026 03:42:01 +0000",
+          "added_at": "2026-08-15T06:02:52.895690+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kepler communications",
+      "target": "rocket lab",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Kepler Communications包下整箭Neutron发射服务,是Rocket Lab首次把整枚Neutron运力卖给单一客户而非拼车",
+          "article_title": "Rocket Lab advances via series of announcements",
+          "article_url": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sat, 15 Aug 2026 03:42:01 +0000",
+          "added_at": "2026-08-15T06:02:52.895690+00:00"
+        }
+      ]
+    },
+    {
+      "source": "photonic",
+      "target": "telus",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "2026年2月双方在温哥华TELUS商用PureFibre网络上实现30公里量子信息传输演示,是量子信息首次运行在真实部署的商业网络基础设施上而非实验室光纤",
+          "article_title": "What is Quantum Teleportation? How Quantum States Transfer Across Distance",
+          "article_url": "https://thequantuminsider.com/2026/08/14/quantum-teleportation-explained/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 14 Aug 2026 14:31:11 +0000",
+          "added_at": "2026-08-15T06:02:53.142819+00:00"
         }
       ]
     }
@@ -5842,6 +6523,141 @@
       "source_name": "The Robot Report - Haptics",
       "published": "Thu, 13 Aug 2026 15:06:47 +0000",
       "added_at": "2026-08-14T04:37:24.739316+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "DARPA Lift Challenge收官,Monumental完成一整栋联排别墅约2万块砖的真实交付,是建筑机器人从演示走向商业化住宅项目的具体证据",
+      "article_title": "Video Friday: Lift Happens",
+      "article_url": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 14 Aug 2026 17:00:01 +0000",
+      "added_at": "2026-08-15T05:50:31.255836+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Meta发布Muse Code/Muse Spark 1.2,用数据换低价的贡献者档定价策略,把训练数据竞争从爬取公开代码升级到直接获取开发者编程过程数据,同时进一步加剧轻量模型价格战",
+      "article_title": "Muse Code Wants Your Data: Meta&#x27;s Muse Spark 1.2 and Muse Code approach the intelligence frontier at a discount",
+      "article_url": "https://www.deeplearning.ai/the-batch/muse-code-wants-your-data/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-14T08:00:00.000-07:00",
+      "added_at": "2026-08-15T05:50:31.489620+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "overit研究显示单次20分钟对话即可显著缓解分手心理痛苦,验证了消费级AI心理健康应用的具体效果,关键工程方法是把'评估进度'和'生成回应'拆成独立模型调用避免谄媚倾向",
+      "article_title": "AI Can Help Heal Romantic Distress: Inside overit, a study of chatbot therapy after breakups",
+      "article_url": "https://www.deeplearning.ai/the-batch/ai-can-help-heal-romantic-distress-inside-overit-a-study-of-chatbot-therapy-after-breakups/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-14T08:15:00.000-07:00",
+      "added_at": "2026-08-15T05:50:31.728799+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Gemini Robotics 2首次用同一套权重驱动人形机器人腿+手+臂,早期接入伙伴包括Apptronik的Apollo 2和Franka机械臂,谷歌同时披露安全基准ASIMOV-Agentic显示现阶段无法同时做到零漏检和零误停",
+      "article_title": "Google’s Robotics Model Has Legs: Gemini Robotics 2 gets Google closer to true multi-embodiment",
+      "article_url": "https://www.deeplearning.ai/the-batch/googles-robotics-model-has-legs/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-14T08:05:00.000-07:00",
+      "added_at": "2026-08-15T05:50:31.964303+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "MiniMax H3视频生成模型权重免费但对美英欧韩用户设置额外申请门槛,揭示'开源'标签正被重新定义,视频生成赛道形成MiniMax/谷歌/字节跳动/Black Forest Labs四强并立格局",
+      "article_title": "Minimax’s State-of-the-Art Video Model Is Only Minimally Open: Minimax H3&#x27;s weights are free, but carry unusual restrictions",
+      "article_url": "https://www.deeplearning.ai/the-batch/minimaxs-state-of-the-art-video-model-is-only-minimally-open/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-14T08:10:00.000-07:00",
+      "added_at": "2026-08-15T05:50:32.202203+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "美日通过QZSS-HP协议完成太空监视传感器部署,揭示太空经济里军事/盟友合作是独立于商业发射之外的另一条需求曲线",
+      "article_title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+      "article_url": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 14 Aug 2026 22:26:27 +0000",
+      "added_at": "2026-08-15T05:55:44.528340+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Wallops发射场预计发射次数2025-2030年从17次涨到44次,发射场产能和周边社会基础设施正成为太空经济的隐性瓶颈,分散了卡纳维拉尔角的独家供应商式风险",
+      "article_title": "Wallops gears up for an increase in launches",
+      "article_url": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 14 Aug 2026 22:02:28 +0000",
+      "added_at": "2026-08-15T05:55:44.762178+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "NOAA向Spire Global和PlanetiQ授予大气观测数据合同,验证了政府长期稳定采购这条确定性更高的太空经济商业模式,后续23.5亿美元10年期IDIQ框架合同值得跟踪",
+      "article_title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+      "article_url": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 14 Aug 2026 16:33:58 +0000",
+      "added_at": "2026-08-15T05:55:44.998522+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "发射成本下降后卫星设计瓶颈从重量迁移到表面积/整流罩容积,利好高效展开机构和高功率密度电源/热控供应商,长期可能催生物理可重构卫星这一新方向",
+      "article_title": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
+      "article_url": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 14 Aug 2026 13:00:00 +0000",
+      "added_at": "2026-08-15T05:55:45.233640+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Blue Origin在New Glenn事故恢复重建的同时同步推进第二发射台和更大型号9x4扩产计划,反映公司对未来重型发射需求的激进判断,执行风险值得持续跟踪",
+      "article_title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
+      "article_url": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 14 Aug 2026 12:08:33 +0000",
+      "added_at": "2026-08-15T05:55:45.473908+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Intuitive Machines拿到6亿美元GEO卫星未具名订单,可能与FCC C波段清退补偿(60多亿美元给SES/Eutelsat/Telesat)驱动的卫星采购潮相关,值得跟踪三家运营商后续官方披露的新卫星采购信息",
+      "article_title": "Intuitive Machines wins contract for three GEO satellites",
+      "article_url": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 14 Aug 2026 11:29:03 +0000",
+      "added_at": "2026-08-15T06:03:10.196085+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "保加利亚政府与EnduroSat合作建设太空国防创新中心,反映太空经济正从美国少数巨头主导走向更多国家建立本土产业能力",
+      "article_title": "Bulgaria advances project to launch new space, defense innovation hub",
+      "article_url": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "added_at": "2026-08-15T06:03:10.434215+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Novaspace报告预测在轨服务市场十年累计30亿美元收入,卫星燃料补给和延寿服务是最大细分,政府/国防需求是早期主要驱动力,但赛道成熟度参差不齐",
+      "article_title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+      "article_url": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+      "added_at": "2026-08-15T06:03:10.674013+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Rocket Lab同时推进欧洲卫星制造子公司、集装箱化机动发射系统GHOST、以及Neutron火箭量产(发动机400+次热点火测试),叠加太空军两份大额合同,标志公司从小型火箭商向发射+制造+国防综合航天公司转型",
+      "article_title": "Rocket Lab advances via series of announcements",
+      "article_url": "https://www.nasaspaceflight.com/2026/08/rocket-lab-advances-announcements/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Sat, 15 Aug 2026 03:42:01 +0000",
+      "added_at": "2026-08-15T06:03:10.910549+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Photonic Inc.与TELUS在商用光纤网络上完成量子信息传输演示,是量子网络技术首次脱离实验室跑在真实部署基础设施上,量子中继器/量子网络所需的纠缠光源、单光子探测器等硬件供应商可能比通用量子计算机更早看到商业化订单",
+      "article_title": "What is Quantum Teleportation? How Quantum States Transfer Across Distance",
+      "article_url": "https://thequantuminsider.com/2026/08/14/quantum-teleportation-explained/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 14 Aug 2026 14:31:11 +0000",
+      "added_at": "2026-08-15T06:03:11.148431+00:00"
     }
   ]
 }
