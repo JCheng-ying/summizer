@@ -1,6 +1,9 @@
 import json
+import warnings
 from datetime import datetime, timezone
 from pathlib import Path
+
+from dateutil import parser as dateutil_parser
 
 from src.config import ARTICLES_DIR, GRAPH_HTML_PATH
 from src.graph_store import load
@@ -33,6 +36,25 @@ def _load_articles_by_url() -> dict:
     return articles
 
 
+def _published_sort_key(published: str) -> str:
+    """Sources hand us `published` in a mix of formats (RFC 822 with or
+    without a time component, RFC 822 with a named timezone like EDT, ISO
+    8601 with an offset...). Comparing those strings directly sorts them
+    essentially at random. Normalize to a UTC ISO 8601 string, which *is*
+    safe to compare lexicographically, and sort on that instead."""
+    if not published:
+        return ""
+    try:
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore")  # unknown tz abbreviations (e.g. EDT)
+            dt = dateutil_parser.parse(published)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).isoformat()
+    except (ValueError, OverflowError):
+        return ""
+
+
 def render() -> Path:
     graph = load()
     articles_by_url = _load_articles_by_url()
@@ -41,6 +63,11 @@ def render() -> Path:
         article = articles_by_url.get(signal.get("article_url", ""))
         if article:
             signal["article_body"] = article["body"]
+        signal["published_ts"] = _published_sort_key(signal.get("published", ""))
+
+    for edge in graph.get("edges", []):
+        for ev in edge.get("evidence", []):
+            ev["published_ts"] = _published_sort_key(ev.get("published", ""))
 
     graph_with_meta = dict(graph, generated_at=datetime.now(timezone.utc).isoformat())
 

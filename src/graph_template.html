@@ -361,7 +361,7 @@ function renderSectorSignals() {
     container.innerHTML = `<div class="section-title">${currentSector} 近期信号</div><div class="signal-item" style="cursor:default">暂无记录</div>`;
     return;
   }
-  const sorted = signals.slice().sort((a, b) => (b.published || "").localeCompare(a.published || ""));
+  const sorted = signals.slice().sort((a, b) => (b.published_ts || "").localeCompare(a.published_ts || ""));
   container.innerHTML = `<div class="section-title">${currentSector} 近期信号(${sorted.length})</div>` +
     sorted.map((s, i) => `
       <div class="signal-item" data-idx="${i}">
