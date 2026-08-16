@@ -645,28 +645,32 @@
     "spacex": {
       "name": "SpaceX",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "orbital launch vehicles, satellite constellations"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-08-16T20:14:54.664014+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "orbital launch vehicles (New Glenn)"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-08-16T20:14:54.664014+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -697,15 +701,17 @@
     "lockheed martin": {
       "name": "Lockheed Martin",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "aerospace and defense"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "LMT",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-08-16T20:14:03.697788+00:00"
     },
     "northrop grumman": {
       "name": "Northrop Grumman",
@@ -775,15 +781,17 @@
     "intuitive machines": {
       "name": "Intuitive Machines",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "commercial lunar landers, camera operations"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "LUNR",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-15T06:02:52.416096+00:00"
+      "last_seen": "2026-08-16T20:13:18.037762+00:00"
     },
     "viasat": {
       "name": "Viasat",
@@ -853,15 +861,18 @@
     "firefly aerospace": {
       "name": "Firefly Aerospace",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "commercial lunar landers, launch vehicles",
+        "commercial launch vehicles (Alpha, Eclipse)"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": "FLY",
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-08-16T20:14:03.697788+00:00"
     },
     "voyager": {
       "name": "Voyager Technologies",
@@ -2378,16 +2389,18 @@
     "nasa": {
       "name": "NASA",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "U.S. civil space agency"
+      ],
       "sector_tags": [
         "机器人板块",
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-08-09T05:41:43.146703+00:00"
+      "last_seen": "2026-08-16T20:13:18.037762+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -2973,6 +2986,97 @@
       "mentions": 1,
       "first_seen": "2026-08-15T06:02:53.142819+00:00",
       "last_seen": "2026-08-15T06:02:53.142819+00:00"
+    },
+    "treble": {
+      "name": "Treble Technologies",
+      "type": "company",
+      "sectors": [
+        "acoustic simulation for robotics/audio AI"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-16T20:11:04.977902+00:00",
+      "last_seen": "2026-08-16T20:11:04.977902+00:00"
+    },
+    "dorbit usa": {
+      "name": "D-Orbit USA",
+      "type": "company",
+      "sectors": [
+        "orbital logistics / satellite servicing"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-16T20:12:11.022305+00:00",
+      "last_seen": "2026-08-16T20:12:11.022305+00:00"
+    },
+    "katalyst space": {
+      "name": "Katalyst Space",
+      "type": "company",
+      "sectors": [
+        "robotic satellite servicing"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-16T20:12:11.022305+00:00",
+      "last_seen": "2026-08-16T20:12:11.022305+00:00"
+    },
+    "starfish space": {
+      "name": "Starfish Space",
+      "type": "company",
+      "sectors": [
+        "on-demand satellite deorbit services"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-16T20:12:11.022305+00:00",
+      "last_seen": "2026-08-16T20:12:11.022305+00:00"
+    },
+    "space development agency": {
+      "name": "Space Development Agency",
+      "type": "institution",
+      "sectors": [
+        "U.S. defense space acquisition agency"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-16T20:12:11.022305+00:00",
+      "last_seen": "2026-08-16T20:12:11.022305+00:00"
+    },
+    "defense innovation unit": {
+      "name": "Defense Innovation Unit",
+      "type": "institution",
+      "sectors": [
+        "U.S. defense innovation acquisition unit"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-16T20:12:11.022305+00:00",
+      "last_seen": "2026-08-16T20:12:11.022305+00:00"
     }
   },
   "edges": [
@@ -4083,6 +4187,14 @@
           "source_name": "Space.com",
           "published": "2026",
           "added_at": "2026-08-06T04:44:48.296846+00:00"
+        },
+        {
+          "description": "Blue Origin 新建的 LC-36B 发射台设计(抬升式发射台、垂直吊装塔架)直接借鉴了 SpaceX Starbase Starship 二号发射台的设计思路,双方在重型/中型运载火箭发射频率上正面竞争",
+          "article_title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
+          "article_url": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sat, 15 Aug 2026 22:57:11 +0000",
+          "added_at": "2026-08-16T20:14:54.664014+00:00"
         }
       ]
     },
@@ -6305,6 +6417,156 @@
           "added_at": "2026-08-15T06:02:53.142819+00:00"
         }
       ]
+    },
+    {
+      "source": "space development agency",
+      "target": "dorbit usa",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SDA 与 DIU 联合向 D-Orbit USA 授予离轨即服务可行性研究合同",
+          "article_title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "article_url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+          "source_name": "SpaceNews",
+          "published": "Sun, 16 Aug 2026 10:50:00 +0000",
+          "added_at": "2026-08-16T20:12:11.022305+00:00"
+        }
+      ]
+    },
+    {
+      "source": "space development agency",
+      "target": "firefly aerospace",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SDA 与 DIU 联合向 Firefly Aerospace 授予离轨即服务可行性研究合同,提议用 Elytra 航天器完成交会与处置",
+          "article_title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "article_url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+          "source_name": "SpaceNews",
+          "published": "Sun, 16 Aug 2026 10:50:00 +0000",
+          "added_at": "2026-08-16T20:12:11.022305+00:00"
+        }
+      ]
+    },
+    {
+      "source": "space development agency",
+      "target": "katalyst space",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SDA 与 DIU 联合向 Katalyst Space 授予离轨即服务可行性研究合同,同时其 Link 航天器已在执行 Swift 天文台抬升任务",
+          "article_title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "article_url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+          "source_name": "SpaceNews",
+          "published": "Sun, 16 Aug 2026 10:50:00 +0000",
+          "added_at": "2026-08-16T20:12:11.022305+00:00"
+        }
+      ]
+    },
+    {
+      "source": "space development agency",
+      "target": "starfish space",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SDA 此前已授予 Starfish Space 一份价值 5250 万美元的合同,用于离轨最多七颗卫星,是同一商业离轨计划的更早批次",
+          "article_title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "article_url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+          "source_name": "SpaceNews",
+          "published": "Sun, 16 Aug 2026 10:50:00 +0000",
+          "added_at": "2026-08-16T20:12:11.022305+00:00"
+        }
+      ]
+    },
+    {
+      "source": "defense innovation unit",
+      "target": "dorbit usa",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "DIU 与 SDA 联合发起本次离轨即服务研究项目",
+          "article_title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "article_url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+          "source_name": "SpaceNews",
+          "published": "Sun, 16 Aug 2026 10:50:00 +0000",
+          "added_at": "2026-08-16T20:12:11.022305+00:00"
+        }
+      ]
+    },
+    {
+      "source": "katalyst space",
+      "target": "nasa",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Katalyst 的 Link 服务航天器搭乘 NASA 的 Swift Boost 任务发射,目标是抬升 NASA 的 Neil Gehrels Swift 天文台",
+          "article_title": "U.S. defense agencies tap three companies for satellite disposal study",
+          "article_url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+          "source_name": "SpaceNews",
+          "published": "Sun, 16 Aug 2026 10:50:00 +0000",
+          "added_at": "2026-08-16T20:12:11.022305+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "firefly aerospace",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NASA 通过 CLPS 计划向 Firefly Aerospace 授出多个月球着陆器任务订单,并预计年内再授出轨道成像任务",
+          "article_title": "Lunar orbiter among upcoming NASA CLPS task orders",
+          "article_url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+          "source_name": "SpaceNews",
+          "published": "Sat, 15 Aug 2026 23:49:58 +0000",
+          "added_at": "2026-08-16T20:13:18.037762+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "intuitive machines",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NASA 通过 CLPS 计划向 Intuitive Machines 授出多个月球着陆器任务订单,并已委托其运营 LRO 高分辨率相机及 ShadowCam",
+          "article_title": "Lunar orbiter among upcoming NASA CLPS task orders",
+          "article_url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+          "source_name": "SpaceNews",
+          "published": "Sat, 15 Aug 2026 23:49:58 +0000",
+          "added_at": "2026-08-16T20:13:18.037762+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firefly aerospace",
+      "target": "intuitive machines",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两家公司是目前仅有的成功登月的 CLPS 承包商,同时竞标即将授出的月球轨道成像任务及未来 CLPS 2.0 合同",
+          "article_title": "Lunar orbiter among upcoming NASA CLPS task orders",
+          "article_url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+          "source_name": "SpaceNews",
+          "published": "Sat, 15 Aug 2026 23:49:58 +0000",
+          "added_at": "2026-08-16T20:13:18.037762+00:00"
+        }
+      ]
+    },
+    {
+      "source": "lockheed martin",
+      "target": "firefly aerospace",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "洛克希德·马丁将 Alpha 火箭发射合同延长两年,总计最多25次发射,合同延续至2031年",
+          "article_title": "Firefly promote next block of Alpha amid Eclipse progress",
+          "article_url": "https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 16 Aug 2026 16:31:26 +0000",
+          "added_at": "2026-08-16T20:14:03.697788+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -6658,6 +6920,51 @@
       "source_name": "The Quantum Insider",
       "published": "Fri, 14 Aug 2026 14:31:11 +0000",
       "added_at": "2026-08-15T06:03:11.148431+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "机器人视觉/运动能力趋同后,语音与声学交互训练数据/仿真基础设施成为被低估的新瓶颈,利好机器人板块里聚焦人机语音交互和声学仿真的细分供应商",
+      "article_title": "Why robots that can’t communicate naturally won’t be adopted",
+      "article_url": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Sat, 15 Aug 2026 12:20:18 +0000",
+      "added_at": "2026-08-16T20:11:16.396480+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "国防机构将失效卫星离轨处置从政府自建能力转向商业采购,非合作目标自主捕获技术从可行性研究进入实单合同阶段,利好在轨服务/离轨赛道公司",
+      "article_title": "U.S. defense agencies tap three companies for satellite disposal study",
+      "article_url": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+      "source_name": "SpaceNews",
+      "published": "Sun, 16 Aug 2026 10:50:00 +0000",
+      "added_at": "2026-08-16T20:12:11.260226+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "月球着陆器产能从单件定制转向标准化量产,叠加即将授出的LRO继任轨道成像任务,利好Firefly Aerospace和Intuitive Machines等CLPS承包商及其着陆器供应链",
+      "article_title": "Lunar orbiter among upcoming NASA CLPS task orders",
+      "article_url": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+      "source_name": "SpaceNews",
+      "published": "Sat, 15 Aug 2026 23:49:58 +0000",
+      "added_at": "2026-08-16T20:13:18.281932+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Firefly Alpha Block II热防护升级回应此前发射失利,Eclipse中型火箭发动机认证测试推进,叠加洛克希德·马丁长期发射合同延期,利好Firefly及其发动机/热防护供应链",
+      "article_title": "Firefly promote next block of Alpha amid Eclipse progress",
+      "article_url": "https://www.nasaspaceflight.com/2026/08/firefly-block-alpha-eclipse-progress/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Sun, 16 Aug 2026 16:31:26 +0000",
+      "added_at": "2026-08-16T20:14:03.945684+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Blue Origin第二发射台VIF钢结构建设已实质推进,垂直吊装总装模式借鉴SpaceX Starbase设计,利好发射场地面设备/导流槽/大型吊装设备供应商",
+      "article_title": "Blue Origin overviews plan for dual pad ops at Cape Canaveral",
+      "article_url": "https://www.nasaspaceflight.com/2026/08/blue-origin-launch-pad-cape-canaveral/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Sat, 15 Aug 2026 22:57:11 +0000",
+      "added_at": "2026-08-16T20:14:54.906452+00:00"
     }
   ]
 }
