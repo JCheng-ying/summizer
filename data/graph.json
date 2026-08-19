@@ -2285,15 +2285,17 @@
     "persona": {
       "name": "Persona",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "humanoid robots for skilled industrial labor (welding)"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T05:07:37.203292+00:00",
-      "last_seen": "2026-08-06T05:07:37.203292+00:00"
+      "last_seen": "2026-08-19T04:37:27.426887+00:00"
     },
     "anybotics": {
       "name": "ANYbotics",
@@ -3077,6 +3079,81 @@
       "mentions": 1,
       "first_seen": "2026-08-16T20:12:11.022305+00:00",
       "last_seen": "2026-08-16T20:12:11.022305+00:00"
+    },
+    "unichem": {
+      "name": "Unichem",
+      "type": "company",
+      "sectors": [
+        "smart materials for automotive interiors, humanoid electronic skin"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-19T04:37:00.285359+00:00",
+      "last_seen": "2026-08-19T04:37:00.285359+00:00"
+    },
+    "loomia": {
+      "name": "Loomia Technologies",
+      "type": "company",
+      "sectors": [
+        "flexible electronics, tactile sensing, electronic skin"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-19T04:37:00.285359+00:00",
+      "last_seen": "2026-08-19T04:37:00.285359+00:00"
+    },
+    "ry": {
+      "name": "R&Y",
+      "type": "company",
+      "sectors": [
+        "Tier 1 automotive manufacturing, humanoid robotics/electronic skin"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-19T04:37:00.285359+00:00",
+      "last_seen": "2026-08-19T04:37:00.285359+00:00"
+    },
+    "hd hyundai": {
+      "name": "HD Hyundai",
+      "type": "company",
+      "sectors": [
+        "shipbuilding"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-19T04:37:27.426887+00:00",
+      "last_seen": "2026-08-19T04:37:27.426887+00:00"
+    },
+    "posco": {
+      "name": "POSCO",
+      "type": "company",
+      "sectors": [
+        "steel production"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-19T04:37:27.426887+00:00",
+      "last_seen": "2026-08-19T04:37:27.426887+00:00"
     }
   },
   "edges": [
@@ -6567,6 +6644,96 @@
           "added_at": "2026-08-16T20:14:03.697788+00:00"
         }
       ]
+    },
+    {
+      "source": "unichem",
+      "target": "loomia",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Unichem以约600万美元收购Loomia 100%股份,借此进入人形机器人电子皮肤市场,预计10月15日完成交割",
+          "article_title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+          "article_url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 18 Aug 2026 12:49:41 +0000",
+          "added_at": "2026-08-19T04:37:00.285359+00:00"
+        }
+      ]
+    },
+    {
+      "source": "loomia",
+      "target": "ry",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两家公司联合研发能同时检测垂直压力和剪切力的触觉传感器,面向人形机器人和触觉手套应用,计划2027年1月交付首个工程样品",
+          "article_title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+          "article_url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 18 Aug 2026 12:49:41 +0000",
+          "added_at": "2026-08-19T04:37:00.285359+00:00"
+        }
+      ]
+    },
+    {
+      "source": "loomia",
+      "target": "meta platforms",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Loomia是美国NSF人类增强灵巧工程研究中心(HAND ERC)触觉传感联盟成员,该联盟同时包括Meta和Amazon Robotics",
+          "article_title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+          "article_url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 18 Aug 2026 12:49:41 +0000",
+          "added_at": "2026-08-19T04:37:00.285359+00:00"
+        }
+      ]
+    },
+    {
+      "source": "loomia",
+      "target": "amazoncom",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Loomia是美国NSF人类增强灵巧工程研究中心(HAND ERC)触觉传感联盟成员,该联盟同时包括Meta和Amazon Robotics",
+          "article_title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+          "article_url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 18 Aug 2026 12:49:41 +0000",
+          "added_at": "2026-08-19T04:37:00.285359+00:00"
+        }
+      ]
+    },
+    {
+      "source": "persona",
+      "target": "hd hyundai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Persona与全球最大造船公司HD Hyundai合作,在造船厂部署人形机器人执行焊接任务",
+          "article_title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+          "article_url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 17 Aug 2026 15:33:42 +0000",
+          "added_at": "2026-08-19T04:37:27.426887+00:00"
+        }
+      ]
+    },
+    {
+      "source": "persona",
+      "target": "posco",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Persona与全球第三大钢铁生产商POSCO合作,探索人形机器人焊接应用",
+          "article_title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+          "article_url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 17 Aug 2026 15:33:42 +0000",
+          "added_at": "2026-08-19T04:37:27.426887+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -6965,6 +7132,42 @@
       "source_name": "NASASpaceFlight.com",
       "published": "Sat, 15 Aug 2026 22:57:11 +0000",
       "added_at": "2026-08-16T20:14:54.906452+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "传统制造业公司(Unichem)并购电子皮肤初创公司Loomia,叠加R&Y联合研发触觉传感器并瞄准Tesla/Boston Dynamics等头部客户,标志人形机器人触觉传感这一硬件品类从初创研发走向传统制造业整合量产阶段",
+      "article_title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
+      "article_url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Tue, 18 Aug 2026 12:49:41 +0000",
+      "added_at": "2026-08-19T04:37:00.557364+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "DNA-钙钛矿混合忆阻器实验室成果显示存储密度更高、能耗降至十分之一,提示AI算力扩张的长期瓶颈可能从计算本身转移到存储介质与能耗,值得作为早期学术信号持续跟踪",
+      "article_title": "Scientists turn DNA into a memory device that uses 100x less power",
+      "article_url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Mon, 17 Aug 2026 04:06:45 EDT",
+      "added_at": "2026-08-19T04:37:09.677292+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Persona避开通用人形机器人红海,选择造船焊接这一劳动力短缺、经济性明确的垂直场景切入,并已与HD Hyundai、POSCO建立合作,验证了限定场景商业化路径的可行性",
+      "article_title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+      "article_url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 17 Aug 2026 15:33:42 +0000",
+      "added_at": "2026-08-19T04:37:27.695718+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Faraday等AI科学家/科研自动化监督模型在论文复现任务上超过前沿模型表现,验证了小型监督层套在大模型外面就能提升科研自动化能力的思路,利好AI科研自动化工具方向",
+      "article_title": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
+      "article_url": "https://importai.substack.com/p/import-ai-469-science-ai-rsi-simulator",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 17 Aug 2026 13:05:36 GMT",
+      "added_at": "2026-08-19T04:37:34.488074+00:00"
     }
   ]
 }
