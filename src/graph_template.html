@@ -83,6 +83,39 @@
   #sidebar h1 { font-size: 15px; margin: 0 0 4px; }
   #sidebar .sub { font-size: 12px; color: var(--text-muted); margin-bottom: 16px; }
 
+  #today-banner {
+    display: none;
+    border: 1px solid color-mix(in srgb, var(--slot-8) 45%, var(--border));
+    background: color-mix(in srgb, var(--slot-8) 8%, var(--surface-1));
+    border-radius: 10px; margin-bottom: 14px; overflow: hidden;
+  }
+  #today-banner.has-items { display: block; }
+  #today-banner .banner-head {
+    display: flex; align-items: center; gap: 8px; padding: 10px 12px;
+    cursor: pointer; user-select: none;
+  }
+  #today-banner .banner-dot {
+    width: 7px; height: 7px; border-radius: 50%; background: var(--slot-8); flex: 0 0 auto;
+    animation: pulseDot 1.8s ease-in-out infinite;
+  }
+  #today-banner .banner-title { font-size: 12.5px; font-weight: 600; color: var(--text-primary); }
+  #today-banner .banner-count { font-size: 11px; color: var(--text-secondary); margin-left: auto; }
+  #today-banner .banner-chevron { font-size: 10px; color: var(--text-muted); transition: transform .15s; }
+  #today-banner.open .banner-chevron { transform: rotate(90deg); }
+  #today-banner .banner-list { display: none; padding: 0 10px 10px; }
+  #today-banner.open .banner-list { display: block; }
+  #today-banner .banner-item {
+    padding: 7px 8px; border-radius: 7px; font-size: 12px; line-height: 1.4;
+    cursor: pointer; color: var(--text-secondary);
+  }
+  #today-banner .banner-item:hover { background: var(--page); color: var(--text-primary); }
+  #today-banner .banner-item .banner-item-title { color: var(--text-primary); }
+  #today-banner .banner-item .banner-item-sectors { font-size: 10.5px; color: var(--slot-8); margin-top: 2px; }
+  @keyframes pulseDot { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) {
+    #today-banner .banner-dot { animation: none; opacity: .85; }
+  }
+
   #search-wrap { position: relative; margin-bottom: 14px; }
   input[type="search"] {
     width: 100%; padding: 8px 10px; border-radius: 8px;
@@ -127,6 +160,12 @@
   .signal-item .signal-date {
     font-size: 10px; color: var(--text-muted); text-transform: uppercase;
     letter-spacing: .04em; margin-bottom: 5px; font-variant-numeric: tabular-nums;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .signal-new-badge {
+    display: inline-block; font-size: 9.5px; font-weight: 700; letter-spacing: .03em;
+    color: var(--slot-8); border: 1px solid var(--slot-8); border-radius: 999px;
+    padding: 0 5px; text-transform: none;
   }
   .signal-item .signal-title { font-weight: 600; color: var(--text-primary); margin-bottom: 5px; text-wrap: balance; }
   .signal-item .signal-desc { color: var(--text-secondary); margin-bottom: 6px; }
@@ -167,8 +206,15 @@
   svg { width: 100%; height: 100%; display: block; }
   .edge { stroke-opacity: .55; fill: none; }
   .edge.dim { stroke-opacity: .08; }
+  .edge.new { stroke-opacity: .9; stroke-width: 2.4px !important; }
   .node circle { stroke: var(--surface-1); stroke-width: 2px; cursor: pointer; }
   .node.dim { opacity: .12; }
+  .node .halo { fill: none; stroke: var(--slot-8); stroke-width: 1.6px; pointer-events: none; }
+  .node.new .halo { animation: pulseHalo 2s ease-in-out infinite; }
+  @keyframes pulseHalo { 0%, 100% { opacity: .18; } 50% { opacity: .7; } }
+  @media (prefers-reduced-motion: reduce) {
+    .node.new .halo { animation: none; opacity: .45; }
+  }
   .node text {
     font-size: 10px; fill: var(--text-secondary); pointer-events: none;
     paint-order: stroke; stroke: var(--page); stroke-width: 3px;
@@ -238,6 +284,15 @@
   <div id="sidebar">
     <h1>科技产业关系图谱</h1>
     <div class="sub" id="generated-at"></div>
+    <div id="today-banner">
+      <div class="banner-head" id="today-banner-head">
+        <span class="banner-dot"></span>
+        <span class="banner-title" id="today-banner-title"></span>
+        <span class="banner-count" id="today-banner-count"></span>
+        <span class="banner-chevron">▶</span>
+      </div>
+      <div class="banner-list" id="today-banner-list"></div>
+    </div>
     <div id="sector-tabs"></div>
     <div id="sector-signals"></div>
     <div id="search-wrap">
@@ -300,16 +355,64 @@ const nodes = nodeEntries.map(([key, n]) => ({
   id: key, name: n.name, type: n.type, sectors: n.sectors || [],
   sectorTags: n.sector_tags || [], hot: n.hot || null, ticker: n.ticker || null,
   mentions: n.mentions || 1, first_seen: n.first_seen, last_seen: n.last_seen,
+  isNew: !!n.is_new,
   x: Math.random() * 800 - 400, y: Math.random() * 600 - 300, vx: 0, vy: 0,
 }));
 const nodeById = Object.fromEntries(nodes.map(n => [n.id, n]));
 const links = (GRAPH.edges || [])
   .filter(e => nodeById[e.source] && nodeById[e.target])
-  .map(e => ({ source: e.source, target: e.target, type: e.type, evidence: e.evidence || [] }));
+  .map(e => ({ source: e.source, target: e.target, type: e.type, evidence: e.evidence || [], isNew: !!e.is_new }));
 
 document.getElementById("generated-at").textContent =
   `${nodes.length} 个实体 · ${links.length} 条关系 · 生成于 ${GRAPH.generated_at || ""}`;
-document.getElementById("stats").textContent = "拖动节点调整位置 · 滚轮缩放 · 点击查看详情";
+document.getElementById("stats").textContent =
+  (GRAPH.today_articles && GRAPH.today_articles.length
+    ? "拖动节点调整位置 · 滚轮缩放 · 点击查看详情 · 🔴 光晕节点 = 今日新增"
+    : "拖动节点调整位置 · 滚轮缩放 · 点击查看详情");
+
+// ---------- today's update banner ----------
+function renderTodayBanner() {
+  const todayArticles = GRAPH.today_articles || [];
+  const banner = document.getElementById("today-banner");
+  if (!todayArticles.length) { banner.classList.remove("has-items"); return; }
+  banner.classList.add("has-items");
+
+  const newNodeCount = nodes.filter(n => n.isNew).length;
+  const newEdgeCount = links.filter(l => l.isNew).length;
+
+  document.getElementById("today-banner-title").textContent =
+    `🆕 今日更新 · ${GRAPH.latest_update_date || ""}`;
+  const countParts = [`${todayArticles.length} 篇文章`];
+  if (newNodeCount) countParts.push(`${newNodeCount} 个新实体`);
+  if (newEdgeCount) countParts.push(`${newEdgeCount} 条新关系`);
+  document.getElementById("today-banner-count").textContent = countParts.join(" · ");
+
+  const list = document.getElementById("today-banner-list");
+  list.innerHTML = todayArticles.map((a, i) => `
+    <div class="banner-item" data-idx="${i}">
+      <div class="banner-item-title">${a.title}</div>
+      ${a.sectors.length ? `<div class="banner-item-sectors">${a.sectors.join(" · ")}</div>` : ""}
+    </div>
+  `).join("");
+  list.querySelectorAll(".banner-item[data-idx]").forEach(el => {
+    el.addEventListener("click", () => {
+      const a = todayArticles[parseInt(el.dataset.idx, 10)];
+      openSignalModal({
+        sector: a.sectors.join(" · ") || "今日更新",
+        source_name: "",
+        published: a.seen_at,
+        article_title: a.title,
+        article_url: a.url,
+        description: "",
+        article_body: a.article_body,
+      });
+    });
+  });
+}
+document.getElementById("today-banner-head").addEventListener("click", () => {
+  document.getElementById("today-banner").classList.toggle("open");
+});
+renderTodayBanner();
 
 // ---------- sector switcher ----------
 let currentSector = null; // null = 全部
@@ -365,7 +468,7 @@ function renderSectorSignals() {
   container.innerHTML = `<div class="section-title">${currentSector} 近期信号(${sorted.length})</div>` +
     sorted.map((s, i) => `
       <div class="signal-item" data-idx="${i}">
-        <div class="signal-date">${formatDate(s.published)}${s.source_name ? " · " + s.source_name : ""}</div>
+        <div class="signal-date">${s.is_new ? '<span class="signal-new-badge">今日</span>' : ""}${formatDate(s.published)}${s.source_name ? " · " + s.source_name : ""}</div>
         <div class="signal-title">${s.article_title || currentSector}</div>
         <div class="signal-desc">${s.description}</div>
         <div class="signal-cta">${s.article_body ? "查看完整分析 →" : (s.article_url ? "查看原文 →" : "")}</div>
@@ -379,12 +482,12 @@ function renderSectorSignals() {
 function openSignalModal(signal) {
   const bodyHtml = signal.article_body
     ? mdToHtml(signal.article_body)
-    : `<p>${signal.description}</p>`;
+    : `<p>${signal.description || "暂无摘要,点击下方链接查看原文。"}</p>`;
   document.getElementById("modal-content").innerHTML = `
     <div class="modal-eyebrow">${signal.sector}${signal.source_name ? " · " + signal.source_name : ""}</div>
     <h2 class="modal-title">${signal.article_title || signal.sector}</h2>
     <div class="modal-meta">${formatDate(signal.published)}</div>
-    <div class="modal-lead">${signal.description}</div>
+    ${signal.description ? `<div class="modal-lead">${signal.description}</div>` : ""}
     <div class="modal-body">${bodyHtml}</div>
     ${signal.article_url ? `<a class="modal-source-link" href="${signal.article_url}" target="_blank" rel="noopener">查看原文 →</a>` : ""}
   `;
@@ -495,7 +598,7 @@ svg.appendChild(viewport);
 
 const linkEls = links.map(l => {
   const el = document.createElementNS(svgNS, "line");
-  el.setAttribute("class", "edge");
+  el.setAttribute("class", "edge" + (l.isNew ? " new" : ""));
   el.setAttribute("stroke", EDGE_TYPE_COLOR[l.type] || "var(--text-muted)");
   el.setAttribute("stroke-width", "1.6");
   el.addEventListener("click", (ev) => { ev.stopPropagation(); showEdgeDetail(l); });
@@ -510,7 +613,13 @@ function radiusFor(n) { return 6 + Math.min(14, Math.sqrt(n.mentions) * 4); }
 
 const nodeGroups = nodes.map(n => {
   const g = document.createElementNS(svgNS, "g");
-  g.setAttribute("class", "node");
+  g.setAttribute("class", "node" + (n.isNew ? " new" : ""));
+  if (n.isNew) {
+    const halo = document.createElementNS(svgNS, "circle");
+    halo.setAttribute("class", "halo");
+    halo.setAttribute("r", radiusFor(n) + 5);
+    g.appendChild(halo);
+  }
   const circle = document.createElementNS(svgNS, "circle");
   circle.setAttribute("r", radiusFor(n));
   circle.setAttribute("fill", NODE_TYPE_COLOR[n.type] || "var(--text-muted)");
@@ -521,7 +630,7 @@ const nodeGroups = nodes.map(n => {
   g.appendChild(circle);
   g.appendChild(text);
   g.addEventListener("click", (ev) => { ev.stopPropagation(); showNodeDetail(n); });
-  g.addEventListener("mouseenter", (ev) => showTooltip(ev, `<b>${n.name}</b>${n.ticker ? ` <span style="color:var(--text-muted)">(${n.ticker})</span>` : ""}${n.hot ? `<span class="badge ${n.hot}">${n.hot === "hot" ? "热门" : "冷门"}</span>` : ""}<br><span style="color:var(--text-muted)">${NODE_TYPE_LABEL[n.type] || n.type} · 提及 ${n.mentions} 次</span>`));
+  g.addEventListener("mouseenter", (ev) => showTooltip(ev, `<b>${n.name}</b>${n.ticker ? ` <span style="color:var(--text-muted)">(${n.ticker})</span>` : ""}${n.hot ? `<span class="badge ${n.hot}">${n.hot === "hot" ? "热门" : "冷门"}</span>` : ""}${n.isNew ? `<span class="signal-new-badge" style="margin-left:6px">今日新增</span>` : ""}<br><span style="color:var(--text-muted)">${NODE_TYPE_LABEL[n.type] || n.type} · 提及 ${n.mentions} 次</span>`));
   g.addEventListener("mouseleave", hideTooltip);
   g.addEventListener("mousemove", moveTooltip);
   makeDraggable(g, n);
