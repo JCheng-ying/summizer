@@ -3154,6 +3154,66 @@
       "mentions": 1,
       "first_seen": "2026-08-19T04:37:27.426887+00:00",
       "last_seen": "2026-08-19T04:37:27.426887+00:00"
+    },
+    "atdev": {
+      "name": "ATDev",
+      "type": "company",
+      "sectors": [
+        "robotic assistive/autonomous wheelchairs"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-21T07:03:14.215979+00:00",
+      "last_seen": "2026-08-21T07:03:14.215979+00:00"
+    },
+    "varda space industries": {
+      "name": "Varda Space Industries",
+      "type": "company",
+      "sectors": [
+        "in-space manufacturing, reentry vehicles"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-21T07:04:49.914688+00:00",
+      "last_seen": "2026-08-21T07:04:49.914688+00:00"
+    },
+    "elve": {
+      "name": "Elve",
+      "type": "company",
+      "sectors": [
+        "millimeter-wave power amplifiers for satellites"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-21T07:05:13.721020+00:00",
+      "last_seen": "2026-08-21T07:05:13.721020+00:00"
+    },
+    "inqtel": {
+      "name": "In-Q-Tel",
+      "type": "institution",
+      "sectors": [
+        "national security venture capital"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-21T07:05:13.721020+00:00",
+      "last_seen": "2026-08-21T07:05:13.721020+00:00"
     }
   },
   "edges": [
@@ -6734,6 +6794,36 @@
           "added_at": "2026-08-19T04:37:27.426887+00:00"
         }
       ]
+    },
+    {
+      "source": "atdev",
+      "target": "meta platforms",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "ATDev与Meta合作,将Meta的开源AI模型应用到自主轮椅上,用于帮助轮椅快速识别和适应新的家庭环境",
+          "article_title": "ATDev gives update on its journey building autonomous wheelchairs",
+          "article_url": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Thu, 20 Aug 2026 17:39:25 +0000",
+          "added_at": "2026-08-21T07:03:14.215979+00:00"
+        }
+      ]
+    },
+    {
+      "source": "inqtel",
+      "target": "elve",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "In-Q-Tel是Elve的投资方,看好其毫米波高功率放大器技术对美国国家安全太空架构的价值",
+          "article_title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
+          "article_url": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 20 Aug 2026 22:51:53 +0000",
+          "added_at": "2026-08-21T07:05:13.721020+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -7168,6 +7258,42 @@
       "source_name": "Import AI (Substack)",
       "published": "Mon, 17 Aug 2026 13:05:36 GMT",
       "added_at": "2026-08-19T04:37:34.488074+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "ATDev用'自主性光谱'理念开发协作式自主轮椅,避开通用机器人路径转向监管壁垒高但需求确定的辅助医疗器械细分市场,并与Meta合作验证开源AI模型在垂直机器人场景的复用价值",
+      "article_title": "ATDev gives update on its journey building autonomous wheelchairs",
+      "article_url": "https://www.therobotreport.com/atdev-gives-update-journey-building-autonomous-wheelchairs/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Thu, 20 Aug 2026 17:39:25 +0000",
+      "added_at": "2026-08-21T07:03:24.409949+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "白宫首次更新国家航天运输政策,设定2030年前每年支持1000次发射/再入的激进目标,并首次将再入场地短缺列为专项待解决瓶颈,为发射场扩产和再入基础设施建设提供政策背书",
+      "article_title": "New space transportation policy focuses on increased launch rates",
+      "article_url": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/",
+      "source_name": "SpaceNews",
+      "published": "Thu, 20 Aug 2026 23:30:13 +0000",
+      "added_at": "2026-08-21T07:04:50.160385+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "金穹项目90%初始拨款已落实为雷达/天基拦截器等合同,验证测试34分钟内完成拦截,但2027财年后续拨款尚未落定,资金持续性是判断天基防御相关订单能否持续的关键变量",
+      "article_title": "Golden Dome chief touts progress as funding questions loom",
+      "article_url": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/",
+      "source_name": "SpaceNews",
+      "published": "Thu, 20 Aug 2026 23:02:34 +0000",
+      "added_at": "2026-08-21T07:04:57.777583+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Elve完成100瓦毫米波功率放大器太空环境认证,将卫星星座高数据速率下行这一通用瓶颈部件从实验室推向可规模化部署阶段,利好卫星通信载荷供应链",
+      "article_title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
+      "article_url": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
+      "source_name": "SpaceNews",
+      "published": "Thu, 20 Aug 2026 22:51:53 +0000",
+      "added_at": "2026-08-21T07:05:13.962080+00:00"
     }
   ]
 }
