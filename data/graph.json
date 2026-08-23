@@ -646,16 +646,18 @@
       "name": "SpaceX",
       "type": "company",
       "sectors": [
-        "orbital launch vehicles, satellite constellations"
+        "orbital launch vehicles, satellite constellations",
+        "orbital launch vehicles, satellite constellations, frontier AI (via SpaceXAI)"
       ],
       "sector_tags": [
-        "太空经济板块"
+        "太空经济板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-16T20:14:54.664014+00:00"
+      "last_seen": "2026-08-23T05:51:54.682460+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -3214,6 +3216,97 @@
       "mentions": 1,
       "first_seen": "2026-08-21T07:05:13.721020+00:00",
       "last_seen": "2026-08-21T07:05:13.721020+00:00"
+    },
+    "spacexai": {
+      "name": "SpaceXAI",
+      "type": "company",
+      "sectors": [
+        "frontier AI models (Grok series)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-23T05:51:54.682460+00:00",
+      "last_seen": "2026-08-23T05:51:54.682460+00:00"
+    },
+    "cursor": {
+      "name": "Cursor",
+      "type": "company",
+      "sectors": [
+        "AI coding agent / code hosting"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-23T05:51:54.682460+00:00",
+      "last_seen": "2026-08-23T05:51:54.682460+00:00"
+    },
+    "xiaoice": {
+      "name": "Xiaoice",
+      "type": "company",
+      "sectors": [
+        "conversational AI, speech recognition"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-23T05:52:28.530052+00:00",
+      "last_seen": "2026-08-23T05:52:28.530052+00:00"
+    },
+    "alibaba": {
+      "name": "Alibaba",
+      "type": "company",
+      "sectors": [
+        "frontier AI models (Qwen series)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-23T05:53:20.548775+00:00",
+      "last_seen": "2026-08-23T05:53:20.548775+00:00"
+    },
+    "moonshot ai": {
+      "name": "Moonshot AI",
+      "type": "company",
+      "sectors": [
+        "frontier open-weights AI models (Kimi series)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-23T05:53:20.548775+00:00",
+      "last_seen": "2026-08-23T05:53:20.548775+00:00"
+    },
+    "zai": {
+      "name": "Z.ai",
+      "type": "company",
+      "sectors": [
+        "open-weights AI models (GLM series)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-23T05:53:20.548775+00:00",
+      "last_seen": "2026-08-23T05:53:20.548775+00:00"
     }
   },
   "edges": [
@@ -6824,6 +6917,96 @@
           "added_at": "2026-08-21T07:05:13.721020+00:00"
         }
       ]
+    },
+    {
+      "source": "spacex",
+      "target": "cursor",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "SpaceX以约600亿美元全股票交易收购Cursor,交易于2026年8月14日完成交割,此前双方已达成Cursor在SpaceX Colossus超算上训练模型、SpaceX享有收购期权的协议",
+          "article_title": "Grok 4.6 Rivals Claude Opus 5 and GPT-5.6 Sol at A Lower Price",
+          "article_url": "https://www.deeplearning.ai/the-batch/groks-cursor-alliance-pays-off/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-21T08:00:35.000-07:00",
+          "added_at": "2026-08-23T05:51:54.682460+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacexai",
+      "target": "cursor",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "SpaceXAI与Cursor联合训练Grok 4.5和Grok 4.6,使用了Cursor匿名化的编程agent数据",
+          "article_title": "Grok 4.6 Rivals Claude Opus 5 and GPT-5.6 Sol at A Lower Price",
+          "article_url": "https://www.deeplearning.ai/the-batch/groks-cursor-alliance-pays-off/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-21T08:00:35.000-07:00",
+          "added_at": "2026-08-23T05:51:54.682460+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "spacexai",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "SpaceXAI是SpaceX旗下负责Grok系列前沿模型研发的AI实验室",
+          "article_title": "Grok 4.6 Rivals Claude Opus 5 and GPT-5.6 Sol at A Lower Price",
+          "article_url": "https://www.deeplearning.ai/the-batch/groks-cursor-alliance-pays-off/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-21T08:00:35.000-07:00",
+          "added_at": "2026-08-23T05:51:54.682460+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "xiaoice",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Xiaoice是从微软分拆出来的独立公司(现已不受微软控股,历史上是微软的子公司),参与了Agentic ASR这项语音识别纠错研究",
+          "article_title": "AgenticASR Incorporates User Corrections to Edit Speech Recognition on the Fly",
+          "article_url": "https://www.deeplearning.ai/the-batch/agents-come-to-speech-recognition/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-21T08:15:03.000-07:00",
+          "added_at": "2026-08-23T05:52:28.530052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alibaba",
+      "target": "moonshot ai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "阿里在Moonshot AI发布Kimi K3(当时最大最强开源权重模型)后跟进开放Qwen3.8-Max权重,双方在开源权重模型这一细分赛道正面竞争",
+          "article_title": "Inside Alibaba&#x27;s Two New Models, Qwen3.8-Max and Qwen3.8-27B",
+          "article_url": "https://www.deeplearning.ai/the-batch/qwen3-8-max-lands-with-a-bang/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-21T08:10:19.000-07:00",
+          "added_at": "2026-08-23T05:53:20.548775+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alibaba",
+      "target": "zai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Z.ai在阿里开放Qwen3.8-Max权重后跟进发布GLM-5.3,双方在开源权重模型赛道持续竞速",
+          "article_title": "Inside Alibaba&#x27;s Two New Models, Qwen3.8-Max and Qwen3.8-27B",
+          "article_url": "https://www.deeplearning.ai/the-batch/qwen3-8-max-lands-with-a-bang/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-21T08:10:19.000-07:00",
+          "added_at": "2026-08-23T05:53:20.548775+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -7294,6 +7477,78 @@
       "source_name": "SpaceNews",
       "published": "Thu, 20 Aug 2026 22:51:53 +0000",
       "added_at": "2026-08-21T07:05:13.962080+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "SpaceX完成对Cursor约600亿美元收购,将编程agent数据源和分发渠道完全内部化,Grok 4.6在多项基准上以更少轮次/token追平Claude Opus 5和GPT-5.6 Sol,模型竞争维度正从跑分扩展到完成任务的效率成本",
+      "article_title": "Grok 4.6 Rivals Claude Opus 5 and GPT-5.6 Sol at A Lower Price",
+      "article_url": "https://www.deeplearning.ai/the-batch/groks-cursor-alliance-pays-off/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-21T08:00:35.000-07:00",
+      "added_at": "2026-08-23T05:51:54.917369+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Agentic ASR提出'定位-理解-修改'三步纠错范式,验证了agent化交互修正流程可跨场景复用(文档编辑、代码审查、设计迭代),不只是语音识别专用方案",
+      "article_title": "AgenticASR Incorporates User Corrections to Edit Speech Recognition on the Fly",
+      "article_url": "https://www.deeplearning.ai/the-batch/agents-come-to-speech-recognition/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-21T08:15:03.000-07:00",
+      "added_at": "2026-08-23T05:52:42.690860+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Agentic ASR的多轮语音纠错方案填补了人形机器人嘈杂环境语音交互的一块具体拼图,降低了专有名词/口音/混合语言场景下一次性转录出错的风险",
+      "article_title": "AgenticASR Incorporates User Corrections to Edit Speech Recognition on the Fly",
+      "article_url": "https://www.deeplearning.ai/the-batch/agents-come-to-speech-recognition/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-21T08:15:03.000-07:00",
+      "added_at": "2026-08-23T05:52:42.928192+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Agentic ASR验证了多轮纠错方案能在Qwen3-32B这类中等规模模型上跑通,提示语音交互类高频场景不一定需要依赖云端大模型才能实现可靠纠错体验",
+      "article_title": "AgenticASR Incorporates User Corrections to Edit Speech Recognition on the Fly",
+      "article_url": "https://www.deeplearning.ai/the-batch/agents-come-to-speech-recognition/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-21T08:15:03.000-07:00",
+      "added_at": "2026-08-23T05:52:43.164637+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic为Claude部署全球性隐形水印(文本SynthID-Text+图像C2PA)以满足欧盟AI法案合规要求,若OpenAI/Google/Meta/微软等签署方跟进全球部署,水印将从合规成本变为行业标配,利好内容溯源/检测类第三方工具供应商",
+      "article_title": "Anthropic Details Its New Invisible Marking System for Future Versions of Claude",
+      "article_url": "https://www.deeplearning.ai/the-batch/how-claudes-watermarks-work/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-21T08:05:10.000-07:00",
+      "added_at": "2026-08-23T05:52:51.993701+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "阿里首次开放Max级别模型Qwen3.8-Max权重(能力有阉割),是对Moonshot AI Kimi K3抢占最大开源模型位置的防御性竞争回应,受益的是有能力承接大模型托管的第三方云服务商和推理优化公司",
+      "article_title": "Inside Alibaba&#x27;s Two New Models, Qwen3.8-Max and Qwen3.8-27B",
+      "article_url": "https://www.deeplearning.ai/the-batch/qwen3-8-max-lands-with-a-bang/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-21T08:10:19.000-07:00",
+      "added_at": "2026-08-23T05:53:20.781343+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "蒸馏版Qwen3.8-27B采用标准Apache 2.0协议、可在消费级硬件运行,是开源模型能否真正下沉到本地部署这一命题的具体验证案例",
+      "article_title": "Inside Alibaba&#x27;s Two New Models, Qwen3.8-Max and Qwen3.8-27B",
+      "article_url": "https://www.deeplearning.ai/the-batch/qwen3-8-max-lands-with-a-bang/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-21T08:10:19.000-07:00",
+      "added_at": "2026-08-23T05:53:21.024602+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Novaspace预测到2035年地球观测卫星发射超6500颗、制造业收入1559亿美元,国防主权ISR需求驱动多传感器融合星座取代单一分辨率竞争,卫星平台趋于商品化,价值转向载荷集成与联合组网软件",
+      "article_title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
+      "article_url": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 21 Aug 2026 19:48:14 +0000",
+      "added_at": "2026-08-23T05:53:30.967601+00:00"
     }
   ]
 }
