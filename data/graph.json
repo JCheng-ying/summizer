@@ -187,11 +187,12 @@
       "name": "Generalist",
       "type": "company",
       "sectors": [
-        "embodied AI foundation models"
+        "embodied AI foundation models",
+        "robot foundation models"
       ],
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-08-27T06:38:16.951274+00:00",
       "sector_tags": [
         "机器人板块",
         "AI板块"
@@ -3307,6 +3308,36 @@
       "mentions": 1,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
       "last_seen": "2026-08-23T05:53:20.548775+00:00"
+    },
+    "ollobot": {
+      "name": "Ollobot",
+      "type": "company",
+      "sectors": [
+        "AI companion robots for home use"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-27T06:37:53.792114+00:00",
+      "last_seen": "2026-08-27T06:37:53.792114+00:00"
+    },
+    "gravis": {
+      "name": "Gravis Robotics",
+      "type": "company",
+      "sectors": [
+        "retrofit kits for autonomous heavy construction machinery"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-08-27T06:38:16.951274+00:00",
+      "last_seen": "2026-08-27T06:38:16.951274+00:00"
     }
   },
   "edges": [
@@ -7549,6 +7580,42 @@
       "source_name": "SpaceNews",
       "published": "Fri, 21 Aug 2026 19:48:14 +0000",
       "added_at": "2026-08-23T05:53:30.967601+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "UCSD团队用AI从50万条DNA序列中破译出人类基因起始子(initiator)的序列特征,验证了AI直接'读懂'生物序列信息的能力,为未来基因表达全密码预测和合成启动子设计提供早期技术基础",
+      "article_title": "A hidden “on switch” in human DNA has finally been decoded",
+      "article_url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Sun, 23 Aug 2026 08:14:40 EDT",
+      "added_at": "2026-08-27T06:37:42.012069+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "(注:本文为Ollobot自家投放的厂商软文,产品能力与市场数据未经独立验证)陪伴机器人赛道提出'温和智能'定位思路,若本地化家庭记忆积累能形成真实用户粘性,将是区别于2017年上一波陪伴机器人失败案例的潜在护城河来源",
+      "article_title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+      "article_url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 25 Aug 2026 10:00:03 +0000",
+      "added_at": "2026-08-27T06:37:54.031090+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Gravis Robotics用加装改造套件而非整机替换的路径让现有工程机械机器人化,这种'改造包'商业模式此前在自动驾驶重卡/农业机械已有先例,若在建筑机械跑通将是可复制的低阻力商业化模板",
+      "article_title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
+      "article_url": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 21 Aug 2026 16:00:01 +0000",
+      "added_at": "2026-08-27T06:38:25.332089+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Hawkeye框架验证了少量专家知识包装成单元测试即可让agent在AMD MI350/NVIDIA Blackwell等新硬件上写出接近专家水准的GPU kernel(部分场景18.9倍加速),若持续验证成立将缩短新硬件从发布到被充分利用的时间差,利好打破CUDA生态先发优势的硬件多元化进程",
+      "article_title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "article_url": "https://importai.substack.com/p/import-ai-470-no-rights-for-machines",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 24 Aug 2026 13:12:40 GMT",
+      "added_at": "2026-08-27T06:38:38.798319+00:00"
     }
   ]
 }
