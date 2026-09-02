@@ -1182,5 +1182,25 @@
   "https://importai.substack.com/p/import-ai-470-no-rights-for-machines": {
     "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
     "seen_at": "2026-08-27T06:38:38.562521+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/08/260827010504.htm": {
+    "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+    "seen_at": "2026-09-02T06:27:52.130413+00:00"
+  },
+  "https://spectrum.ieee.org/video-friday-microduck-robot": {
+    "title": "Video Friday: Meet Microduck",
+    "seen_at": "2026-09-02T06:34:45.343914+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries": {
+    "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+    "seen_at": "2026-09-02T06:37:13.031571+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/deepseek-v4-pro-gets-refreshed/": {
+    "title": "DeepSeek’s New Flagship Only Slightly Outperforms Flash Model; Open Source Harness Draws Interest",
+    "seen_at": "2026-09-02T06:37:54.422442+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/glm-5-3-makes-cybersecurity-gains/": {
+    "title": "Z.ai Delayed Weights for GLM-5.3 Due to Cybersecurity Risk",
+    "seen_at": "2026-09-02T06:38:39.316450+00:00"
   }
 }

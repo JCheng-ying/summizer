@@ -3338,6 +3338,52 @@
       "mentions": 1,
       "first_seen": "2026-08-27T06:38:16.951274+00:00",
       "last_seen": "2026-08-27T06:38:16.951274+00:00"
+    },
+    "washington state university": {
+      "name": "Washington State University",
+      "type": "institution",
+      "sectors": [
+        "AI-guided materials science research"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-02T06:27:52.127130+00:00",
+      "last_seen": "2026-09-02T06:27:52.127130+00:00"
+    },
+    "pollen": {
+      "name": "Pollen Robotics",
+      "type": "company",
+      "sectors": [
+        "open-source humanoid robotics hardware"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-02T06:34:45.340354+00:00",
+      "last_seen": "2026-09-02T06:34:45.340354+00:00"
+    },
+    "noble machines": {
+      "name": "Noble Machines",
+      "type": "company",
+      "sectors": [
+        "general-purpose industrial robots"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-02T06:34:45.340354+00:00",
+      "last_seen": "2026-09-02T06:34:45.340354+00:00"
     }
   },
   "edges": [
@@ -3488,6 +3534,14 @@
           "source_name": "CNBC",
           "published": "2025-10-13",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "OpenAI公布了与Broadcom合作研发的推理芯片Jalapeño的首批测试结果,在延迟和吞吐量上均有良好表现",
+          "article_title": "DeepSeek’s New Flagship Only Slightly Outperforms Flash Model; Open Source Harness Draws Interest",
+          "article_url": "https://www.deeplearning.ai/the-batch/deepseek-v4-pro-gets-refreshed/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-28T08:05:16.000-07:00",
+          "added_at": "2026-09-02T06:37:54.419088+00:00"
         }
       ]
     },
@@ -7038,6 +7092,96 @@
           "added_at": "2026-08-23T05:53:20.548775+00:00"
         }
       ]
+    },
+    {
+      "source": "washington state university",
+      "target": "nasa",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "华盛顿州立大学团队用AI引导实验设计,找到了在更低激光功率下3D打印NASA研发的高性能合金GRCop-42的可行工艺参数",
+          "article_title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+          "article_url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Thu, 27 Aug 2026 09:08:01 EDT",
+          "added_at": "2026-09-02T06:27:52.127130+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "hugging face",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Nvidia以129亿美元收购Hugging Face(据IEEE Spectrum编辑推测,具身机器人生态可能是收购考量之一,因Hugging Face此前收购了机器人公司Pollen Robotics)",
+          "article_title": "Video Friday: Meet Microduck",
+          "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Fri, 28 Aug 2026 16:00:03 +0000",
+          "added_at": "2026-09-02T06:34:45.340354+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hugging face",
+      "target": "pollen",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Hugging Face此前收购了法国开源人形机器人硬件公司Pollen Robotics",
+          "article_title": "Video Friday: Meet Microduck",
+          "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Fri, 28 Aug 2026 16:00:03 +0000",
+          "added_at": "2026-09-02T06:34:45.340354+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "cerebras systems",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "OpenAI与Cerebras合作推出Ultrafast API服务档位,让GPT-5.6 Sol跑在Cerebras的片上SRAM架构硬件上,吞吐量比OpenAI自家基础设施快约11倍",
+          "article_title": "DeepSeek’s New Flagship Only Slightly Outperforms Flash Model; Open Source Harness Draws Interest",
+          "article_url": "https://www.deeplearning.ai/the-batch/deepseek-v4-pro-gets-refreshed/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-28T08:05:16.000-07:00",
+          "added_at": "2026-09-02T06:37:54.419088+00:00"
+        }
+      ]
+    },
+    {
+      "source": "zai",
+      "target": "moonshot ai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "GLM-5.3在Artificial Analysis智能指数上追平开源权重领先者Kimi K3(60分并列),双方持续在开源权重模型赛道竞速",
+          "article_title": "Z.ai Delayed Weights for GLM-5.3 Due to Cybersecurity Risk",
+          "article_url": "https://www.deeplearning.ai/the-batch/glm-5-3-makes-cybersecurity-gains/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-28T08:00:41.000-07:00",
+          "added_at": "2026-09-02T06:38:39.311306+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "zai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "OpenAI总裁Greg Brockman公开警告GLM-5.3等具备顶尖网络安全攻击能力的开源权重模型可能显著加速威胁态势,直接回应Z.ai的发布",
+          "article_title": "Z.ai Delayed Weights for GLM-5.3 Due to Cybersecurity Risk",
+          "article_url": "https://www.deeplearning.ai/the-batch/glm-5-3-makes-cybersecurity-gains/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-08-28T08:00:41.000-07:00",
+          "added_at": "2026-09-02T06:38:39.311306+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -7616,6 +7760,69 @@
       "source_name": "Import AI (Substack)",
       "published": "Mon, 24 Aug 2026 13:12:40 GMT",
       "added_at": "2026-08-27T06:38:38.798319+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI引导实验设计(贝叶斯优化式主动学习)在40次实验内于1亿+参数空间中找到NASA合金GRCop-42的低功率可行打印配置,验证AI for Science方法论在材料科学领域的泛化能力,同类思路可延展至药物发现等其他稀疏成功案例的科学问题",
+      "article_title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+      "article_url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Thu, 27 Aug 2026 09:08:01 EDT",
+      "added_at": "2026-09-02T06:27:52.368716+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "若GRCop-42低功率打印工艺被商业化打印服务商采用,火箭发动机燃烧室等关键部件的供应链集中度有望下降,降低对少数高功率打印设备实验室的依赖",
+      "article_title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+      "article_url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Thu, 27 Aug 2026 09:08:01 EDT",
+      "added_at": "2026-09-02T06:27:52.622781+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nvidia以129亿美元收购Hugging Face,是AI/机器人板块交界处一笔分量很重的整合案例,值得跟踪交易细节及其与Hugging Face此前安全事件的关联",
+      "article_title": "Video Friday: Meet Microduck",
+      "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 28 Aug 2026 16:00:03 +0000",
+      "added_at": "2026-09-02T06:34:45.578712+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Noble Machines成立18个月内即向财富全球500强工业客户交付通用机器人并达成首个里程碑,LimX Dynamics的TRON 2+Wuji Hand 2进入中药药房拣选称重研磨包装场景,双双是具体的垂直场景商业化落地信号",
+      "article_title": "Video Friday: Meet Microduck",
+      "article_url": "https://spectrum.ieee.org/video-friday-microduck-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 28 Aug 2026 16:00:03 +0000",
+      "added_at": "2026-09-02T06:34:45.811342+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "中国多机构联合论文梳理太空采矿六阶段框架,判断硬件层(月球车/火星车)已在快速derisking,真正瓶颈在数据和软件层(世界模型、仿真闭环),投资价值可能更集中在太空机器人仿真与自主决策软件而非硬件平台商",
+      "article_title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+      "article_url": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 31 Aug 2026 13:31:06 GMT",
+      "added_at": "2026-09-02T06:37:13.266864+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "模型竞争维度从跑分/成本扩展到推理速度,Cerebras片上SRAM架构、OpenAI/Broadcom自研Jalapeño芯片、Nvidia NeMo Switchyard智能路由三条路线同时押注,推理侧硬件多元化对Nvidia护城河是值得关注的分散化信号",
+      "article_title": "DeepSeek’s New Flagship Only Slightly Outperforms Flash Model; Open Source Harness Draws Interest",
+      "article_url": "https://www.deeplearning.ai/the-batch/deepseek-v4-pro-gets-refreshed/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-28T08:05:16.000-07:00",
+      "added_at": "2026-09-02T06:37:54.661803+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "GLM-5.3网络安全攻击能力意外跃升(ExploitBench翻倍),Z.ai选择两周临时护栏而非OpenAI/Anthropic式永久注册门槛,开源权重模型的网络安全能力评测分数可能成为各国监管审查的新标准,影响未来开源模型的分发合规成本",
+      "article_title": "Z.ai Delayed Weights for GLM-5.3 Due to Cybersecurity Risk",
+      "article_url": "https://www.deeplearning.ai/the-batch/glm-5-3-makes-cybersecurity-gains/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-08-28T08:00:41.000-07:00",
+      "added_at": "2026-09-02T06:38:39.553123+00:00"
     }
   ]
 }
