@@ -3384,6 +3384,127 @@
       "mentions": 1,
       "first_seen": "2026-09-02T06:34:45.340354+00:00",
       "last_seen": "2026-09-02T06:34:45.340354+00:00"
+    },
+    "dynamic creatures": {
+      "name": "Dynamic Creatures",
+      "type": "company",
+      "sectors": [
+        "entertainment robotics / robotic characters"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-11T06:09:57.757551+00:00",
+      "last_seen": "2026-09-11T06:09:57.757551+00:00"
+    },
+    "marc raibert": {
+      "name": "Marc Raibert",
+      "type": "person",
+      "sectors": [
+        "robotics, founder of Boston Dynamics, executive director of RAI Institute"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-11T06:09:57.757551+00:00",
+      "last_seen": "2026-09-11T06:09:57.757551+00:00"
+    },
+    "princeton university": {
+      "name": "Princeton University",
+      "type": "institution",
+      "sectors": [
+        "AI-driven fusion plasma control research"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-11T06:55:46.043576+00:00",
+      "last_seen": "2026-09-11T06:55:46.043576+00:00"
+    },
+    "princeton plasma physics laboratory": {
+      "name": "Princeton Plasma Physics Laboratory",
+      "type": "institution",
+      "sectors": [
+        "DOE national fusion research laboratory"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-11T06:55:46.043576+00:00",
+      "last_seen": "2026-09-11T06:55:46.043576+00:00"
+    },
+    "tsinghua university": {
+      "name": "Tsinghua University",
+      "type": "institution",
+      "sectors": [
+        "tactile robotics data aggregation research"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-11T06:56:13.795853+00:00",
+      "last_seen": "2026-09-11T06:56:13.795853+00:00"
+    },
+    "fudan university": {
+      "name": "Fudan University",
+      "type": "institution",
+      "sectors": [
+        "large-scale tactile robotics data research"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-11T06:56:13.795853+00:00",
+      "last_seen": "2026-09-11T06:56:13.795853+00:00"
+    },
+    "neoteai": {
+      "name": "NeoteAI",
+      "type": "company",
+      "sectors": [
+        "large-scale tactile robotics datasets and models"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-11T06:56:13.795853+00:00",
+      "last_seen": "2026-09-11T06:56:13.795853+00:00"
+    },
+    "university of southern california": {
+      "name": "University of Southern California",
+      "type": "institution",
+      "sectors": [
+        "vision-to-tactile inference research"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-11T06:56:13.795853+00:00",
+      "last_seen": "2026-09-11T06:56:13.795853+00:00"
     }
   },
   "edges": [
@@ -7182,6 +7303,81 @@
           "added_at": "2026-09-02T06:38:39.311306+00:00"
         }
       ]
+    },
+    {
+      "source": "boston dynamics",
+      "target": "dynamic creatures",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Dynamic Creatures是Boston Dynamics官方的娱乐和酒店业合作伙伴,基于Spot四足和Atlas人形硬件打造娱乐机器人角色",
+          "article_title": "Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics",
+          "article_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 08 Sep 2026 20:39:51 +0000",
+          "added_at": "2026-09-11T06:09:57.757551+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dynamic creatures",
+      "target": "unitree",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Dynamic Creatures的SnowJay平台技术兼容Unitree的机器人硬件",
+          "article_title": "Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics",
+          "article_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 08 Sep 2026 20:39:51 +0000",
+          "added_at": "2026-09-11T06:09:57.757551+00:00"
+        }
+      ]
+    },
+    {
+      "source": "marc raibert",
+      "target": "dynamic creatures",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Boston Dynamics创始人、RAI Institute执行董事Marc Raibert以战略天使投资人身份投资了Dynamic Creatures",
+          "article_title": "Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics",
+          "article_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 08 Sep 2026 20:39:51 +0000",
+          "added_at": "2026-09-11T06:09:57.757551+00:00"
+        }
+      ]
+    },
+    {
+      "source": "princeton university",
+      "target": "princeton plasma physics laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "两家机构联合开发了PACMAN框架,在DOE的DIII-D国家核聚变装置上验证了毫秒级AI等离子体控制能力",
+          "article_title": "AI can now control fusion plasma faster than humans can react",
+          "article_url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Sun, 06 Sep 2026 03:28:43 EDT",
+          "added_at": "2026-09-11T06:55:46.043576+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fudan university",
+      "target": "neoteai",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "NeoteAI是复旦大学的衍生公司(spin-out),用专有传感器采集了超过3万小时同步视觉-触觉演示数据,训练出能主动预测触觉反馈的机器人操作模型",
+          "article_title": "Robots Are Learning to Feel",
+          "article_url": "https://spectrum.ieee.org/tactile-data-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Thu, 10 Sep 2026 18:22:35 +0000",
+          "added_at": "2026-09-11T06:56:13.795853+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -7823,6 +8019,42 @@
       "source_name": "DeepLearning.AI - The Batch (Research)",
       "published": "2026-08-28T08:00:41.000-07:00",
       "added_at": "2026-09-02T06:38:39.553123+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Dynamic Creatures复用Boston Dynamics/Unitree现成硬件平台叠加交互软件层切入主题公园/酒店娱乐场景,是不同于自研硬件的低资本开支垂直化路径,验证机器人商业化除功能效率外的情感/表现力差异化维度",
+      "article_title": "Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics",
+      "article_url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Tue, 08 Sep 2026 20:39:51 +0000",
+      "added_at": "2026-09-11T06:09:58.001005+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "爱丁堡大学用最优控制理论设计磁场脉冲降低磁性存储切换能耗数个数量级、逼近兰道尔极限,与此前DNA-钙钛矿忆阻器研究是同一问题域的不同技术路径,验证降低存储能耗方向正被多条技术路线同时攻关",
+      "article_title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
+      "article_url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Sun, 06 Sep 2026 21:14:19 EDT",
+      "added_at": "2026-09-11T06:10:33.977093+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "PACMAN框架在DIII-D托卡马克上验证毫秒级AI等离子体控制,提前200毫秒预测并主动避免撕裂模不稳定性,模块化设计使新模型部署从数月缩短到数天,若被私营聚变公司采用将提升反应堆实际可用时间和安全边际",
+      "article_title": "AI can now control fusion plasma faster than humans can react",
+      "article_url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Sun, 06 Sep 2026 03:28:43 EDT",
+      "added_at": "2026-09-11T06:55:46.284866+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "触觉数据被验证是灵巧操作的关键瓶颈(伯克利触觉子模型成功率接近VLA模型两倍),数据规模化路径出现分化——NeoteAI自建专有传感器采集3万+小时专有数据 vs 清华80机构协作标准化公开数据集,两条路径将决定触觉数据话语权归属",
+      "article_title": "Robots Are Learning to Feel",
+      "article_url": "https://spectrum.ieee.org/tactile-data-robots",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Thu, 10 Sep 2026 18:22:35 +0000",
+      "added_at": "2026-09-11T06:56:14.028230+00:00"
     }
   ]
 }

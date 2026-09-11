@@ -1202,5 +1202,25 @@
   "https://www.deeplearning.ai/the-batch/glm-5-3-makes-cybersecurity-gains/": {
     "title": "Z.ai Delayed Weights for GLM-5.3 Due to Cybersecurity Risk",
     "seen_at": "2026-09-02T06:38:39.316450+00:00"
+  },
+  "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/": {
+    "title": "Pressure sensors can help improve robotic gripping accuracy",
+    "seen_at": "2026-09-11T06:09:19.989767+00:00"
+  },
+  "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/": {
+    "title": "Boston Dynamics veteran launches Dynamic Creatures to bring characters to life with robotics",
+    "seen_at": "2026-09-11T06:09:57.761652+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/09/260906170132.htm": {
+    "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
+    "seen_at": "2026-09-11T06:10:05.363210+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/09/260903064215.htm": {
+    "title": "AI can now control fusion plasma faster than humans can react",
+    "seen_at": "2026-09-11T06:55:46.047396+00:00"
+  },
+  "https://spectrum.ieee.org/tactile-data-robots": {
+    "title": "Robots Are Learning to Feel",
+    "seen_at": "2026-09-11T06:56:13.799061+00:00"
   }
 }
