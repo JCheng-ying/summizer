@@ -1453,15 +1453,17 @@
     "agility": {
       "name": "Agility Robotics",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "humanoid robots for industrial work (Digit 5)"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
-      "hot": "cold",
+      "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-09-16T06:31:44.641932+00:00"
     },
     "robosense suteng innovation": {
       "name": "RoboSense (Suteng Innovation Technology)",
@@ -3505,6 +3507,81 @@
       "mentions": 1,
       "first_seen": "2026-09-11T06:56:13.795853+00:00",
       "last_seen": "2026-09-11T06:56:13.795853+00:00"
+    },
+    "ultrasense systems": {
+      "name": "UltraSense Systems",
+      "type": "company",
+      "sectors": [
+        "ultrasound-based tactile sensing for physical AI and automotive HMI"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-16T06:30:55.389161+00:00",
+      "last_seen": "2026-09-16T06:30:55.389161+00:00"
+    },
+    "university of pennsylvania": {
+      "name": "University of Pennsylvania",
+      "type": "institution",
+      "sectors": [
+        "computational social listening / LLM-based pharmacovigilance research"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-16T06:31:10.654550+00:00",
+      "last_seen": "2026-09-16T06:31:10.654550+00:00"
+    },
+    "chalmers university of": {
+      "name": "Chalmers University of Technology",
+      "type": "institution",
+      "sectors": [
+        "superconducting quantum computing research"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-16T06:31:23.054712+00:00",
+      "last_seen": "2026-09-16T06:31:23.054712+00:00"
+    },
+    "tianjin university": {
+      "name": "Tianjin University",
+      "type": "institution",
+      "sectors": [
+        "quantum control theory research"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-16T06:31:23.054712+00:00",
+      "last_seen": "2026-09-16T06:31:23.054712+00:00"
+    },
+    "eth zurich": {
+      "name": "ETH Zurich",
+      "type": "institution",
+      "sectors": [
+        "legged/humanoid robot locomotion research"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-16T06:31:57.817193+00:00",
+      "last_seen": "2026-09-16T06:31:57.817193+00:00"
     }
   },
   "edges": [
@@ -7378,6 +7455,21 @@
           "added_at": "2026-09-11T06:56:13.795853+00:00"
         }
       ]
+    },
+    {
+      "source": "chalmers university of",
+      "target": "tianjin university",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "两校研究者合作提出量子晶格门方法,让玻色子编码量子态的操控速度提升超过1000倍",
+          "article_title": "Scientists just made quantum computer operations 1,000 times faster",
+          "article_url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Fri, 11 Sep 2026 07:52:30 EDT",
+          "added_at": "2026-09-16T06:31:23.054712+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -8055,6 +8147,51 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Thu, 10 Sep 2026 18:22:35 +0000",
       "added_at": "2026-09-11T06:56:14.028230+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "(注:本文为UltraSense Systems CEO/CTO联合署名的厂商观点文章,竞品对比与自家产品指标未经独立验证)超声波亚表面触觉传感提出与电子皮肤路线互补的第三条硬件路径,公司已有400万+单元汽车HMI量产经验,若长周期可靠性数据验证优势成立,值得作为触觉传感硬件路线的对照样本跟踪",
+      "article_title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
+      "article_url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Sat, 12 Sep 2026 12:35:38 +0000",
+      "added_at": "2026-09-16T06:30:55.626404+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "宾大团队验证LLM可规模化把40万+条社交媒体帖子对应到标准医学术语,'计算社会聆听'方法论此前受限于人工标注成本、现在可规模化执行,对处方药之外监管更宽松、传播更快的产品(如注射类肽类补充剂)药物警戒价值更高",
+      "article_title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "article_url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Sun, 13 Sep 2026 06:46:19 EDT",
+      "added_at": "2026-09-16T06:31:10.887262+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "查尔姆斯理工与天津大学提出量子晶格门方法,将玻色子编码量子态操控从数千次驱动循环压缩到单周期完成、速度提升超1000倍,可在现有超导量子电路平台直接实现,是容错量子计算路线图上一个具体的工程效率突破",
+      "article_title": "Scientists just made quantum computer operations 1,000 times faster",
+      "article_url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Fri, 11 Sep 2026 07:52:30 EDT",
+      "added_at": "2026-09-16T06:31:23.287224+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Agility Digit 5发布,SEC备案披露截至2026年5月已获3亿美元以上多年期客户订单(约对应不到1000台机器人)、物料成本15-20万美元(万台产能规模下预期降至5万美元以下)、计划SPAC合并融资6.2亿美元;'靠近就坐下'的安全方案是首个可验证解决人形机器人跌倒风险的商用方案",
+      "article_title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
+      "article_url": "https://spectrum.ieee.org/humanoid-robot-safety",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 15 Sep 2026 15:22:30 +0000",
+      "added_at": "2026-09-16T06:31:44.876936+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Unitree全面开源具身基础模型UnifoLM-WLA-1.0并在多个开源基准取得最优结果,机器人基础模型开源竞争复制文本大模型的开源路径;ANYbotics披露腿足机器人通过防爆环境认证,证明监管认证壁垒可能是机器人进入能源/化工巡检场景比技术本身更硬的护城河",
+      "article_title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+      "article_url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 11 Sep 2026 15:30:04 +0000",
+      "added_at": "2026-09-16T06:31:58.049863+00:00"
     }
   ]
 }

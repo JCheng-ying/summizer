@@ -1222,5 +1222,25 @@
   "https://spectrum.ieee.org/tactile-data-robots": {
     "title": "Robots Are Learning to Feel",
     "seen_at": "2026-09-11T06:56:13.799061+00:00"
+  },
+  "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/": {
+    "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
+    "seen_at": "2026-09-16T06:30:55.393007+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/09/260912222856.htm": {
+    "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+    "seen_at": "2026-09-16T06:31:10.657730+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/09/260911003845.htm": {
+    "title": "Scientists just made quantum computer operations 1,000 times faster",
+    "seen_at": "2026-09-16T06:31:23.057862+00:00"
+  },
+  "https://spectrum.ieee.org/humanoid-robot-safety": {
+    "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
+    "seen_at": "2026-09-16T06:31:44.644975+00:00"
+  },
+  "https://spectrum.ieee.org/video-friday-disaster-response-robots": {
+    "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+    "seen_at": "2026-09-16T06:31:57.820450+00:00"
   }
 }
