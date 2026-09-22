@@ -1242,5 +1242,25 @@
   "https://spectrum.ieee.org/video-friday-disaster-response-robots": {
     "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
     "seen_at": "2026-09-16T06:31:57.820450+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/09/260918024812.htm": {
+    "title": "This tiny organism can shrink to one quarter its size in milliseconds",
+    "seen_at": "2026-09-22T04:15:57.094843+00:00"
+  },
+  "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor": {
+    "title": "Video Friday: Two Birotors Make a Quadrotor",
+    "seen_at": "2026-09-22T04:16:21.031185+00:00"
+  },
+  "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone": {
+    "title": "Rethinking Robot Safety in the Age of AI",
+    "seen_at": "2026-09-22T04:16:32.225212+00:00"
+  },
+  "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta": {
+    "title": "This Robot Will Draw Your Blood Now",
+    "seen_at": "2026-09-22T04:16:57.180421+00:00"
+  },
+  "https://spectrum.ieee.org/cyborg-rescue-roach": {
+    "title": "Cyborg Roaches Can Stab You With Needles",
+    "seen_at": "2026-09-22T04:17:43.872415+00:00"
   }
 }

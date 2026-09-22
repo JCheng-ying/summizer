@@ -3582,6 +3582,111 @@
       "mentions": 1,
       "first_seen": "2026-09-16T06:31:57.817193+00:00",
       "last_seen": "2026-09-16T06:31:57.817193+00:00"
+    },
+    "ubtech": {
+      "name": "UBTECH",
+      "type": "company",
+      "sectors": [
+        "humanoid robot mass manufacturing"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-22T04:16:21.027776+00:00",
+      "last_seen": "2026-09-22T04:16:21.027776+00:00"
+    },
+    "vicone": {
+      "name": "VicOne",
+      "type": "company",
+      "sectors": [
+        "physical AI / robotics cybersecurity"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-22T04:16:32.222063+00:00",
+      "last_seen": "2026-09-22T04:16:32.222063+00:00"
+    },
+    "vitestro": {
+      "name": "Vitestro",
+      "type": "company",
+      "sectors": [
+        "autonomous blood-draw medical robotics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-22T04:16:57.177051+00:00",
+      "last_seen": "2026-09-22T04:16:57.177051+00:00"
+    },
+    "mayo clinic": {
+      "name": "Mayo Clinic",
+      "type": "institution",
+      "sectors": [
+        "clinical validation of medical robotics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-22T04:16:57.177051+00:00",
+      "last_seen": "2026-09-22T04:16:57.177051+00:00"
+    },
+    "rophai": {
+      "name": "ROPHAI",
+      "type": "company",
+      "sectors": [
+        "autonomous blood-draw robotics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-22T04:16:57.177051+00:00",
+      "last_seen": "2026-09-22T04:16:57.177051+00:00"
+    },
+    "bhealthcare": {
+      "name": "BHealthCare",
+      "type": "company",
+      "sectors": [
+        "autonomous blood-draw robotics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-22T04:16:57.177051+00:00",
+      "last_seen": "2026-09-22T04:16:57.177051+00:00"
+    },
+    "magicnurse": {
+      "name": "MagicNurse",
+      "type": "company",
+      "sectors": [
+        "autonomous blood-draw robotics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-09-22T04:16:57.177051+00:00",
+      "last_seen": "2026-09-22T04:16:57.177051+00:00"
     }
   },
   "edges": [
@@ -7470,6 +7575,66 @@
           "added_at": "2026-09-16T06:31:23.054712+00:00"
         }
       ]
+    },
+    {
+      "source": "mayo clinic",
+      "target": "vitestro",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "梅奥诊所临床化学专家Brooke Katzman与Vitestro合作,计划明年在美国启动针对Aletta设备采集样本质量和肤色影响的独立临床试验",
+          "article_title": "This Robot Will Draw Your Blood Now",
+          "article_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 07 Sep 2026 13:00:01 +0000",
+          "added_at": "2026-09-22T04:16:57.177051+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vitestro",
+      "target": "rophai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两家公司都在自主抽血机器人这条赛道竞争",
+          "article_title": "This Robot Will Draw Your Blood Now",
+          "article_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 07 Sep 2026 13:00:01 +0000",
+          "added_at": "2026-09-22T04:16:57.177051+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vitestro",
+      "target": "bhealthcare",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两家公司都在自主抽血机器人这条赛道竞争",
+          "article_title": "This Robot Will Draw Your Blood Now",
+          "article_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 07 Sep 2026 13:00:01 +0000",
+          "added_at": "2026-09-22T04:16:57.177051+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vitestro",
+      "target": "magicnurse",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两家公司都在自主抽血机器人这条赛道竞争",
+          "article_title": "This Robot Will Draw Your Blood Now",
+          "article_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 07 Sep 2026 13:00:01 +0000",
+          "added_at": "2026-09-22T04:16:57.177051+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -8192,6 +8357,51 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Fri, 11 Sep 2026 15:30:04 +0000",
       "added_at": "2026-09-16T06:31:58.049863+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "单细胞生物Spirostomum ambiguum的钙离子驱动渔网状蛋白结构收缩速度比人类肌肉快十倍以上且完全不依赖ATP,为人造肌肉/软体驱动器提供全新仿生学参照系,但核心机制(电压来源、复位机制)尚未破解,离工程化应用尚早",
+      "article_title": "This tiny organism can shrink to one quarter its size in milliseconds",
+      "article_url": "https://www.sciencedaily.com/releases/2026/09/260918024812.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Sat, 19 Sep 2026 07:39:22 EDT",
+      "added_at": "2026-09-22T04:15:57.330882+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "UBTECH人形机器人智能工厂每10分钟下线一台,9个月内产能从1000台爬坡到10000台,是人形机器人赛道少见的供给侧产能扩张具体数据,可与Agility Digit 5的订单规模数据对照跟踪",
+      "article_title": "Video Friday: Two Birotors Make a Quadrotor",
+      "article_url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 18 Sep 2026 16:01:05 +0000",
+      "added_at": "2026-09-22T04:16:21.271525+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "MIT机械臂自动搭建/运行/拆卸光学实验系统可加速量子技术相关高科技材料测试,提示实验自动化是量子计算板块中此前少被讨论的迭代速度提升方向",
+      "article_title": "Video Friday: Two Birotors Make a Quadrotor",
+      "article_url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 18 Sep 2026 16:01:05 +0000",
+      "added_at": "2026-09-22T04:16:21.503822+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "(注:本文由物理AI网络安全公司VicOne赞助发布,但引用的BadVLA/GoBA/UniPwn等第三方学术研究真实可查)UniPwn蓝牙漏洞链披露某大型厂商四足/人形机器人可被蠕虫式远程接管,机器人网络安全正从边缘议题变为商业化落地的核心前提,利好机器人安全验证工具供应商",
+      "article_title": "Rethinking Robot Safety in the Age of AI",
+      "article_url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Wed, 16 Sep 2026 16:51:02 +0000",
+      "added_at": "2026-09-22T04:16:32.468759+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Vitestro自主抽血设备Aletta获FDA许可(欧洲两年前已获批),1600人荷兰临床试验首次采血成功率94.5%,直击美国采血师年流失率近25%的劳动力短缺瓶颈,是医疗机器人领域少有的兼具监管里程碑和临床数据支撑的案例;肤色偏差争议待梅奥诊所明年美国独立试验验证",
+      "article_title": "This Robot Will Draw Your Blood Now",
+      "article_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 07 Sep 2026 13:00:01 +0000",
+      "added_at": "2026-09-22T04:16:57.424664+00:00"
     }
   ]
 }
