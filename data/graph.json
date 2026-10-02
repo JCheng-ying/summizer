@@ -3687,6 +3687,52 @@
       "mentions": 1,
       "first_seen": "2026-09-22T04:16:57.177051+00:00",
       "last_seen": "2026-09-22T04:16:57.177051+00:00"
+    },
+    "flourish": {
+      "name": "Flourish",
+      "type": "company",
+      "sectors": [
+        "low-cost home humanoid robots with per-home fine-tuning"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-02T05:11:49.315020+00:00",
+      "last_seen": "2026-10-02T05:11:49.315020+00:00"
+    },
+    "university of california los angeles": {
+      "name": "University of California, Los Angeles",
+      "type": "institution",
+      "sectors": [
+        "optical neural computing for deepfake detection"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-02T05:12:07.043619+00:00",
+      "last_seen": "2026-10-02T05:12:07.043619+00:00"
+    },
+    "massachusetts institute of": {
+      "name": "Massachusetts Institute of Technology",
+      "type": "institution",
+      "sectors": [
+        "insect-scale flapping-wing microrobotics and AI control"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-02T05:12:16.946688+00:00",
+      "last_seen": "2026-10-02T05:12:16.946688+00:00"
     }
   },
   "edges": [
@@ -8402,6 +8448,42 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Mon, 07 Sep 2026 13:00:01 +0000",
       "added_at": "2026-09-22T04:16:57.424664+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Flourish用树莓派替代GPU、把算力需求移到云端,靠用户手机30分钟演示实现逐家庭微调,绕开家用机器人通用泛化这一长期瓶颈,3555美元定价对比行业讨论的1000-1500欧元消费级目标仍有差距",
+      "article_title": "Meet Flourish One, the Raspberry Pi-powered humanoid built for busy parents",
+      "article_url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Tue, 29 Sep 2026 14:00:12 +0000",
+      "added_at": "2026-10-02T05:11:49.555891+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "UCLA光学神经处理器同时并行分析15-18路视频检测深度伪造,准确率97.79%且对新型生成模型(Google VEO-3)仅需微调即达94.8%准确率,无源光学解码层推理不耗电,是光学计算在具体AI应用场景的实用性验证,利好面临海量生成式内容审核压力的平台型公司",
+      "article_title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "article_url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Thu, 01 Oct 2026 09:03:50 EDT",
+      "added_at": "2026-10-02T05:12:07.288847+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "MIT昆虫尺度飞行机器人用'模型预测控制器生成数据+模仿学习蒸馏出实时策略'两段式AI架构,速度提升450%、11秒内完成10次连续空翻,验证了'慢专家训练快策略'范式在高频实时机器人控制问题上的通用性",
+      "article_title": "MIT’s tiny flying robot gets 450% faster with AI",
+      "article_url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Tue, 22 Sep 2026 08:52:43 EDT",
+      "added_at": "2026-10-02T05:12:17.198854+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Boston Dynamics为Atlas重新设计手部,主动放弃仿人外观、自由度降至13个但用更少更大执行器提升可靠性和可制造性,内部已在研究年产10万只的量产设计细节,是人形机器人灵巧操作路线里'可靠性优先于形态仿真度'的明确路线选择,与仿人灵巧手路线形成对照",
+      "article_title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
+      "article_url": "https://spectrum.ieee.org/robust-robot-hand",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Thu, 01 Oct 2026 14:40:12 +0000",
+      "added_at": "2026-10-02T05:12:41.763941+00:00"
     }
   ]
 }
