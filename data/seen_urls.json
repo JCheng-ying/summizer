@@ -1282,5 +1282,25 @@
   "https://spectrum.ieee.org/robust-robot-hand": {
     "title": "Atlas Robot's New Hand May Outperform Humanlike Designs",
     "seen_at": "2026-10-02T05:12:41.511840+00:00"
+  },
+  "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/": {
+    "title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
+    "seen_at": "2026-10-08T07:23:45.947235+00:00"
+  },
+  "https://spectrum.ieee.org/video-friday-bioinspired-robotics": {
+    "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+    "seen_at": "2026-10-08T07:23:46.659272+00:00"
+  },
+  "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp": {
+    "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+    "seen_at": "2026-10-08T07:23:47.131006+00:00"
+  },
+  "https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/": {
+    "title": "Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness",
+    "seen_at": "2026-10-08T07:23:47.362779+00:00"
+  },
+  "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
+    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+    "seen_at": "2026-10-08T07:23:47.594942+00:00"
   }
 }

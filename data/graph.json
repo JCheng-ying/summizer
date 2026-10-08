@@ -343,11 +343,12 @@
       "name": "Sharpa",
       "type": "company",
       "sectors": [
-        "service robotics"
+        "service robotics",
+        "tactile dexterous hands and haptic data gloves"
       ],
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-10-08T07:23:46.654587+00:00",
       "sector_tags": [
         "机器人板块"
       ],
@@ -3733,6 +3734,52 @@
       "mentions": 1,
       "first_seen": "2026-10-02T05:12:16.946688+00:00",
       "last_seen": "2026-10-02T05:12:16.946688+00:00"
+    },
+    "twelvelabs": {
+      "name": "TwelveLabs",
+      "type": "company",
+      "sectors": [
+        "video understanding models for physical AI data pipelines"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-08T07:23:45.943318+00:00",
+      "last_seen": "2026-10-08T07:23:45.943318+00:00"
+    },
+    "xpeng": {
+      "name": "XPENG",
+      "type": "company",
+      "sectors": [
+        "humanoid robots and autonomous driving"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-08T07:23:46.654587+00:00",
+      "last_seen": "2026-10-08T07:23:46.654587+00:00"
+    },
+    "hello robot": {
+      "name": "Hello Robot",
+      "type": "company",
+      "sectors": [
+        "non-humanoid mobile manipulators for home assistance (Stretch)"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-08T07:23:47.127744+00:00",
+      "last_seen": "2026-10-08T07:23:47.127744+00:00"
     }
   },
   "edges": [
@@ -8484,6 +8531,33 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Thu, 01 Oct 2026 14:40:12 +0000",
       "added_at": "2026-10-02T05:12:41.763941+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "TwelveLabs发布Pegasus 1.6,首个专为第一人称视频设计的模型,可把存量人类做事视频自动转成带时间戳的动作标签、稠密描述、质量评分和合规标记,补上机器人学习数据链条中'视频数据量够但无法直接使用'的加工层(公司自述,尚无第三方效果验证)",
+      "article_title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
+      "article_url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Tue, 06 Oct 2026 20:07:48 +0000",
+      "added_at": "2026-10-08T07:23:46.176460+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "视频理解模型正尝试成为机器人数据管线中独立的付费基础设施层(动作分割/检索/合规标记),值得跟踪头部机器人公司是否公开采用第三方标注服务而非全部自建",
+      "article_title": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
+      "article_url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Tue, 06 Oct 2026 20:07:48 +0000",
+      "added_at": "2026-10-08T07:23:46.409366+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Sharpa在IROS同时发布D01触觉一体化机器人、W02全触觉灵巧手、AE01触觉数据手套,覆盖从人类触觉演示采集到灵巧手到整机的链条(仅有产品名与定位,无价格/性能披露);XPENG/UBTECH等人形机器人规模演示仍缺下游部署场景信息",
+      "article_title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+      "article_url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 02 Oct 2026 16:30:02 +0000",
+      "added_at": "2026-10-08T07:23:46.892501+00:00"
     }
   ]
 }
