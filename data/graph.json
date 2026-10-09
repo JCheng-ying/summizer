@@ -3573,16 +3573,17 @@
       "name": "ETH Zurich",
       "type": "institution",
       "sectors": [
-        "legged/humanoid robot locomotion research"
+        "legged/humanoid robot locomotion research",
+        "robotics research"
       ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-09-16T06:31:57.817193+00:00",
-      "last_seen": "2026-09-16T06:31:57.817193+00:00"
+      "last_seen": "2026-10-09T05:01:39.884358+00:00"
     },
     "ubtech": {
       "name": "UBTECH",
@@ -3780,6 +3781,21 @@
       "mentions": 1,
       "first_seen": "2026-10-08T07:23:47.127744+00:00",
       "last_seen": "2026-10-08T07:23:47.127744+00:00"
+    },
+    "wuji": {
+      "name": "Wuji Technology",
+      "type": "company",
+      "sectors": [
+        "dexterous robotic hands"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-09T05:01:39.884358+00:00",
+      "last_seen": "2026-10-09T05:01:39.884358+00:00"
     }
   },
   "edges": [
@@ -7728,6 +7744,21 @@
           "added_at": "2026-09-22T04:16:57.177051+00:00"
         }
       ]
+    },
+    {
+      "source": "wuji",
+      "target": "eth zurich",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "ETH Zurich Soft Robotics Lab 用 Wuji Technology 的现成商用机械手(加 80 克背包)做出了靠指尖行走并能操作物体的独立机器人",
+          "article_title": "This Disembodied Hand Is All the Robot You Need",
+          "article_url": "https://spectrum.ieee.org/walking-robotic-hand",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Thu, 08 Oct 2026 12:00:02 +0000",
+          "added_at": "2026-10-09T05:01:39.884358+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -8558,6 +8589,33 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Fri, 02 Oct 2026 16:30:02 +0000",
       "added_at": "2026-10-08T07:23:46.892501+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "利好灵巧手本体供应商这一层:ETH Zurich 不改硬件、只训强化学习策略,就让 Wuji Technology 的商用灵巧手兼具行走与操作,说明商用灵巧手已标准化到可作通用平台;但仍是实验室演示,耐久性和机载感知是瓶颈",
+      "article_title": "This Disembodied Hand Is All the Robot You Need",
+      "article_url": "https://spectrum.ieee.org/walking-robotic-hand",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Thu, 08 Oct 2026 12:00:02 +0000",
+      "added_at": "2026-10-09T05:01:40.128224+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "中性偏利好:Unitree 仿生灵巧手公开起售价 6500 美元,灵巧手本体价格下探,价值继续向触觉感知和数据采集转移;Universal Robots g-Series 把竞争点移到集成效率。Unitree 仅有价格、无性能和出货数据",
+      "article_title": "Video Friday: Life’s Better With a Little Robot Goose",
+      "article_url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 25 Sep 2026 16:00:04 +0000",
+      "added_at": "2026-10-09T05:01:40.598003+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "分化信号:IEEE Spectrum 编辑评 Figure 扩算力时指出家用机器人的瓶颈是安全和成本而非数据和算力,利好做安全架构、耐久和降本的公司,堆算力叙事要打折;ReST-RL 等研究继续以 Unitree G1 为平台",
+      "article_title": "Video Friday: Digit Redecorates",
+      "article_url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 04 Sep 2026 16:00:05 +0000",
+      "added_at": "2026-10-09T05:01:41.526225+00:00"
     }
   ]
 }
