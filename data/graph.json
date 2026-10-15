@@ -237,9 +237,9 @@
       "sectors": [
         "AI compute GPU"
       ],
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-10-15T05:35:20.148398+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -385,15 +385,17 @@
     "openai": {
       "name": "OpenAI",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "frontier AI models"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-10-15T05:35:19.918537+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -426,15 +428,17 @@
     "anthropic": {
       "name": "Anthropic",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "frontier AI models"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-10-15T05:35:19.918537+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -649,7 +653,8 @@
       "type": "company",
       "sectors": [
         "orbital launch vehicles, satellite constellations",
-        "orbital launch vehicles, satellite constellations, frontier AI (via SpaceXAI)"
+        "orbital launch vehicles, satellite constellations, frontier AI (via SpaceXAI)",
+        "launch services"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -657,9 +662,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-23T05:51:54.682460+00:00"
+      "last_seen": "2026-10-15T05:35:20.148398+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -852,15 +857,17 @@
     "planet labs pbc": {
       "name": "Planet Labs PBC",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "earth observation satellites"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": "PL",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-10-15T05:35:20.148398+00:00"
     },
     "firefly aerospace": {
       "name": "Firefly Aerospace",
@@ -1285,28 +1292,32 @@
     "abb": {
       "name": "ABB Ltd",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "industrial robots"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
       "ticker": "ABBN",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-10-15T05:35:19.684141+00:00"
     },
     "fanuc": {
       "name": "Fanuc Corporation",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "industrial robots"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
       "ticker": "6954.T",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-10-15T05:35:19.684141+00:00"
     },
     "intuitive surgical": {
       "name": "Intuitive Surgical, Inc.",
@@ -1482,15 +1493,17 @@
     "kuka ag": {
       "name": "KUKA AG",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "industrial robots"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-10-15T05:35:19.684141+00:00"
     },
     "sanhua intelligent controls": {
       "name": "Sanhua Intelligent Controls Co., Ltd.",
@@ -1604,13 +1617,14 @@
       "sector_tags": [
         "edge AI板块",
         "AI板块",
-        "量子计算板块"
+        "量子计算板块",
+        "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 4,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T06:04:43.700727+00:00"
+      "last_seen": "2026-10-15T05:35:20.148398+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2332,15 +2346,18 @@
     "google deepmind": {
       "name": "Google DeepMind",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "AI research lab"
+      ],
       "sector_tags": [
-        "机器人板块"
+        "机器人板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T05:07:37.450235+00:00",
-      "last_seen": "2026-08-06T05:07:37.450235+00:00"
+      "last_seen": "2026-10-15T05:35:19.918537+00:00"
     },
     "thinking machines": {
       "name": "Thinking Machines",
@@ -2493,13 +2510,14 @@
       "type": "institution",
       "sectors": [],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "机器人板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-09T21:12:08.362431+00:00",
-      "last_seen": "2026-08-09T21:12:08.362431+00:00"
+      "last_seen": "2026-10-15T05:35:20.148398+00:00"
     },
     "intology": {
       "name": "Intology",
@@ -3293,9 +3311,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-08-23T05:53:20.548775+00:00"
+      "last_seen": "2026-10-15T05:35:20.148398+00:00"
     },
     "zai": {
       "name": "Z.ai",
@@ -3308,9 +3326,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-08-23T05:53:20.548775+00:00"
+      "last_seen": "2026-10-15T05:35:20.148398+00:00"
     },
     "ollobot": {
       "name": "Ollobot",
@@ -3796,6 +3814,67 @@
       "mentions": 1,
       "first_seen": "2026-10-09T05:01:39.884358+00:00",
       "last_seen": "2026-10-09T05:01:39.884358+00:00"
+    },
+    "tsubaki kabelschlepp": {
+      "name": "Tsubaki KabelSchlepp",
+      "type": "company",
+      "sectors": [
+        "industrial robot cable carriers / dress packs"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-15T05:35:19.684141+00:00",
+      "last_seen": "2026-10-15T05:35:19.684141+00:00"
+    },
+    "c5r": {
+      "name": "C5R Corp",
+      "type": "company",
+      "sectors": [
+        "AI-for-science lab automation benchmark (SciUniverse)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-15T05:35:19.918537+00:00",
+      "last_seen": "2026-10-15T05:35:19.918537+00:00"
+    },
+    "periodic labs": {
+      "name": "Periodic Labs",
+      "type": "company",
+      "sectors": [
+        "AI for materials science / autonomous labs"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-15T05:35:20.148398+00:00",
+      "last_seen": "2026-10-15T05:35:20.148398+00:00"
+    },
+    "physical intelligence": {
+      "name": "Physical Intelligence",
+      "type": "company",
+      "sectors": [
+        "robot foundation models"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-15T05:35:20.148398+00:00",
+      "last_seen": "2026-10-15T05:35:20.148398+00:00"
     }
   },
   "edges": [
@@ -4449,6 +4528,14 @@
           "source_name": "Decrypt",
           "published": "2026-02-06",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "C5R Corp 的 SciUniverse 自动化实验室基准上,Claude Fable 5.1 以 45.3% 通过率领先 GPT-5 Astra 的 32.5%",
+          "article_title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+          "article_url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 05 Oct 2026 12:32:30 GMT",
+          "added_at": "2026-10-15T05:35:19.918537+00:00"
         }
       ]
     },
@@ -7759,6 +7846,141 @@
           "added_at": "2026-10-09T05:01:39.884358+00:00"
         }
       ]
+    },
+    {
+      "source": "tsubaki kabelschlepp",
+      "target": "kuka ag",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "厂商赞助文章自述:Robotrax 拖链的 Pull Back Unit 提供适配 KUKA 机器人平台的标准安装配置(兼容性声明,未披露具体供货合同)",
+          "article_title": "Protecting Dynamic Industrial Robot Cable Carriers",
+          "article_url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Thu, 03 Sep 2026 12:18:21 +0000",
+          "added_at": "2026-10-15T05:35:19.684141+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tsubaki kabelschlepp",
+      "target": "abb",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "厂商赞助文章自述:Pull Back Unit 提供适配 ABB 机器人平台的标准安装配置(兼容性声明,未披露具体供货合同)",
+          "article_title": "Protecting Dynamic Industrial Robot Cable Carriers",
+          "article_url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Thu, 03 Sep 2026 12:18:21 +0000",
+          "added_at": "2026-10-15T05:35:19.684141+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tsubaki kabelschlepp",
+      "target": "fanuc",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "厂商赞助文章自述:Pull Back Unit 提供适配 FANUC 机器人平台的标准安装配置(兼容性声明,未披露具体供货合同)",
+          "article_title": "Protecting Dynamic Industrial Robot Cable Carriers",
+          "article_url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Thu, 03 Sep 2026 12:18:21 +0000",
+          "added_at": "2026-10-15T05:35:19.684141+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "alphabet",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Google 旗下的 DeepMind 发布 SynthID Bio 合成生物学水印方法",
+          "article_title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+          "article_url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 05 Oct 2026 12:32:30 GMT",
+          "added_at": "2026-10-15T05:35:19.918537+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "planet labs pbc",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google 与 Planet 合作推进 Project Suncatcher,准备把 TPU 送上轨道做在轨测试",
+          "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+          "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+          "added_at": "2026-10-15T05:35:20.148398+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "spacex",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Google 的 Suncatcher 测试芯片将搭载 SpaceX Transporter-18 拼车任务发射",
+          "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+          "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+          "added_at": "2026-10-15T05:35:20.148398+00:00"
+        }
+      ]
+    },
+    {
+      "source": "periodic labs",
+      "target": "moonshot ai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Periodic Neon(1 万亿参数)以 Moonshot 的 Kimi 2.6 为基座做中段训练和实验室数据强化学习",
+          "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+          "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+          "added_at": "2026-10-15T05:35:20.148398+00:00"
+        }
+      ]
+    },
+    {
+      "source": "periodic labs",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Periodic Labs 用 1300 块 H200 GPU 训练 Periodic Neon",
+          "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+          "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+          "added_at": "2026-10-15T05:35:20.148398+00:00"
+        }
+      ]
+    },
+    {
+      "source": "physical intelligence",
+      "target": "stanford university",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "PI 联合创始人、斯坦福教授 Chelsea Finn 与斯坦福研究者 Perry Dong 合写文章,提出机器人通用后训练配方与 EXPO(-FT) 算法",
+          "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+          "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+          "added_at": "2026-10-15T05:35:20.148398+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -8616,6 +8838,96 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Fri, 04 Sep 2026 16:00:05 +0000",
       "added_at": "2026-10-09T05:01:41.526225+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "温和利好:Workhorse 在 Unitree G1 上用无需机器人的人类示范学会全身接触式操作,绕过了人形机器人示范数据采集的瓶颈;G1 研究平台地位继续强化,KUKA 机械臂洗车差评说明服务场景卡在可靠性",
+      "article_title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
+      "article_url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 09 Oct 2026 15:30:02 +0000",
+      "added_at": "2026-10-15T05:35:35.819853+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "厂商赞助内容(Tsubaki KabelSchlepp 自家产品,指标未经独立验证):点出线缆疲劳是工业机器人停机的隐性瓶颈,利好拖链/机器人专用电缆等随运行小时增长的耗材型部件和预测性维护,但无订单数据,仅作细分环节提醒",
+      "article_title": "Protecting Dynamic Industrial Robot Cable Carriers",
+      "article_url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Thu, 03 Sep 2026 12:18:21 +0000",
+      "added_at": "2026-10-15T05:35:36.060883+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "早期学术信号:RoboBall 针对月球南极永久阴影坑的最后几公里移动性瓶颈,若成常规任务,受益依次为 CLPS 着陆器/月球车平台、航天级低温电子与热控、专用移动机器人;目前仅地面原型,只能观望",
+      "article_title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+      "article_url": "https://spectrum.ieee.org/moon-ball-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Thu, 03 Sep 2026 12:00:01 +0000",
+      "added_at": "2026-10-15T05:35:36.303618+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "间接信号:RoboBall 仅两个内置执行器的欠驱动、不会翻倒的形态在极端环境下验证了简洁设计路线的价值,但距真实任务尚远",
+      "article_title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+      "article_url": "https://spectrum.ieee.org/moon-ball-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Thu, 03 Sep 2026 12:00:01 +0000",
+      "added_at": "2026-10-15T05:35:36.542890+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "DeepMind 指出 AI 科学家瓶颈在物理资源和实证验证,swarm 用更多 token 换时间放大推理算力需求;利好算力基础设施和实验室自动化层,SciUniverse 上 Fable 5.1 领先;但六成美国人认为行业自律不够,监管风险在累积",
+      "article_title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "article_url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 05 Oct 2026 12:32:30 GMT",
+      "added_at": "2026-10-15T05:35:36.785461+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "推测性间接利好:若实验设备时间成为稀缺资源,实验室自动化(本质是机器人操作)的需求上升,原文未涉及具体机器人硬件",
+      "article_title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "article_url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 05 Oct 2026 12:32:30 GMT",
+      "added_at": "2026-10-15T05:35:37.026428+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Zhipu 用 GLM-5.3 驱动的 Infra Agent 两周把 Flash 吞吐做到三倍,外环 RSI 已在实际跑;Periodic Labs 仅用 1300 块 H200 在 Kimi 2.6 上加实验室 RL 就在 XRD 任务上超过前沿模型,独家实验数据是新护城河,算力仍是默认受益方",
+      "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+      "added_at": "2026-10-15T05:35:37.266559+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Physical Intelligence 的 Chelsea Finn 指出机器人瓶颈在缺少统一后训练配方(成功判定、场景重置、人类反馈),受益层次为机器人基础模型/后训练算法、标准化真机数据平台、算力;配方未收敛,为时尚早",
+      "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+      "added_at": "2026-10-15T05:35:37.510896+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Google 与 Planet 准备借 SpaceX Transporter-18 把 Trillium TPU 送上轨道,已通过辐射测试但散热仍在攻关;利好发射与卫星平台、航天热控与空间太阳能,属早期里程碑",
+      "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+      "added_at": "2026-10-15T05:35:37.753853+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "间接挂钩:Suncatcher 的出发点是地面 AI 算力的电力约束,太空太阳能是动机,但这次实验本身不涉及电力系统",
+      "article_title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "article_url": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 28 Sep 2026 12:32:03 GMT",
+      "added_at": "2026-10-15T05:35:37.995604+00:00"
     }
   ]
 }
