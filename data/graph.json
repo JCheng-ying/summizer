@@ -235,11 +235,12 @@
       "name": "Nvidia",
       "type": "company",
       "sectors": [
-        "AI compute GPU"
+        "AI compute GPU",
+        "AI compute"
       ],
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-10-15T05:35:20.148398+00:00",
+      "last_seen": "2026-10-20T06:47:37.377572+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -400,7 +401,9 @@
     "amazoncom": {
       "name": "Amazon.com Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "e-commerce / logistics"
+      ],
       "sector_tags": [
         "AI板块",
         "机器人板块",
@@ -408,9 +411,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-10-20T06:47:37.936735+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -1266,28 +1269,32 @@
     "boston dynamics": {
       "name": "Boston Dynamics",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "humanoid & legged robotics"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-10-20T06:47:37.377572+00:00"
     },
     "hyundai motor": {
       "name": "Hyundai Motor Group",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "automotive manufacturing"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
       "ticker": "005380.KS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-10-20T06:47:37.377572+00:00"
     },
     "abb": {
       "name": "ABB Ltd",
@@ -1452,30 +1459,33 @@
     "apptronik": {
       "name": "Apptronik",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "humanoid robotics"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+      "last_seen": "2026-10-20T06:47:38.225415+00:00"
     },
     "agility": {
       "name": "Agility Robotics",
       "type": "company",
       "sectors": [
-        "humanoid robots for industrial work (Digit 5)"
+        "humanoid robots for industrial work (Digit 5)",
+        "humanoid robotics"
       ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-09-16T06:31:44.641932+00:00"
+      "last_seen": "2026-10-20T06:47:37.936735+00:00"
     },
     "robosense suteng innovation": {
       "name": "RoboSense (Suteng Innovation Technology)",
@@ -2347,7 +2357,8 @@
       "name": "Google DeepMind",
       "type": "company",
       "sectors": [
-        "AI research lab"
+        "AI research lab",
+        "foundation models"
       ],
       "sector_tags": [
         "机器人板块",
@@ -2355,9 +2366,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T05:07:37.450235+00:00",
-      "last_seen": "2026-10-15T05:35:19.918537+00:00"
+      "last_seen": "2026-10-20T06:47:38.225415+00:00"
     },
     "thinking machines": {
       "name": "Thinking Machines",
@@ -2415,7 +2426,8 @@
       "name": "NASA",
       "type": "institution",
       "sectors": [
-        "U.S. civil space agency"
+        "U.S. civil space agency",
+        "space agency"
       ],
       "sector_tags": [
         "机器人板块",
@@ -2423,9 +2435,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-08-16T20:13:18.037762+00:00"
+      "last_seen": "2026-10-20T06:47:38.225415+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -2652,15 +2664,17 @@
     "deep": {
       "name": "DEEP Robotics",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "quadruped robots"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:50:16.095711+00:00",
-      "last_seen": "2026-08-15T05:50:16.095711+00:00"
+      "last_seen": "2026-10-20T06:47:38.225415+00:00"
     },
     "agilex": {
       "name": "AgileX",
@@ -3875,6 +3889,139 @@
       "mentions": 1,
       "first_seen": "2026-10-15T05:35:20.148398+00:00",
       "last_seen": "2026-10-15T05:35:20.148398+00:00"
+    },
+    "intuition": {
+      "name": "Intuition Robotics",
+      "type": "company",
+      "sectors": [
+        "AI companion / social robots for seniors"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "cold",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:37.659134+00:00",
+      "last_seen": "2026-10-20T06:47:37.659134+00:00"
+    },
+    "elliq": {
+      "name": "ElliQ",
+      "type": "product",
+      "sectors": [
+        "AI companion device"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:37.659134+00:00",
+      "last_seen": "2026-10-20T06:47:37.659134+00:00"
+    },
+    "new york state office for the aging nysofa": {
+      "name": "New York State Office for the Aging (NYSOFA)",
+      "type": "institution",
+      "sectors": [
+        "state government aging services"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:37.659134+00:00",
+      "last_seen": "2026-10-20T06:47:37.659134+00:00"
+    },
+    "digit 5": {
+      "name": "Digit 5",
+      "type": "product",
+      "sectors": [
+        "warehouse humanoid robot"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:37.936735+00:00",
+      "last_seen": "2026-10-20T06:47:37.936735+00:00"
+    },
+    "gxo logistics": {
+      "name": "GXO Logistics",
+      "type": "company",
+      "sectors": [
+        "contract logistics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": "GXO",
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:37.936735+00:00",
+      "last_seen": "2026-10-20T06:47:37.936735+00:00"
+    },
+    "ford motor": {
+      "name": "Ford Motor Company",
+      "type": "company",
+      "sectors": [
+        "automotive"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "F",
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:37.936735+00:00",
+      "last_seen": "2026-10-20T06:47:37.936735+00:00"
+    },
+    "oregon state university": {
+      "name": "Oregon State University",
+      "type": "institution",
+      "sectors": [
+        "robotics research"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:37.936735+00:00",
+      "last_seen": "2026-10-20T06:47:37.936735+00:00"
+    },
+    "gemini 4 argon": {
+      "name": "Gemini 4 Argon",
+      "type": "product",
+      "sectors": [
+        "multimodal foundation model"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:38.225415+00:00",
+      "last_seen": "2026-10-20T06:47:38.225415+00:00"
+    },
+    "disney research": {
+      "name": "Disney Research",
+      "type": "institution",
+      "sectors": [
+        "robotics simulation"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-20T06:47:38.225415+00:00",
+      "last_seen": "2026-10-20T06:47:38.225415+00:00"
     }
   },
   "edges": [
@@ -5504,6 +5651,14 @@
           "source_name": "Hyundai Motor Group Newsroom",
           "published": "2021-06-21",
           "added_at": "2026-08-06T04:57:08.306288+00:00"
+        },
+        {
+          "description": "Hyundai 持有 Boston Dynamics 88% 股份,Atlas 和 Spot 在 Hyundai 工厂做分拣和质检",
+          "article_title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+          "article_url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Sat, 17 Oct 2026 12:30:55 +0000",
+          "added_at": "2026-10-20T06:47:37.377572+00:00"
         }
       ]
     },
@@ -7981,6 +8136,171 @@
           "added_at": "2026-10-15T05:35:20.148398+00:00"
         }
       ]
+    },
+    {
+      "source": "boston dynamics",
+      "target": "hyundai motor",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Atlas 在 Hyundai 工厂自主分拣车顶行李架,Spot 在 Hyundai 工厂做质检巡检",
+          "article_title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+          "article_url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Sat, 17 Oct 2026 12:30:55 +0000",
+          "added_at": "2026-10-20T06:47:37.377572+00:00"
+        }
+      ]
+    },
+    {
+      "source": "boston dynamics",
+      "target": "nvidia",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "新一代全电驱 Atlas 的 AI 运行在 NVIDIA 芯片上",
+          "article_title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+          "article_url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Sat, 17 Oct 2026 12:30:55 +0000",
+          "added_at": "2026-10-20T06:47:37.377572+00:00"
+        }
+      ]
+    },
+    {
+      "source": "new york state office for the aging nysofa",
+      "target": "intuition",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NYSOFA 与 Intuition Robotics 续签三年期 210 万美元协议,继续向纽约孤独风险老人提供 ElliQ",
+          "article_title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+          "article_url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 13 Oct 2026 23:22:05 +0000",
+          "added_at": "2026-10-20T06:47:37.659134+00:00"
+        }
+      ]
+    },
+    {
+      "source": "intuition",
+      "target": "elliq",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "ElliQ 是 Intuition Robotics 开发的 AI 陪伴设备",
+          "article_title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+          "article_url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Tue, 13 Oct 2026 23:22:05 +0000",
+          "added_at": "2026-10-20T06:47:37.659134+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agility",
+      "target": "digit 5",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Digit 5 是 Agility 为安全人机混合作业和 20 小时班次设计的新一代人形机器人",
+          "article_title": "The Robot I Didn’t Expect to Build",
+          "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 19 Oct 2026 13:00:03 +0000",
+          "added_at": "2026-10-20T06:47:37.936735+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "agility",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Amazon 测试了 Digit 4 搬运和堆叠料箱",
+          "article_title": "The Robot I Didn’t Expect to Build",
+          "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 19 Oct 2026 13:00:03 +0000",
+          "added_at": "2026-10-20T06:47:37.936735+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gxo logistics",
+      "target": "agility",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Digit 4 在 GXO 成为全球首个商业部署的人形机器人",
+          "article_title": "The Robot I Didn’t Expect to Build",
+          "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 19 Oct 2026 13:00:03 +0000",
+          "added_at": "2026-10-20T06:47:37.936735+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ford motor",
+      "target": "agility",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "2019 年与 Ford 合作演示 Digit 1 从自动驾驶车把包裹送到门廊",
+          "article_title": "The Robot I Didn’t Expect to Build",
+          "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 19 Oct 2026 13:00:03 +0000",
+          "added_at": "2026-10-20T06:47:37.936735+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agility",
+      "target": "oregon state university",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Agility 由联合创始人从俄勒冈州立大学 Dynamic Robotics Laboratory 孵化",
+          "article_title": "The Robot I Didn’t Expect to Build",
+          "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 19 Oct 2026 13:00:03 +0000",
+          "added_at": "2026-10-20T06:47:37.936735+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "apptronik",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "DeepMind 用 Gemini 4 Argon 从人类视频生成 MuJoCo 仿真,让 Apptronik Apollo 2 在真实世界连续投中七次沙包",
+          "article_title": "Video Friday: When Two Robots Become One",
+          "article_url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Fri, 16 Oct 2026 16:30:02 +0000",
+          "added_at": "2026-10-20T06:47:38.225415+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "gemini 4 argon",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Gemini 4 Argon 是 Google DeepMind 新发布的基础模型,用于 Video-to-Sim-to-Real 管线",
+          "article_title": "Video Friday: When Two Robots Become One",
+          "article_url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Fri, 16 Oct 2026 16:30:02 +0000",
+          "added_at": "2026-10-20T06:47:38.225415+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -8928,6 +9248,60 @@
       "source_name": "Import AI (Substack)",
       "published": "Mon, 28 Sep 2026 12:32:03 GMT",
       "added_at": "2026-10-15T05:35:37.995604+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "观点综述(作者为自由撰稿人/SEO 从业者,数据无出处):Atlas 已在 Hyundai 工厂自主分拣,但训练依赖遥操作+动捕+仿真放大,真正瓶颈是数据采集和维护人力,受益层是解决训练数据瓶颈的技术和仿真基础设施",
+      "article_title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+      "article_url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Sat, 17 Oct 2026 12:30:55 +0000",
+      "added_at": "2026-10-20T06:47:50.895558+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Atlas 训练依赖 NVIDIA 芯片和 4000 个数字分身的大规模仿真,再次说明不管机器人路线谁胜出,仿真与 GPU 基础设施层确定受益",
+      "article_title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+      "article_url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Sat, 17 Oct 2026 12:30:55 +0000",
+      "added_at": "2026-10-20T06:47:51.173099+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "NYSOFA 与 Intuition Robotics 续签三年 210 万美元 ElliQ 协议,政府养老/医保预算作为付费方解决陪伴机器人的买单瓶颈,但金额小仍属州级试点,用户数据为自报未经独立验证",
+      "article_title": "NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+      "article_url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Tue, 13 Oct 2026 23:22:05 +0000",
+      "added_at": "2026-10-20T06:47:51.441999+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Agility 联合创始人署名文章(利益相关,指标未经独立验证):Digit 5 以安全认证+20小时班次+9分钟快充为核心取舍,利好功能安全传感/安全控制器和大扭矩执行器、快充电池热管理这一层,整机厂产能利用率仍是风险",
+      "article_title": "The Robot I Didn’t Expect to Build",
+      "article_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 19 Oct 2026 13:00:03 +0000",
+      "added_at": "2026-10-20T06:47:51.718644+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "DeepMind 用 Gemini 4 Argon 从人类视频自动生成 MuJoCo 仿真并迁移到真实人形机器人,若可复现将把机器人数据瓶颈转化为前沿多模态模型和 GPU 仿真算力需求",
+      "article_title": "Video Friday: When Two Robots Become One",
+      "article_url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 16 Oct 2026 16:30:02 +0000",
+      "added_at": "2026-10-20T06:47:51.992785+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Video-to-Sim-to-Real 管线让 Apptronik Apollo 2 连续投中七次沙包,与 DeepMind 深度绑定的整机厂最早受益,但仅一个投掷任务的内部测试,离接触式操作仍远",
+      "article_title": "Video Friday: When Two Robots Become One",
+      "article_url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 16 Oct 2026 16:30:02 +0000",
+      "added_at": "2026-10-20T06:47:52.260866+00:00"
     }
   ]
 }
