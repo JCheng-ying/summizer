@@ -439,9 +439,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-10-15T05:35:19.918537+00:00"
+      "last_seen": "2026-10-25T06:05:12.726593+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -1583,16 +1583,18 @@
     "advanced micro devices": {
       "name": "Advanced Micro Devices, Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "AI compute infrastructure"
+      ],
       "sector_tags": [
         "edge AI板块",
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+      "last_seen": "2026-10-25T06:05:12.493333+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -2427,7 +2429,8 @@
       "type": "institution",
       "sectors": [
         "U.S. civil space agency",
-        "space agency"
+        "space agency",
+        "planetary exploration / rover autonomy"
       ],
       "sector_tags": [
         "机器人板块",
@@ -2435,9 +2438,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-10-20T06:47:38.225415+00:00"
+      "last_seen": "2026-10-25T06:05:12.726593+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -3757,16 +3760,17 @@
       "name": "Massachusetts Institute of Technology",
       "type": "institution",
       "sectors": [
-        "insect-scale flapping-wing microrobotics and AI control"
+        "insect-scale flapping-wing microrobotics and AI control",
+        "biohybrid robotics"
       ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-10-02T05:12:16.946688+00:00",
-      "last_seen": "2026-10-02T05:12:16.946688+00:00"
+      "last_seen": "2026-10-25T06:05:12.022512+00:00"
     },
     "twelvelabs": {
       "name": "TwelveLabs",
@@ -4022,6 +4026,65 @@
       "mentions": 1,
       "first_seen": "2026-10-20T06:47:38.225415+00:00",
       "last_seen": "2026-10-20T06:47:38.225415+00:00"
+    },
+    "office of naval research": {
+      "name": "Office of Naval Research",
+      "type": "institution",
+      "sectors": [
+        "defense research funding"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-25T06:05:12.022512+00:00",
+      "last_seen": "2026-10-25T06:05:12.022512+00:00"
+    },
+    "university of chicago": {
+      "name": "University of Chicago",
+      "type": "institution",
+      "sectors": [
+        "computational materials / spin-defect qubits"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-25T06:05:12.258254+00:00",
+      "last_seen": "2026-10-25T06:05:12.258254+00:00"
+    },
+    "us department of energy": {
+      "name": "U.S. Department of Energy",
+      "type": "institution",
+      "sectors": [
+        "basic energy sciences funding"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-25T06:05:12.258254+00:00",
+      "last_seen": "2026-10-25T06:05:12.258254+00:00"
+    },
+    "generative bionics": {
+      "name": "Generative Bionics",
+      "type": "company",
+      "sectors": [
+        "physical AI / humanoid robotics"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-10-25T06:05:12.493333+00:00",
+      "last_seen": "2026-10-25T06:05:12.493333+00:00"
     }
   },
   "edges": [
@@ -8301,6 +8364,66 @@
           "added_at": "2026-10-20T06:47:38.225415+00:00"
         }
       ]
+    },
+    {
+      "source": "office of naval research",
+      "target": "massachusetts institute of",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "美国海军研究办公室部分资助了 MIT Ritu Raman 团队用薄层活体肌肉驱动的游泳机器人研究",
+          "article_title": "MIT scientists build a tiny robot that swims using living muscle cells",
+          "article_url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Fri, 23 Oct 2026 06:33:56 EDT",
+          "added_at": "2026-10-25T06:05:12.022512+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of energy",
+      "target": "university of chicago",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "能源部基础能源科学办公室自 2015 年起资助 MICCoM,支持 Galli 组开发 GPU 优化的开源模拟程序 WEST,本次自旋缺陷内转换计算框架即整合进 WEST",
+          "article_title": "A tiny defect in a crystal reveals a big quantum surprise",
+          "article_url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Fri, 23 Oct 2026 06:22:55 EDT",
+          "added_at": "2026-10-25T06:05:12.258254+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "generative bionics",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Generative Bionics 在 CES Unveiled Milan 宣布建设欧洲最大的 Physical AI Data Factory,AMD 担任其 AI 基础设施合作伙伴",
+          "article_title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+          "article_url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Fri, 23 Oct 2026 15:30:02 +0000",
+          "added_at": "2026-10-25T06:05:12.493333+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "nasa",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NASA JPL 让 Claude 根据轨道图像为 Perseverance 规划了一段 400 米路线,作为当天路线规划起点,人类团队审阅并做了少量调整",
+          "article_title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
+          "article_url": "https://spectrum.ieee.org/mars-rover-distance-record",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Tue, 13 Oct 2026 15:02:04 +0000",
+          "added_at": "2026-10-25T06:05:12.726593+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -9302,6 +9425,69 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Fri, 16 Oct 2026 16:30:02 +0000",
       "added_at": "2026-10-20T06:47:52.260866+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "UChicago 首次完整算出自旋缺陷内转换过程,解释碳化硅双空位寿命的理论-实验分歧,属于材料设计工具层的弱利好,主要落在固态量子传感一支,碳化硅衬底厂商是潜在受益层",
+      "article_title": "A tiny defect in a crystal reveals a big quantum surprise",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Fri, 23 Oct 2026 06:22:55 EDT",
+      "added_at": "2026-10-25T06:05:13.184140+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "宾大用 LLM 从近 15 万条 Reddit 帖子中提取灰色市场 retatrutide 自述症状并标准化,验证 LLM+社交媒体药物警戒在传统监测盲区的可复用工作流,利好将其产品化的药物警戒/RWE 服务商",
+      "article_title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Wed, 21 Oct 2026 22:37:01 EDT",
+      "added_at": "2026-10-25T06:05:13.420234+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "SuperMimic 把动作跟踪训练 GPU 小时降低 1000 倍以上,但训练变便宜会扩大实验规模;Generative Bionics 选 AMD 作为欧洲最大 Physical AI 数据工厂的基础设施伙伴,算力层仍是确定性受益方(规模未披露)",
+      "article_title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+      "article_url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 23 Oct 2026 15:30:02 +0000",
+      "added_at": "2026-10-25T06:05:13.652991+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "RAI Institute 的 AthenaZero 肌腱驱动三指手把电机移到躯干、配气压式压力传感器,针对灵巧手又快又轻又能轻柔抓握的瓶颈,利好灵巧手执行器和触觉传感层(研究阶段)",
+      "article_title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+      "article_url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 23 Oct 2026 15:30:02 +0000",
+      "added_at": "2026-10-25T06:05:13.884532+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Perseverance 90% 时间自主驾驶并创 45.22 公里纪录,依赖额外 FPGA 协处理器和 Mars Global Localization,说明太空算力受辐射/功耗约束,抗辐射芯片和航天级 FPGA 是解决自主性瓶颈的受益层",
+      "article_title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
+      "article_url": "https://spectrum.ieee.org/mars-rover-distance-record",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 13 Oct 2026 15:02:04 +0000",
+      "added_at": "2026-10-25T06:05:14.121220+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "火星车受通信延迟和带宽限制只能在终端本地完成感知与避障,Perseverance 的车载 FPGA 加速自主导航是 edge AI 在极端场景的成熟案例,与地面自动驾驶/无人机同一逻辑",
+      "article_title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
+      "article_url": "https://spectrum.ieee.org/mars-rover-distance-record",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 13 Oct 2026 15:02:04 +0000",
+      "added_at": "2026-10-25T06:05:14.363795+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "JPL 让 Claude 根据轨道图像规划 400 米路线作为可验证起点,大模型开始进入中长程路线规划环节,但仅一次案例且人类做了修改,属于早期应用层信号",
+      "article_title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
+      "article_url": "https://spectrum.ieee.org/mars-rover-distance-record",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 13 Oct 2026 15:02:04 +0000",
+      "added_at": "2026-10-25T06:05:14.597053+00:00"
     }
   ]
 }
