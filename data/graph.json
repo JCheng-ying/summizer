@@ -2226,15 +2226,19 @@
     "agibot": {
       "name": "AgiBot",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "humanoid robotics / embodied AI"
+      ],
       "sector_tags": [
-        "机器人板块"
+        "机器人板块",
+        "AI板块",
+        "edge AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T05:07:36.725415+00:00",
-      "last_seen": "2026-08-06T05:07:36.725415+00:00"
+      "last_seen": "2026-11-02T01:01:20.100622+00:00"
     },
     "brainco": {
       "name": "BrainCo",
@@ -4085,6 +4089,58 @@
       "mentions": 1,
       "first_seen": "2026-10-25T06:05:12.493333+00:00",
       "last_seen": "2026-10-25T06:05:12.493333+00:00"
+    },
+    "longcheer": {
+      "name": "Longcheer",
+      "type": "company",
+      "sectors": [
+        "electronics manufacturing"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:01:20.100622+00:00",
+      "last_seen": "2026-11-02T01:01:20.100622+00:00"
+    },
+    "guangzhou metro": {
+      "name": "Guangzhou Metro",
+      "type": "institution",
+      "sectors": [
+        "public transportation"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:01:20.100622+00:00",
+      "last_seen": "2026-11-02T01:01:20.100622+00:00"
+    },
+    "chimelong": {
+      "name": "Chimelong",
+      "type": "company",
+      "sectors": [
+        "tourism and entertainment"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:01:20.100622+00:00",
+      "last_seen": "2026-11-02T01:01:20.100622+00:00"
+    },
+    "openatom foundation": {
+      "name": "OpenAtom Foundation",
+      "type": "institution",
+      "sectors": [
+        "open-source foundation"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:01:20.100622+00:00",
+      "last_seen": "2026-11-02T01:01:20.100622+00:00"
     }
   },
   "edges": [
@@ -8424,6 +8480,66 @@
           "added_at": "2026-10-25T06:05:12.726593+00:00"
         }
       ]
+    },
+    {
+      "source": "agibot",
+      "target": "longcheer",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "龙旗在产线物料搬运中使用 AGIBOT G2 系列机器人,按节拍时间、持续运行和任务完成率考核",
+          "article_title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+          "article_url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Thu, 29 Oct 2026 04:01:46 +0000",
+          "added_at": "2026-11-02T01:01:20.100622+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agibot",
+      "target": "guangzhou metro",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "AGIBOT 机器人部署在广州地铁,提供访客导览和问答服务",
+          "article_title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+          "article_url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Thu, 29 Oct 2026 04:01:46 +0000",
+          "added_at": "2026-11-02T01:01:20.100622+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agibot",
+      "target": "chimelong",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "AGIBOT 机器人部署在长隆旅游度假区,提供导览和互动服务",
+          "article_title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+          "article_url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Thu, 29 Oct 2026 04:01:46 +0000",
+          "added_at": "2026-11-02T01:01:20.100622+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agibot",
+      "target": "openatom foundation",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AGIBOT 成为开放原子开源基金会白金赞助商,并将 Link-U OS 项目捐赠给基金会,共建人形机器人开源社区",
+          "article_title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+          "article_url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Thu, 29 Oct 2026 04:01:46 +0000",
+          "added_at": "2026-11-02T01:01:20.100622+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -9488,6 +9604,78 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Tue, 13 Oct 2026 15:02:04 +0000",
       "added_at": "2026-10-25T06:05:14.597053+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "AGIBOT 提出按有效产出衡量机器人的 Worken 指标并发布液冷关节、触觉数据手套和重载 G2 Max,行业瓶颈从造出来转向上岗后的自主率,利好力/力矩传感器、关节与热管理等核心部件层(指标与基准排名为公司自述)",
+      "article_title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+      "article_url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Thu, 29 Oct 2026 04:01:46 +0000",
+      "added_at": "2026-11-02T01:01:46.925908+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "GO-3 Preview 世界推理动作模型和部署后持续学习的数据飞轮,意味着具身基础模型训练对算力的持续需求",
+      "article_title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+      "article_url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Thu, 29 Oct 2026 04:01:46 +0000",
+      "added_at": "2026-11-02T01:01:47.179606+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "WITA-Omni 1.0 强调全双工交互与端侧部署,AHA3 集成计算,把推理压力放到机器人本体上,利好端侧推理芯片",
+      "article_title": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+      "article_url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Thu, 29 Oct 2026 04:01:46 +0000",
+      "added_at": "2026-11-02T01:01:47.461735+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "REDMOD 在确诊前平均 475 天从常规 CT 识别胰腺癌信号、敏感性 73% 对放射科医生 39%,补强 AI 在医疗专业场景产生人做不到的价值的逻辑;温和利好,瓶颈在前瞻性验证与监管",
+      "article_title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+      "article_url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Mon, 26 Oct 2026 05:25:21 EDT",
+      "added_at": "2026-11-02T01:01:47.715691+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Luxonis OAK 4 FFC 板上完成多摄同步、深度与 AI 推理,TU Delft MonoRace 仅凭机载单摄+IMU 端到端网络击败人类 FPV 冠军,说明低延迟端侧推理本身就是性能来源",
+      "article_title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+      "article_url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 30 Oct 2026 16:30:03 +0000",
+      "added_at": "2026-11-02T01:01:47.995776+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Robotiq 触觉夹爪、ROBOTIS 多指手与 DEEP Robotics 文旅协同落地在补末端执行器和真实部署短板,但仅为视频级信息、无订单数据",
+      "article_title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+      "article_url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 30 Oct 2026 16:30:03 +0000",
+      "added_at": "2026-11-02T01:01:48.258031+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "【VicOne 赞助内容,测试未经独立验证】欧盟机械法规 2027-01-20 起要求安全相关系统与数据防篡改,机器人准入门槛抬高,利好能做完整安全验证的头部厂商与安全/认证服务层,小厂承压",
+      "article_title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+      "article_url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 27 Oct 2026 16:14:39 +0000",
+      "added_at": "2026-11-02T01:01:48.542227+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "【VicOne 赞助内容,测试未经独立验证】攻击面集中在端侧模型(Gemma 4 E4B、Jetson AGX Orin)和传感器输入,安全启动、可信执行与传感器数据认证将成为端侧 AI 芯片卖点",
+      "article_title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+      "article_url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Tue, 27 Oct 2026 16:14:39 +0000",
+      "added_at": "2026-11-02T01:01:48.814996+00:00"
     }
   ]
 }
