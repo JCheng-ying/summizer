@@ -238,9 +238,9 @@
         "AI compute GPU",
         "AI compute"
       ],
-      "mentions": 7,
+      "mentions": 11,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-10-20T06:47:37.377572+00:00",
+      "last_seen": "2026-11-02T01:41:31.012035+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -411,9 +411,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-10-20T06:47:37.936735+00:00"
+      "last_seen": "2026-11-02T01:41:23.331321+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -424,9 +424,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-02T01:41:24.882798+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -439,9 +439,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-10-25T06:05:12.726593+00:00"
+      "last_seen": "2026-11-02T01:41:24.882798+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -665,9 +665,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-10-15T05:35:20.148398+00:00"
+      "last_seen": "2026-11-02T01:41:34.966764+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -680,9 +680,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-16T20:14:54.664014+00:00"
+      "last_seen": "2026-11-02T01:41:34.966764+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -1080,9 +1080,9 @@
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+      "last_seen": "2026-11-02T01:41:22.570043+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -1592,9 +1592,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-10-25T06:05:12.493333+00:00"
+      "last_seen": "2026-11-02T01:41:24.882798+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1634,9 +1634,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-10-15T05:35:20.148398+00:00"
+      "last_seen": "2026-11-02T01:41:33.890444+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2442,9 +2442,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-10-25T06:05:12.726593+00:00"
+      "last_seen": "2026-11-02T01:41:34.966764+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -4141,6 +4141,125 @@
       "mentions": 1,
       "first_seen": "2026-11-02T01:01:20.100622+00:00",
       "last_seen": "2026-11-02T01:01:20.100622+00:00"
+    },
+    "softbank": {
+      "name": "SoftBank Group",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:22.570043+00:00",
+      "last_seen": "2026-11-02T01:41:22.570043+00:00"
+    },
+    "nscale": {
+      "name": "Nscale",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:24.097297+00:00",
+      "last_seen": "2026-11-02T01:41:24.097297+00:00"
+    },
+    "krafton": {
+      "name": "Krafton",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:31.012035+00:00",
+      "last_seen": "2026-11-02T01:41:31.012035+00:00"
+    },
+    "ludo": {
+      "name": "Ludo Robotics",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:31.012035+00:00",
+      "last_seen": "2026-11-02T01:41:31.012035+00:00"
+    },
+    "space nuclear power": {
+      "name": "Space Nuclear Power Corporation",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:33.092411+00:00",
+      "last_seen": "2026-11-02T01:41:33.092411+00:00"
+    },
+    "darpa": {
+      "name": "DARPA",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:33.092411+00:00",
+      "last_seen": "2026-11-02T01:41:33.092411+00:00"
+    },
+    "los alamos national laboratory": {
+      "name": "Los Alamos National Laboratory",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:33.092411+00:00",
+      "last_seen": "2026-11-02T01:41:33.092411+00:00"
+    },
+    "sparxity": {
+      "name": "Sparxity",
+      "type": "company",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:37.078106+00:00",
+      "last_seen": "2026-11-02T01:41:37.078106+00:00"
+    },
+    "jülich supercomputing centre": {
+      "name": "Jülich Supercomputing Centre",
+      "type": "institution",
+      "sectors": [],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-02T01:41:37.078106+00:00",
+      "last_seen": "2026-11-02T01:41:37.078106+00:00"
     }
   },
   "edges": [
@@ -4389,6 +4508,14 @@
           "source_name": "CNBC",
           "published": "2026-04-20",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "Amazon 持有 Anthropic 投资,去年同期曾确认 95 亿美元税前收益",
+          "article_title": "Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss",
+          "article_url": "https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 30 Oct 2026 00:25:20 +0000",
+          "added_at": "2026-11-02T01:41:23.331321+00:00"
         }
       ]
     },
@@ -8540,6 +8667,246 @@
           "added_at": "2026-11-02T01:01:20.100622+00:00"
         }
       ]
+    },
+    {
+      "source": "nvidia",
+      "target": "intel",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 向 Intel 投资数十亿美元",
+          "article_title": "Intel shares plummet 30+% following weak guidance blamed on PC market slowdown",
+          "article_url": "https://siliconangle.com/2026/10/29/shares-of-intel-plummet-more-than-20-following-weak-guidance-blamed-on-pc-market-slowdown/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 30 Oct 2026 01:17:32 +0000",
+          "added_at": "2026-11-02T01:41:22.570043+00:00"
+        }
+      ]
+    },
+    {
+      "source": "softbank",
+      "target": "intel",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "软银向 Intel 投资数十亿美元",
+          "article_title": "Intel shares plummet 30+% following weak guidance blamed on PC market slowdown",
+          "article_url": "https://siliconangle.com/2026/10/29/shares-of-intel-plummet-more-than-20-following-weak-guidance-blamed-on-pc-market-slowdown/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 30 Oct 2026 01:17:32 +0000",
+          "added_at": "2026-11-02T01:41:22.570043+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "nscale",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 9 月向 Nscale 承诺 10 亿美元可转换融资,并在商谈为其西弗吉尼亚数据中心施工债务提供担保",
+          "article_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "article_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+          "added_at": "2026-11-02T01:41:24.097297+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nscale",
+      "target": "anthropic",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Anthropic 与 Nscale 就西弗吉尼亚园区首栋 460 兆瓦建筑签订 446 亿美元合同",
+          "article_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "article_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+          "added_at": "2026-11-02T01:41:24.097297+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "anthropic",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "SpaceXAI 为 Anthropic 提供了很大一部分算力",
+          "article_title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
+          "article_url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 30 Oct 2026 15:30:08 +0000",
+          "added_at": "2026-11-02T01:41:24.882798+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "meta platforms",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 与 AMD 将买入共 40 亿美元 Meta 股票,作为扩大芯片合作的一部分",
+          "article_title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
+          "article_url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 30 Oct 2026 15:30:08 +0000",
+          "added_at": "2026-11-02T01:41:24.882798+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "meta platforms",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "AMD 与 Nvidia 将买入共 40 亿美元 Meta 股票,作为扩大芯片合作的一部分",
+          "article_title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
+          "article_url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 30 Oct 2026 15:30:08 +0000",
+          "added_at": "2026-11-02T01:41:24.882798+00:00"
+        }
+      ]
+    },
+    {
+      "source": "krafton",
+      "target": "ludo",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Ludo Robotics 是 Krafton 的子公司,发布 Ludi 0.2 机器人智能模型",
+          "article_title": "Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent",
+          "article_url": "https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 30 Oct 2026 18:00:21 +0000",
+          "added_at": "2026-11-02T01:41:31.012035+00:00"
+        }
+      ]
+    },
+    {
+      "source": "krafton",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Krafton 与 Nvidia 合作开发可共玩 AI 角色",
+          "article_title": "Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent",
+          "article_url": "https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 30 Oct 2026 18:00:21 +0000",
+          "added_at": "2026-11-02T01:41:31.012035+00:00"
+        }
+      ]
+    },
+    {
+      "source": "space nuclear power",
+      "target": "darpa",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "DARPA 通过 Fat Cat 项目向 SpaceNukes 授予协议,地面测试自主反应堆控制",
+          "article_title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+          "article_url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
+          "source_name": "SpaceNews",
+          "published": "Wed, 21 Oct 2026 14:29:57 +0000",
+          "added_at": "2026-11-02T01:41:33.092411+00:00"
+        }
+      ]
+    },
+    {
+      "source": "space nuclear power",
+      "target": "los alamos national laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "双方合作设计并开展 Kilopower 反应堆主动控制棒地面试验",
+          "article_title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+          "article_url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
+          "source_name": "SpaceNews",
+          "published": "Wed, 21 Oct 2026 14:29:57 +0000",
+          "added_at": "2026-11-02T01:41:33.092411+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "spacex",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Alphabet 持有 SpaceX 的大量股份,两家的太空数据中心方案都依赖 Starship",
+          "article_title": "Google’s first data center satellite is online and writing poetry",
+          "article_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+          "added_at": "2026-11-02T01:41:33.890444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Google Suncatcher 原型卫星由 SpaceX 猎鹰 9 号发射",
+          "article_title": "Google’s first data center satellite is online and writing poetry",
+          "article_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+          "added_at": "2026-11-02T01:41:33.890444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blue origin",
+      "target": "nasa",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Artemis III 首发由 New Glenn 发射 Blue Moon 着陆器,NASA 须待其入轨才投入 SLS",
+          "article_title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+          "article_url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 01 Nov 2026 03:36:55 +0000",
+          "added_at": "2026-11-02T01:41:34.966764+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "nasa",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Starship 参与 Artemis III 的交会对接演练",
+          "article_title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+          "article_url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 01 Nov 2026 03:36:55 +0000",
+          "added_at": "2026-11-02T01:41:34.966764+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sparxity",
+      "target": "jülich supercomputing centre",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Sparxity 在于利希超算中心部署原生稀疏计算系统 Jubis",
+          "article_title": "SpiNNcloud rebrands to Sparxity, announces cluster deployment at Jülich center in Germany",
+          "article_url": "https://www.datacenterdynamics.com/en/news/spinncloud-rebrands-to-sparxity-announces-cluster-deployment-at-j%C3%BClich-center-in-germany/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 30 Oct 2026 16:30:48 +0000",
+          "added_at": "2026-11-02T01:41:37.078106+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -9676,6 +10043,330 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Tue, 27 Oct 2026 16:14:39 +0000",
       "added_at": "2026-11-02T01:01:48.814996+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "四大云厂商资本开支超 7400 亿美元但自由现金流转负、抛售扩散,需求仍强,短期利空的是估值和融资环境",
+      "article_title": "Cracks are emerging in the AI spending boom",
+      "article_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 30 Oct 2026 21:17:40 +0000",
+      "added_at": "2026-11-02T01:41:22.307761+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Intel 数据中心业务增长 78% 验证智能体带动 CPU 需求,算力受益面变宽,但股价暴跌反映预期过高",
+      "article_title": "Intel shares plummet 30+% following weak guidance blamed on PC market slowdown",
+      "article_url": "https://siliconangle.com/2026/10/29/shares-of-intel-plummet-more-than-20-following-weak-guidance-blamed-on-pc-market-slowdown/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 01:17:32 +0000",
+      "added_at": "2026-11-02T01:41:22.821591+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "客户端与物理 AI 业务下滑、PC 放缓与内存涨价压制端侧设备,偏利空",
+      "article_title": "Intel shares plummet 30+% following weak guidance blamed on PC market slowdown",
+      "article_url": "https://siliconangle.com/2026/10/29/shares-of-intel-plummet-more-than-20-following-weak-guidance-blamed-on-pc-market-slowdown/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 01:17:32 +0000",
+      "added_at": "2026-11-02T01:41:23.080935+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Amazon 季度资本开支 773 亿美元、AWS 增长 39%,分析师称产能约束而非需求约束,基础设施瓶颈层仍受益",
+      "article_title": "Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss",
+      "article_url": "https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 00:25:20 +0000",
+      "added_at": "2026-11-02T01:41:23.591702+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "资本开支超预期最终落到电力需求上,间接利好",
+      "article_title": "Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss",
+      "article_url": "https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 00:25:20 +0000",
+      "added_at": "2026-11-02T01:41:23.848718+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nvidia 商谈为 Nscale 施工债务担保,保住建设节奏但风险向其集中,neocloud 融资是最弱一环",
+      "article_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "article_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source_name": "TechCrunch - AI",
+      "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "added_at": "2026-11-02T01:41:24.355615+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Microsoft 因电网接入推迟到 2030 年代退出英格兰站点,利好解决并网和现场供电的公司",
+      "article_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "article_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source_name": "TechCrunch - AI",
+      "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+      "added_at": "2026-11-02T01:41:24.622091+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "【撰写者 Claude 由 Anthropic 开发,存在利益相关】Anthropic 提交 IPO、融资工具外扩,存储利润创纪录而部分公司大跌,利润流向瓶颈环节",
+      "article_title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
+      "article_url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 15:30:08 +0000",
+      "added_at": "2026-11-02T01:41:25.149082+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Intel 以 22 亿美元收购量子软件公司 Classiq,大厂开始为量子软件层付费",
+      "article_title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
+      "article_url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 15:30:08 +0000",
+      "added_at": "2026-11-02T01:41:25.397059+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "【观点文章,撰写者 Claude 由 Anthropic 开发,存在利益相关】前沿模型可能规模不经济,基础设施层强于模型层,待毛利率验证",
+      "article_title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
+      "article_url": "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 15:26:21 +0000",
+      "added_at": "2026-11-02T01:41:25.920305+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "【撰写者 Claude 由 Anthropic 开发,存在利益相关】企业端处于 J 曲线早期,客户提效不等于基础设施回报,长期看好但短期看融资",
+      "article_title": "Can enterprise AI pay for the boom?",
+      "article_url": "https://siliconangle.com/2026/10/31/can-enterprise-ai-pay-for-the-boom/",
+      "source_name": "SiliconANGLE",
+      "published": "Sat, 31 Oct 2026 17:12:02 +0000",
+      "added_at": "2026-11-02T01:41:26.427259+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Gemini 4 Argon 幻觉率最低、领先金融法律榜单,利好模型应用与安全层;最强版本先限定给防御方",
+      "article_title": "Google's First Gemini 4 Model, Argon, Avoids Hallucinations and Shines at Knowledge Work",
+      "article_url": "https://www.deeplearning.ai/the-batch/argon-a-low-hallucination-model-build-for-knowledge-work/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-10-09T08:05:54.000-07:00",
+      "added_at": "2026-11-02T01:41:26.927508+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "一人不到 1000 万美元训练出接近开放前沿的模型,智能体突破沙箱,利好算力与隔离安全层,模型与传统软件护城河承压(公司自述)",
+      "article_title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+      "article_url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 26 Oct 2026 12:31:52 GMT",
+      "added_at": "2026-11-02T01:41:27.434551+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "【作者为 Anthropic 联合创始人,存在利益相关】AI 开始加速前沿科学,算力和电力供应链持续紧张",
+      "article_title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "article_url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 19 Oct 2026 12:31:37 GMT",
+      "added_at": "2026-11-02T01:41:27.957063+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "【作者利益相关】下一阶段瓶颈转向科学设备与机器人,利好实验室自动化",
+      "article_title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "article_url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 19 Oct 2026 12:31:37 GMT",
+      "added_at": "2026-11-02T01:41:28.216217+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "【作者利益相关】各国电力和数据中心容量建设不足的约束持续",
+      "article_title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "article_url": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 19 Oct 2026 12:31:37 GMT",
+      "added_at": "2026-11-02T01:41:28.468265+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "HSS 测试中最佳模型只有人类约六成分数,量化了物理 AI 的场景理解瓶颈,利好视频理解和具身模型",
+      "article_title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "article_url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 12 Oct 2026 12:30:39 GMT",
+      "added_at": "2026-11-02T01:41:28.995515+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "AI 与太空产业化叙事加强,受发射成本制约,属长期信号",
+      "article_title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "article_url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 12 Oct 2026 12:30:39 GMT",
+      "added_at": "2026-11-02T01:41:29.308071+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "前沿研究能力测试持续上升,美欧开放模型仍落后中国",
+      "article_title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "article_url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 12 Oct 2026 12:30:39 GMT",
+      "added_at": "2026-11-02T01:41:29.616943+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "控速研究把监管焦点指向芯片、数据中心、电力这些排他资源,属中长期风险,短期无落地政策",
+      "article_title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "article_url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 21 Sep 2026 12:31:04 GMT",
+      "added_at": "2026-11-02T01:41:30.179730+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "多智能体出现作弊传播与举报,瓶颈在监控治理,利好智能体审计、权限和安全层",
+      "article_title": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "article_url": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 07 Sep 2026 12:26:31 GMT",
+      "added_at": "2026-11-02T01:41:30.740095+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Ludi 0.2 针对理解人的意图这一未解决瓶颈,游戏公司跨界;无性能和客户数据,仅方向性信号",
+      "article_title": "Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent",
+      "article_url": "https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 18:00:21 +0000",
+      "added_at": "2026-11-02T01:41:31.272208+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "具身智能吸引跨界资本,利好仿真与交互模型方向",
+      "article_title": "Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent",
+      "article_url": "https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 30 Oct 2026 18:00:21 +0000",
+      "added_at": "2026-11-02T01:41:31.540924+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "【观点文章,作者信息未抓取】欧洲瓶颈在电网和储能而非发电,约 20% 项目面临延迟风险,利好电网设备与储能",
+      "article_title": "Europe’s AI ambitions are hitting a power bottleneck",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sat, 31 Oct 2026 11:00:39 +0000",
+      "added_at": "2026-11-02T01:41:32.048761+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "美国反数据中心成为跨党派议题、得州用并网审批卡项目,利好现场供电与已获许可容量",
+      "article_title": "A taxonomy of American data center opposition: Politics, misinformation, and conspiracy theories",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 30 Oct 2026 15:35:15 +0000",
+      "added_at": "2026-11-02T01:41:32.576685+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "选址和并网阻力偏利空数据中心扩建速度,待中期选举检验",
+      "article_title": "A taxonomy of American data center opposition: Politics, misinformation, and conspiracy theories",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 30 Oct 2026 15:35:15 +0000",
+      "added_at": "2026-11-02T01:41:32.837028+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "【公司新闻稿,金额未披露】DARPA 支持 Kilopower 主动控制地面试验,解决空间动态负载供电",
+      "article_title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+      "article_url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
+      "source_name": "SpaceNews",
+      "published": "Wed, 21 Oct 2026 14:29:57 +0000",
+      "added_at": "2026-11-02T01:41:33.364803+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "【公司新闻稿】小型反应堆自主运行技术向前一步,离部署尚远",
+      "article_title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+      "article_url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
+      "source_name": "SpaceNews",
+      "published": "Wed, 21 Oct 2026 14:29:57 +0000",
+      "added_at": "2026-11-02T01:41:33.625980+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Suncatcher 原型在轨运行,验证能源与散热约束,最大瓶颈仍是 Starship 降本",
+      "article_title": "Google’s first data center satellite is online and writing poetry",
+      "article_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "added_at": "2026-11-02T01:41:34.163970+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "在轨 TPU 开始产生真实辐射数据,商业化在 2030 年代",
+      "article_title": "Google’s first data center satellite is online and writing poetry",
+      "article_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "added_at": "2026-11-02T01:41:34.419813+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "在轨推理是极端边缘计算,模型直接部署在卫星上",
+      "article_title": "Google’s first data center satellite is online and writing poetry",
+      "article_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "added_at": "2026-11-02T01:41:34.677250+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Artemis III 确立三家供应商多发射战役,结构性提升发射和在轨组装需求,瓶颈在着陆器和分包商",
+      "article_title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+      "article_url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Sun, 01 Nov 2026 03:36:55 +0000",
+      "added_at": "2026-11-02T01:41:35.234415+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "中国回收火箭与万星星座同步推进,利好中国商业航天链,长期加剧与 SpaceX 的竞争",
+      "article_title": "China readies first commercial resupply craft, first booster reflight, and next landing attempt",
+      "article_url": "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Wed, 21 Oct 2026 20:25:50 +0000",
+      "added_at": "2026-11-02T01:41:35.761964+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "富士康定位量子代工并称至少两年后商业化,确认加速器定位;低温配套成本是瓶颈,仅为愿景无订单",
+      "article_title": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer",
+      "article_url": "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 30 Oct 2026 11:39:35 +0000",
+      "added_at": "2026-11-02T01:41:36.285258+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "【QuEra 厂商署名观点,指标未经独立验证】衡量标准转向可靠运算次数,量子将作为加速器融入经典基础设施",
+      "article_title": "What could 1,000x more reliable quantum computation unlock?",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sun, 01 Nov 2026 15:00:31 +0000",
+      "added_at": "2026-11-02T01:41:36.819730+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "【公司自述,未上线验证】Sparxity 稀疏计算进入于利希超算,换架构路线的小信号",
+      "article_title": "SpiNNcloud rebrands to Sparxity, announces cluster deployment at Jülich center in Germany",
+      "article_url": "https://www.datacenterdynamics.com/en/news/spinncloud-rebrands-to-sparxity-announces-cluster-deployment-at-j%C3%BClich-center-in-germany/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 30 Oct 2026 16:30:48 +0000",
+      "added_at": "2026-11-02T01:41:37.348599+00:00"
     }
   ]
 }

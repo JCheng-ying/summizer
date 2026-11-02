@@ -1402,5 +1402,501 @@
   "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
     "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
     "seen_at": "2026-11-02T01:01:21.860813+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/": {
+    "title": "Cracks are emerging in the AI spending boom",
+    "seen_at": "2026-11-02T01:41:22.055063+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/shares-of-intel-plummet-more-than-20-following-weak-guidance-blamed-on-pc-market-slowdown/": {
+    "title": "Intel shares plummet 30+% following weak guidance blamed on PC market slowdown",
+    "seen_at": "2026-11-02T01:41:22.575435+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/": {
+    "title": "Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss",
+    "seen_at": "2026-11-02T01:41:23.335203+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/": {
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "seen_at": "2026-11-02T01:41:24.101254+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/": {
+    "title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
+    "seen_at": "2026-11-02T01:41:24.887307+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/": {
+    "title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
+    "seen_at": "2026-11-02T01:41:25.651459+00:00"
+  },
+  "https://siliconangle.com/2026/10/31/can-enterprise-ai-pay-for-the-boom/": {
+    "title": "Can enterprise AI pay for the boom?",
+    "seen_at": "2026-11-02T01:41:26.182483+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/argon-a-low-hallucination-model-build-for-knowledge-work/": {
+    "title": "Google's First Gemini 4 Model, Argon, Avoids Hallucinations and Shines at Knowledge Work",
+    "seen_at": "2026-11-02T01:41:26.681860+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-478-math-for-alignment": {
+    "title": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+    "seen_at": "2026-11-02T01:41:27.178770+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the": {
+    "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+    "seen_at": "2026-11-02T01:41:27.702723+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-476-creativity-and-rsi": {
+    "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+    "seen_at": "2026-11-02T01:41:28.737613+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence": {
+    "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+    "seen_at": "2026-11-02T01:41:29.907557+00:00"
+  },
+  "https://importai.substack.com/p/import-ai-472-deepminds-cheating": {
+    "title": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+    "seen_at": "2026-11-02T01:41:30.467659+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/": {
+    "title": "Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent",
+    "seen_at": "2026-11-02T01:41:31.016366+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/": {
+    "title": "Europe’s AI ambitions are hitting a power bottleneck",
+    "seen_at": "2026-11-02T01:41:31.800756+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/analysis/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/": {
+    "title": "A taxonomy of American data center opposition: Politics, misinformation, and conspiracy theories",
+    "seen_at": "2026-11-02T01:41:32.306017+00:00"
+  },
+  "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/": {
+    "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+    "seen_at": "2026-11-02T01:41:33.097797+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/": {
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "seen_at": "2026-11-02T01:41:33.895015+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority/": {
+    "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+    "seen_at": "2026-11-02T01:41:34.971312+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/china-roundup-102026/": {
+    "title": "China readies first commercial resupply craft, first booster reflight, and next landing attempt",
+    "seen_at": "2026-11-02T01:41:35.493287+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/": {
+    "title": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer",
+    "seen_at": "2026-11-02T01:41:36.033759+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/": {
+    "title": "What could 1,000x more reliable quantum computation unlock?",
+    "seen_at": "2026-11-02T01:41:36.544315+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/spinncloud-rebrands-to-sparxity-announces-cluster-deployment-at-j%C3%BClich-center-in-germany/": {
+    "title": "SpiNNcloud rebrands to Sparxity, announces cluster deployment at Jülich center in Germany",
+    "seen_at": "2026-11-02T01:41:37.082404+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/a-single-decoder-turns-small-models-into-action/": {
+    "title": "TurboVLA Turns To A Throwback Architecture to Attend to Language and Vision",
+    "seen_at": "2026-11-02T01:41:37.619586+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/meta-releases-wonder-opens-spark/": {
+    "title": "All About Muse Wonder (API), Muse Wonder Full (Subscription), and Muse Spark Open (Weights Available)",
+    "seen_at": "2026-11-02T01:41:37.863962+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/sol-nearly-eclipses-astra/": {
+    "title": "OpenAI’s GPT-6.1 Sol Is DevDay’s Star, Joined By Dots and New ChatGPT Integrations",
+    "seen_at": "2026-11-02T01:41:38.119611+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/mistrals-skills-match-its-global-appeal/": {
+    "title": "Mistral Large 4, the Leading European AI Model, Outperforms All Open Models Outside of China",
+    "seen_at": "2026-11-02T01:41:38.380798+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/video-models-steer-robots/": {
+    "title": "Black Forest Labs’ Flux 3 Action Applies Video Expertise to a World-Action Model",
+    "seen_at": "2026-11-02T01:41:38.624737+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/agents-that-can-check-their-own-work-piece-by-piece/": {
+    "title": "AREX, An Agent That  Condenses and Reviews Its Own Research",
+    "seen_at": "2026-11-02T01:41:38.870313+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/voice-video-and-reasoning-in-one/": {
+    "title": "Inside Google’s Gemini 3.8 Live with Extended Thinking",
+    "seen_at": "2026-11-02T01:41:39.134827+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/claude-fills-out-its-model-family/": {
+    "title": "Claude Sonnet 5.5 and Haiku 5.5 Give Developers Fast, Highly Capable Alternatives to Opus 5.5",
+    "seen_at": "2026-11-02T01:41:39.400077+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/pick-the-right-tools-for-the-right-job/": {
+    "title": "Researchers Designed HYSET, a Technique to Call Collections of Tools That Work Together",
+    "seen_at": "2026-11-02T01:41:39.666155+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/deepseeks-flash-leapfrogs-pro-again/": {
+    "title": "How DeepSeek’s V4.1 Architecture Reduces Cache Reads",
+    "seen_at": "2026-11-02T01:41:39.940905+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/an-unexpected-open-weights-leader/": {
+    "title": "How Xiaomi’s MiMo-V2.6-Pro RL Topped Open Weights Charts",
+    "seen_at": "2026-11-02T01:41:40.211345+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/leaders-lock-models-away/": {
+    "title": "Could Companies or Governments Shut Down Advanced AI Development?",
+    "seen_at": "2026-11-02T01:41:40.463115+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/nvidia-courts-a-new-partner/": {
+    "title": "Reflection Releases Beam, an Open Weight Model From an Independent U.S.-Based Lab",
+    "seen_at": "2026-11-02T01:41:40.721609+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/data-mixing-minus-the-guesswork/": {
+    "title": "Research from the Team Behind CausalMix Offers A Technique to Select Fine-Tuning Examples",
+    "seen_at": "2026-11-02T01:41:40.995370+00:00"
+  },
+  "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/": {
+    "title": "ESI supplying solar array components to missile defense programs",
+    "seen_at": "2026-11-02T01:41:41.266291+00:00"
+  },
+  "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/": {
+    "title": "Advice for optimizing the space industry with Laura Crabtree",
+    "seen_at": "2026-11-02T01:41:41.522069+00:00"
+  },
+  "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/": {
+    "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+    "seen_at": "2026-11-02T01:41:41.777883+00:00"
+  },
+  "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/": {
+    "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+    "seen_at": "2026-11-02T01:41:42.034523+00:00"
+  },
+  "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/": {
+    "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+    "seen_at": "2026-11-02T01:41:42.304773+00:00"
+  },
+  "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/": {
+    "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+    "seen_at": "2026-11-02T01:41:42.577524+00:00"
+  },
+  "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/": {
+    "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+    "seen_at": "2026-11-02T01:41:42.833422+00:00"
+  },
+  "https://spacenews.com/satellite-mission-management-at-the-edge-event/": {
+    "title": "Nov. 5: Satellite Mission Management at the Edge",
+    "seen_at": "2026-11-02T01:41:43.101796+00:00"
+  },
+  "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/": {
+    "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
+    "seen_at": "2026-11-02T01:41:43.357543+00:00"
+  },
+  "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/": {
+    "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
+    "seen_at": "2026-11-02T01:41:43.618649+00:00"
+  },
+  "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/": {
+    "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
+    "seen_at": "2026-11-02T01:41:43.893728+00:00"
+  },
+  "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/": {
+    "title": "Summer of Quantum: Building momentum for space-based QKD",
+    "seen_at": "2026-11-02T01:41:44.152315+00:00"
+  },
+  "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/": {
+    "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+    "seen_at": "2026-11-02T01:41:44.417791+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/spacex-static-fires-flight-15/": {
+    "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+    "seen_at": "2026-11-02T01:41:44.693572+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/blue-origin-update-2/": {
+    "title": "Blue Origin attempts end of year return and eyes Artemis IV selection",
+    "seen_at": "2026-11-02T01:41:44.961030+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/construction-timeline-comparisons/": {
+    "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
+    "seen_at": "2026-11-02T01:41:45.216541+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/launch-preview-102626/": {
+    "title": "Launch Preview: Falcon 9 and GSLV rockets scheduled to launch",
+    "seen_at": "2026-11-02T01:41:45.473115+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/roberts-road-expansion-flight-16/": {
+    "title": "Possible Roberts Road Expansion as SpaceX pushes for Flight 16",
+    "seen_at": "2026-11-02T01:41:45.740836+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths/": {
+    "title": "NASA Artemis Update: SLS Stacking, Sortie Suit, Dual 2028 Paths",
+    "seen_at": "2026-11-02T01:41:46.014453+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/iss-roundup-102226/": {
+    "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
+    "seen_at": "2026-11-02T01:41:46.279700+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/10/launch-preview-102026/": {
+    "title": "Launch Preview: H3, Falcon 9, Electron, and others to launch during busy week",
+    "seen_at": "2026-11-02T01:41:46.537829+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/": {
+    "title": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
+    "seen_at": "2026-11-02T01:41:46.798552+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/quantum-industry-coalition-highlights-funding-priorities-for-the-national-quantum-initiative-reauthorization-act/": {
+    "title": "Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act",
+    "seen_at": "2026-11-02T01:41:47.057308+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/infleqtion-optical-atomic-clock-navy-exercise/": {
+    "title": "Infleqtion Tests Optical Atomic Clock During US Navy Exercise",
+    "seen_at": "2026-11-02T01:41:47.329273+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/netpoleon-qnu-labs-quantum-safe-security/": {
+    "title": "Netpoleon India Partners With QNu Labs on Quantum-Safe Security",
+    "seen_at": "2026-11-02T01:41:47.611952+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/suny-chancellor-stony-brook-research-visit/": {
+    "title": "SUNY Chancellor Highlights Quantum and Energy Research at Stony Brook",
+    "seen_at": "2026-11-02T01:41:47.861203+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/speakers-point-to-risk-appetite-and-capital-as-uk-deep-tech-bottlenecks-at-city-quantum-ai-summit/": {
+    "title": "Speakers Point to Risk Appetite And Capital as UK Deep-Tech Bottlenecks at City Quantum & AI Summit",
+    "seen_at": "2026-11-02T01:41:48.108125+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/france-national-quantum-update-october-2026/": {
+    "title": "France National Quantum Update: October 2026",
+    "seen_at": "2026-11-02T01:41:48.357507+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/wolfspeed-transparent-silicon-carbide-technology/": {
+    "title": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing",
+    "seen_at": "2026-11-02T01:41:48.611866+00:00"
+  },
+  "https://thequantuminsider.com/2026/10/30/mbhb-quantum-semiconductor-ip-practice/": {
+    "title": "MBHB Launches Quantum and Semiconductor IP Practice",
+    "seen_at": "2026-11-02T01:41:48.865037+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/": {
+    "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
+    "seen_at": "2026-11-02T01:41:49.128654+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/": {
+    "title": "Sponsored: One security strategy. Four different data center realities.",
+    "seen_at": "2026-11-02T01:41:49.392407+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/equinix-posts-record-annualized-gross-bookings-of-533m-up-35-percent/": {
+    "title": "Equinix posts record annualized gross bookings of $533m, up 35 percent",
+    "seen_at": "2026-11-02T01:41:49.663090+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/data-center-mooted-in-glasgow-by-scottish-automotive-firm/": {
+    "title": "Data center mooted in Glasgow by Scottish automotive firm",
+    "seen_at": "2026-11-02T01:41:49.927367+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/": {
+    "title": "Beyond the grid",
+    "seen_at": "2026-11-02T01:41:50.180950+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/modular-data-center-provider-dxn-loses-neocloud-customer-contract/": {
+    "title": "Modular data center provider DXN loses neocloud customer contract",
+    "seen_at": "2026-11-02T01:41:50.430748+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/openreach-issues-warning-over-januarys-pstn-switch-off/": {
+    "title": "Openreach issues warning over January's PSTN switch-off",
+    "seen_at": "2026-11-02T01:41:50.688823+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/dayone-signs-mou-with-sembcorp-to-integrate-power-and-energy-solutions-across-apac-data-centers/": {
+    "title": "DayOne signs MoU with Sembcorp to integrate power and energy solutions across APAC data centers",
+    "seen_at": "2026-11-02T01:41:50.962961+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/the-new-age-of-contractual-risk-allocation-in-data-center-development/": {
+    "title": "Sponsored: The new age of contractual risk allocation in data center development",
+    "seen_at": "2026-11-02T01:41:51.237744+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/t-mobile-cto-says-carrier-will-be-first-to-6g-in-us/": {
+    "title": "T-Mobile CTO says carrier will be first to 6G in US",
+    "seen_at": "2026-11-02T01:41:51.489144+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/virgin-media-o2-nears-agreement-to-use-bts-broadband-network-report/": {
+    "title": "Virgin Media O2 nears agreement to use BT's broadband network - report",
+    "seen_at": "2026-11-02T01:41:51.746615+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/sabey-dc-to-pilot-hvo-fuel-as-diesel-replacement-at-its-data-center-in-austin-texas/": {
+    "title": "Sabey DC to pilot HVO fuel as diesel replacement at its data center in Austin, Texas",
+    "seen_at": "2026-11-02T01:41:52.004582+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/whitepapers/designing-infrastructure-for-enterprise-ai/": {
+    "title": "Designing infrastructure for enterprise AI",
+    "seen_at": "2026-11-02T01:41:52.265071+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/synergy-enterprise-cloud-infrastructure-spending-jumped-55-yoy-in-q3/": {
+    "title": "Synergy: Enterprise cloud infrastructure spending jumped 55% YoY in Q3",
+    "seen_at": "2026-11-02T01:41:52.544570+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/powerbank-plans-2mw-modular-data-center-in-ontario-canada/": {
+    "title": "PowerBank plans 2MW modular data center in Ontario, Canada",
+    "seen_at": "2026-11-02T01:41:52.797609+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/google-buys-56-hectares-in-hamina-finland-amid-ongoing-issues-over-muhos-tree-felling/": {
+    "title": "Google buys 56 hectares in Hamina, Finland, amid ongoing issues over Muhos tree-felling",
+    "seen_at": "2026-11-02T01:41:53.044094+00:00"
+  },
+  "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/": {
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "seen_at": "2026-11-02T01:41:53.294801+00:00"
+  },
+  "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/": {
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "seen_at": "2026-11-02T01:41:53.549098+00:00"
+  },
+  "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/": {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "seen_at": "2026-11-02T01:41:53.801471+00:00"
+  },
+  "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/": {
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "seen_at": "2026-11-02T01:41:54.070068+00:00"
+  },
+  "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/": {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "seen_at": "2026-11-02T01:41:54.341617+00:00"
+  },
+  "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/": {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "seen_at": "2026-11-02T01:41:54.622952+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/": {
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "seen_at": "2026-11-02T01:41:54.882269+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/": {
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "seen_at": "2026-11-02T01:41:55.137435+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/": {
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "seen_at": "2026-11-02T01:41:55.386347+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/": {
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "seen_at": "2026-11-02T01:41:55.642850+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/": {
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "seen_at": "2026-11-02T01:41:55.908427+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/": {
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "seen_at": "2026-11-02T01:41:56.170871+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/": {
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "seen_at": "2026-11-02T01:41:56.430480+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/": {
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "seen_at": "2026-11-02T01:41:56.686806+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/": {
+    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "seen_at": "2026-11-02T01:41:56.944352+00:00"
+  },
+  "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/": {
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "seen_at": "2026-11-02T01:41:57.205418+00:00"
+  },
+  "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/": {
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "seen_at": "2026-11-02T01:41:57.482786+00:00"
+  },
+  "https://siliconangle.com/2026/11/01/tokenization-helps-enterprises-move-ai-agents-production-evolve26/": {
+    "title": "Project-by-project security reviews can’t keep pace with enterprise AI agents",
+    "seen_at": "2026-11-02T01:41:57.743631+00:00"
+  },
+  "https://siliconangle.com/2026/11/01/agentic-ai-architecture-demands-real-time-databases-evolve26/": {
+    "title": "Agent demand can’t be forecast, meaning the database has to be ready for anything",
+    "seen_at": "2026-11-02T01:41:57.988894+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/": {
+    "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
+    "seen_at": "2026-11-02T01:41:58.233271+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/": {
+    "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
+    "seen_at": "2026-11-02T01:41:58.491073+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/hackers-steal-6-3b-from-binance-in-biggest-ever-crypto-heist/": {
+    "title": "Hackers steal $6.3B from Binance in biggest-ever crypto heist",
+    "seen_at": "2026-11-02T01:41:58.752802+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/ai-semiconductor-industry-trends-from-chips-systems-gsawomensleadershipinitiative/": {
+    "title": "6 insights from the GSA Women’s Leadership Initiative: AI semiconductor industry trends turn the chip race into a systems race",
+    "seen_at": "2026-11-02T01:41:59.012713+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/extreme-networks-wants-the-network-to-run-ai-not-just-be-run-by-it/": {
+    "title": "Extreme Networks wants the network to run AI, not just be run by it",
+    "seen_at": "2026-11-02T01:41:59.286000+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/mid-market-erp-how-intuit-uses-ai-avoid-failed-intuitconnect/": {
+    "title": "Intuit targets the mid-market ERP gap with AI",
+    "seen_at": "2026-11-02T01:41:59.565210+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/cash-flow-management-gets-real-time-data-lending-intuitconnect/": {
+    "title": "Beyond the books: Real-time data is driving a small-business lending surge",
+    "seen_at": "2026-11-02T01:41:59.826441+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/role-based-access-control-decides-ai-agents-can-trusted-evolve26/": {
+    "title": "The race to deploy AI agents finds a familiar hurdle in data access",
+    "seen_at": "2026-11-02T01:42:00.088130+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/enterprise-data-platforms-must-get-ai-pilots-production-evolve26/": {
+    "title": "AI’s production push puts data platforms on the hook for results",
+    "seen_at": "2026-11-02T01:42:00.340071+00:00"
+  },
+  "https://siliconangle.com/2026/10/30/agentic-ai-helps-prosper-global-speed-crisis-research-evolve26/": {
+    "title": "AI agents cut critical research time for humanitarian teams in conflict zones",
+    "seen_at": "2026-11-02T01:42:00.597960+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/permission-management-lets-monday-com-s-ai-teams-move-mondayelevate/": {
+    "title": "Brakes built for speed: Why least privilege lets monday.com’s AI teams move faster",
+    "seen_at": "2026-11-02T01:42:00.855448+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/autonomous-agents-need-deployment-experts-pay-off-mondayelevate/": {
+    "title": "Monday.com bets on deployment experts to turn AI agents into real returns",
+    "seen_at": "2026-11-02T01:42:01.136775+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/ai-architecture-startup-dream-launches-with-17m-in-funding/": {
+    "title": "AI architecture startup Dream launches with $17M in funding",
+    "seen_at": "2026-11-02T01:42:01.388505+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/report-nvidia-ceo-jensen-huang-was-targeted-by-a-chinese-spy/": {
+    "title": "Report: Nvidia CEO Jensen Huang was targeted by a Chinese spy",
+    "seen_at": "2026-11-02T01:42:01.643371+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/cloudera-builds-ai-strategy-around-deployment-flexibility-evolve26/": {
+    "title": "Cloudera builds its AI strategy around deployment flexibility",
+    "seen_at": "2026-11-02T01:42:01.899155+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/wabi-reels-in-55m-for-its-consumer-focused-ai-assistant/": {
+    "title": "Wabi reels in $55M for its consumer-focused AI assistant",
+    "seen_at": "2026-11-02T01:42:02.165314+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/no-code-apps-help-hpe-cut-executive-status-meetings-mondayelevate/": {
+    "title": "HPE cuts executive status meetings with no-code apps built on monday.com",
+    "seen_at": "2026-11-02T01:42:02.434998+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/cloudera-and-mistral-bring-open-weight-models-closer-to-enterprise-data-evolve26/": {
+    "title": "Cloudera and Mistral bring open-weight models closer to enterprise data",
+    "seen_at": "2026-11-02T01:42:02.706211+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/fortinet-turns-its-firewall-footprint-into-an-ai-security-on-ramp/": {
+    "title": "Fortinet turns its firewall footprint into an AI security on-ramp",
+    "seen_at": "2026-11-02T01:42:02.955793+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/amd-cloudera-look-beyond-hardware-right-sizing-infrastructure-evolve26/": {
+    "title": "AMD and Cloudera look beyond hardware in right-sizing infrastructure",
+    "seen_at": "2026-11-02T01:42:03.202626+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/legal-operations-mpa-crm-powers-global-anti-piracy-work-mondayelevate/": {
+    "title": "Motion Picture Association runs its legal operations on a CRM built for sales",
+    "seen_at": "2026-11-02T01:42:03.467878+00:00"
+  },
+  "https://siliconangle.com/2026/10/29/continuous-close-could-turn-accountants-everyday-advisors-intuitconnect/": {
+    "title": "Continuous close could make accountants everyday business advisors",
+    "seen_at": "2026-11-02T01:42:03.728388+00:00"
   }
 }
