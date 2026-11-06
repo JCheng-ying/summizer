@@ -236,11 +236,12 @@
       "type": "company",
       "sectors": [
         "AI compute GPU",
-        "AI compute"
+        "AI compute",
+        "AI chips"
       ],
-      "mentions": 11,
+      "mentions": 12,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-02T01:41:31.012035+00:00",
+      "last_seen": "2026-11-06T06:49:27.522793+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -256,9 +257,9 @@
       "sectors": [
         "drone delivery"
       ],
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-08-03T04:04:08.213293+00:00",
+      "last_seen": "2026-11-06T06:49:27.270363+00:00",
       "sector_tags": [
         "机器人板块"
       ],
@@ -387,22 +388,24 @@
       "name": "OpenAI",
       "type": "company",
       "sectors": [
-        "frontier AI models"
+        "frontier AI models",
+        "foundation models"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-10-15T05:35:19.918537+00:00"
+      "last_seen": "2026-11-06T06:49:27.522793+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
       "type": "company",
       "sectors": [
-        "e-commerce / logistics"
+        "e-commerce / logistics",
+        "e-commerce / drone delivery"
       ],
       "sector_tags": [
         "AI板块",
@@ -411,9 +414,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-02T01:41:23.331321+00:00"
+      "last_seen": "2026-11-06T06:49:27.270363+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -432,16 +435,17 @@
       "name": "Anthropic",
       "type": "company",
       "sectors": [
-        "frontier AI models"
+        "frontier AI models",
+        "foundation models"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-02T01:41:24.882798+00:00"
+      "last_seen": "2026-11-06T06:49:27.522793+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -1625,7 +1629,9 @@
     "alphabet": {
       "name": "Alphabet Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "internet / AI"
+      ],
       "sector_tags": [
         "edge AI板块",
         "AI板块",
@@ -1634,9 +1640,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-02T01:41:33.890444+00:00"
+      "last_seen": "2026-11-06T06:49:27.270363+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2308,15 +2314,17 @@
     "toyota motor": {
       "name": "Toyota Motor Corporation",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "automotive"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
-      "ticker": "7203.T",
-      "mentions": 1,
+      "ticker": "TM",
+      "mentions": 2,
       "first_seen": "2026-08-06T05:07:36.963318+00:00",
-      "last_seen": "2026-08-06T05:07:36.963318+00:00"
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
     },
     "persona": {
       "name": "Persona",
@@ -2364,7 +2372,8 @@
       "type": "company",
       "sectors": [
         "AI research lab",
-        "foundation models"
+        "foundation models",
+        "AI research"
       ],
       "sector_tags": [
         "机器人板块",
@@ -2372,9 +2381,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T05:07:37.450235+00:00",
-      "last_seen": "2026-10-20T06:47:38.225415+00:00"
+      "last_seen": "2026-11-06T06:49:27.522793+00:00"
     },
     "thinking machines": {
       "name": "Thinking Machines",
@@ -4260,6 +4269,400 @@
       "mentions": 1,
       "first_seen": "2026-11-02T01:41:37.078106+00:00",
       "last_seen": "2026-11-02T01:41:37.078106+00:00"
+    },
+    "gentherm": {
+      "name": "Gentherm",
+      "type": "company",
+      "sectors": [
+        "thermal management / medical devices"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": "THRM",
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.011786+00:00",
+      "last_seen": "2026-11-06T06:49:27.011786+00:00"
+    },
+    "thermaffyx": {
+      "name": "ThermAffyx",
+      "type": "product",
+      "sectors": [
+        "surgical patient warming & positioning"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.011786+00:00",
+      "last_seen": "2026-11-06T06:49:27.011786+00:00"
+    },
+    "us food and drug administration": {
+      "name": "U.S. Food and Drug Administration",
+      "type": "institution",
+      "sectors": [
+        "regulator"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.011786+00:00",
+      "last_seen": "2026-11-06T06:49:27.011786+00:00"
+    },
+    "zipline": {
+      "name": "Zipline",
+      "type": "company",
+      "sectors": [
+        "drone delivery"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.270363+00:00",
+      "last_seen": "2026-11-06T06:49:27.270363+00:00"
+    },
+    "uber": {
+      "name": "Uber",
+      "type": "company",
+      "sectors": [
+        "mobility / delivery platform"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "UBER",
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.270363+00:00",
+      "last_seen": "2026-11-06T06:49:27.270363+00:00"
+    },
+    "meituan": {
+      "name": "Meituan",
+      "type": "company",
+      "sectors": [
+        "local services / drone delivery"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.270363+00:00",
+      "last_seen": "2026-11-06T06:49:27.270363+00:00"
+    },
+    "jd logistics": {
+      "name": "JD Logistics",
+      "type": "company",
+      "sectors": [
+        "logistics / drone delivery"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.270363+00:00",
+      "last_seen": "2026-11-06T06:49:27.270363+00:00"
+    },
+    "federal aviation administration": {
+      "name": "Federal Aviation Administration",
+      "type": "institution",
+      "sectors": [
+        "aviation regulator"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.270363+00:00",
+      "last_seen": "2026-11-06T06:49:27.270363+00:00"
+    },
+    "realtimebench": {
+      "name": "Realtime-Bench",
+      "type": "technology",
+      "sectors": [
+        "AI agent benchmark"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.522793+00:00",
+      "last_seen": "2026-11-06T06:49:27.522793+00:00"
+    },
+    "university of texas at austin": {
+      "name": "University of Texas at Austin",
+      "type": "institution",
+      "sectors": [
+        "university"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.522793+00:00",
+      "last_seen": "2026-11-06T06:49:27.522793+00:00"
+    },
+    "defense intelligence agency": {
+      "name": "Defense Intelligence Agency",
+      "type": "institution",
+      "sectors": [
+        "US defense intelligence"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.522793+00:00",
+      "last_seen": "2026-11-06T06:49:27.522793+00:00"
+    },
+    "metis": {
+      "name": "Metis",
+      "type": "company",
+      "sectors": [
+        "neuro-symbolic reasoning AI"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.522793+00:00",
+      "last_seen": "2026-11-06T06:49:27.522793+00:00"
+    },
+    "genie 4": {
+      "name": "Genie 4",
+      "type": "product",
+      "sectors": [
+        "world model"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.522793+00:00",
+      "last_seen": "2026-11-06T06:49:27.522793+00:00"
+    },
+    "cesiumastro": {
+      "name": "CesiumAstro",
+      "type": "company",
+      "sectors": [
+        "satellite communications / phased arrays"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "janus henderson": {
+      "name": "Janus Henderson",
+      "type": "company",
+      "sectors": [
+        "asset management"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "JHG",
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "insight partners": {
+      "name": "Insight Partners",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "woven capital": {
+      "name": "Woven Capital",
+      "type": "company",
+      "sectors": [
+        "Toyota growth fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "exportimport bank of the united states": {
+      "name": "Export-Import Bank of the United States",
+      "type": "institution",
+      "sectors": [
+        "export credit agency"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "jpmorgan": {
+      "name": "JPMorgan",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [],
+      "hot": "hot",
+      "ticker": "JPM",
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "jariet": {
+      "name": "Jariet Technologies",
+      "type": "company",
+      "sectors": [
+        "mmWave RF-SoC semiconductors"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "1aardvark": {
+      "name": "1Aardvark",
+      "type": "company",
+      "sectors": [
+        "defense mission software"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "vidrovr": {
+      "name": "Vidrovr",
+      "type": "company",
+      "sectors": [
+        "real-time multimodal signal AI"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "synchronicity": {
+      "name": "Synchronicity",
+      "type": "product",
+      "sectors": [
+        "737-satellite AI-enabled constellation"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:27.820350+00:00",
+      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+    },
+    "amorim cork solutions": {
+      "name": "Amorim Cork Solutions",
+      "type": "company",
+      "sectors": [
+        "cork-based thermal protection materials"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:28.119096+00:00",
+      "last_seen": "2026-11-06T06:49:28.119096+00:00"
+    },
+    "von karman institute for fluid dynamics": {
+      "name": "von Karman Institute for Fluid Dynamics",
+      "type": "institution",
+      "sectors": [
+        "aerothermodynamics research"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:28.119096+00:00",
+      "last_seen": "2026-11-06T06:49:28.119096+00:00"
+    },
+    "european space agency": {
+      "name": "European Space Agency",
+      "type": "institution",
+      "sectors": [
+        "space agency"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:28.119096+00:00",
+      "last_seen": "2026-11-06T06:49:28.119096+00:00"
+    },
+    "draco": {
+      "name": "DRACO",
+      "type": "product",
+      "sectors": [
+        "ESA destructive reentry mission"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T06:49:28.119096+00:00",
+      "last_seen": "2026-11-06T06:49:28.119096+00:00"
     }
   },
   "edges": [
@@ -4929,6 +5332,14 @@
           "source_name": "Import AI (Substack)",
           "published": "Mon, 05 Oct 2026 12:32:30 GMT",
           "added_at": "2026-10-15T05:35:19.918537+00:00"
+        },
+        {
+          "description": "Realtime-Bench 真实时钟下 GPT-6 Astra 以 36% 通过率最高,Claude 等模型同场测试",
+          "article_title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+          "article_url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 02 Nov 2026 14:30:54 GMT",
+          "added_at": "2026-11-06T06:49:27.522793+00:00"
         }
       ]
     },
@@ -8907,6 +9318,381 @@
           "added_at": "2026-11-02T01:41:37.078106+00:00"
         }
       ]
+    },
+    {
+      "source": "gentherm",
+      "target": "thermaffyx",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Gentherm Medical 推出 ThermAffyx 患者安全系统,为机器人辅助手术同时提供固定和保温",
+          "article_title": "Gentherm designs ThermAffyx to secure, heat patients during robotic surgeries",
+          "article_url": "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Mon, 02 Nov 2026 18:06:36 +0000",
+          "added_at": "2026-11-06T06:49:27.011786+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us food and drug administration",
+      "target": "thermaffyx",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "ThermAffyx 获得 FDA Class II 适应症许可,审批前走了 Q-Sub 预提交程序",
+          "article_title": "Gentherm designs ThermAffyx to secure, heat patients during robotic surgeries",
+          "article_url": "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/",
+          "source_name": "The Robot Report - Haptics",
+          "published": "Mon, 02 Nov 2026 18:06:36 +0000",
+          "added_at": "2026-11-06T06:49:27.011786+00:00"
+        }
+      ]
+    },
+    {
+      "source": "zipline",
+      "target": "uber",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Zipline 与 Uber 合作,目标到 2029 年底每天 100 万次无人机配送",
+          "article_title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+          "article_url": "https://spectrum.ieee.org/drone-delivery-noise",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 04 Nov 2026 18:47:21 +0000",
+          "added_at": "2026-11-06T06:49:27.270363+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "wing",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Wing 是 Alphabet 旗下的无人机配送公司,计划 2027 年底在美国运营 270 个枢纽",
+          "article_title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+          "article_url": "https://spectrum.ieee.org/drone-delivery-noise",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 04 Nov 2026 18:47:21 +0000",
+          "added_at": "2026-11-06T06:49:27.270363+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "wing",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Amazon Prime Air 与 Wing 在美国无人机配送市场竞争,两者均遭遇社区噪音反对",
+          "article_title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+          "article_url": "https://spectrum.ieee.org/drone-delivery-noise",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 04 Nov 2026 18:47:21 +0000",
+          "added_at": "2026-11-06T06:49:27.270363+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "zipline",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两家在美国无人机配送扩张中竞争,Zipline 用绳索投放、Amazon MK30 需低空投递",
+          "article_title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+          "article_url": "https://spectrum.ieee.org/drone-delivery-noise",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 04 Nov 2026 18:47:21 +0000",
+          "added_at": "2026-11-06T06:49:27.270363+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meituan",
+      "target": "jd logistics",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "美团在上海推出低空配送网络,京东在中国农村扩张无人机配送",
+          "article_title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+          "article_url": "https://spectrum.ieee.org/drone-delivery-noise",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 04 Nov 2026 18:47:21 +0000",
+          "added_at": "2026-11-06T06:49:27.270363+00:00"
+        }
+      ]
+    },
+    {
+      "source": "federal aviation administration",
+      "target": "amazoncom",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "FAA 为 Amazon Prime Air 巴吞鲁日设施出具环境评估,计划每天 1000 次配送;15 个州起诉 FAA 放宽无人机站点环评规则",
+          "article_title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+          "article_url": "https://spectrum.ieee.org/drone-delivery-noise",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 04 Nov 2026 18:47:21 +0000",
+          "added_at": "2026-11-06T06:49:27.270363+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "realtimebench",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NVIDIA 研究人员参与构建 Realtime-Bench 实时交互任务基准",
+          "article_title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+          "article_url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 02 Nov 2026 14:30:54 GMT",
+          "added_at": "2026-11-06T06:49:27.522793+00:00"
+        }
+      ]
+    },
+    {
+      "source": "university of texas at austin",
+      "target": "realtimebench",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "UT Austin 等高校联合构建 Realtime-Bench",
+          "article_title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+          "article_url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 02 Nov 2026 14:30:54 GMT",
+          "added_at": "2026-11-06T06:49:27.522793+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "genie 4",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Google DeepMind 发布 Genie 4 世界模型,内嵌 Gemini 3.8 Flash 作为引导智能体",
+          "article_title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+          "article_url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 02 Nov 2026 14:30:54 GMT",
+          "added_at": "2026-11-06T06:49:27.522793+00:00"
+        }
+      ]
+    },
+    {
+      "source": "janus henderson",
+      "target": "cesiumastro",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Janus Henderson 领投 CesiumAstro 7.3 亿美元 D 轮,估值超 45 亿美元",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "insight partners",
+      "target": "cesiumastro",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参投 CesiumAstro D 轮",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "woven capital",
+      "target": "cesiumastro",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "丰田旗下 Woven Capital 参投 CesiumAstro D 轮",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "toyota motor",
+      "target": "woven capital",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Woven Capital 是丰田的成长基金",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "exportimport bank of the united states",
+      "target": "cesiumastro",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "EXIM 与 JPMorgan 为 CesiumAstro 提供 1 亿美元债务融资",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "jpmorgan",
+      "target": "cesiumastro",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "与 EXIM 共同提供 1 亿美元债务融资",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cesiumastro",
+      "target": "jariet",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "收购毫米波 RF-SoC 芯片公司 Jariet,补齐数字波束成形能力",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cesiumastro",
+      "target": "1aardvark",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "收购国防任务软件公司 1Aardvark,增强卫星自主运行能力",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cesiumastro",
+      "target": "vidrovr",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "收购实时多模态信号分析 AI 公司 Vidrovr",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cesiumastro",
+      "target": "synchronicity",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "CesiumAstro 计划部署 737 颗卫星的 AI 赋能星座 Synchronicity,支持星上边缘计算",
+          "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+          "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+          "added_at": "2026-11-06T06:49:27.820350+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amorim cork solutions",
+      "target": "von karman institute for fluid dynamics",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "VKI 选用 Amorim P50 软木烧蚀材料做 DRACO 生存舱热防护,双方合作约 15 年",
+          "article_title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+          "article_url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 17:05:59 +0000",
+          "added_at": "2026-11-06T06:49:28.119096+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amorim cork solutions",
+      "target": "draco",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "P50 软木基烧蚀材料用于 DRACO 40 厘米生存舱的防热罩",
+          "article_title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+          "article_url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 17:05:59 +0000",
+          "added_at": "2026-11-06T06:49:28.119096+00:00"
+        }
+      ]
+    },
+    {
+      "source": "european space agency",
+      "target": "draco",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "ESA 的 DRACO 任务 2027 年发射,故意再入解体以采集数据,服务 Zero Debris 方针",
+          "article_title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+          "article_url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 17:05:59 +0000",
+          "added_at": "2026-11-06T06:49:28.119096+00:00"
+        }
+      ]
+    },
+    {
+      "source": "von karman institute for fluid dynamics",
+      "target": "european space agency",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "VKI 负责 DRACO 生存舱的气动热力学与热防护设计验证",
+          "article_title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+          "article_url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+          "source_name": "SpaceNews",
+          "published": "Thu, 05 Nov 2026 17:05:59 +0000",
+          "added_at": "2026-11-06T06:49:28.119096+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -10367,6 +11153,69 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 30 Oct 2026 16:30:48 +0000",
       "added_at": "2026-11-02T01:41:37.348599+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "(厂商署名问答,利益相关,产品数据未经独立验证)手术机器人用量大到催生专门的手术室配套设备,说明机器人渗透会带动周边需求,对机器人板块是间接温和利好",
+      "article_title": "Gentherm designs ThermAffyx to secure, heat patients during robotic surgeries",
+      "article_url": "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/",
+      "source_name": "The Robot Report - Haptics",
+      "published": "Mon, 02 Nov 2026 18:06:36 +0000",
+      "added_at": "2026-11-06T06:49:43.438327+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "配送无人机的瓶颈从技术转向噪音、选址审批和空域权利,15 州起诉 FAA 会拖慢扩张,短期利空、长期中性,能解决降噪和航线调度的公司更受益",
+      "article_title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+      "article_url": "https://spectrum.ieee.org/drone-delivery-noise",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Wed, 04 Nov 2026 18:47:21 +0000",
+      "added_at": "2026-11-06T06:49:43.693479+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Realtime-Bench 显示真实时间下最佳模型通过率仅 36%,可暂停时达 70%-80%,瓶颈在推理延迟,利好推理基础设施层而非单纯更大模型",
+      "article_title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "article_url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 02 Nov 2026 14:30:54 GMT",
+      "added_at": "2026-11-06T06:49:43.947688+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "DIA 报告显示太空对抗加剧,太空数据中心等在轨资产需要抗干扰、加固和态势感知,国防安全类需求偏利好,但反卫星事件是估值风险",
+      "article_title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "article_url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 02 Nov 2026 14:30:54 GMT",
+      "added_at": "2026-11-06T06:49:44.198539+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "(公司新闻稿,星座与技术说法未经独立验证)CesiumAstro 获 7.3 亿美元 D 轮并向射频芯片垂直整合、计划 737 颗星座,一级市场为太空公司上市做准备,情绪利好但仍需观望",
+      "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+      "source_name": "SpaceNews",
+      "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+      "added_at": "2026-11-06T06:49:44.451328+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "(公司新闻稿,未经独立验证)Synchronicity 星座把边缘计算和 AI 资源调度放上卫星,星上处理器和抗辐射计算模块成为 edge AI 在轨道上的延伸",
+      "article_title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "article_url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+      "source_name": "SpaceNews",
+      "published": "Thu, 05 Nov 2026 21:45:00 +0000",
+      "added_at": "2026-11-06T06:49:44.702423+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "(材料供应商新闻稿,性能说法未经独立验证)ESA DRACO 任务采集真实再入解体数据,支撑 Design for Demise 与 Zero Debris,利好航天热防护材料和碎片治理服务,规模有限",
+      "article_title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+      "article_url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+      "source_name": "SpaceNews",
+      "published": "Thu, 05 Nov 2026 17:05:59 +0000",
+      "added_at": "2026-11-06T06:49:44.950403+00:00"
     }
   ]
 }
