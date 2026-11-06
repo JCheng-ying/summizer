@@ -237,11 +237,13 @@
       "sectors": [
         "AI compute GPU",
         "AI compute",
-        "AI chips"
+        "AI chips",
+        "AI compute / robotics platforms",
+        "AI compute / networking"
       ],
-      "mentions": 12,
+      "mentions": 17,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-06T06:49:27.522793+00:00",
+      "last_seen": "2026-11-06T07:01:18.955321+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -373,16 +375,18 @@
     "microsoft": {
       "name": "Microsoft Corporation",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "cloud / AI"
+      ],
       "sector_tags": [
         "AI板块",
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 2,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-06T07:01:18.955321+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -396,9 +400,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T06:49:27.522793+00:00"
+      "last_seen": "2026-11-06T07:01:18.955321+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -421,15 +425,17 @@
     "meta platforms": {
       "name": "Meta Platforms Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "social media / AI"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-02T01:41:24.882798+00:00"
+      "last_seen": "2026-11-06T07:01:18.955321+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -443,35 +449,39 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 7,
+      "mentions": 11,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T06:49:27.522793+00:00"
+      "last_seen": "2026-11-06T07:01:18.955321+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "semiconductors / networking"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-06T07:01:18.673267+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "cloud / database"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "ORCL",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-06T07:01:15.798724+00:00"
     },
     "palantir": {
       "name": "Palantir Technologies",
@@ -541,15 +551,17 @@
     "cerebras systems": {
       "name": "Cerebras Systems",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "AI accelerators"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": "CBRS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-06T07:01:18.955321+00:00"
     },
     "sambanova systems": {
       "name": "SambaNova Systems",
@@ -684,9 +696,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-02T01:41:34.966764+00:00"
+      "last_seen": "2026-11-06T07:01:15.503898+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -732,15 +744,17 @@
     "northrop grumman": {
       "name": "Northrop Grumman",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "aerospace and defense"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "NOC",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-06T07:01:16.080547+00:00"
     },
     "l3harris": {
       "name": "L3Harris Technologies",
@@ -758,28 +772,32 @@
     "united launch alliance ula": {
       "name": "United Launch Alliance (ULA)",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "launch services"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-06T07:01:15.503898+00:00"
     },
     "ast spacemobile": {
       "name": "AST SpaceMobile",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "satellite broadband"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "ASTS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-06T07:01:15.503898+00:00"
     },
     "iridium communications": {
       "name": "Iridium Communications",
@@ -986,15 +1004,17 @@
     "ionq": {
       "name": "IonQ",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "trapped-ion quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "IONQ",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-06T07:01:16.080547+00:00"
     },
     "rigetti computing": {
       "name": "Rigetti Computing",
@@ -1012,54 +1032,62 @@
     "dwave quantum": {
       "name": "D-Wave Quantum",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "QBTS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-06T07:01:16.080547+00:00"
     },
     "ibm": {
       "name": "IBM",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-06T07:01:16.365949+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "industrial conglomerate"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "HON",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-06T07:01:15.798724+00:00"
     },
     "quantinuum": {
       "name": "Quantinuum",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "trapped-ion quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "QNT",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-06T07:01:15.798724+00:00"
     },
     "psiquantum": {
       "name": "PsiQuantum",
@@ -1260,15 +1288,18 @@
     "figure ai": {
       "name": "Figure AI",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "humanoid robotics"
+      ],
       "sector_tags": [
-        "机器人板块"
+        "机器人板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-11-06T07:01:17.225697+00:00"
     },
     "boston dynamics": {
       "name": "Boston Dynamics",
@@ -1487,9 +1518,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-10-20T06:47:37.936735+00:00"
+      "last_seen": "2026-11-06T07:01:18.386391+00:00"
     },
     "robosense suteng innovation": {
       "name": "RoboSense (Suteng Innovation Technology)",
@@ -1548,57 +1579,67 @@
     "qualcomm incorporated": {
       "name": "Qualcomm Incorporated",
       "type": "company",
-      "sectors": [],
-      "sector_tags": [
-        "edge AI板块"
-      ],
-      "hot": "hot",
-      "ticker": "QCOM",
-      "mentions": 1,
-      "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
-    },
-    "apple": {
-      "name": "Apple Inc.",
-      "type": "company",
-      "sectors": [],
-      "sector_tags": [
-        "edge AI板块"
-      ],
-      "hot": "hot",
-      "ticker": "AAPL",
-      "mentions": 1,
-      "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
-    },
-    "arm plc": {
-      "name": "Arm Holdings plc",
-      "type": "company",
-      "sectors": [],
-      "sector_tags": [
-        "edge AI板块"
-      ],
-      "hot": "hot",
-      "ticker": "ARM",
-      "mentions": 1,
-      "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
-    },
-    "advanced micro devices": {
-      "name": "Advanced Micro Devices, Inc.",
-      "type": "company",
       "sectors": [
-        "AI compute infrastructure"
+        "mobile SoC / edge AI"
       ],
       "sector_tags": [
         "edge AI板块",
         "AI板块"
       ],
       "hot": "hot",
+      "ticker": "QCOM",
+      "mentions": 2,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+    },
+    "apple": {
+      "name": "Apple Inc.",
+      "type": "company",
+      "sectors": [
+        "consumer electronics"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "AAPL",
+      "mentions": 2,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+    },
+    "arm plc": {
+      "name": "Arm Holdings plc",
+      "type": "company",
+      "sectors": [
+        "chip IP licensing"
+      ],
+      "sector_tags": [
+        "edge AI板块",
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "ARM",
+      "mentions": 2,
+      "first_seen": "2026-08-06T04:58:40.050696+00:00",
+      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+    },
+    "advanced micro devices": {
+      "name": "Advanced Micro Devices, Inc.",
+      "type": "company",
+      "sectors": [
+        "AI compute infrastructure",
+        "AI compute"
+      ],
+      "sector_tags": [
+        "edge AI板块",
+        "AI板块",
+        "量子计算板块"
+      ],
+      "hot": "hot",
       "ticker": "AMD",
-      "mentions": 4,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-02T01:41:24.882798+00:00"
+      "last_seen": "2026-11-06T07:01:18.673267+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1630,7 +1671,8 @@
       "name": "Alphabet Inc.",
       "type": "company",
       "sectors": [
-        "internet / AI"
+        "internet / AI",
+        "internet / AI / cloud"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1640,9 +1682,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 8,
+      "mentions": 10,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T06:49:27.270363+00:00"
+      "last_seen": "2026-11-06T07:01:18.955321+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -1946,15 +1988,17 @@
     "ge vernova": {
       "name": "GE Vernova",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "energy equipment"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "GEV",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-06T07:01:15.798724+00:00"
     },
     "vertiv": {
       "name": "Vertiv Holdings",
@@ -2322,9 +2366,9 @@
       ],
       "hot": "hot",
       "ticker": "TM",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T05:07:36.963318+00:00",
-      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+      "last_seen": "2026-11-06T07:01:18.386391+00:00"
     },
     "persona": {
       "name": "Persona",
@@ -2451,9 +2495,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-11-02T01:41:34.966764+00:00"
+      "last_seen": "2026-11-06T07:01:15.503898+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -3969,16 +4013,17 @@
       "name": "GXO Logistics",
       "type": "company",
       "sectors": [
-        "contract logistics"
+        "contract logistics",
+        "logistics"
       ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": null,
       "ticker": "GXO",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-10-20T06:47:37.936735+00:00",
-      "last_seen": "2026-10-20T06:47:37.936735+00:00"
+      "last_seen": "2026-11-06T07:01:18.386391+00:00"
     },
     "ford motor": {
       "name": "Ford Motor Company",
@@ -4072,16 +4117,18 @@
       "name": "U.S. Department of Energy",
       "type": "institution",
       "sectors": [
-        "basic energy sciences funding"
+        "basic energy sciences funding",
+        "US government"
       ],
       "sector_tags": [
-        "能源板块"
+        "能源板块",
+        "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-10-25T06:05:12.258254+00:00",
-      "last_seen": "2026-10-25T06:05:12.258254+00:00"
+      "last_seen": "2026-11-06T07:01:16.365949+00:00"
     },
     "generative bionics": {
       "name": "Generative Bionics",
@@ -4167,15 +4214,18 @@
     "nscale": {
       "name": "Nscale",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "AI neocloud"
+      ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-02T01:41:24.097297+00:00"
+      "last_seen": "2026-11-06T07:01:17.225697+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -4221,15 +4271,18 @@
     "darpa": {
       "name": "DARPA",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "US defense research agency"
+      ],
       "sector_tags": [
-        "太空经济板块"
+        "太空经济板块",
+        "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-02T01:41:33.092411+00:00"
+      "last_seen": "2026-11-06T07:01:16.080547+00:00"
     },
     "los alamos national laboratory": {
       "name": "Los Alamos National Laboratory",
@@ -4538,9 +4591,9 @@
       "sector_tags": [],
       "hot": "hot",
       "ticker": "JPM",
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-11-06T06:49:27.820350+00:00",
-      "last_seen": "2026-11-06T06:49:27.820350+00:00"
+      "last_seen": "2026-11-06T07:01:18.116586+00:00"
     },
     "jariet": {
       "name": "Jariet Technologies",
@@ -4663,6 +4716,461 @@
       "mentions": 1,
       "first_seen": "2026-11-06T06:49:28.119096+00:00",
       "last_seen": "2026-11-06T06:49:28.119096+00:00"
+    },
+    "globalfoundries": {
+      "name": "GlobalFoundries",
+      "type": "company",
+      "sectors": [
+        "semiconductor foundry"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "GFS",
+      "mentions": 2,
+      "first_seen": "2026-11-06T07:01:15.798724+00:00",
+      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+    },
+    "infineon": {
+      "name": "Infineon Technologies",
+      "type": "company",
+      "sectors": [
+        "semiconductors"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:15.798724+00:00",
+      "last_seen": "2026-11-06T07:01:15.798724+00:00"
+    },
+    "riken": {
+      "name": "RIKEN",
+      "type": "institution",
+      "sectors": [
+        "Japanese research institute"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:15.798724+00:00",
+      "last_seen": "2026-11-06T07:01:15.798724+00:00"
+    },
+    "skywater": {
+      "name": "SkyWater Technology",
+      "type": "company",
+      "sectors": [
+        "semiconductor foundry"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.080547+00:00",
+      "last_seen": "2026-11-06T07:01:16.080547+00:00"
+    },
+    "elisity": {
+      "name": "Elisity",
+      "type": "company",
+      "sectors": [
+        "zero-trust network security"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.080547+00:00",
+      "last_seen": "2026-11-06T07:01:16.080547+00:00"
+    },
+    "qolab": {
+      "name": "Qolab",
+      "type": "company",
+      "sectors": [
+        "superconducting quantum hardware"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.080547+00:00",
+      "last_seen": "2026-11-06T07:01:16.080547+00:00"
+    },
+    "oak ridge national laboratory": {
+      "name": "Oak Ridge National Laboratory",
+      "type": "institution",
+      "sectors": [
+        "DOE national lab / HPC",
+        "DOE national lab"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 2,
+      "first_seen": "2026-11-06T07:01:16.365949+00:00",
+      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+    },
+    "chemours": {
+      "name": "Chemours",
+      "type": "company",
+      "sectors": [
+        "specialty chemicals / data center cooling fluids"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "CC",
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.658721+00:00",
+      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+    },
+    "ntt data": {
+      "name": "NTT DATA",
+      "type": "company",
+      "sectors": [
+        "IT services / data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.658721+00:00",
+      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+    },
+    "zutacore": {
+      "name": "ZutaCore",
+      "type": "company",
+      "sectors": [
+        "two-phase liquid cooling"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.658721+00:00",
+      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+    },
+    "accelsius": {
+      "name": "Accelsius",
+      "type": "company",
+      "sectors": [
+        "two-phase liquid cooling"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.658721+00:00",
+      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+    },
+    "munters": {
+      "name": "Munters",
+      "type": "company",
+      "sectors": [
+        "climate / cooling equipment"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.658721+00:00",
+      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+    },
+    "terawulf": {
+      "name": "TeraWulf",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "WULF",
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.950330+00:00",
+      "last_seen": "2026-11-06T07:01:16.950330+00:00"
+    },
+    "fluor": {
+      "name": "Fluor",
+      "type": "company",
+      "sectors": [
+        "engineering & construction"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "FLR",
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.950330+00:00",
+      "last_seen": "2026-11-06T07:01:16.950330+00:00"
+    },
+    "fluidstack": {
+      "name": "Fluidstack",
+      "type": "company",
+      "sectors": [
+        "AI cloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.950330+00:00",
+      "last_seen": "2026-11-06T07:01:16.950330+00:00"
+    },
+    "century aluminum": {
+      "name": "Century Aluminum",
+      "type": "company",
+      "sectors": [
+        "aluminum"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:16.950330+00:00",
+      "last_seen": "2026-11-06T07:01:16.950330+00:00"
+    },
+    "ionic digital": {
+      "name": "Ionic Digital",
+      "type": "company",
+      "sectors": [
+        "data center site operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:17.225697+00:00",
+      "last_seen": "2026-11-06T07:01:17.225697+00:00"
+    },
+    "caterpillar": {
+      "name": "Caterpillar",
+      "type": "company",
+      "sectors": [
+        "heavy machinery / power generation"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "CAT",
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:17.557746+00:00",
+      "last_seen": "2026-11-06T07:01:17.557746+00:00"
+    },
+    "onepwr": {
+      "name": "OnePWR",
+      "type": "company",
+      "sectors": [
+        "microgrids"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:17.557746+00:00",
+      "last_seen": "2026-11-06T07:01:17.557746+00:00"
+    },
+    "vero3": {
+      "name": "Vero3",
+      "type": "company",
+      "sectors": [
+        "carbon management"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:17.557746+00:00",
+      "last_seen": "2026-11-06T07:01:17.557746+00:00"
+    },
+    "aip": {
+      "name": "AIP Corp",
+      "type": "company",
+      "sectors": [
+        "AI infrastructure developer"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:17.557746+00:00",
+      "last_seen": "2026-11-06T07:01:17.557746+00:00"
+    },
+    "hunt energy": {
+      "name": "Hunt Energy",
+      "type": "company",
+      "sectors": [
+        "power infrastructure developer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:17.557746+00:00",
+      "last_seen": "2026-11-06T07:01:17.557746+00:00"
+    },
+    "shield ai": {
+      "name": "Shield AI",
+      "type": "company",
+      "sectors": [
+        "autonomous defense drones"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:18.116586+00:00",
+      "last_seen": "2026-11-06T07:01:18.116586+00:00"
+    },
+    "echodyne": {
+      "name": "Echodyne",
+      "type": "company",
+      "sectors": [
+        "MESA solid-state radar"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:18.116586+00:00",
+      "last_seen": "2026-11-06T07:01:18.116586+00:00"
+    },
+    "blackstone": {
+      "name": "Blackstone",
+      "type": "company",
+      "sectors": [
+        "private equity"
+      ],
+      "sector_tags": [],
+      "hot": "hot",
+      "ticker": "BX",
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:18.116586+00:00",
+      "last_seen": "2026-11-06T07:01:18.116586+00:00"
+    },
+    "martin uav": {
+      "name": "Martin UAV",
+      "type": "company",
+      "sectors": [
+        "VTOL drones"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:18.116586+00:00",
+      "last_seen": "2026-11-06T07:01:18.116586+00:00"
+    },
+    "aechelon": {
+      "name": "Aechelon Technologies",
+      "type": "company",
+      "sectors": [
+        "simulation & sensor modeling"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:18.116586+00:00",
+      "last_seen": "2026-11-06T07:01:18.116586+00:00"
+    },
+    "churchill capital xi": {
+      "name": "Churchill Capital Corp XI",
+      "type": "company",
+      "sectors": [
+        "SPAC"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:18.386391+00:00",
+      "last_seen": "2026-11-06T07:01:18.386391+00:00"
+    },
+    "nyobolt": {
+      "name": "Nyobolt",
+      "type": "company",
+      "sectors": [
+        "fast-charging niobium batteries"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:18.386391+00:00",
+      "last_seen": "2026-11-06T07:01:18.386391+00:00"
+    },
+    "arista networks": {
+      "name": "Arista Networks",
+      "type": "company",
+      "sectors": [
+        "AI networking / Ethernet switching"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "ANET",
+      "mentions": 1,
+      "first_seen": "2026-11-06T07:01:18.955321+00:00",
+      "last_seen": "2026-11-06T07:01:18.955321+00:00"
     }
   },
   "edges": [
@@ -5340,6 +5848,14 @@
           "source_name": "Import AI (Substack)",
           "published": "Mon, 02 Nov 2026 14:30:54 GMT",
           "added_at": "2026-11-06T06:49:27.522793+00:00"
+        },
+        {
+          "description": "Brockman 承认 Anthropic 的 Claude Code 在智能体编程领先,OpenAI 第三季度企业收入翻倍追赶",
+          "article_title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+          "article_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 05 Nov 2026 18:02:27 +0000",
+          "added_at": "2026-11-06T07:01:17.834217+00:00"
         }
       ]
     },
@@ -5430,6 +5946,14 @@
           "source_name": "Blue Origin",
           "published": "2023",
           "added_at": "2026-08-06T04:44:48.296846+00:00"
+        },
+        {
+          "description": "Blue Origin 的 BE-4 发动机为 ULA 的 Vulcan 火箭提供动力;新发动机 Northstar 推力 71.5 万磅力",
+          "article_title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 05 Nov 2026 20:51:14 +0000",
+          "added_at": "2026-11-06T07:01:15.503898+00:00"
         }
       ]
     },
@@ -6691,6 +7215,14 @@
           "source_name": "Business Wire / Qualcomm",
           "published": "2025-09-30",
           "added_at": "2026-08-06T04:58:40.050696+00:00"
+        },
+        {
+          "description": "Arm 向 Qualcomm 等授权处理器设计",
+          "article_title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+          "article_url": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 23:42:09 +0000",
+          "added_at": "2026-11-06T07:01:18.673267+00:00"
         }
       ]
     },
@@ -6946,6 +7478,14 @@
           "source_name": "Tech Between the Lines",
           "published": "2026-04-27",
           "added_at": "2026-08-06T04:58:40.050696+00:00"
+        },
+        {
+          "description": "同期财报中 AMD 大超预期,Qualcomm 因 AI 数据中心暴露较少而收入不及预期",
+          "article_title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+          "article_url": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 23:42:09 +0000",
+          "added_at": "2026-11-06T07:01:18.673267+00:00"
         }
       ]
     },
@@ -8896,6 +9436,14 @@
           "source_name": "IEEE Spectrum - Robotics",
           "published": "Mon, 19 Oct 2026 13:00:03 +0000",
           "added_at": "2026-10-20T06:47:37.936735+00:00"
+        },
+        {
+          "description": "GXO 是 Digit 5 预订客户之一",
+          "article_title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+          "article_url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 05 Nov 2026 21:27:09 +0000",
+          "added_at": "2026-11-06T07:01:18.386391+00:00"
         }
       ]
     },
@@ -9121,6 +9669,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Sat, 31 Oct 2026 01:20:05 +0000",
           "added_at": "2026-11-02T01:41:24.097297+00:00"
+        },
+        {
+          "description": "NVIDIA 据报为 Nscale 与 Anthropic 首期部署提供财务担保",
+          "article_title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+          "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 15:29:27 +0000",
+          "added_at": "2026-11-06T07:01:17.225697+00:00"
         }
       ]
     },
@@ -9691,6 +10247,876 @@
           "source_name": "SpaceNews",
           "published": "Thu, 05 Nov 2026 17:05:59 +0000",
           "added_at": "2026-11-06T06:49:28.119096+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blue origin",
+      "target": "ast spacemobile",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "New Glenn NG-3 任务发射了 AST SpaceMobile 卫星",
+          "article_title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 05 Nov 2026 20:51:14 +0000",
+          "added_at": "2026-11-06T07:01:15.503898+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blue origin",
+      "target": "nasa",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "New Glenn NG-2 为 NASA 发射 ESCAPADE 任务;GS3 第三级已签 2028 年政府地月任务",
+          "article_title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 05 Nov 2026 20:51:14 +0000",
+          "added_at": "2026-11-06T07:01:15.503898+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantinuum",
+      "target": "ge vernova",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "与 GE Vernova 合作开发超导材料相关的量子应用",
+          "article_title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+          "article_url": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+          "added_at": "2026-11-06T07:01:15.798724+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantinuum",
+      "target": "oracle",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与 Oracle 推出量子计算加 AI 的联合测试计划",
+          "article_title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+          "article_url": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+          "added_at": "2026-11-06T07:01:15.798724+00:00"
+        }
+      ]
+    },
+    {
+      "source": "globalfoundries",
+      "target": "quantinuum",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "GlobalFoundries 参与 Quantinuum 2029 年 Apollo 系统的制造计划",
+          "article_title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+          "article_url": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+          "added_at": "2026-11-06T07:01:15.798724+00:00"
+        }
+      ]
+    },
+    {
+      "source": "infineon",
+      "target": "quantinuum",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Infineon 参与 Apollo 系统制造合作",
+          "article_title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+          "article_url": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+          "added_at": "2026-11-06T07:01:15.798724+00:00"
+        }
+      ]
+    },
+    {
+      "source": "honeywell",
+      "target": "quantinuum",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Honeywell Aerospace 参与 Apollo 系统制造合作",
+          "article_title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+          "article_url": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+          "added_at": "2026-11-06T07:01:15.798724+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantinuum",
+      "target": "nvidia",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "与 Sandia 国家实验室和 NVIDIA 推出 QUOPS 量子算力基准",
+          "article_title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+          "article_url": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+          "added_at": "2026-11-06T07:01:15.798724+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantinuum",
+      "target": "riken",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "日本 RIKEN 的 Reimei 系统升级计划 11 月完成",
+          "article_title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+          "article_url": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+          "added_at": "2026-11-06T07:01:15.798724+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ionq",
+      "target": "skywater",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "IonQ 已完成收购 SkyWater,其代工业务季度贡献 8350 万美元收入",
+          "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+          "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+          "added_at": "2026-11-06T07:01:16.080547+00:00"
+        }
+      ]
+    },
+    {
+      "source": "darpa",
+      "target": "ionq",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "IonQ 进入 DARPA 量子基准计划 Stage C,潜在价值最高 3 亿美元;另有 2800 万美元光学原子钟合同",
+          "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+          "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+          "added_at": "2026-11-06T07:01:16.080547+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "ionq",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NVIDIA 将在加速量子研究中心部署 Superion 256,直连其 AI 超算",
+          "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+          "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+          "added_at": "2026-11-06T07:01:16.080547+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ionq",
+      "target": "elisity",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "收购 Elisity 扩展后量子安全业务",
+          "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+          "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+          "added_at": "2026-11-06T07:01:16.080547+00:00"
+        }
+      ]
+    },
+    {
+      "source": "skywater",
+      "target": "dwave quantum",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "SkyWater 与 D-Wave 签多年制造协议支持其超导路线",
+          "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+          "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+          "added_at": "2026-11-06T07:01:16.080547+00:00"
+        }
+      ]
+    },
+    {
+      "source": "skywater",
+      "target": "qolab",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Qolab 签约使用 SkyWater SC250 超导代工平台",
+          "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+          "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+          "added_at": "2026-11-06T07:01:16.080547+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ionq",
+      "target": "northrop grumman",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与 Northrop Grumman 签合作备忘录,涉及量子计算、网络和化学等领域",
+          "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+          "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+          "added_at": "2026-11-06T07:01:16.080547+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "oak ridge national laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "IBM 量子计算机(含 120 比特 Nighthawk)与 ORNL 的 Umbra HPC 共置,组成量子纠错协同设计平台",
+          "article_title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 13:02:38 +0000",
+          "added_at": "2026-11-06T07:01:16.365949+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "oak ridge national laboratory",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Umbra 系统采用 AMD MI355X GPU 和 EPYC CPU,负责纠错解码和编排",
+          "article_title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 13:02:38 +0000",
+          "added_at": "2026-11-06T07:01:16.365949+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "advanced micro devices",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "IBM 与 AMD 合作推进量子与经典计算融合的纠错平台",
+          "article_title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 13:02:38 +0000",
+          "added_at": "2026-11-06T07:01:16.365949+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of energy",
+      "target": "oak ridge national laboratory",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "平台对应 DOE Quantum Genesis Mission 2028 年 100 逻辑比特目标",
+          "article_title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 05 Nov 2026 13:02:38 +0000",
+          "added_at": "2026-11-06T07:01:16.365949+00:00"
+        }
+      ]
+    },
+    {
+      "source": "chemours",
+      "target": "oak ridge national laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "ORNL 参与 Faizeon 两相冷却液的开发",
+          "article_title": "Chemours releases two fluids for two-phase liquid cooling",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:40:34 +0000",
+          "added_at": "2026-11-06T07:01:16.658721+00:00"
+        }
+      ]
+    },
+    {
+      "source": "chemours",
+      "target": "ntt data",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NTT DATA 参与 Faizeon 冷却液开发",
+          "article_title": "Chemours releases two fluids for two-phase liquid cooling",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:40:34 +0000",
+          "added_at": "2026-11-06T07:01:16.658721+00:00"
+        }
+      ]
+    },
+    {
+      "source": "chemours",
+      "target": "zutacore",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "ZutaCore 参与 Faizeon 两相冷却液开发",
+          "article_title": "Chemours releases two fluids for two-phase liquid cooling",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:40:34 +0000",
+          "added_at": "2026-11-06T07:01:16.658721+00:00"
+        }
+      ]
+    },
+    {
+      "source": "chemours",
+      "target": "accelsius",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Accelsius 参与 Faizeon 两相冷却液开发",
+          "article_title": "Chemours releases two fluids for two-phase liquid cooling",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:40:34 +0000",
+          "added_at": "2026-11-06T07:01:16.658721+00:00"
+        }
+      ]
+    },
+    {
+      "source": "chemours",
+      "target": "munters",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Munters 参与 Faizeon 冷却液开发",
+          "article_title": "Chemours releases two fluids for two-phase liquid cooling",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:40:34 +0000",
+          "added_at": "2026-11-06T07:01:16.658721+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "terawulf",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Google 为 TeraWulf 肯塔基 480MW Justified 园区的项目债务提供信用担保",
+          "article_title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:30:45 +0000",
+          "added_at": "2026-11-06T07:01:16.950330+00:00"
+        }
+      ]
+    },
+    {
+      "source": "terawulf",
+      "target": "anthropic",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Justified 园区以 20 年 190 亿美元租约向 Anthropic 提供算力",
+          "article_title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:30:45 +0000",
+          "added_at": "2026-11-06T07:01:16.950330+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fluor",
+      "target": "terawulf",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Fluor 与 TeraWulf 签 Justified 园区三栋建筑的 EPC 合同",
+          "article_title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:30:45 +0000",
+          "added_at": "2026-11-06T07:01:16.950330+00:00"
+        }
+      ]
+    },
+    {
+      "source": "terawulf",
+      "target": "fluidstack",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "TeraWulf 与 Fluidstack 的合资项目此前也由 Google 担保",
+          "article_title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:30:45 +0000",
+          "added_at": "2026-11-06T07:01:16.950330+00:00"
+        }
+      ]
+    },
+    {
+      "source": "terawulf",
+      "target": "century aluminum",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "园区建在从 Century Aluminum 购得的铝厂旧址上",
+          "article_title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 17:30:45 +0000",
+          "added_at": "2026-11-06T07:01:16.950330+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "nscale",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "微软在 Barstow 租用约 230MW 算力,但放弃了相邻自有地块约 500MW 的扩容选择权;仍占 Nscale 积压订单约 40%",
+          "article_title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+          "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 15:29:27 +0000",
+          "added_at": "2026-11-06T07:01:17.225697+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nscale",
+      "target": "ionic digital",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Nscale 的 Barstow 数据中心租自 Ionic Digital,后者 466MW 扩容尚未获接电许可",
+          "article_title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+          "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 15:29:27 +0000",
+          "added_at": "2026-11-06T07:01:17.225697+00:00"
+        }
+      ]
+    },
+    {
+      "source": "figure ai",
+      "target": "nscale",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Figure 与 Nscale 签 35 亿美元协议,部署 10 万块 NVIDIA Vera Rubin GPU",
+          "article_title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+          "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 15:29:27 +0000",
+          "added_at": "2026-11-06T07:01:17.225697+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "nscale",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Nscale 据报正与 Anthropic 洽谈第二份 450 亿美元协议",
+          "article_title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+          "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 15:29:27 +0000",
+          "added_at": "2026-11-06T07:01:17.225697+00:00"
+        }
+      ]
+    },
+    {
+      "source": "caterpillar",
+      "target": "onepwr",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与微电网公司 OnePWR 和 Vero3 合作开发数据中心大型发电和碳封存项目",
+          "article_title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 13:00:43 +0000",
+          "added_at": "2026-11-06T07:01:17.557746+00:00"
+        }
+      ]
+    },
+    {
+      "source": "caterpillar",
+      "target": "vero3",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与碳管理公司 Vero3 合作数据中心发电与碳封存",
+          "article_title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 13:00:43 +0000",
+          "added_at": "2026-11-06T07:01:17.557746+00:00"
+        }
+      ]
+    },
+    {
+      "source": "caterpillar",
+      "target": "aip",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "为 AIP 最高 8GW 的 Monarch 算力园区提供 2GW 快速响应燃气发电机",
+          "article_title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 13:00:43 +0000",
+          "added_at": "2026-11-06T07:01:17.557746+00:00"
+        }
+      ]
+    },
+    {
+      "source": "caterpillar",
+      "target": "hunt energy",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与 Hunt Energy 合作为北美数据中心提供超过 1GW 发电容量",
+          "article_title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 05 Nov 2026 13:00:43 +0000",
+          "added_at": "2026-11-06T07:01:17.557746+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "jpmorgan",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "OpenAI 与 JPMorgan Chase 达成企业合作,被举为企业业务增长案例",
+          "article_title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+          "article_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 05 Nov 2026 18:02:27 +0000",
+          "added_at": "2026-11-06T07:01:17.834217+00:00"
+        }
+      ]
+    },
+    {
+      "source": "shield ai",
+      "target": "echodyne",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Shield AI 以 53 亿美元收购雷达公司 Echodyne,增强自主无人机感知能力",
+          "article_title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
+          "article_url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 01:13:14 +0000",
+          "added_at": "2026-11-06T07:01:18.116586+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "shield ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Blackstone 与 JPMorgan Chase 领投 Shield AI 25 亿美元 H 轮",
+          "article_title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
+          "article_url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 01:13:14 +0000",
+          "added_at": "2026-11-06T07:01:18.116586+00:00"
+        }
+      ]
+    },
+    {
+      "source": "jpmorgan",
+      "target": "shield ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "JPMorgan Chase 共同领投 Shield AI H 轮",
+          "article_title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
+          "article_url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 01:13:14 +0000",
+          "added_at": "2026-11-06T07:01:18.116586+00:00"
+        }
+      ]
+    },
+    {
+      "source": "shield ai",
+      "target": "martin uav",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "2021 年收购 Martin UAV,V-Bat/X-Bat 基于其技术",
+          "article_title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
+          "article_url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 01:13:14 +0000",
+          "added_at": "2026-11-06T07:01:18.116586+00:00"
+        }
+      ]
+    },
+    {
+      "source": "shield ai",
+      "target": "aechelon",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "今年 6 月收购仿真与传感器建模公司 Aechelon",
+          "article_title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
+          "article_url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 01:13:14 +0000",
+          "added_at": "2026-11-06T07:01:18.116586+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agility",
+      "target": "churchill capital xi",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Agility 通过与 SPAC Churchill Capital Corp XI 合并登陆纳斯达克,募资 4.65 亿美元",
+          "article_title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+          "article_url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 05 Nov 2026 21:27:09 +0000",
+          "added_at": "2026-11-06T07:01:18.386391+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nyobolt",
+      "target": "agility",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Nyobolt 为 Digit 5 提供铌基快充电池,9 分钟充满",
+          "article_title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+          "article_url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 05 Nov 2026 21:27:09 +0000",
+          "added_at": "2026-11-06T07:01:18.386391+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "agility",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Digit 5 使用 NVIDIA IGX Thor 芯片和 HALOS 安全工具包",
+          "article_title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+          "article_url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 05 Nov 2026 21:27:09 +0000",
+          "added_at": "2026-11-06T07:01:18.386391+00:00"
+        }
+      ]
+    },
+    {
+      "source": "toyota motor",
+      "target": "agility",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "丰田是 Digit 5 预订客户之一",
+          "article_title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+          "article_url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 05 Nov 2026 21:27:09 +0000",
+          "added_at": "2026-11-06T07:01:18.386391+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qualcomm incorporated",
+      "target": "globalfoundries",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Qualcomm 是 GlobalFoundries 最大客户之一",
+          "article_title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+          "article_url": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 23:42:09 +0000",
+          "added_at": "2026-11-06T07:01:18.673267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arm plc",
+      "target": "apple",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Arm 向 Apple 授权处理器设计",
+          "article_title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+          "article_url": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 23:42:09 +0000",
+          "added_at": "2026-11-06T07:01:18.673267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qualcomm incorporated",
+      "target": "apple",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Qualcomm 与 Apple 续签授权协议",
+          "article_title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+          "article_url": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 23:42:09 +0000",
+          "added_at": "2026-11-06T07:01:18.673267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "broadcom",
+      "target": "globalfoundries",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Broadcom 是 GlobalFoundries 主要客户之一",
+          "article_title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+          "article_url": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 23:42:09 +0000",
+          "added_at": "2026-11-06T07:01:18.673267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arista networks",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Arista 以太网与 NVIDIA Spectrum-X 竞争 AI 集群网络,后者已赢下 Meta 和 Oracle",
+          "article_title": "Arista’s record quarter shows the network has become central to AI",
+          "article_url": "https://siliconangle.com/2026/11/04/aristas-record-quarter-shows-the-network-has-become-central-to-ai/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 21:53:50 +0000",
+          "added_at": "2026-11-06T07:01:18.955321+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arista networks",
+      "target": "cerebras systems",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Arista 与 Cerebras 进行网络协同设计",
+          "article_title": "Arista’s record quarter shows the network has become central to AI",
+          "article_url": "https://siliconangle.com/2026/11/04/aristas-record-quarter-shows-the-network-has-become-central-to-ai/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 21:53:50 +0000",
+          "added_at": "2026-11-06T07:01:18.955321+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arista networks",
+      "target": "microsoft",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Arista 与微软 Maia 加速器进行网络协同设计",
+          "article_title": "Arista’s record quarter shows the network has become central to AI",
+          "article_url": "https://siliconangle.com/2026/11/04/aristas-record-quarter-shows-the-network-has-become-central-to-ai/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 21:53:50 +0000",
+          "added_at": "2026-11-06T07:01:18.955321+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arista networks",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与 Anthropic、Google、OpenAI 合作把 AI 漏洞发现集成进软件流程",
+          "article_title": "Arista’s record quarter shows the network has become central to AI",
+          "article_url": "https://siliconangle.com/2026/11/04/aristas-record-quarter-shows-the-network-has-become-central-to-ai/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 21:53:50 +0000",
+          "added_at": "2026-11-06T07:01:18.955321+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arista networks",
+      "target": "openai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与 OpenAI 合作 AI 驱动漏洞发现",
+          "article_title": "Arista’s record quarter shows the network has become central to AI",
+          "article_url": "https://siliconangle.com/2026/11/04/aristas-record-quarter-shows-the-network-has-become-central-to-ai/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 21:53:50 +0000",
+          "added_at": "2026-11-06T07:01:18.955321+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arista networks",
+      "target": "alphabet",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与 Google 合作 AI 驱动漏洞发现",
+          "article_title": "Arista’s record quarter shows the network has become central to AI",
+          "article_url": "https://siliconangle.com/2026/11/04/aristas-record-quarter-shows-the-network-has-become-central-to-ai/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 04 Nov 2026 21:53:50 +0000",
+          "added_at": "2026-11-06T07:01:18.955321+00:00"
         }
       ]
     }
@@ -11216,6 +12642,258 @@
       "source_name": "SpaceNews",
       "published": "Thu, 05 Nov 2026 17:05:59 +0000",
       "added_at": "2026-11-06T06:49:44.950403+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Blue Origin 推出 GS3 第三级和增材制造的 Northstar 发动机,美国高能轨道发射多了第二家供应商,供给侧偏利好,但需等 NG-4.1 复飞验证",
+      "article_title": "Blue Origin unveils New Glenn GS3 third stage and Northstar booster engine",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/blue-origin-new-glenn-gs3-northstar-engine/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Thu, 05 Nov 2026 20:51:14 +0000",
+      "added_at": "2026-11-06T07:01:45.829756+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "(公司新闻稿)Quantinuum 获最大云合同、上调收入指引,客户开始预订 2029 年容错机器算力,纠错指标领先;但亏损扩大一倍,偏利好需观望",
+      "article_title": "Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement",
+      "article_url": "https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 22:18:57 +0000",
+      "added_at": "2026-11-06T07:01:46.135502+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "IonQ 季度收入 1.74 亿美元、进入 DARPA Stage C,并通过 SkyWater 给其他量子公司代工,解决行业制造瓶颈;近半收入来自代工、账面利润为会计效应",
+      "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+      "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+      "added_at": "2026-11-06T07:01:46.429949+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "NVIDIA 把 IonQ 量子计算机直连 AI 超算,量子-GPU 混合架构成为主流,对 AI 算力基础设施层是间接利好",
+      "article_title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million",
+      "article_url": "https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 21:44:40 +0000",
+      "added_at": "2026-11-06T07:01:46.725243+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "(联合新闻稿)IBM、ORNL、AMD 量子纠错协同设计平台,瞄准 2028 年 100 逻辑比特,但离目标仍差约 230 倍,偏利好",
+      "article_title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
+      "article_url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 13:02:38 +0000",
+      "added_at": "2026-11-06T07:01:47.021559+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "量子纠错解码需要大量低延迟经典算力,AMD GPU 在量子平台中拿到新增需求,利好 GPU 层",
+      "article_title": "Oak Ridge National Laboratory, IBM And AMD Launch New Co-Design Platform for Quantum Error Correction",
+      "article_url": "https://thequantuminsider.com/2026/11/05/oak-ridge-national-laboratory-ibm-and-amd-launch-new-co-design-platform-for-quantum-error-correction/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 05 Nov 2026 13:02:38 +0000",
+      "added_at": "2026-11-06T07:01:47.296540+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(产品数据来自公司)AI 芯片功率密度上升推动两相液冷,冷却液和冷却系统成为 AI 数据中心基础设施新环节",
+      "article_title": "Chemours releases two fluids for two-phase liquid cooling",
+      "article_url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 17:40:34 +0000",
+      "added_at": "2026-11-06T07:01:47.584045+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "两相液冷更高效地带走热量,可降低数据中心用电和用水,利好散热与热管理相关能源效率环节",
+      "article_title": "Chemours releases two fluids for two-phase liquid cooling",
+      "article_url": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 17:40:34 +0000",
+      "added_at": "2026-11-06T07:01:47.870610+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Google 为服务 Anthropic 的 TeraWulf 园区债务做信用担保,打通项目融资,短期利好;但循环担保结构是需观察的杠杆信号",
+      "article_title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 17:30:45 +0000",
+      "added_at": "2026-11-06T07:01:48.163797+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "数据中心选址旧铝厂以利用现成大电力接入,说明电力接入是稀缺资产",
+      "article_title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 17:30:45 +0000",
+      "added_at": "2026-11-06T07:01:48.447337+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英格兰银行问询无租户数据中心贷款,警惕杠杆和循环安排;本身不构成利空,但提示依赖债务扩张的 neocloud 存在尾部风险",
+      "article_title": "Bank of England queries speculative data center loans tied to projects without tenants",
+      "article_url": "https://www.datacenterdynamics.com/en/news/bank-of-england-queries-speculative-data-center-loans-tied-to-projects-without-tenants/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 17:02:02 +0000",
+      "added_at": "2026-11-06T07:01:48.751719+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "微软放弃 Nscale 扩容选择权与接电许可有关,需求转给 Figure 等客户,GPU 需求未减,中性偏利好",
+      "article_title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+      "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 15:29:27 +0000",
+      "added_at": "2026-11-06T07:01:49.038193+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Nscale 案例显示有表后电源和接电许可的地块才是稀缺资产,电力是 AI 扩张的真实瓶颈,利好能源",
+      "article_title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+      "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 15:29:27 +0000",
+      "added_at": "2026-11-06T07:01:49.317854+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "人形机器人公司 Figure 签 10 万块 Vera Rubin GPU,机器人基础模型训练算力需求已达大模型公司量级",
+      "article_title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+      "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 15:29:27 +0000",
+      "added_at": "2026-11-06T07:01:49.600766+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Caterpillar 积压订单 780 亿美元、发电销售增 30%,燃气发电从备用变主力电源,利好发电设备;但燃气许可可能因选举收紧",
+      "article_title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
+      "article_url": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 13:00:43 +0000",
+      "added_at": "2026-11-06T07:01:49.892957+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "数据中心表后发电产能扩张为 AI 算力建设提供电力支撑,间接利好",
+      "article_title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
+      "article_url": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 13:00:43 +0000",
+      "added_at": "2026-11-06T07:01:50.205272+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "中期选举后 53% 超大规模管道增长面临监管摩擦,2027 年已锁定,2028 年后扩张有下修风险,中期利空",
+      "article_title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 12:47:05 +0000",
+      "added_at": "2026-11-06T07:01:50.517364+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "监管方向分化:现场燃气发电许可风险上升,可再生和储能可能成为审批条件,每 MW 电力投资上升利好电力设备链",
+      "article_title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 05 Nov 2026 12:47:05 +0000",
+      "added_at": "2026-11-06T07:01:50.833488+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Meta 承认选举后建数据中心更难、社会许可成本上升,但称算力可外租,需求支撑仍在,中性",
+      "article_title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "article_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 05 Nov 2026 19:12:39 +0000",
+      "added_at": "2026-11-06T07:01:51.145282+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "OpenAI 称 2027 年可准备上市,企业收入已占多数;两家头部模型公司都走向上市,情绪利好,但仅为口头表态",
+      "article_title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "article_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 05 Nov 2026 18:02:27 +0000",
+      "added_at": "2026-11-06T07:01:51.446117+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Shield AI 53 亿美元收购雷达公司 Echodyne,自主无人机竞争转向感知层,国防需求为自主机器人提供资金和数据",
+      "article_title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
+      "article_url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 06 Nov 2026 01:13:14 +0000",
+      "added_at": "2026-11-06T07:01:51.739227+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "自主飞行软件和雷达/视觉融合需在机载算力上实时运行,利好机载 AI 芯片",
+      "article_title": "Autonomous combat drone maker Shield AI buys radar startup Echodyne for $5.3B",
+      "article_url": "https://siliconangle.com/2026/11/05/autonomous-combat-drone-maker-shield-ai-buys-radar-startup-echodyne-for-5-3b/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 06 Nov 2026 01:13:14 +0000",
+      "added_at": "2026-11-06T07:01:52.028653+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Agility Robotics 成为首家上市纯人形机器人公司,预订单超 3 亿美元,为板块提供估值锚;SPAC 历史表现差,Digit 5 2027 年才全面上市",
+      "article_title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+      "article_url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 05 Nov 2026 21:27:09 +0000",
+      "added_at": "2026-11-06T07:01:52.312813+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Digit 5 机载运行 NVIDIA IGX Thor 和 HALOS 安全软件,人形机器人放量带动机载 AI 平台需求",
+      "article_title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+      "article_url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 05 Nov 2026 21:27:09 +0000",
+      "added_at": "2026-11-06T07:01:52.599313+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "内存涨价压制手机需求,Qualcomm 手机芯片收入降 26%,端侧 AI 放量推迟,利空;汽车业务增 89% 是反向亮点",
+      "article_title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+      "article_url": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 04 Nov 2026 23:42:09 +0000",
+      "added_at": "2026-11-06T07:01:52.884394+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Arm 数据中心版税翻倍、GlobalFoundries 靠 AI 客户增长,半导体按离数据中心远近分化,数据中心层确定性最高",
+      "article_title": "The chips are down: Qualcomm falls on revenue miss, weak guidance; Arm and GlobalFoundries do little better",
+      "article_url": "https://siliconangle.com/2026/11/04/qualcomms-stock-falls-on-revenue-miss-and-weak-guidance-arm-and-globalfoundries-do-little-better/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 04 Nov 2026 23:42:09 +0000",
+      "added_at": "2026-11-06T07:01:53.190115+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(分析评论,作者看好 Arista)Arista AI 网络收入 2027 年预计翻倍,网络成为决定 GPU 利用率的瓶颈,高速互联层确定受益",
+      "article_title": "Arista’s record quarter shows the network has become central to AI",
+      "article_url": "https://siliconangle.com/2026/11/04/aristas-record-quarter-shows-the-network-has-become-central-to-ai/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 04 Nov 2026 21:53:50 +0000",
+      "added_at": "2026-11-06T07:01:53.481750+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "电力限制迫使算力跨园区分布,scale-across 占 AI 网络需求约 30%,佐证电力是 AI 扩张的底层约束",
+      "article_title": "Arista’s record quarter shows the network has become central to AI",
+      "article_url": "https://siliconangle.com/2026/11/04/aristas-record-quarter-shows-the-network-has-become-central-to-ai/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 04 Nov 2026 21:53:50 +0000",
+      "added_at": "2026-11-06T07:01:53.762565+00:00"
     }
   ]
 }
