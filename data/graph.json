@@ -239,11 +239,12 @@
         "AI compute",
         "AI chips",
         "AI compute / robotics platforms",
-        "AI compute / networking"
+        "AI compute / networking",
+        "AI accelerators"
       ],
-      "mentions": 17,
+      "mentions": 20,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-06T07:01:18.955321+00:00",
+      "last_seen": "2026-11-09T06:06:12.402871+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -376,7 +377,8 @@
       "name": "Microsoft Corporation",
       "type": "company",
       "sectors": [
-        "cloud / AI"
+        "cloud / AI",
+        "cloud / software"
       ],
       "sector_tags": [
         "AI板块",
@@ -384,9 +386,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 4,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T07:01:18.955321+00:00"
+      "last_seen": "2026-11-09T06:06:11.923617+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -400,16 +402,17 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 5,
+      "mentions": 10,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T07:01:18.955321+00:00"
+      "last_seen": "2026-11-09T06:06:11.923617+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
       "type": "company",
       "sectors": [
         "e-commerce / logistics",
-        "e-commerce / drone delivery"
+        "e-commerce / drone delivery",
+        "cloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -418,9 +421,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T06:49:27.270363+00:00"
+      "last_seen": "2026-11-09T06:05:59.243640+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -449,39 +452,41 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 11,
+      "mentions": 19,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T07:01:18.955321+00:00"
+      "last_seen": "2026-11-09T06:06:11.923617+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
       "type": "company",
       "sectors": [
-        "semiconductors / networking"
+        "semiconductors / networking",
+        "custom AI chips / networking"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 2,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+      "last_seen": "2026-11-09T06:06:11.923617+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
       "type": "company",
       "sectors": [
-        "cloud / database"
+        "cloud / database",
+        "cloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "ORCL",
-      "mentions": 2,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T07:01:15.798724+00:00"
+      "last_seen": "2026-11-09T06:06:08.786657+00:00"
     },
     "palantir": {
       "name": "Palantir Technologies",
@@ -512,15 +517,17 @@
     "coreweave": {
       "name": "CoreWeave",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "neocloud"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": "CRWV",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-09T06:06:10.005703+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -644,15 +651,17 @@
     "nebius": {
       "name": "Nebius Group",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "neocloud"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": "NBIS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-09T06:06:10.005703+00:00"
     },
     "langchain": {
       "name": "LangChain",
@@ -673,7 +682,8 @@
       "sectors": [
         "orbital launch vehicles, satellite constellations",
         "orbital launch vehicles, satellite constellations, frontier AI (via SpaceXAI)",
-        "launch services"
+        "launch services",
+        "launch / Starlink"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -681,24 +691,25 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 7,
+      "mentions": 10,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-02T01:41:34.966764+00:00"
+      "last_seen": "2026-11-09T06:06:06.638896+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
       "type": "company",
       "sectors": [
-        "orbital launch vehicles (New Glenn)"
+        "orbital launch vehicles (New Glenn)",
+        "launch / lunar landers"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-06T07:01:15.503898+00:00"
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -730,31 +741,33 @@
       "name": "Lockheed Martin",
       "type": "company",
       "sectors": [
-        "aerospace and defense"
+        "aerospace and defense",
+        "aerospace & defense"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "LMT",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-16T20:14:03.697788+00:00"
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
     },
     "northrop grumman": {
       "name": "Northrop Grumman",
       "type": "company",
       "sectors": [
-        "aerospace and defense"
+        "aerospace and defense",
+        "aerospace & defense"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "NOC",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-06T07:01:16.080547+00:00"
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
     },
     "l3harris": {
       "name": "L3Harris Technologies",
@@ -816,16 +829,17 @@
       "name": "Intuitive Machines",
       "type": "company",
       "sectors": [
-        "commercial lunar landers, camera operations"
+        "commercial lunar landers, camera operations",
+        "lunar landers"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "LUNR",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-16T20:13:18.037762+00:00"
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
     },
     "viasat": {
       "name": "Viasat",
@@ -843,15 +857,17 @@
     "redwire space": {
       "name": "Redwire Space",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "space infrastructure / solar arrays"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": "RDW",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
     },
     "spire global": {
       "name": "Spire Global",
@@ -899,29 +915,32 @@
       "type": "company",
       "sectors": [
         "commercial lunar landers, launch vehicles",
-        "commercial launch vehicles (Alpha, Eclipse)"
+        "commercial launch vehicles (Alpha, Eclipse)",
+        "launch / lunar landers"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": "FLY",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-16T20:14:03.697788+00:00"
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
     },
     "voyager": {
       "name": "Voyager Technologies",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "space infrastructure"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": "VOYG",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
     },
     "karman space defense": {
       "name": "Karman Space & Defense",
@@ -991,15 +1010,17 @@
     "ispace": {
       "name": "ispace, inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "lunar landers"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": "9348.T",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
     },
     "ionq": {
       "name": "IonQ",
@@ -1145,15 +1166,17 @@
     "pasqal": {
       "name": "Pasqal",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "neutral-atom quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
-      "ticker": null,
-      "mentions": 1,
+      "ticker": "PSQL",
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-09T06:06:04.007217+00:00"
     },
     "xanadu quantum": {
       "name": "Xanadu Quantum Technologies",
@@ -1502,9 +1525,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-10-20T06:47:38.225415+00:00"
+      "last_seen": "2026-11-09T06:05:59.960286+00:00"
     },
     "agility": {
       "name": "Agility Robotics",
@@ -1580,7 +1603,8 @@
       "name": "Qualcomm Incorporated",
       "type": "company",
       "sectors": [
-        "mobile SoC / edge AI"
+        "mobile SoC / edge AI",
+        "semiconductors / 5G"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1588,9 +1612,9 @@
       ],
       "hot": "hot",
       "ticker": "QCOM",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+      "last_seen": "2026-11-09T06:06:06.638896+00:00"
     },
     "apple": {
       "name": "Apple Inc.",
@@ -1628,7 +1652,8 @@
       "type": "company",
       "sectors": [
         "AI compute infrastructure",
-        "AI compute"
+        "AI compute",
+        "AI chips"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1637,9 +1662,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+      "last_seen": "2026-11-09T06:05:59.960286+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1657,22 +1682,26 @@
     "samsung electronics": {
       "name": "Samsung Electronics Co., Ltd.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "memory / semiconductors"
+      ],
       "sector_tags": [
-        "edge AI板块"
+        "edge AI板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": "005930.KS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+      "last_seen": "2026-11-09T06:06:07.837516+00:00"
     },
     "alphabet": {
       "name": "Alphabet Inc.",
       "type": "company",
       "sectors": [
         "internet / AI",
-        "internet / AI / cloud"
+        "internet / AI / cloud",
+        "AI models / cloud"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1682,9 +1711,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 10,
+      "mentions": 18,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T07:01:18.955321+00:00"
+      "last_seen": "2026-11-09T06:06:09.263035+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -1715,15 +1744,18 @@
     "micron": {
       "name": "Micron Technology, Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "memory / HBM"
+      ],
       "sector_tags": [
-        "edge AI板块"
+        "edge AI板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": "MU",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+      "last_seen": "2026-11-09T06:06:07.837516+00:00"
     },
     "ambarella": {
       "name": "Ambarella, Inc.",
@@ -1936,15 +1968,17 @@
     "american electric power": {
       "name": "American Electric Power",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "electric utility"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "AEP",
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-09T06:06:09.263035+00:00"
     },
     "southern": {
       "name": "Southern Company",
@@ -2029,15 +2063,17 @@
     "bloom energy": {
       "name": "Bloom Energy",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "solid oxide fuel cells"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "BE",
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-09T06:06:09.263035+00:00"
     },
     "oklo": {
       "name": "Oklo Inc",
@@ -2432,15 +2468,17 @@
     "thinking machines": {
       "name": "Thinking Machines",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "frontier AI models"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T06:04:43.700727+00:00",
-      "last_seen": "2026-08-06T06:04:43.700727+00:00"
+      "last_seen": "2026-11-09T06:06:12.402871+00:00"
     },
     "safe superintelligence": {
       "name": "Safe Superintelligence Inc",
@@ -2495,9 +2533,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 6,
+      "mentions": 8,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-11-06T07:01:15.503898+00:00"
+      "last_seen": "2026-11-09T06:06:02.806746+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -3317,16 +3355,18 @@
       "name": "SpaceXAI",
       "type": "company",
       "sectors": [
-        "frontier AI models (Grok series)"
+        "frontier AI models (Grok series)",
+        "AI compute / cloud"
       ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "能源板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-08-23T05:51:54.682460+00:00",
-      "last_seen": "2026-08-23T05:51:54.682460+00:00"
+      "last_seen": "2026-11-09T06:06:05.924462+00:00"
     },
     "cursor": {
       "name": "Cursor",
@@ -4432,12 +4472,14 @@
       "sectors": [
         "aviation regulator"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-06T06:49:27.270363+00:00",
-      "last_seen": "2026-11-06T06:49:27.270363+00:00"
+      "last_seen": "2026-11-09T06:06:02.806746+00:00"
     },
     "realtimebench": {
       "name": "Realtime-Bench",
@@ -4586,14 +4628,17 @@
       "name": "JPMorgan",
       "type": "company",
       "sectors": [
-        "banking"
+        "banking",
+        "financial services"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
       "hot": "hot",
       "ticker": "JPM",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-06T06:49:27.820350+00:00",
-      "last_seen": "2026-11-06T07:01:18.116586+00:00"
+      "last_seen": "2026-11-09T06:06:04.478701+00:00"
     },
     "jariet": {
       "name": "Jariet Technologies",
@@ -4845,16 +4890,17 @@
       "name": "NTT DATA",
       "type": "company",
       "sectors": [
-        "IT services / data centers"
+        "IT services / data centers",
+        "data centers / IT services"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-06T07:01:16.658721+00:00",
-      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+      "last_seen": "2026-11-09T06:06:08.786657+00:00"
     },
     "zutacore": {
       "name": "ZutaCore",
@@ -5171,6 +5217,722 @@
       "mentions": 1,
       "first_seen": "2026-11-06T07:01:18.955321+00:00",
       "last_seen": "2026-11-06T07:01:18.955321+00:00"
+    },
+    "world labs": {
+      "name": "World Labs",
+      "type": "company",
+      "sectors": [
+        "world models"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:05:59.960286+00:00",
+      "last_seen": "2026-11-09T06:05:59.960286+00:00"
+    },
+    "runway": {
+      "name": "Runway",
+      "type": "company",
+      "sectors": [
+        "world models / video generation"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:05:59.960286+00:00",
+      "last_seen": "2026-11-09T06:05:59.960286+00:00"
+    },
+    "rivian": {
+      "name": "Rivian",
+      "type": "company",
+      "sectors": [
+        "electric vehicles / autonomy"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "RIVN",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:05:59.960286+00:00",
+      "last_seen": "2026-11-09T06:05:59.960286+00:00"
+    },
+    "third dimension": {
+      "name": "Third Dimension",
+      "type": "company",
+      "sectors": [
+        "world models for driving simulation"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:05:59.960286+00:00",
+      "last_seen": "2026-11-09T06:05:59.960286+00:00"
+    },
+    "honeybee": {
+      "name": "Honeybee Robotics",
+      "type": "company",
+      "sectors": [
+        "space robotics"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:01.385594+00:00",
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
+    },
+    "yank": {
+      "name": "Yank Technologies",
+      "type": "company",
+      "sectors": [
+        "wireless power transfer"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:01.385594+00:00",
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
+    },
+    "impulse space": {
+      "name": "Impulse Space",
+      "type": "company",
+      "sectors": [
+        "orbital transfer vehicles"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:01.385594+00:00",
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
+    },
+    "quantum space": {
+      "name": "Quantum Space",
+      "type": "company",
+      "sectors": [
+        "orbital transfer vehicles"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:01.385594+00:00",
+      "last_seen": "2026-11-09T06:06:01.385594+00:00"
+    },
+    "stoke space": {
+      "name": "Stoke Space",
+      "type": "company",
+      "sectors": [
+        "fully reusable launch vehicles"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:02.324434+00:00",
+      "last_seen": "2026-11-09T06:06:02.324434+00:00"
+    },
+    "space launch delta 45": {
+      "name": "Space Launch Delta 45",
+      "type": "institution",
+      "sectors": [
+        "US Space Force Eastern Range"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:02.324434+00:00",
+      "last_seen": "2026-11-09T06:06:02.324434+00:00"
+    },
+    "physical superintelligence": {
+      "name": "Physical Superintelligence",
+      "type": "company",
+      "sectors": [
+        "AI-driven research"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:03.289577+00:00",
+      "last_seen": "2026-11-09T06:06:03.289577+00:00"
+    },
+    "usa rare earth": {
+      "name": "USA Rare Earth",
+      "type": "company",
+      "sectors": [
+        "rare earths / critical minerals"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "USAR",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.007217+00:00",
+      "last_seen": "2026-11-09T06:06:04.007217+00:00"
+    },
+    "riven systems": {
+      "name": "Riven Systems",
+      "type": "company",
+      "sectors": [
+        "AI for industrial chemistry"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.007217+00:00",
+      "last_seen": "2026-11-09T06:06:04.007217+00:00"
+    },
+    "lg cns": {
+      "name": "LG CNS",
+      "type": "company",
+      "sectors": [
+        "AI / IT services"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.007217+00:00",
+      "last_seen": "2026-11-09T06:06:04.007217+00:00"
+    },
+    "king abdulaziz city for science and": {
+      "name": "King Abdulaziz City for Science and Technology",
+      "type": "institution",
+      "sectors": [
+        "research institute"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.007217+00:00",
+      "last_seen": "2026-11-09T06:06:04.007217+00:00"
+    },
+    "eleven ventures": {
+      "name": "Eleven Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.007217+00:00",
+      "last_seen": "2026-11-09T06:06:04.007217+00:00"
+    },
+    "aeponyx": {
+      "name": "Aeponyx",
+      "type": "company",
+      "sectors": [
+        "photonic integrated circuits"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.007217+00:00",
+      "last_seen": "2026-11-09T06:06:04.007217+00:00"
+    },
+    "open quantum institute": {
+      "name": "Open Quantum Institute",
+      "type": "institution",
+      "sectors": [
+        "quantum research (hosted at CERN)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.478701+00:00",
+      "last_seen": "2026-11-09T06:06:04.478701+00:00"
+    },
+    "oratomic": {
+      "name": "Oratomic",
+      "type": "company",
+      "sectors": [
+        "neutral-atom fault-tolerant quantum computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.478701+00:00",
+      "last_seen": "2026-11-09T06:06:04.478701+00:00"
+    },
+    "uk research and innovation": {
+      "name": "UK Research and Innovation",
+      "type": "institution",
+      "sectors": [
+        "UK research funding agency"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.956544+00:00",
+      "last_seen": "2026-11-09T06:06:04.956544+00:00"
+    },
+    "imperial college london": {
+      "name": "Imperial College London",
+      "type": "institution",
+      "sectors": [
+        "university"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.956544+00:00",
+      "last_seen": "2026-11-09T06:06:04.956544+00:00"
+    },
+    "uk ministry of defence": {
+      "name": "UK Ministry of Defence",
+      "type": "institution",
+      "sectors": [
+        "defence"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:04.956544+00:00",
+      "last_seen": "2026-11-09T06:06:04.956544+00:00"
+    },
+    "toshiba": {
+      "name": "Toshiba",
+      "type": "company",
+      "sectors": [
+        "quantum networking / QKD"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": "6502.T",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:05.430858+00:00",
+      "last_seen": "2026-11-09T06:06:05.430858+00:00"
+    },
+    "bt": {
+      "name": "BT Group",
+      "type": "company",
+      "sectors": [
+        "telecom operator"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:05.430858+00:00",
+      "last_seen": "2026-11-09T06:06:05.430858+00:00"
+    },
+    "colt services": {
+      "name": "Colt Technology Services",
+      "type": "company",
+      "sectors": [
+        "telecom operator"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:05.430858+00:00",
+      "last_seen": "2026-11-09T06:06:05.430858+00:00"
+    },
+    "innovate uk": {
+      "name": "Innovate UK",
+      "type": "institution",
+      "sectors": [
+        "UK innovation agency"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:05.430858+00:00",
+      "last_seen": "2026-11-09T06:06:05.430858+00:00"
+    },
+    "arizona electric power cooperative": {
+      "name": "Arizona Electric Power Cooperative",
+      "type": "company",
+      "sectors": [
+        "electric utility"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:05.924462+00:00",
+      "last_seen": "2026-11-09T06:06:05.924462+00:00"
+    },
+    "deutsche telekom": {
+      "name": "Deutsche Telekom",
+      "type": "company",
+      "sectors": [
+        "telecom operator"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "DTE.DE",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:06.638896+00:00",
+      "last_seen": "2026-11-09T06:06:06.638896+00:00"
+    },
+    "tmobile us": {
+      "name": "T-Mobile US",
+      "type": "company",
+      "sectors": [
+        "telecom operator"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "TMUS",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:06.638896+00:00",
+      "last_seen": "2026-11-09T06:06:06.638896+00:00"
+    },
+    "grain management": {
+      "name": "Grain Management",
+      "type": "company",
+      "sectors": [
+        "spectrum investment"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:06.638896+00:00",
+      "last_seen": "2026-11-09T06:06:06.638896+00:00"
+    },
+    "dte energy": {
+      "name": "DTE Energy",
+      "type": "company",
+      "sectors": [
+        "electric utility"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "DTE",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:07.116516+00:00",
+      "last_seen": "2026-11-09T06:06:07.116516+00:00"
+    },
+    "related digital": {
+      "name": "Related Digital",
+      "type": "company",
+      "sectors": [
+        "data center development"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 2,
+      "first_seen": "2026-11-09T06:06:07.116516+00:00",
+      "last_seen": "2026-11-09T06:06:09.263035+00:00"
+    },
+    "asml": {
+      "name": "ASML",
+      "type": "company",
+      "sectors": [
+        "lithography equipment"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "ASML",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:07.837516+00:00",
+      "last_seen": "2026-11-09T06:06:07.837516+00:00"
+    },
+    "powerchip semiconductor manufacturing": {
+      "name": "Powerchip Semiconductor Manufacturing Corporation",
+      "type": "company",
+      "sectors": [
+        "foundry"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:07.837516+00:00",
+      "last_seen": "2026-11-09T06:06:07.837516+00:00"
+    },
+    "sk hynix": {
+      "name": "SK Hynix",
+      "type": "company",
+      "sectors": [
+        "memory / HBM"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:07.837516+00:00",
+      "last_seen": "2026-11-09T06:06:07.837516+00:00"
+    },
+    "equinix": {
+      "name": "Equinix",
+      "type": "company",
+      "sectors": [
+        "data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "EQIX",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:08.786657+00:00",
+      "last_seen": "2026-11-09T06:06:08.786657+00:00"
+    },
+    "tallgrass energy": {
+      "name": "Tallgrass Energy",
+      "type": "company",
+      "sectors": [
+        "midstream energy / CCS"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:09.263035+00:00",
+      "last_seen": "2026-11-09T06:06:09.263035+00:00"
+    },
+    "black hills energy": {
+      "name": "Black Hills Energy",
+      "type": "company",
+      "sectors": [
+        "electric & gas utility"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "BKH",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:09.263035+00:00",
+      "last_seen": "2026-11-09T06:06:09.263035+00:00"
+    },
+    "crusoe": {
+      "name": "Crusoe",
+      "type": "company",
+      "sectors": [
+        "AI data center development"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:09.263035+00:00",
+      "last_seen": "2026-11-09T06:06:09.263035+00:00"
+    },
+    "megaspeed": {
+      "name": "Megaspeed",
+      "type": "company",
+      "sectors": [
+        "cloud / GPU reseller (Singapore)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:10.005703+00:00",
+      "last_seen": "2026-11-09T06:06:10.005703+00:00"
+    },
+    "xai": {
+      "name": "xAI",
+      "type": "company",
+      "sectors": [
+        "frontier AI models"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:10.005703+00:00",
+      "last_seen": "2026-11-09T06:06:10.005703+00:00"
+    },
+    "ramp": {
+      "name": "Ramp",
+      "type": "company",
+      "sectors": [
+        "corporate cards / spend data"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:10.488090+00:00",
+      "last_seen": "2026-11-09T06:06:10.488090+00:00"
+    },
+    "physicl": {
+      "name": "Physicl",
+      "type": "company",
+      "sectors": [
+        "synthetic 3D data for robotics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:11.433561+00:00",
+      "last_seen": "2026-11-09T06:06:11.433561+00:00"
+    },
+    "inovia capital": {
+      "name": "Inovia Capital",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:11.433561+00:00",
+      "last_seen": "2026-11-09T06:06:11.433561+00:00"
+    },
+    "spaitial": {
+      "name": "SpAItial",
+      "type": "company",
+      "sectors": [
+        "world models"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:11.433561+00:00",
+      "last_seen": "2026-11-09T06:06:11.433561+00:00"
+    },
+    "accel": {
+      "name": "Accel",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:12.402871+00:00",
+      "last_seen": "2026-11-09T06:06:12.402871+00:00"
+    },
+    "marvell": {
+      "name": "Marvell Technology",
+      "type": "company",
+      "sectors": [
+        "data center networking chips"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "MRVL",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:12.877653+00:00",
+      "last_seen": "2026-11-09T06:06:12.877653+00:00"
+    },
+    "lumentum": {
+      "name": "Lumentum",
+      "type": "company",
+      "sectors": [
+        "optical components"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "LITE",
+      "mentions": 1,
+      "first_seen": "2026-11-09T06:06:12.877653+00:00",
+      "last_seen": "2026-11-09T06:06:12.877653+00:00"
     }
   },
   "edges": [
@@ -5276,6 +6038,14 @@
           "source_name": "Microsoft Official Blog",
           "published": "2025-10-28",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "微软参与过至少四轮 OpenAI 融资,可能参与本轮 1.25 万亿美元估值融资",
+          "article_title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+          "article_url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 23:43:40 +0000",
+          "added_at": "2026-11-09T06:06:11.923617+00:00"
         }
       ]
     },
@@ -5291,6 +6061,14 @@
           "source_name": "CNBC",
           "published": "2025-09-22",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "NVIDIA 投资了 OpenAI",
+          "article_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "article_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 09 Nov 2026 05:26:29 +0000",
+          "added_at": "2026-11-09T06:06:10.005703+00:00"
         }
       ]
     },
@@ -5404,6 +6182,14 @@
           "source_name": "TechCrunch",
           "published": "2026-01-26",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "NVIDIA 投资了 CoreWeave",
+          "article_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "article_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 09 Nov 2026 05:26:29 +0000",
+          "added_at": "2026-11-09T06:06:10.005703+00:00"
         }
       ]
     },
@@ -5487,6 +6273,14 @@
           "source_name": "Axios",
           "published": "2025-11-18",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "NVIDIA 投资了 Anthropic",
+          "article_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "article_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 09 Nov 2026 05:26:29 +0000",
+          "added_at": "2026-11-09T06:06:10.005703+00:00"
         }
       ]
     },
@@ -5592,6 +6386,14 @@
           "source_name": "CNBC",
           "published": "2026-07-21",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "NVIDIA 投资了 Nebius",
+          "article_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "article_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 09 Nov 2026 05:26:29 +0000",
+          "added_at": "2026-11-09T06:06:10.005703+00:00"
         }
       ]
     },
@@ -5856,6 +6658,22 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 05 Nov 2026 18:02:27 +0000",
           "added_at": "2026-11-06T07:01:17.834217+00:00"
+        },
+        {
+          "description": "OpenAI 9 月将 GPT-6 Sol/Luna API 价格减半,Anthropic 跟进降价,称使收入增长减少约 6 亿美元",
+          "article_title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+          "article_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 06 Nov 2026 15:54:47 +0000",
+          "added_at": "2026-11-09T06:06:10.488090+00:00"
+        },
+        {
+          "description": "本轮估值可能让 OpenAI 超过 Anthropic 的上市市值",
+          "article_title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+          "article_url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 23:43:40 +0000",
+          "added_at": "2026-11-09T06:06:11.923617+00:00"
         }
       ]
     },
@@ -7681,6 +8499,22 @@
           "source_name": "Bloom Energy Investor Relations",
           "published": "2024-11-14",
           "added_at": "2026-08-06T04:59:53.197516+00:00"
+        },
+        {
+          "description": "AEP 采购最多 1GW Bloom SOFC 为 AI 数据中心离网供电",
+          "article_title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 13:25:48 +0000",
+          "added_at": "2026-11-09T06:06:08.786657+00:00"
+        },
+        {
+          "description": "Bloom 为该 702MW 项目供应 SOFC,由 AEP 拥有和运营",
+          "article_title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 11:56:37 +0000",
+          "added_at": "2026-11-09T06:06:09.263035+00:00"
         }
       ]
     },
@@ -7696,6 +8530,14 @@
           "source_name": "Oracle",
           "published": "2026-04-27",
           "added_at": "2026-08-06T04:59:53.197516+00:00"
+        },
+        {
+          "description": "Bloom 与 Oracle 的协议扩大到最多 2.8GW,但 Jupiter 项目因供气管道遭反对受阻",
+          "article_title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 13:25:48 +0000",
+          "added_at": "2026-11-09T06:06:08.786657+00:00"
         }
       ]
     },
@@ -8311,6 +9153,14 @@
           "source_name": "DeepLearning.AI - The Batch (Research)",
           "published": "2026-08-14T08:05:00.000-07:00",
           "added_at": "2026-08-15T05:50:16.805255+00:00"
+        },
+        {
+          "description": "Genie 4 演示中由 Gemini 4 Argon 拆解任务,渲染 Apptronik Apollo 人形机器人下跳棋的模拟",
+          "article_title": "Google Genie 4 Combines With Gemini Models to Build Better Video Game Worlds, Robotics Training",
+          "article_url": "https://www.deeplearning.ai/the-batch/world-models-become-robot-playgrounds/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:10:00.000-08:00",
+          "added_at": "2026-11-09T06:05:59.960286+00:00"
         }
       ]
     },
@@ -8686,6 +9536,14 @@
           "source_name": "SpaceNews",
           "published": "Sat, 15 Aug 2026 23:49:58 +0000",
           "added_at": "2026-08-16T20:13:18.037762+00:00"
+        },
+        {
+          "description": "VADR 任务订单:JPL MoonFall 跳跃无人机搭乘 Firefly Elytra 和 New Glenn",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
         }
       ]
     },
@@ -8701,6 +9559,14 @@
           "source_name": "SpaceNews",
           "published": "Sat, 15 Aug 2026 23:49:58 +0000",
           "added_at": "2026-08-16T20:13:18.037762+00:00"
+        },
+        {
+          "description": "Intuitive Machines 入选 CLPS 2.0 八家合格供应商,其通信卫星获 VADR 发射订单",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
         }
       ]
     },
@@ -11119,6 +11985,1064 @@
           "added_at": "2026-11-06T07:01:18.955321+00:00"
         }
       ]
+    },
+    {
+      "source": "alphabet",
+      "target": "anthropic",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Gemini 4 Carbon 在 Artificial Analysis 智能指数上小幅超过 Claude Opus 5.5,但编程智能体指数仍落后",
+          "article_title": "Google Gemini 4 Carbon Tops Intelligence Index, Cybersecurity Benchmarks",
+          "article_url": "https://www.deeplearning.ai/the-batch/gemini-leads-the-pack-again/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:00:00.000-08:00",
+          "added_at": "2026-11-09T06:05:58.763708+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "openai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Gemini 4 Carbon 在智能指数上领先 GPT-6 Astra",
+          "article_title": "Google Gemini 4 Carbon Tops Intelligence Index, Cybersecurity Benchmarks",
+          "article_url": "https://www.deeplearning.ai/the-batch/gemini-leads-the-pack-again/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:00:00.000-08:00",
+          "added_at": "2026-11-09T06:05:58.763708+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "broadcom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "招股书披露 Anthropic 向 Broadcom 租用设备约 1,612 亿美元",
+          "article_title": "Anthropic&#x27;s S-1 Outlines Company&#x27;s Strong Financials, Methods, Potential Risks After IPO",
+          "article_url": "https://www.deeplearning.ai/the-batch/anthropic-opens-its-books/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:05:00.000-08:00",
+          "added_at": "2026-11-09T06:05:59.243640+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "招股书披露与 Google 的算力承诺至少 1,145 亿美元,Google 也是早期投资方",
+          "article_title": "Anthropic&#x27;s S-1 Outlines Company&#x27;s Strong Financials, Methods, Potential Risks After IPO",
+          "article_url": "https://www.deeplearning.ai/the-batch/anthropic-opens-its-books/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:05:00.000-08:00",
+          "added_at": "2026-11-09T06:05:59.243640+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "招股书披露与 Amazon 的算力承诺至少 1,100 亿美元,Amazon 也是早期投资方",
+          "article_title": "Anthropic&#x27;s S-1 Outlines Company&#x27;s Strong Financials, Methods, Potential Risks After IPO",
+          "article_url": "https://www.deeplearning.ai/the-batch/anthropic-opens-its-books/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:05:00.000-08:00",
+          "added_at": "2026-11-09T06:05:59.243640+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "spacexai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "招股书披露与 SpaceXAI 的算力协议最多 1,205 亿美元,2027 年初后双方可取消",
+          "article_title": "Anthropic&#x27;s S-1 Outlines Company&#x27;s Strong Financials, Methods, Potential Risks After IPO",
+          "article_url": "https://www.deeplearning.ai/the-batch/anthropic-opens-its-books/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:05:00.000-08:00",
+          "added_at": "2026-11-09T06:05:59.243640+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "world labs",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "AMD 9 月同意以约 82 亿美元收购世界模型公司 World Labs",
+          "article_title": "Google Genie 4 Combines With Gemini Models to Build Better Video Game Worlds, Robotics Training",
+          "article_url": "https://www.deeplearning.ai/the-batch/world-models-become-robot-playgrounds/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:10:00.000-08:00",
+          "added_at": "2026-11-09T06:05:59.960286+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rivian",
+      "target": "third dimension",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Rivian 10 月收购世界模型初创公司 Third Dimension,把自动驾驶仿真收归自有",
+          "article_title": "Google Genie 4 Combines With Gemini Models to Build Better Video Game Worlds, Robotics Training",
+          "article_url": "https://www.deeplearning.ai/the-batch/world-models-become-robot-playgrounds/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:10:00.000-08:00",
+          "added_at": "2026-11-09T06:05:59.960286+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "runway",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Genie 4 与 Runway GWM Worlds 2 同为实时生成视频的世界模型,均瞄准机器人训练",
+          "article_title": "Google Genie 4 Combines With Gemini Models to Build Better Video Game Worlds, Robotics Training",
+          "article_url": "https://www.deeplearning.ai/the-batch/world-models-become-robot-playgrounds/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-06T08:10:00.000-08:00",
+          "added_at": "2026-11-09T06:05:59.960286+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "blue origin",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NASA 让 PROMISE 月球车搭乘 Blue Moon Mark 1 第五号着陆器,给 Blue Origin 9,400 万美元基础合同和 1.4 亿美元绩效选项",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "honeybee",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NASA 为 miniCAST 月面通信与太阳能塔选定 Honeybee Robotics 提供储能",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "redwire space",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NASA 为 miniCAST 选定 Redwire 提供发电组件",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "yank",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NASA 为 miniCAST 选定 Yank Technologies 提供无线输电",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "spacex",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SpaceX 将用星舰部署的 Starlink 卫星为 NASA 演示远距离月球通信",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        },
+        {
+          "description": "Flight 15 一天在轨的推进剂蒸发数据关系到 NASA 里程碑中 2027 年 Q1 的船对船推进剂转移演示和载人着陆系统",
+          "article_title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Fri, 06 Nov 2026 15:31:51 +0000",
+          "added_at": "2026-11-09T06:06:02.806746+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "quantum space",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "VADR 任务订单:CAPSTONE 2 搭乘 Quantum Space Ranger 拖船和猎鹰 9",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "impulse space",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "VADR 任务订单:Impulse Helios/Terran R 高风险月球着陆演示,以及为 Intuitive Machines 通信卫星采购猎鹰 9",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "lockheed martin",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "入选 CLPS 2.0 合格供应商",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "northrop grumman",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "入选 CLPS 2.0 合格供应商",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "ispace",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "ispace U.S. 入选 CLPS 2.0 合格供应商",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "voyager",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "入选 CLPS 2.0 合格供应商",
+          "article_title": "NASA’s Moon Base plan gains a PROMISE",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+          "added_at": "2026-11-09T06:06:01.385594+00:00"
+        }
+      ]
+    },
+    {
+      "source": "space launch delta 45",
+      "target": "stoke space",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "太空发射三角翼 45 授予 Stoke 进入 SLC-14 北侧土地的许可,研究为 Nova 建第二个发射台",
+          "article_title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Fri, 06 Nov 2026 21:19:28 +0000",
+          "added_at": "2026-11-09T06:06:02.324434+00:00"
+        }
+      ]
+    },
+    {
+      "source": "federal aviation administration",
+      "target": "spacex",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Flight 15 的飞船捕获需要 FAA 批准许可修改,返回途中会飞越人口稠密区",
+          "article_title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Fri, 06 Nov 2026 15:31:51 +0000",
+          "added_at": "2026-11-09T06:06:02.806746+00:00"
+        }
+      ]
+    },
+    {
+      "source": "physical superintelligence",
+      "target": "anthropic",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "PSI 的研究系统使用多个非公开 Anthropic 模型实例,在第三天找到 Aaronson-Ambainis 猜想的完整证明并经 Lean 验证",
+          "article_title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+          "article_url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 21:28:02 +0000",
+          "added_at": "2026-11-09T06:06:03.289577+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "usa rare earth",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与 USA Rare Earth 和 Riven Systems 合作,用中性原子 QPU 上的量子机器学习寻找新的稀土分离分子",
+          "article_title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+          "article_url": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 18:36:58 +0000",
+          "added_at": "2026-11-09T06:06:04.007217+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "riven systems",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "三方合作用量子机器学习做工业化学(稀土分离分子)",
+          "article_title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+          "article_url": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 18:36:58 +0000",
+          "added_at": "2026-11-09T06:06:04.007217+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "lg cns",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "三年谅解备忘录,把中性原子量子计算机接入 LG CNS 的 AI 平台和 AI 数据中心",
+          "article_title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+          "article_url": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 18:36:58 +0000",
+          "added_at": "2026-11-09T06:06:04.007217+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "king abdulaziz city for science and",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "在沙特开展量子技术研发合作",
+          "article_title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+          "article_url": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 18:36:58 +0000",
+          "added_at": "2026-11-09T06:06:04.007217+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "eleven ventures",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "谅解备忘录拟成立合资公司在沙特部署和商业化 Pasqal 量子计算系统",
+          "article_title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+          "article_url": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 18:36:58 +0000",
+          "added_at": "2026-11-09T06:06:04.007217+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "aeponyx",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Pasqal 18 个月前收购 Aeponyx,共同开发用光子芯片困原子的 PIC 平台",
+          "article_title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+          "article_url": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 18:36:58 +0000",
+          "added_at": "2026-11-09T06:06:04.007217+00:00"
+        }
+      ]
+    },
+    {
+      "source": "open quantum institute",
+      "target": "alphabet",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "与 Google Quantum AI 等共同整理 24 个有量子优势前景的计算问题",
+          "article_title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+          "article_url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 15:23:58 +0000",
+          "added_at": "2026-11-09T06:06:04.478701+00:00"
+        }
+      ]
+    },
+    {
+      "source": "open quantum institute",
+      "target": "microsoft",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "微软研究者参与 24 个量子优势问题综述",
+          "article_title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+          "article_url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 15:23:58 +0000",
+          "added_at": "2026-11-09T06:06:04.478701+00:00"
+        }
+      ]
+    },
+    {
+      "source": "open quantum institute",
+      "target": "nvidia",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NVIDIA 研究者参与 24 个量子优势问题综述",
+          "article_title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+          "article_url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 15:23:58 +0000",
+          "added_at": "2026-11-09T06:06:04.478701+00:00"
+        }
+      ]
+    },
+    {
+      "source": "open quantum institute",
+      "target": "oratomic",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Oratomic 参与 24 个量子优势问题综述",
+          "article_title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+          "article_url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 15:23:58 +0000",
+          "added_at": "2026-11-09T06:06:04.478701+00:00"
+        }
+      ]
+    },
+    {
+      "source": "open quantum institute",
+      "target": "jpmorgan",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "摩根大通研究者参与 24 个量子优势问题综述",
+          "article_title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+          "article_url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 15:23:58 +0000",
+          "added_at": "2026-11-09T06:06:04.478701+00:00"
+        }
+      ]
+    },
+    {
+      "source": "uk research and innovation",
+      "target": "imperial college london",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "EPSRC 以 1,200 万英镑资助帝国理工牵头的 UK Quantum SuperConnector 建国家量子商业化技能中心",
+          "article_title": "UK Announces New Funding to Support Quantum Technology Commercialisation",
+          "article_url": "https://thequantuminsider.com/2026/11/06/uk-announces-new-funding-to-support-quantum-technology-commercialisation/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-09T06:06:04.956544+00:00"
+        }
+      ]
+    },
+    {
+      "source": "uk ministry of defence",
+      "target": "uk research and innovation",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "1.38 亿英镑跨部门量子传感采购中国防部出资 3,000 万英镑,并将制定国防量子行动计划",
+          "article_title": "UK Announces New Funding to Support Quantum Technology Commercialisation",
+          "article_url": "https://thequantuminsider.com/2026/11/06/uk-announces-new-funding-to-support-quantum-technology-commercialisation/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-09T06:06:04.956544+00:00"
+        }
+      ]
+    },
+    {
+      "source": "innovate uk",
+      "target": "toshiba",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Toshiba Europe 获 Innovate UK 合同开发长距离量子链路和多用户量子网络子系统",
+          "article_title": "Toshiba Secures UK Contract to Develop Quantum Networking Technologies",
+          "article_url": "https://thequantuminsider.com/2026/11/06/toshiba-uk-contract-quantum-networking-technologies/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 09:50:17 +0000",
+          "added_at": "2026-11-09T06:06:05.430858+00:00"
+        }
+      ]
+    },
+    {
+      "source": "toshiba",
+      "target": "bt",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "BT 将在真实网络条件下验证 Toshiba 的量子网络技术",
+          "article_title": "Toshiba Secures UK Contract to Develop Quantum Networking Technologies",
+          "article_url": "https://thequantuminsider.com/2026/11/06/toshiba-uk-contract-quantum-networking-technologies/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 09:50:17 +0000",
+          "added_at": "2026-11-09T06:06:05.430858+00:00"
+        }
+      ]
+    },
+    {
+      "source": "toshiba",
+      "target": "colt services",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Colt 将在真实网络条件下验证 Toshiba 的量子网络技术",
+          "article_title": "Toshiba Secures UK Contract to Develop Quantum Networking Technologies",
+          "article_url": "https://thequantuminsider.com/2026/11/06/toshiba-uk-contract-quantum-networking-technologies/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 06 Nov 2026 09:50:17 +0000",
+          "added_at": "2026-11-09T06:06:05.430858+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacexai",
+      "target": "arizona electric power cooperative",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SpaceXAI 拟在 AEPCO 持有的土地上建 6GW 数据中心,紧邻其 Apache 电站,自付约 36 亿美元电网升级",
+          "article_title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+          "article_url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 17:34:34 +0000",
+          "added_at": "2026-11-09T06:06:05.924462+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacexai",
+      "target": "anthropic",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "SpaceXAI 孟菲斯数据中心集群向 Anthropic 提供 AI 云服务",
+          "article_title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+          "article_url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 17:34:34 +0000",
+          "added_at": "2026-11-09T06:06:05.924462+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacexai",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "SpaceXAI 孟菲斯数据中心集群向 Google 提供 AI 云服务",
+          "article_title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+          "article_url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 17:34:34 +0000",
+          "added_at": "2026-11-09T06:06:05.924462+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "qualcomm incorporated",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "SpaceX 与 Qualcomm 签多年 5G 基础设施协议,Qualcomm 提供射频设备、基带单元和软件",
+          "article_title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:55:11 +0000",
+          "added_at": "2026-11-09T06:06:06.638896+00:00"
+        }
+      ]
+    },
+    {
+      "source": "deutsche telekom",
+      "target": "tmobile us",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "德国电信是 T-Mobile US 的控股股东",
+          "article_title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:55:11 +0000",
+          "added_at": "2026-11-09T06:06:06.638896+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "tmobile us",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "马斯克表示要和美国三大运营商竞争,德国电信 CEO 称 SpaceX 至少需 2,000 亿欧元",
+          "article_title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:55:11 +0000",
+          "added_at": "2026-11-09T06:06:06.638896+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "grain management",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "SpaceX 买下 Grain Management 的全国 800MHz 频谱组合",
+          "article_title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:55:11 +0000",
+          "added_at": "2026-11-09T06:06:06.638896+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dte energy",
+      "target": "oracle",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "DTE 锁定 Oracle Saline 镇项目 1.4GW 数据中心负荷,需求 2027-2028 年爬坡",
+          "article_title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:50:38 +0000",
+          "added_at": "2026-11-09T06:06:07.116516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oracle",
+      "target": "openai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Oracle 在密歇根 Saline 镇的数据中心与 Related Digital 和 OpenAI 合作开发",
+          "article_title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:50:38 +0000",
+          "added_at": "2026-11-09T06:06:07.116516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oracle",
+      "target": "related digital",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Saline 镇数据中心由 Related Digital 合作开发",
+          "article_title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:50:38 +0000",
+          "added_at": "2026-11-09T06:06:07.116516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dte energy",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "DTE 锁定 Google Buren 镇园区 1GW 负荷,Google 签 20 年合同引入 2.7GW 清洁电源并出资 480MW 储能",
+          "article_title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:50:38 +0000",
+          "added_at": "2026-11-09T06:06:07.116516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "micron",
+      "target": "asml",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Micron 已为桃园 Fab 11E 向 ASML 采购设备,现因劳资纠纷暂停建设",
+          "article_title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:11:00 +0000",
+          "added_at": "2026-11-09T06:06:07.837516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "micron",
+      "target": "powerchip semiconductor manufacturing",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Micron 1 月签意向书以 18 亿美元收购力积电铜锣 P5 厂",
+          "article_title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:11:00 +0000",
+          "added_at": "2026-11-09T06:06:07.837516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "micron",
+      "target": "sk hynix",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "存储厂商同样面临工人要求分享 AI 带来的创纪录利润",
+          "article_title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:11:00 +0000",
+          "added_at": "2026-11-09T06:06:07.837516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "micron",
+      "target": "samsung electronics",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "三星工会 5 月达成奖金协议后取消罢工,Micron 面临类似劳资压力",
+          "article_title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 14:11:00 +0000",
+          "added_at": "2026-11-09T06:06:07.837516+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bloom energy",
+      "target": "ntt data",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NTT Data 与 Bloom 签 900MW SOFC 部署协议,为全球多个数据中心现场供电,2027 年开始发货",
+          "article_title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 13:25:48 +0000",
+          "added_at": "2026-11-09T06:06:08.786657+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bloom energy",
+      "target": "equinix",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Bloom 为 Equinix 19 个数据中心部署超过 100MW 燃料电池",
+          "article_title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 13:25:48 +0000",
+          "added_at": "2026-11-09T06:06:08.786657+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ntt data",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "据报 NTT Data 正洽谈为 Anthropic 在日本西部建 63 亿美元数据中心",
+          "article_title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 13:25:48 +0000",
+          "added_at": "2026-11-09T06:06:08.786657+00:00"
+        }
+      ]
+    },
+    {
+      "source": "american electric power",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "AEP 与 Google 签购电协议,为夏延园区提供 702MW 配 CCS 的燃料电池电力",
+          "article_title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 11:56:37 +0000",
+          "added_at": "2026-11-09T06:06:09.263035+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tallgrass energy",
+      "target": "alphabet",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Tallgrass 提供燃气发电和东怀俄明二氧化碳封存中心,Google 研究为其燃机加装 CCS",
+          "article_title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 11:56:37 +0000",
+          "added_at": "2026-11-09T06:06:09.263035+00:00"
+        }
+      ]
+    },
+    {
+      "source": "black hills energy",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Google 夏延园区从 Black Hills 运营的燃气机组购电",
+          "article_title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 11:56:37 +0000",
+          "added_at": "2026-11-09T06:06:09.263035+00:00"
+        }
+      ]
+    },
+    {
+      "source": "related digital",
+      "target": "alphabet",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Related Digital 是 Google 夏延园区开发合作方",
+          "article_title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 11:56:37 +0000",
+          "added_at": "2026-11-09T06:06:09.263035+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "crusoe",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Google 从 Crusoe 手中接手未完成的怀俄明 Project Jade 项目",
+          "article_title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 06 Nov 2026 11:56:37 +0000",
+          "added_at": "2026-11-09T06:06:09.263035+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "megaspeed",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Megaspeed 从 NVIDIA 采购约 20 亿美元芯片,被调查是否帮助规避对华出口管制,其高管被指为中国间谍",
+          "article_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "article_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 09 Nov 2026 05:26:29 +0000",
+          "added_at": "2026-11-09T06:06:10.005703+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "xai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "NVIDIA 投资了 xAI",
+          "article_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+          "article_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 09 Nov 2026 05:26:29 +0000",
+          "added_at": "2026-11-09T06:06:10.005703+00:00"
+        }
+      ]
+    },
+    {
+      "source": "inovia capital",
+      "target": "physicl",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Inovia Capital 领投 Physicl 1,000 万美元种子轮",
+          "article_title": "Physicl raises $10M to make the digital world real enough for robots",
+          "article_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 06 Nov 2026 13:00:00 +0000",
+          "added_at": "2026-11-09T06:06:11.433561+00:00"
+        }
+      ]
+    },
+    {
+      "source": "physicl",
+      "target": "spaitial",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SpAItial 用 Physicl 的高保真合成数据提升世界模型 Echo-3 的保真度",
+          "article_title": "Physicl raises $10M to make the digital world real enough for robots",
+          "article_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 06 Nov 2026 13:00:00 +0000",
+          "added_at": "2026-11-09T06:06:11.433561+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "broadcom",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "OpenAI 与 Broadcom 合作开发定制推理加速器以降低长期硬件支出",
+          "article_title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+          "article_url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 23:43:40 +0000",
+          "added_at": "2026-11-09T06:06:11.923617+00:00"
+        }
+      ]
+    },
+    {
+      "source": "accel",
+      "target": "thinking machines",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "据报 Accel 领投 Thinking Machines 50 亿美元融资,估值约 400 亿美元",
+          "article_title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
+          "article_url": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 21:27:42 +0000",
+          "added_at": "2026-11-09T06:06:12.402871+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thinking machines",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Inkling 2 Small 在 GB300 NVL72(Blackwell Ultra)机架集群上训练",
+          "article_title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
+          "article_url": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 21:27:42 +0000",
+          "added_at": "2026-11-09T06:06:12.402871+00:00"
+        }
+      ]
+    },
+    {
+      "source": "marvell",
+      "target": "lumentum",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Marvell 宣布以 1,150 亿美元收购光器件公司 Lumentum,押注 AI 繁荣延续",
+          "article_title": "Midterm elections will put AI and data centers on trial, but will Big Tech end up winning anyway?",
+          "article_url": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 06 Nov 2026 15:09:18 +0000",
+          "added_at": "2026-11-09T06:06:12.877653+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -12894,6 +14818,348 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 04 Nov 2026 21:53:50 +0000",
       "added_at": "2026-11-06T07:01:53.762565+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Video Friday:795 美元绳驱家用机器人 Stringman、可变回落地灯的 Lume 显示非人形专用形态正在把家用机器人做到消费级价格,但均为小规模演示",
+      "article_title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+      "article_url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 06 Nov 2026 17:00:03 +0000",
+      "added_at": "2026-11-09T06:05:58.525766+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Gemini 4 Carbon 登顶智能指数且每任务成本低 23%,前沿模型竞争转向 token 效率,利好拥有自研 TPU 和自有云的全栈公司,模型层溢价被压缩",
+      "article_title": "Google Gemini 4 Carbon Tops Intelligence Index, Cybersecurity Benchmarks",
+      "article_url": "https://www.deeplearning.ai/the-batch/gemini-leads-the-pack-again/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-06T08:00:00.000-08:00",
+      "added_at": "2026-11-09T06:05:59.009226+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic 招股书显示上半年收入 163 亿美元、Q2 首次经营盈利、算力占收入比从 251% 降到 48%,数千亿美元算力承诺利好 Broadcom、Google、Amazon 等算力供应方,模型公司自身估值风险更大",
+      "article_title": "Anthropic&#x27;s S-1 Outlines Company&#x27;s Strong Financials, Methods, Potential Risks After IPO",
+      "article_url": "https://www.deeplearning.ai/the-batch/anthropic-opens-its-books/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-06T08:05:00.000-08:00",
+      "added_at": "2026-11-09T06:05:59.482310+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Anthropic 招股书披露数千亿美元算力承诺,最终要落到数据中心电力上,利好能源基础设施",
+      "article_title": "Anthropic&#x27;s S-1 Outlines Company&#x27;s Strong Financials, Methods, Potential Risks After IPO",
+      "article_url": "https://www.deeplearning.ai/the-batch/anthropic-opens-its-books/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-06T08:05:00.000-08:00",
+      "added_at": "2026-11-09T06:05:59.718007+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Genie 4 让 Gemini 当导演生成机器人练习世界,但缺乏定量证据且有物理错误,真正有真机提升数据的是 Argon 写 MuJoCo 仿真(成功率 56%→75%),对机器人板块利好需打折扣",
+      "article_title": "Google Genie 4 Combines With Gemini Models to Build Better Video Game Worlds, Robotics Training",
+      "article_url": "https://www.deeplearning.ai/the-batch/world-models-become-robot-playgrounds/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-06T08:10:00.000-08:00",
+      "added_at": "2026-11-09T06:06:00.198506+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "世界模型赛道升温并整合(AMD 收购 World Labs、Rivian 收购 Third Dimension),大规模仿真与渲染利好 GPU/TPU 算力",
+      "article_title": "Google Genie 4 Combines With Gemini Models to Build Better Video Game Worlds, Robotics Training",
+      "article_url": "https://www.deeplearning.ai/the-batch/world-models-become-robot-playgrounds/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-06T08:10:00.000-08:00",
+      "added_at": "2026-11-09T06:06:00.432735+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "MIT VISTA 通过保存全部图像帧并允许检索放大,让 Claude/GPT 在 ARC-AGI-3 上超过首次玩的人类,说明 Agent 进步更多来自上下文管理,利好记忆层软件和推理算力",
+      "article_title": "MIT Researchers Build VISTA, an Agent Harness That Keeps Images in Memory for Faster Retrieval",
+      "article_url": "https://www.deeplearning.ai/the-batch/context-engineering-for-images/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-06T08:15:00.000-08:00",
+      "added_at": "2026-11-09T06:06:00.904722+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "VISTA 的视觉长期记忆思路可迁移到机器人长任务,但目前只在游戏环境验证",
+      "article_title": "MIT Researchers Build VISTA, an Agent Harness That Keeps Images in Memory for Faster Retrieval",
+      "article_url": "https://www.deeplearning.ai/the-batch/context-engineering-for-images/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-06T08:15:00.000-08:00",
+      "added_at": "2026-11-09T06:06:01.150520+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "NASA 月球基地转向互联基础设施网络:PROMISE 搭 Blue Moon、13 亿美元 VADR 订单、CLPS 2.0 八家供应商,利好着陆器和运输商,但取决于 Mark 1 首飞",
+      "article_title": "NASA’s Moon Base plan gains a PROMISE",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+      "added_at": "2026-11-09T06:06:01.619747+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "月球基地需要在几乎无人参与的情况下重建基础设施,空间机器人和自主导航是刚需",
+      "article_title": "NASA’s Moon Base plan gains a PROMISE",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+      "added_at": "2026-11-09T06:06:01.854081+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "miniCAST 把月面发电、储能、无线充电和通信集成,月面能源(太阳翼、核电源、无线充电)成为月球基地瓶颈",
+      "article_title": "NASA’s Moon Base plan gains a PROMISE",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Sun, 08 Nov 2026 04:43:57 +0000",
+      "added_at": "2026-11-09T06:06:02.090479+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Stoke Space 获准研究第二个卡角发射台,首个 Nova 一级已运往卡角,完全复用中型火箭竞争转向发射场资源,利好星座运营商但首飞前仍需观望",
+      "article_title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Fri, 06 Nov 2026 21:19:28 +0000",
+      "added_at": "2026-11-09T06:06:02.564445+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "星舰 Flight 15 将首次尝试双级捕获和约 24 小时在轨,同时考验上面级复用、推进剂长期保存和监管审批,成功将是太空经济成本曲线拐点",
+      "article_title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Fri, 06 Nov 2026 15:31:51 +0000",
+      "added_at": "2026-11-09T06:06:03.052764+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "AI 辅助证明 Aaronson-Ambainis 猜想:无结构随机输入上量子无法获得指数级查询优势,把量子研究方向进一步指向化学、材料等结构化问题",
+      "article_title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+      "article_url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 21:28:02 +0000",
+      "added_at": "2026-11-09T06:06:03.525640+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "非公开 Anthropic 模型多实例协作完成并经 Lean 形式化验证的数学证明,前沿模型做科研的又一证据,利好长时推理算力和模型层",
+      "article_title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+      "article_url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 21:28:02 +0000",
+      "added_at": "2026-11-09T06:06:03.771438+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Pasqal Q3 收入因无整机销售降至 330 万欧元,服务收入增 53%,PIC 困原子把光学体积缩小最多 50 倍是真正针对量产瓶颈的进展,但商业化尚未兑现,判断偏中性",
+      "article_title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+      "article_url": "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 18:36:58 +0000",
+      "added_at": "2026-11-09T06:06:04.242220+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "产业学界联合整理 24 个超平方级量子优势问题,同时指出数据加载、结果读取和硬件规模(如 7,400 万物理比特)会吃掉理论优势,给量子降温也指路,利好纠错硬件和量子化学/材料软件",
+      "article_title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+      "article_url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 15:23:58 +0000",
+      "added_at": "2026-11-09T06:06:04.718628+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "英国拿出 1.38 亿英镑量子传感采购、3,500 万英镑量子网络测试床,政府当第一个客户,利好离落地更近的量子传感和量子网络,规模有限偏信号意义",
+      "article_title": "UK Announces New Funding to Support Quantum Technology Commercialisation",
+      "article_url": "https://thequantuminsider.com/2026/11/06/uk-announces-new-funding-to-support-quantum-technology-commercialisation/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 11:30:00 +0000",
+      "added_at": "2026-11-09T06:06:05.194850+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Toshiba 获 Innovate UK 合同,与 BT、Colt 在现有光纤上验证可扩展的多用户量子网络,针对量子网络成本和扩展瓶颈,但金额小偏技术信号",
+      "article_title": "Toshiba Secures UK Contract to Develop Quantum Networking Technologies",
+      "article_url": "https://thequantuminsider.com/2026/11/06/toshiba-uk-contract-quantum-networking-technologies/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 06 Nov 2026 09:50:17 +0000",
+      "added_at": "2026-11-09T06:06:05.683331+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "SpaceXAI 计划亚利桑那 6GW 数据中心并配 24GWh 储能、自付 36 亿美元电网升级,数据中心自带储能正成拿地标准条件,利好储能和输变电设备,但目前只是分区申请",
+      "article_title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+      "article_url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 17:34:34 +0000",
+      "added_at": "2026-11-09T06:06:06.166110+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "SpaceXAI 6GW 园区若落地将是全球最大,GPU 仍是确定性受益方,但马斯克产能数字有争议且选举后地方阻力上升",
+      "article_title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+      "article_url": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 17:34:34 +0000",
+      "added_at": "2026-11-09T06:06:06.400841+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "SpaceX 从卫星直连手机向地面网络扩张(Qualcomm 5G 设备、800MHz 频谱、洽谈 8 万站点),德国电信估算需 2,000 亿欧元以上,利好更多在地面电信设备而非航天本身",
+      "article_title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+      "article_url": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 14:55:11 +0000",
+      "added_at": "2026-11-09T06:06:06.880072+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "DTE 因数据中心需求把五年投资计划提高近 100 亿美元至 440 亿,含 7.6GW 风光、2.1GW 燃气、2.7GW 储能,并用最低月费等条款让数据中心自付成本,利好公用事业、储能和燃机",
+      "article_title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+      "article_url": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 14:50:38 +0000",
+      "added_at": "2026-11-09T06:06:07.352813+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "DTE 已锁定 Oracle/OpenAI 和 Google 共 2.4GW 真实数据中心负荷,另有 5-6GW 储备,AI 基础设施需求在公用事业财报中兑现",
+      "article_title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+      "article_url": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 14:50:38 +0000",
+      "added_at": "2026-11-09T06:06:07.597299+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Micron 因劳资纠纷暂停 45 亿美元桃园 HBM/DRAM 厂建设,存储短缺持续利好现有产能涨价,但长期扩产不确定性上升,AI 利润外溢正在推高供应链成本",
+      "article_title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 14:11:00 +0000",
+      "added_at": "2026-11-09T06:06:08.078752+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "约 60 万块 H200 因中国进口审批滞留香港,NVIDIA 中国收入取决于两国同时放行,叠加政治风险,判断中性偏谨慎,相对利好中国本土 AI 芯片",
+      "article_title": "Almost 600,000 Nvidia H200s stranded in Hong Kong as Chinese gov’t stalls on import approvals – report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 14:08:00 +0000",
+      "added_at": "2026-11-09T06:06:08.548797+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "NTT Data 与 Bloom 签 900MW 燃料电池协议,是 Bloom 最大单一开发商订单,速度到电成为数据中心关键,利好现场发电设备,但天然气管道审批是新瓶颈",
+      "article_title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 13:25:48 +0000",
+      "added_at": "2026-11-09T06:06:09.024046+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Google 170 亿美元怀俄明园区以 702MW 燃料电池加碳捕集供电并自付全部电费,利好 Bloom 等现场发电、燃机和 CCS 中游能源",
+      "article_title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 11:56:37 +0000",
+      "added_at": "2026-11-09T06:06:09.502557+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Google 接手 Crusoe 做不下来的超大项目,大厂对算力扩张的掌控增强,独立开发商融资和执行能力成为瓶颈",
+      "article_title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 06 Nov 2026 11:56:37 +0000",
+      "added_at": "2026-11-09T06:06:09.755589+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "黄仁勋承认与涉嫌中国间谍的 Megaspeed 高管有染,董事会启动独立调查,NVIDIA 作为 AI 建设出资和担保中心出现关键人风险,短期利空情绪和 neocloud 融资,需求层面影响有限",
+      "article_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "article_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 09 Nov 2026 05:26:29 +0000",
+      "added_at": "2026-11-09T06:06:10.248346+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Ramp 数据显示 8-9 月 token 支出仅增 1.5% 而用量上升,价格战和企业节省让用量与收入脱钩,利好推理算力基础设施,利空模型层收入增速和估值",
+      "article_title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "article_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 06 Nov 2026 15:54:47 +0000",
+      "added_at": "2026-11-09T06:06:10.727072+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Underdog 发布 32MB/3,100 万参数离线语音模型 Woof,语音交互向端侧下沉,利好终端 NPU 和模型压缩工具,但公司处早期、说法偏乐观",
+      "article_title": "Underdog shows off a 32MB speech model in new demo",
+      "article_url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "added_at": "2026-11-09T06:06:11.196622+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Physicl 融资 1,000 万美元为机器人和世界模型按需生成物理正确的难点合成数据,针对机器人长尾场景数据瓶颈,但赛道拥挤、壁垒待观察",
+      "article_title": "Physicl raises $10M to make the digital world real enough for robots",
+      "article_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 06 Nov 2026 13:00:00 +0000",
+      "added_at": "2026-11-09T06:06:11.680395+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "OpenAI 以 1.25 万亿美元估值募得 110 亿美元但低于 300 亿目标,与 Anthropic 估值同步下修,6,650 亿美元算力承诺利好 GPU、Broadcom 定制芯片和数据中心,模型层估值偏谨慎",
+      "article_title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+      "article_url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 06 Nov 2026 23:43:40 +0000",
+      "added_at": "2026-11-09T06:06:12.165496+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Thinking Machines 发布用自动化 AI 研究任务训练的 5,940 亿参数开源模型 Inkling 2 Small,AI 研究自动化让迭代受算力而非人数限制,利好 GPU 和后训练平台,同时加剧价格战",
+      "article_title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
+      "article_url": "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 06 Nov 2026 21:27:42 +0000",
+      "added_at": "2026-11-09T06:06:12.639767+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "中期选举后 41 项数据中心地方投票中 40 项支持更多限制,科技股单日蒸发约 2.5 万亿美元,社会许可成为新瓶颈,短期利空情绪,高杠杆 neocloud 承压,存量数据中心和光互联相对受益",
+      "article_title": "Midterm elections will put AI and data centers on trial, but will Big Tech end up winning anyway?",
+      "article_url": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 06 Nov 2026 15:09:18 +0000",
+      "added_at": "2026-11-09T06:06:13.118679+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "选举后数据中心需要自带电源、自付电网成本才能获得社会许可,利好现场发电、储能和公用事业的大负荷电价结构",
+      "article_title": "Midterm elections will put AI and data centers on trial, but will Big Tech end up winning anyway?",
+      "article_url": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 06 Nov 2026 15:09:18 +0000",
+      "added_at": "2026-11-09T06:06:13.352750+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "【利益相关:作者公司销售决策保证/假设验证服务,观点未经独立验证】签约需求不等于有效利用、担保只分配不消除风险,叠加 ING 拍卖 5 亿美元数据中心贷款,提示高杠杆 AI 基础设施风险,利好有真实利用率的资产",
+      "article_title": "The AI boom’s missing balance-sheet question: What has actually been verified?",
+      "article_url": "https://siliconangle.com/2026/11/06/the-ai-booms-missing-balance-sheet-question-what-has-actually-been-verified/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 06 Nov 2026 15:00:36 +0000",
+      "added_at": "2026-11-09T06:06:13.820166+00:00"
     }
   ]
 }

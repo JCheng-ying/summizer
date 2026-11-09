@@ -1,0 +1,8 @@
+# OpenAI reportedly raises $11B in new funding at $1.25T valuation
+https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/
+
+这篇文章讲的是 OpenAI 最新一轮融资,但更值得看的是它和 Anthropic IPO 同时发生:两家头部模型公司在同一周里都在被市场重新定价,而且方向都是向下修正。
+
+文章指出,据彭博援引消息人士,OpenAI 已有投资者打款 110 亿美元,整轮可能在未来几周再增加最多 90 亿美元,估值 1.25 万亿美元(原文此处误写为 "1.25 billion",按上下文应为万亿),这可能让它超过 Anthropic 的市值。投资方没有披露,可能包括参与过至少四轮的微软;OpenAI 3 月刚完成 1,220 亿美元融资,参与方还有 NVIDIA、亚马逊等约二十家。另一边,Anthropic 希望上市估值达到 1.5 万亿美元,但据《华尔街日报》,部分股东认为不现实,有人建议接近 1 万亿美元。Anthropic 招股书显示第三季度收入同比增长 1,127%;《金融时报》报道 OpenAI 上季度末年化净收入 500 亿美元,同比增长 77%,企业业务销售额翻倍以上。OpenAI 周四发布 GPT-6 Cyber,在大部分网络安全任务上强于通用旗舰 GPT-6 Astra,工程师用它开发了 948 个 Linux 漏洞利用并发现 Firefox 的 81 个高危零日漏洞。总裁 Greg Brockman 透露上半年增长放缓,6 月 GPT-5.6 Sol 发布后重新加速。OpenAI 计划 2027 年上市,据 The Information,它已有超过 6,650 亿美元的芯片和数据中心承诺,并与 Broadcom 合作开发定制推理加速器以降低长期硬件支出。TechCrunch 同日报道补充,9 月底彭博称 OpenAI 计划这一轮募资 300 亿美元,目前的数字明显低于目标。
+
+个人看法:这篇要和今天的 [Ramp 支出数据](2026-11-08-ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo.md)、[Anthropic 招股书](2026-11-08-anthropic-s-s-1-outlines-company-s-strong-financials-methods-potential-risks-aft.md),以及之前 [Brockman 说 2027 年可能具备上市条件](2026-11-05-openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027.md) 连起来看。两家公司的估值都在从 1.4~2 万亿往 1~1.3 万亿区间收敛,募资规模也低于目标,说明资本市场对模型层的定价开始变得挑剔。先找瓶颈:模型公司的瓶颈是巨额算力承诺(OpenAI 6,650 亿美元)和收入增速之间的缺口,融资就是在填这个缺口。受益的层次会是:第一层是算力承诺的接收方,也就是 GPU、定制芯片(Broadcom 同时出现在 OpenAI 和 Anthropic 的供应链里,这一点很值得注意)、云厂商和数据中心,因为承诺已经签了,钱最终流向这里;第二层是网络安全,GPT-6 Cyber 和今天写的 [Gemini 4 Carbon](2026-11-08-google-gemini-4-carbon-tops-intelligence-index-cybersecurity-benchmarks.md) 都在专攻安全,安全成了前沿模型的第一个垂直战场;第三层才是模型公司的股权本身,估值下修说明这一层风险在上升。我会把它挂在 AI 板块,对基础设施偏利好、对模型层估值偏谨慎。值得跟踪的是这一轮最终能否募满 200 亿美元。

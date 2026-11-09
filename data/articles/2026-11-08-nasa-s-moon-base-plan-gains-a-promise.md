@@ -1,0 +1,8 @@
+# NASA's Moon Base plan gains a PROMISE
+https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/
+
+这篇文章的意义在于,NASA 的月球基地计划正在从"一次次单独的任务"转向"一张互相连接的基础设施网络",交通、勘探、电力、通信各自找供应商,再由 NASA 自己集成。这其实是把地面上的基础设施产业链原样复制到月球上。
+
+文章指出,NASA 在肯尼迪航天中心的 MAX POWER 展会上公布了一系列更新。第一是 PROMISE 月球车,将搭乘 Blue Origin 的 Blue Moon Mark 1 第五号着陆器前往月球南极,目标 2028 年底,主任务期 18 个月。它的底子是好奇号在地球上的测试车 MAGGIE,加上好奇号和毅力号的备件,用一台备用的多任务放射性同位素热电发生器(MMRTG)供电和保温,所以可以在没有阳光的永久阴影区工作。载荷包括 VIPER 同款的 TRIDENT 钻头(可钻 1 米)和多台光谱仪,还会测试黑暗中的自主地形测绘和导航。项目经理估计 PROMISE 总成本低于 4 亿美元(含着陆运送),NASA 另外给 Blue Origin 9,400 万美元基础合同和 1.4 亿美元绩效选项。第二是 miniCAST 迷你通信与太阳能塔,把发电、储能、无线充电和通信集成在一起,NASA 选了 Honeybee Robotics 做储能、Redwire 做发电、Yank Technologies 做无线输电,由马歇尔中心集成测试;月球车可以靠塔的通信导航到电源处,通过地面感应板充电。完整的集成电力系统招标预计 2027 年初。第三是六个 VADR 发射与轨道运输任务订单,总额约 13 亿美元,涉及 Quantum Space、Impulse Space、Firefly、Blue Origin、SpaceX 等;另外 SpaceX 将用星舰部署的 Starlink 卫星演示远距离通信。第四是 CLPS 2.0 的八家合格供应商:Blue Origin、Firefly、Intuitive Machines、ispace U.S.、Lockheed Martin、Northrop Grumman、SpaceX 和 Voyager Technologies,入选只代表有资格竞标。
+
+个人看法:这篇和之前的 [Artemis III 多次发射检查流程](2026-11-01-isaacman-outlines-artemis-iii-multi-launch-checkout-sequence-and-blue-origin-pri.md) 可以连起来看,Blue Origin 在月球交通这条线上的分量越来越重。更有意思的是负责人说的那句"几乎没有人类参与"的情况下重建地面基础设施,这和第一篇 SpaceX 太空数据中心里讨论的维修问题是同一个答案:月球基地天然依赖自动化和机器人。先找瓶颈:月球基地当下卡在两件事,一是能把东西运上去的着陆器可靠性(Mark 1 还没首飞),二是月面能源,尤其是月夜和阴影区。受益的层次会是:第一层是着陆器和运输,Blue Origin、Intuitive Machines、Firefly 这些 CLPS 供应商,其中上市公司是 Intuitive Machines、Firefly、Redwire、Voyager;第二层是月面能源,Redwire 的卷展式太阳翼、核电源(MMRTG)、无线充电,这和地面能源板块的储能逻辑一样,只是换了环境;第三层是空间机器人,Honeybee Robotics(属于 Blue Origin)和自主导航软件。我会把它挂在太空经济板块、机器人板块和能源板块。但 PROMISE 的进度完全取决于 Mark 1 能不能先成功着陆,现在还在观望阶段,值得跟踪的是 Mark 1 首飞结果和 2027 年初集成电力系统的招标。

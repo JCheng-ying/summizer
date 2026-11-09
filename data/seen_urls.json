@@ -2274,5 +2274,253 @@
   "https://siliconangle.com/2026/11/04/openai-to-acquire-developer-tooling-startup-pierre-computer/": {
     "title": "OpenAI to acquire developer tooling startup Pierre Computer",
     "seen_at": "2026-11-06T07:02:07.815004+00:00"
+  },
+  "https://spectrum.ieee.org/video-friday-home-cable-robot": {
+    "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+    "seen_at": "2026-11-09T06:05:58.292904+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/gemini-leads-the-pack-again/": {
+    "title": "Google Gemini 4 Carbon Tops Intelligence Index, Cybersecurity Benchmarks",
+    "seen_at": "2026-11-09T06:05:58.768961+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/anthropic-opens-its-books/": {
+    "title": "Anthropic&#x27;s S-1 Outlines Company&#x27;s Strong Financials, Methods, Potential Risks After IPO",
+    "seen_at": "2026-11-09T06:05:59.249083+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/world-models-become-robot-playgrounds/": {
+    "title": "Google Genie 4 Combines With Gemini Models to Build Better Video Game Worlds, Robotics Training",
+    "seen_at": "2026-11-09T06:05:59.966090+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/context-engineering-for-images/": {
+    "title": "MIT Researchers Build VISTA, an Agent Harness That Keeps Images in Memory for Faster Retrieval",
+    "seen_at": "2026-11-09T06:06:00.674211+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/": {
+    "title": "NASA’s Moon Base plan gains a PROMISE",
+    "seen_at": "2026-11-09T06:06:01.391200+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/11/stoke-expansion-cape-second-nova/": {
+    "title": "Stoke Space evaluating expansion of Cape site for second Nova pad",
+    "seen_at": "2026-11-09T06:06:02.329432+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/": {
+    "title": "Starship Flight 15, a dual catch attempt, awaits FAA green light",
+    "seen_at": "2026-11-09T06:06:02.811793+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/": {
+    "title": "AI-Assisted Proof Settles Longstanding Question About Quantum Speedups",
+    "seen_at": "2026-11-09T06:06:03.294612+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/": {
+    "title": "Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows",
+    "seen_at": "2026-11-09T06:06:04.012470+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/": {
+    "title": "Study Maps 24 Problems Where Quantum Computers Could Gain an Edge",
+    "seen_at": "2026-11-09T06:06:04.484087+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/uk-announces-new-funding-to-support-quantum-technology-commercialisation/": {
+    "title": "UK Announces New Funding to Support Quantum Technology Commercialisation",
+    "seen_at": "2026-11-09T06:06:04.961804+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/toshiba-uk-contract-quantum-networking-technologies/": {
+    "title": "Toshiba Secures UK Contract to Develop Quantum Networking Technologies",
+    "seen_at": "2026-11-09T06:06:05.436294+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/": {
+    "title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+    "seen_at": "2026-11-09T06:06:05.929880+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/": {
+    "title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+    "seen_at": "2026-11-09T06:06:06.644516+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/": {
+    "title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+    "seen_at": "2026-11-09T06:06:07.122415+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/": {
+    "title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+    "seen_at": "2026-11-09T06:06:07.843033+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/": {
+    "title": "Almost 600,000 Nvidia H200s stranded in Hong Kong as Chinese gov’t stalls on import approvals – report",
+    "seen_at": "2026-11-09T06:06:08.311535+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/": {
+    "title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+    "seen_at": "2026-11-09T06:06:08.792463+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/": {
+    "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+    "seen_at": "2026-11-09T06:06:09.268721+00:00"
+  },
+  "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/": {
+    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+    "seen_at": "2026-11-09T06:06:10.011591+00:00"
+  },
+  "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/": {
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "seen_at": "2026-11-09T06:06:10.493770+00:00"
+  },
+  "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/": {
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "seen_at": "2026-11-09T06:06:10.961438+00:00"
+  },
+  "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": {
+    "title": "Physicl raises $10M to make the digital world real enough for robots",
+    "seen_at": "2026-11-09T06:06:11.440017+00:00"
+  },
+  "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/": {
+    "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
+    "seen_at": "2026-11-09T06:06:11.929416+00:00"
+  },
+  "https://siliconangle.com/2026/11/06/thinking-machines-debuts-inkling-2-small-amid-reported-5b-fundraising-push/": {
+    "title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push",
+    "seen_at": "2026-11-09T06:06:12.408660+00:00"
+  },
+  "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/": {
+    "title": "Midterm elections will put AI and data centers on trial, but will Big Tech end up winning anyway?",
+    "seen_at": "2026-11-09T06:06:12.883676+00:00"
+  },
+  "https://siliconangle.com/2026/11/06/the-ai-booms-missing-balance-sheet-question-what-has-actually-been-verified/": {
+    "title": "The AI boom’s missing balance-sheet question: What has actually been verified?",
+    "seen_at": "2026-11-09T06:06:13.589713+00:00"
+  },
+  "https://www.sciencedaily.com/releases/2026/11/261106174537.htm": {
+    "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+    "seen_at": "2026-11-09T06:06:14.058416+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/11/astronaut-class-25-applications/": {
+    "title": "NASA announces search for new astronauts",
+    "seen_at": "2026-11-09T06:06:14.289330+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/cambridge-uk-quantum-superconnector-commercialisation/": {
+    "title": "University of Cambridge Joins UK Quantum Commercialisation Initiative",
+    "seen_at": "2026-11-09T06:06:14.521159+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/itic-taiwan-uk-deep-tech-investment-commercialisation/": {
+    "title": "ITIC Develops Taiwan-UK Partnership to Support Deep Tech Businesses",
+    "seen_at": "2026-11-09T06:06:14.757539+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/uk-universities-quantum-commercialisation-programme/": {
+    "title": "Quantum SuperConnector to Accelerate Commercial Success of UK quantum Research",
+    "seen_at": "2026-11-09T06:06:14.989422+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/uk-nqcc-phasecraft-quantum-software-access/": {
+    "title": "UK NQCC Partners With Phasecraft to Expand Access to Quantum Software",
+    "seen_at": "2026-11-09T06:06:15.225361+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/06/qnu-labs-corporate-training-quantum-safe-security/": {
+    "title": "QNu Labs Launches Corporate Training Programme on Quantum-Safe Security",
+    "seen_at": "2026-11-09T06:06:15.454704+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/": {
+    "title": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy, board to investigate",
+    "seen_at": "2026-11-09T06:06:15.688410+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/why-contamination-control-is-now-critical/": {
+    "title": "Sponsored: Why contamination control is now critical",
+    "seen_at": "2026-11-09T06:06:15.924481+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/": {
+    "title": "What data centers need to consider when storing produced water",
+    "seen_at": "2026-11-09T06:06:16.202621+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/": {
+    "title": "Sponsored: Water stewardship starts with design, not offsets",
+    "seen_at": "2026-11-09T06:06:16.470226+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/why-sla-risk-credit-risk/": {
+    "title": "Sponsored: Why SLA risk = Credit risk",
+    "seen_at": "2026-11-09T06:06:16.703415+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/": {
+    "title": "Two days of anti-data center protests planned across Europe",
+    "seen_at": "2026-11-09T06:06:16.934527+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/": {
+    "title": "ING Bank looks to sell $500m in data center loans at once, including at Stargate site",
+    "seen_at": "2026-11-09T06:06:17.168525+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/why-irelands-data-centers-need-a-new-approach-to-energy-resilience/": {
+    "title": "Why Ireland’s data centers need a new approach to energy resilience",
+    "seen_at": "2026-11-09T06:06:17.401269+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam/": {
+    "title": "More than 100 protesters break into Microsoft data center construction site in Amsterdam",
+    "seen_at": "2026-11-09T06:06:17.636063+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/plans-for-polands-national-data-processing-center-fleshed-out-by-nask/": {
+    "title": "Plans for Poland’s National Data Processing Center fleshed out by NASK",
+    "seen_at": "2026-11-09T06:06:17.867330+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/iran-linked-ships-circle-subsea-cables-in-the-middle-east-report/": {
+    "title": "Iran-linked ships circle subsea cables in the Middle East - report",
+    "seen_at": "2026-11-09T06:06:18.099210+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/": {
+    "title": "Playmobil owner to enter data center market with new facility in Dietenhofen, Germany",
+    "seen_at": "2026-11-09T06:06:18.336321+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/secure-it-environments-to-deliver-modular-data-centers-to-hospitals-in-wales/": {
+    "title": "Secure I.T. Environments to deliver modular data centers to hospitals in Wales",
+    "seen_at": "2026-11-09T06:06:18.567681+00:00"
+  },
+  "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/": {
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "seen_at": "2026-11-09T06:06:18.800592+00:00"
+  },
+  "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/": {
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "seen_at": "2026-11-09T06:06:19.037179+00:00"
+  },
+  "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/": {
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "seen_at": "2026-11-09T06:06:19.271918+00:00"
+  },
+  "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/": {
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "seen_at": "2026-11-09T06:06:19.505747+00:00"
+  },
+  "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/": {
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "seen_at": "2026-11-09T06:06:19.740328+00:00"
+  },
+  "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/": {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "seen_at": "2026-11-09T06:06:19.975150+00:00"
+  },
+  "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/": {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "seen_at": "2026-11-09T06:06:20.208323+00:00"
+  },
+  "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/": {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "seen_at": "2026-11-09T06:06:20.438864+00:00"
+  },
+  "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/": {
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "seen_at": "2026-11-09T06:06:20.674367+00:00"
+  },
+  "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": {
+    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "seen_at": "2026-11-09T06:06:20.907099+00:00"
+  },
+  "https://siliconangle.com/2026/11/08/nvidia-ceo-jensen-huang-admits-to-having-extramarital-affair-with-suspected-chinese-spy/": {
+    "title": "Nvidia CEO Jensen Huang admits to having extramarital affair with suspected Chinese spy",
+    "seen_at": "2026-11-09T06:06:21.158252+00:00"
+  },
+  "https://siliconangle.com/2026/11/08/ai-cyber-resilience-and-the-trust-gap/": {
+    "title": "AI cyber resilience and the trust gap",
+    "seen_at": "2026-11-09T06:06:21.389796+00:00"
+  },
+  "https://siliconangle.com/2026/11/06/aws-colleen-aubrey-stop-inventing-new-ai-metrics-its-your-business-metrics-that-matter/": {
+    "title": "AWS’ Colleen Aubrey: Stop inventing new AI metrics — it’s your business metrics that matter",
+    "seen_at": "2026-11-09T06:06:21.625563+00:00"
+  },
+  "https://siliconangle.com/2026/11/06/atomicwork-launches-certified-ai-coworker-marketplace-for-enterprise-it-and-security/": {
+    "title": "Atomicwork launches certified AI coworker marketplace for enterprise IT and security",
+    "seen_at": "2026-11-09T06:06:21.855640+00:00"
   }
 }
