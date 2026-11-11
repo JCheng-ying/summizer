@@ -1,0 +1,8 @@
+# Applied Digital is building in the only US town to say yes to data centers
+https://www.datacenterdynamics.com/en/analysis/data-center-harwood-north-dakota-applied-digital-us-midterm-elections/
+
+这篇文章背后的命题是：AI 数据中心的瓶颈正在从"电"和"芯片"扩展到"社区同意"。当选民开始在投票箱里直接否决数据中心，能拿到地方支持的选址本身就变成了一种稀缺资产。
+
+文章指出，在这次中期选举中，全美有 40 多项反数据中心的地方提案，北达科他州只有 845 人的小镇 Harwood 是唯一一个否决这类提案的地方，75.6% 的投票者（实际只有 325 人）拒绝了要求对数据中心等大型工业项目进行独立审查和公开听证的新规。Applied Digital 正在 Harwood 外建设 Polaris Forge 2 园区，最终容量预计 1GW，去年已与一家未具名的投资级超大规模云厂商签下 15 年、200MW 的合同，价值 50 亿美元，同一客户还可能拿下剩余 800MW。CEO Wes Cummins 的解释有三点：第一是在当地社区花了大量精力，公司在电网升级上投入 1 亿美元，并向当地组织发放了 96.5 万美元资助，镇长表示数据中心带来的 165 万美元房产税是该镇 2024 年总税收的六倍；第二是它是北达科他州唯一在建的数据中心公司，州政府一直支持；第三是他认为两党都"讨厌数据中心"，这种情绪不会消失，但会让像他们这样的地方更突出。此外，Applied Digital 在芬兰宣布了一个 GW 级项目，首期 100MW，预计 2028 年供电，配套可再生能源；设计上采用超大机房面积、100% 液冷覆盖加 80% 风冷能力，理由是未来某些推理部署可能需要更多风冷、功率密度也可能下降。已知客户包括 CoreWeave。
+
+个人看法：这篇正好是之前 [中期选举把 AI 和数据中心推上审判台](2026-11-08-midterm-elections-will-put-ai-and-data-centers-on-trial-but-will-big-tech-end-up.md) 和 [Meta 警告选举反弹](2026-11-05-meta-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-h.md) 的结果版：40 多项提案只有一处被否决，说明社区阻力已经是系统性的。按"先找瓶颈再找解决瓶颈的那一层"来看，现在的瓶颈是"能合法、按时通电的场地"，那么受益的层次是：第一层是已经拿到场地、电力和地方支持的数据中心开发商，比如 Applied Digital 这种在单一友好州深耕的公司，以及 [挪威暂停新数据中心并网](2026-11-09-norway-halts-grid-connection-applications-for-new-data-centers.md) 之后仍有电力的北欧项目；第二层是能源板块里的电网升级和本地发电，Applied Digital 自己就为电网升级投了 1 亿美元，说明"自带电网投资"正在成为拿地的筹码；第三层是 AI 板块里的算力租赁方，[CoreWeave 自己也说](2026-11-10-coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-i.md) 建设放缓会让已装机算力更稀缺、GPU 价格维持更久。另外 Cummins 提到"功率密度可能下降、推理需要更多风冷"，这是一个和主流液冷叙事相反的判断，值得留意。但要承认，Harwood 这种"唯一一个说 yes 的小镇"本身说明可复制性有限，值得跟踪的是 Applied Digital 能否把剩余 800MW 签下来，以及芬兰项目能否按 2028 年供电。

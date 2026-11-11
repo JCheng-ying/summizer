@@ -1,0 +1,8 @@
+# CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance
+https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/
+
+这篇文章背后的命题是：AI 算力的需求和 AI 算力的融资，正在变成两个方向相反的故事。需求还在加速，但给需求买单的资本越来越贵。
+
+文章指出，CoreWeave 第三季度收入增长 168% 到 36.6 亿美元，高于预期，但调整后每股亏损 1.27 美元，差于预期，净亏损从去年同期的 1.1 亿扩大到 7.09 亿美元。全年指引上调为收入 130 亿到 133 亿美元、调整后营业利润 12.75 亿到 13.75 亿美元，盘后股价上涨超过 5%，而此前一个月股价已经跌了 40% 以上。文章提到的背景是投资者在逃离高负债的 AI 基础设施公司，CoreWeave 部分债券收益率已超过 16%，总债务接近 470 亿美元。管理层对融资的说法有三点：第一，2027 年大部分资本需求来自客户的基础设施预付款和 Nvidia 等硬件合作方；第二，按当前收益率，2027 年前不再发行母公司层面的无担保债；第三，会发行与具体合同绑定的资产层面担保债，这部分市场仍然稳定。文章也指出 Nvidia 不仅提供 GPU，还为 CoreWeave 提供大量资金，投资者开始担心这种"循环经济"。积压订单从三个月前的 1040 亿升到 1325 亿美元，年底目标 1.85GW 在用算力，资本开支 370 亿到 390 亿美元。CEO Intrator 对美国选民在 41 个州中 40 个支持限制数据中心的看法是：如果行业建设放缓，已装机算力会更稀缺，GPU 价格可能更长时间维持高位。
+
+个人看法：这篇和之前写过的 [Nvidia 考虑为 Nscale 做担保](2026-11-01-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-center-in-west-virginia.md)、[Google 为 TeraWulf 做信用兜底](2026-11-05-google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky.md) 是同一个结构：neocloud 自己借不到便宜的钱，就由上游芯片厂或下游云厂商的信用来托底。这说明 AI 板块现在的真实瓶颈已经从 GPU 供给变成了资本成本。Intrator 关于"建设放缓反而让已装机算力更值钱"的判断很有意思，它和今天 [Applied Digital 那篇](2026-11-10-applied-digital-is-building-in-the-only-us-town-to-say-yes-to-data-centers.md) 的逻辑一致：已经通电的算力是稀缺资产。按瓶颈找受益层：第一层是能用合同绑定融资、已有大量积压订单的算力运营商；第二层是 Nvidia 这类同时是供应商和资金方的公司，但这也意味着风险会集中回到它身上，尤其在 [黄仁勋丑闻](2026-11-10-nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jen.md) 发酵的时候；第三层是能源板块，1.85GW 这种量级的用电需求是实打实的。16% 的债券收益率是一个很清楚的警示信号，说明市场在为这类公司定一个很高的风险溢价。值得跟踪的是周四 Nebius 的财报和下周 Anthropic 的 IPO，这两件事会决定 neocloud 的融资窗口是继续收紧还是重新打开。

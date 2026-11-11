@@ -243,9 +243,9 @@
         "AI accelerators",
         "AI accelerators / GPUs"
       ],
-      "mentions": 24,
+      "mentions": 28,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-10T05:12:47.007626+00:00",
+      "last_seen": "2026-11-11T06:19:51.446379+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -388,9 +388,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 8,
+      "mentions": 11,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-10T05:12:45.984045+00:00"
+      "last_seen": "2026-11-11T06:19:50.951327+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -405,9 +405,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 11,
+      "mentions": 13,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-10T05:12:46.751445+00:00"
+      "last_seen": "2026-11-11T06:19:50.194926+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -425,9 +425,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 9,
+      "mentions": 12,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-10T05:12:47.255345+00:00"
+      "last_seen": "2026-11-11T06:19:50.194926+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -460,25 +460,26 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 25,
+      "mentions": 29,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-10T05:12:46.751445+00:00"
+      "last_seen": "2026-11-11T06:19:50.194926+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
       "type": "company",
       "sectors": [
         "semiconductors / networking",
-        "custom AI chips / networking"
+        "custom AI chips / networking",
+        "networking / custom ASIC"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-09T06:06:11.923617+00:00"
+      "last_seen": "2026-11-11T06:19:48.192568+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
@@ -492,9 +493,9 @@
       ],
       "hot": "hot",
       "ticker": "ORCL",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-09T06:06:08.786657+00:00"
+      "last_seen": "2026-11-11T06:19:50.194926+00:00"
     },
     "palantir": {
       "name": "Palantir Technologies",
@@ -514,31 +515,34 @@
     "taiwan semiconductor manufacturing tsmc": {
       "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "foundry"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "TSM",
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-11T06:19:50.951327+00:00"
     },
     "coreweave": {
       "name": "CoreWeave",
       "type": "company",
       "sectors": [
         "neocloud",
-        "AI neocloud"
+        "AI neocloud",
+        "GPU cloud / neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "CRWV",
-      "mentions": 4,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-10T05:12:47.511744+00:00"
+      "last_seen": "2026-11-11T06:19:51.446379+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -666,16 +670,17 @@
       "name": "Nebius Group",
       "type": "company",
       "sectors": [
-        "neocloud"
+        "neocloud",
+        "GPU cloud / neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": "NBIS",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-09T06:06:10.005703+00:00"
+      "last_seen": "2026-11-11T06:19:51.446379+00:00"
     },
     "langchain": {
       "name": "LangChain",
@@ -715,16 +720,17 @@
       "type": "company",
       "sectors": [
         "orbital launch vehicles (New Glenn)",
-        "launch / lunar landers"
+        "launch / lunar landers",
+        "launch / lunar lander"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-09T06:06:01.385594+00:00"
+      "last_seen": "2026-11-11T06:19:42.356600+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -802,16 +808,17 @@
       "name": "United Launch Alliance (ULA)",
       "type": "company",
       "sectors": [
-        "launch services"
+        "launch services",
+        "launch vehicles"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-06T07:01:15.503898+00:00"
+      "last_seen": "2026-11-11T06:19:42.356600+00:00"
     },
     "ast spacemobile": {
       "name": "AST SpaceMobile",
@@ -1070,16 +1077,17 @@
       "name": "D-Wave Quantum",
       "type": "company",
       "sectors": [
-        "quantum computing"
+        "quantum computing",
+        "quantum annealing / gate-model"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "QBTS",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-06T07:01:16.080547+00:00"
+      "last_seen": "2026-11-11T06:19:45.925248+00:00"
     },
     "ibm": {
       "name": "IBM",
@@ -1144,16 +1152,19 @@
     "intel": {
       "name": "Intel",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "CPUs / foundry"
+      ],
       "sector_tags": [
         "量子计算板块",
-        "edge AI板块"
+        "edge AI板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-02T01:41:22.570043+00:00"
+      "last_seen": "2026-11-11T06:19:50.951327+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -1199,15 +1210,17 @@
     "xanadu quantum": {
       "name": "Xanadu Quantum Technologies",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "photonic quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": "XNDU",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-11T06:19:45.170270+00:00"
     },
     "bluefors": {
       "name": "Bluefors",
@@ -1290,15 +1303,17 @@
     "quera computing": {
       "name": "QuEra Computing",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "neutral-atom quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-11T06:19:43.358890+00:00"
     },
     "quantum circuits": {
       "name": "Quantum Circuits, Inc.",
@@ -1622,7 +1637,8 @@
       "type": "company",
       "sectors": [
         "mobile SoC / edge AI",
-        "semiconductors / 5G"
+        "semiconductors / 5G",
+        "mobile / PC SoCs"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1630,9 +1646,9 @@
       ],
       "hot": "hot",
       "ticker": "QCOM",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-09T06:06:06.638896+00:00"
+      "last_seen": "2026-11-11T06:19:53.680951+00:00"
     },
     "apple": {
       "name": "Apple Inc.",
@@ -1672,7 +1688,8 @@
         "AI compute infrastructure",
         "AI compute",
         "AI chips",
-        "GPUs / CPUs"
+        "GPUs / CPUs",
+        "CPUs / GPUs"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1681,9 +1698,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 10,
+      "mentions": 12,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-10T05:12:48.063222+00:00"
+      "last_seen": "2026-11-11T06:19:50.951327+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1722,7 +1739,8 @@
         "internet / AI / cloud",
         "AI models / cloud",
         "cloud / AI / custom silicon",
-        "cloud / AI"
+        "cloud / AI",
+        "cloud / TPU / AI models"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1733,9 +1751,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 22,
+      "mentions": 24,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-10T05:12:48.063222+00:00"
+      "last_seen": "2026-11-11T06:19:50.194926+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -1775,9 +1793,9 @@
       ],
       "hot": "hot",
       "ticker": "MU",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-09T06:06:07.837516+00:00"
+      "last_seen": "2026-11-11T06:19:48.192568+00:00"
     },
     "ambarella": {
       "name": "Ambarella, Inc.",
@@ -2557,9 +2575,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-11-10T05:12:43.942244+00:00"
+      "last_seen": "2026-11-11T06:19:42.356600+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -2866,15 +2884,17 @@
     "minimax": {
       "name": "MiniMax",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "AI models"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:50:17.048449+00:00",
-      "last_seen": "2026-08-15T05:50:17.048449+00:00"
+      "last_seen": "2026-11-11T06:19:52.701714+00:00"
     },
     "black forest labs": {
       "name": "Black Forest Labs",
@@ -2944,15 +2964,17 @@
     "kratos defense and security": {
       "name": "Kratos Defense and Security",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "defense / launch services"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": "KTOS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:55:30.362859+00:00",
-      "last_seen": "2026-08-15T05:55:30.362859+00:00"
+      "last_seen": "2026-11-11T06:19:37.005411+00:00"
     },
     "planetiq": {
       "name": "PlanetiQ",
@@ -4849,10 +4871,10 @@
         "量子计算板块"
       ],
       "hot": null,
-      "ticker": null,
-      "mentions": 1,
+      "ticker": "SKYT",
+      "mentions": 2,
       "first_seen": "2026-11-06T07:01:16.080547+00:00",
-      "last_seen": "2026-11-06T07:01:16.080547+00:00"
+      "last_seen": "2026-11-11T06:19:45.925248+00:00"
     },
     "elisity": {
       "name": "Elisity",
@@ -5846,16 +5868,17 @@
       "type": "company",
       "sectors": [
         "cloud / GPU reseller (Singapore)",
-        "Singapore data center operator"
+        "Singapore data center operator",
+        "IT / cloud services"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-10T05:12:47.007626+00:00"
+      "last_seen": "2026-11-11T06:19:47.177835+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -6485,6 +6508,422 @@
       "mentions": 1,
       "first_seen": "2026-11-10T05:12:47.804011+00:00",
       "last_seen": "2026-11-10T05:12:47.804011+00:00"
+    },
+    "seagate space": {
+      "name": "Seagate Space",
+      "type": "company",
+      "sectors": [
+        "offshore launch platform"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:37.005411+00:00",
+      "last_seen": "2026-11-11T06:19:37.005411+00:00"
+    },
+    "ark invest": {
+      "name": "ARK Invest",
+      "type": "institution",
+      "sectors": [
+        "investment management"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:37.005411+00:00",
+      "last_seen": "2026-11-11T06:19:37.005411+00:00"
+    },
+    "quix quantum": {
+      "name": "QuiX Quantum",
+      "type": "company",
+      "sectors": [
+        "photonic quantum computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:42.857993+00:00",
+      "last_seen": "2026-11-11T06:19:42.857993+00:00"
+    },
+    "photondelta": {
+      "name": "PhotonDelta",
+      "type": "institution",
+      "sectors": [
+        "integrated photonics programme"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:42.857993+00:00",
+      "last_seen": "2026-11-11T06:19:42.857993+00:00"
+    },
+    "imec": {
+      "name": "imec",
+      "type": "institution",
+      "sectors": [
+        "semiconductor research / foundry"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:42.857993+00:00",
+      "last_seen": "2026-11-11T06:19:42.857993+00:00"
+    },
+    "brucoic": {
+      "name": "Bruco-IC",
+      "type": "company",
+      "sectors": [
+        "control ASIC"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:42.857993+00:00",
+      "last_seen": "2026-11-11T06:19:42.857993+00:00"
+    },
+    "harvard university": {
+      "name": "Harvard University",
+      "type": "institution",
+      "sectors": [
+        "research university"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:43.358890+00:00",
+      "last_seen": "2026-11-11T06:19:43.358890+00:00"
+    },
+    "european commission": {
+      "name": "European Commission",
+      "type": "institution",
+      "sectors": [
+        "EU executive"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:44.111949+00:00",
+      "last_seen": "2026-11-11T06:19:44.111949+00:00"
+    },
+    "eurohpc joint undertaking": {
+      "name": "EuroHPC Joint Undertaking",
+      "type": "institution",
+      "sectors": [
+        "EU supercomputing programme"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:44.111949+00:00",
+      "last_seen": "2026-11-11T06:19:44.111949+00:00"
+    },
+    "special competitive studies project": {
+      "name": "Special Competitive Studies Project",
+      "type": "institution",
+      "sectors": [
+        "policy think tank"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:44.622724+00:00",
+      "last_seen": "2026-11-11T06:19:44.622724+00:00"
+    },
+    "commission on us quantum primacy": {
+      "name": "Commission on U.S. Quantum Primacy",
+      "type": "institution",
+      "sectors": [
+        "policy commission"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:44.622724+00:00",
+      "last_seen": "2026-11-11T06:19:44.622724+00:00"
+    },
+    "hyperlight": {
+      "name": "HyperLight",
+      "type": "company",
+      "sectors": [
+        "thin-film lithium niobate photonics"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:45.170270+00:00",
+      "last_seen": "2026-11-11T06:19:45.170270+00:00"
+    },
+    "ntt docomo": {
+      "name": "NTT DOCOMO",
+      "type": "company",
+      "sectors": [
+        "telecommunications"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:45.925248+00:00",
+      "last_seen": "2026-11-11T06:19:45.925248+00:00"
+    },
+    "swiss quantum": {
+      "name": "Swiss Quantum Technology",
+      "type": "company",
+      "sectors": [
+        "quantum computing services"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:45.925248+00:00",
+      "last_seen": "2026-11-11T06:19:45.925248+00:00"
+    },
+    "us department of commerce": {
+      "name": "U.S. Department of Commerce",
+      "type": "institution",
+      "sectors": [
+        "government"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:45.925248+00:00",
+      "last_seen": "2026-11-11T06:19:45.925248+00:00"
+    },
+    "applied digital": {
+      "name": "Applied Digital",
+      "type": "company",
+      "sectors": [
+        "AI data center developer"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "APLD",
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:46.422486+00:00",
+      "last_seen": "2026-11-11T06:19:46.422486+00:00"
+    },
+    "new york state digit": {
+      "name": "New York State DIGIT",
+      "type": "institution",
+      "sectors": [
+        "AI regulator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:47.681064+00:00",
+      "last_seen": "2026-11-11T06:19:47.681064+00:00"
+    },
+    "ring": {
+      "name": "Ring",
+      "type": "company",
+      "sectors": [
+        "home security devices"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:48.941276+00:00",
+      "last_seen": "2026-11-11T06:19:48.941276+00:00"
+    },
+    "path": {
+      "name": "Path Robotics",
+      "type": "company",
+      "sectors": [
+        "AI welding automation"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:49.688854+00:00",
+      "last_seen": "2026-11-11T06:19:49.688854+00:00"
+    },
+    "georgian": {
+      "name": "Georgian",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:49.688854+00:00",
+      "last_seen": "2026-11-11T06:19:49.688854+00:00"
+    },
+    "yamaha motor": {
+      "name": "Yamaha Motor",
+      "type": "company",
+      "sectors": [
+        "motorcycles / robotics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:49.688854+00:00",
+      "last_seen": "2026-11-11T06:19:49.688854+00:00"
+    },
+    "staera semiconductor": {
+      "name": "Staera Semiconductor",
+      "type": "company",
+      "sectors": [
+        "optical chiplet interconnect"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:52.209922+00:00",
+      "last_seen": "2026-11-11T06:19:52.209922+00:00"
+    },
+    "openspace capital": {
+      "name": "Openspace Capital",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:52.209922+00:00",
+      "last_seen": "2026-11-11T06:19:52.209922+00:00"
+    },
+    "sginnovate": {
+      "name": "SGInnovate",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:52.209922+00:00",
+      "last_seen": "2026-11-11T06:19:52.209922+00:00"
+    },
+    "hedra": {
+      "name": "Hedra",
+      "type": "company",
+      "sectors": [
+        "physical AI training platform"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:52.701714+00:00",
+      "last_seen": "2026-11-11T06:19:52.701714+00:00"
+    },
+    "krea": {
+      "name": "Krea",
+      "type": "company",
+      "sectors": [
+        "image generation models"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:52.701714+00:00",
+      "last_seen": "2026-11-11T06:19:52.701714+00:00"
+    },
+    "kora systems": {
+      "name": "Kora Systems",
+      "type": "company",
+      "sectors": [
+        "AI-native Linux OS"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:53.680951+00:00",
+      "last_seen": "2026-11-11T06:19:53.680951+00:00"
+    },
+    "humain": {
+      "name": "HUMAIN",
+      "type": "company",
+      "sectors": [
+        "AI company (Saudi Arabia)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-11T06:19:53.680951+00:00",
+      "last_seen": "2026-11-11T06:19:53.680951+00:00"
     }
   },
   "edges": [
@@ -6795,6 +7234,14 @@
           "source_name": "CNBC",
           "published": "2026-04-24",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "Google 在 Anthropic IPO 私募中投资 100 亿美元",
+          "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+          "added_at": "2026-11-11T06:19:48.192568+00:00"
         }
       ]
     },
@@ -6810,6 +7257,14 @@
           "source_name": "CNBC",
           "published": "2025-11-18",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "Microsoft 参与 Anthropic IPO 同步 260 亿美元 N 类股私募",
+          "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+          "added_at": "2026-11-11T06:19:48.192568+00:00"
         }
       ]
     },
@@ -6833,6 +7288,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Mon, 09 Nov 2026 05:26:29 +0000",
           "added_at": "2026-11-09T06:06:10.005703+00:00"
+        },
+        {
+          "description": "Nvidia 在 Anthropic IPO 私募中投资 100 亿美元",
+          "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+          "added_at": "2026-11-11T06:19:48.192568+00:00"
         }
       ]
     },
@@ -7171,6 +7634,14 @@
           "source_name": "The Motley Fool",
           "published": "2026-01-25",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "AMD 称 Epyc 6 每瓦支持的 Agent 数量是 Nvidia Vera CPU 的 3.3 倍",
+          "article_title": "AMD introduces Epyc 6 processors for AI agent workloads",
+          "article_url": "https://siliconangle.com/2026/11/10/amd-introduces-epyc-6-processors-for-ai-agent-workloads/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 00:18:31 +0000",
+          "added_at": "2026-11-11T06:19:50.951327+00:00"
         }
       ]
     },
@@ -7977,6 +8448,14 @@
           "source_name": "AWS",
           "published": "N/A",
           "added_at": "2026-08-06T04:45:56.401807+00:00"
+        },
+        {
+          "description": "QuEra 的 Libra 系统目标 2028 年在 Amazon Braket 上提供",
+          "article_title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
+          "article_url": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 18:10:47 +0000",
+          "added_at": "2026-11-11T06:19:43.358890+00:00"
         }
       ]
     },
@@ -8871,6 +9350,14 @@
           "source_name": "Tech Between the Lines",
           "published": "2026-04-27",
           "added_at": "2026-08-06T04:58:40.050696+00:00"
+        },
+        {
+          "description": "AMD 称 Epyc 6 明显优于 Intel 同类服务器 CPU",
+          "article_title": "AMD introduces Epyc 6 processors for AI agent workloads",
+          "article_url": "https://siliconangle.com/2026/11/10/amd-introduces-epyc-6-processors-for-ai-agent-workloads/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 00:18:31 +0000",
+          "added_at": "2026-11-11T06:19:50.951327+00:00"
         }
       ]
     },
@@ -14219,6 +14706,14 @@
           "source_name": "SiliconANGLE",
           "published": "Mon, 09 Nov 2026 23:52:55 +0000",
           "added_at": "2026-11-10T05:12:47.007626+00:00"
+        },
+        {
+          "description": "Megaspeed 购买过超过 20 亿美元 Nvidia 硬件，目前因涉嫌向中国走私 GPU 接受调查",
+          "article_title": "Nvidia shareholders file class action lawsuit against chip giant and its CEO Jensen Huang following fall-out from Chinese spy allegations",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 10 Nov 2026 13:23:52 +0000",
+          "added_at": "2026-11-11T06:19:47.177835+00:00"
         }
       ]
     },
@@ -14474,6 +14969,606 @@
           "source_name": "SiliconANGLE",
           "published": "Mon, 09 Nov 2026 13:00:14 +0000",
           "added_at": "2026-11-10T05:12:48.063222+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kratos defense and security",
+      "target": "seagate space",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Kratos 与 Seagate Space 签长期协议，使用其首座 Gateway 海上发射平台，计划 2027 年首次任务",
+          "article_title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+          "article_url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+          "source_name": "SpaceNews",
+          "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+          "added_at": "2026-11-11T06:19:37.005411+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ark invest",
+      "target": "seagate space",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Seagate Space 是 ARK Invest 旗下 spARK Labs 成员公司",
+          "article_title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+          "article_url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+          "source_name": "SpaceNews",
+          "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+          "added_at": "2026-11-11T06:19:37.005411+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "united launch alliance ula",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NASA 放弃 EUS，改用 ULA 的加长版 Centaur V 作为 SLS 上面级",
+          "article_title": "Isaacman lays out SLS path to the 2030s",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Wed, 11 Nov 2026 04:02:42 +0000",
+          "added_at": "2026-11-11T06:19:42.356600+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "blue origin",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "NASA 将停建的 ML-2 部件和取消的 EUS 硬件作为政府提供设备交给 Blue Origin 用于发射台重建和着陆器",
+          "article_title": "Isaacman lays out SLS path to the 2030s",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Wed, 11 Nov 2026 04:02:42 +0000",
+          "added_at": "2026-11-11T06:19:42.356600+00:00"
+        }
+      ]
+    },
+    {
+      "source": "photondelta",
+      "target": "quix quantum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "QuiX Quantum 获 PhotonDelta 国家增长基金第二阶段资助，牵头 100+ 量子比特光量子计算任务",
+          "article_title": "QuiX Quantum Leads National Mission to Develop 100+ Qubit Photonic Quantum Computer",
+          "article_url": "https://thequantuminsider.com/2026/11/10/quix-quantum-leads-national-mission-100-qubit-photonic-quantum-computer/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 18:23:52 +0000",
+          "added_at": "2026-11-11T06:19:42.857993+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quix quantum",
+      "target": "imec",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "imec 在任务中负责超低损耗氮化硅波导和高速调制器",
+          "article_title": "QuiX Quantum Leads National Mission to Develop 100+ Qubit Photonic Quantum Computer",
+          "article_url": "https://thequantuminsider.com/2026/11/10/quix-quantum-leads-national-mission-100-qubit-photonic-quantum-computer/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 18:23:52 +0000",
+          "added_at": "2026-11-11T06:19:42.857993+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quix quantum",
+      "target": "brucoic",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Bruco-IC 开发延迟低于 10 纳秒的倒装芯片控制 ASIC",
+          "article_title": "QuiX Quantum Leads National Mission to Develop 100+ Qubit Photonic Quantum Computer",
+          "article_url": "https://thequantuminsider.com/2026/11/10/quix-quantum-leads-national-mission-100-qubit-photonic-quantum-computer/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 18:23:52 +0000",
+          "added_at": "2026-11-11T06:19:42.857993+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quera computing",
+      "target": "anthropic",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "QuEra、Harvard 与 Anthropic 用 Claude 加自动评估器设计量子电路，七个模块同时降低门数和量子比特数",
+          "article_title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
+          "article_url": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 18:10:47 +0000",
+          "added_at": "2026-11-11T06:19:43.358890+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quera computing",
+      "target": "harvard university",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Harvard 的 Lukin 等参与 AI 设计量子电路研究",
+          "article_title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
+          "article_url": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 18:10:47 +0000",
+          "added_at": "2026-11-11T06:19:43.358890+00:00"
+        }
+      ]
+    },
+    {
+      "source": "european commission",
+      "target": "eurohpc joint undertaking",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "欧盟量子法案草案拟主要通过 EuroHPC 实施，并建立欧洲量子服务平台",
+          "article_title": "Draft EU Quantum Act Would Favor European Suppliers, Set Computing and Security Targets",
+          "article_url": "https://thequantuminsider.com/2026/11/10/draft-eu-quantum-act-would-favor-european-suppliers-set-computing-and-security-targets/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 17:32:31 +0000",
+          "added_at": "2026-11-11T06:19:44.111949+00:00"
+        }
+      ]
+    },
+    {
+      "source": "special competitive studies project",
+      "target": "commission on us quantum primacy",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "SCSP 召集美国量子主导权委员会并发布初步报告",
+          "article_title": "Commission on U.S. Quantum Primacy Urges Sustained Investment to Turn Quantum Discovery Into American Advantage",
+          "article_url": "https://thequantuminsider.com/2026/11/10/commission-on-u-s-quantum-primacy-urges-sustained-investment-to-turn-quantum-discovery-into-american-advantage/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 15:26:59 +0000",
+          "added_at": "2026-11-11T06:19:44.622724+00:00"
+        }
+      ]
+    },
+    {
+      "source": "xanadu quantum",
+      "target": "hyperlight",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Xanadu 与 HyperLight 在 TFLN Chiplet 平台上把光开关插入损耗降到 7 mdB，在大批量晶圆产线上实现",
+          "article_title": "Xanadu and HyperLight Reduce Photonic Switch Loss to 7 mdB",
+          "article_url": "https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 13:09:20 +0000",
+          "added_at": "2026-11-11T06:19:45.170270+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dwave quantum",
+      "target": "ntt docomo",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NTT DOCOMO 部署第二个基于 D-Wave 混合量子技术的生产应用，峰值位置登记信令减少 65.3%",
+          "article_title": "D-Wave Revenue Rises 21% as Customer Deployments Expand And CHIPS Agreement Advances",
+          "article_url": "https://thequantuminsider.com/2026/11/10/d-wave-revenue-rises-21-as-customer-deployments-expand-and-chips-agreement-advances/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 12:54:04 +0000",
+          "added_at": "2026-11-11T06:19:45.925248+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dwave quantum",
+      "target": "skywater",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "D-Wave 与 SkyWater 签多年协议，延续 Advantage2 处理器代工合作",
+          "article_title": "D-Wave Revenue Rises 21% as Customer Deployments Expand And CHIPS Agreement Advances",
+          "article_url": "https://thequantuminsider.com/2026/11/10/d-wave-revenue-rises-21-as-customer-deployments-expand-and-chips-agreement-advances/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 12:54:04 +0000",
+          "added_at": "2026-11-11T06:19:45.925248+00:00"
+        }
+      ]
+    },
+    {
+      "source": "swiss quantum",
+      "target": "dwave quantum",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Swiss Quantum Technology 以 1000 万欧元协议资助 Como 的 Advantage2 部署，获一半算力五年",
+          "article_title": "D-Wave Revenue Rises 21% as Customer Deployments Expand And CHIPS Agreement Advances",
+          "article_url": "https://thequantuminsider.com/2026/11/10/d-wave-revenue-rises-21-as-customer-deployments-expand-and-chips-agreement-advances/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 12:54:04 +0000",
+          "added_at": "2026-11-11T06:19:45.925248+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "dwave quantum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "D-Wave 与美国商务部的协议可按里程碑获得最多 1 亿美元 CHIPS 资金",
+          "article_title": "D-Wave Revenue Rises 21% as Customer Deployments Expand And CHIPS Agreement Advances",
+          "article_url": "https://thequantuminsider.com/2026/11/10/d-wave-revenue-rises-21-as-customer-deployments-expand-and-chips-agreement-advances/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 10 Nov 2026 12:54:04 +0000",
+          "added_at": "2026-11-11T06:19:45.925248+00:00"
+        }
+      ]
+    },
+    {
+      "source": "applied digital",
+      "target": "coreweave",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "CoreWeave 是 Applied Digital 已知的美国客户",
+          "article_title": "Applied Digital is building in the only US town to say yes to data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/data-center-harwood-north-dakota-applied-digital-us-midterm-elections/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 10 Nov 2026 17:30:00 +0000",
+          "added_at": "2026-11-11T06:19:46.422486+00:00"
+        }
+      ]
+    },
+    {
+      "source": "new york state digit",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "纽约 RAISE 法案要求 Anthropic 等大型前沿开发者 2027 年 1 月 1 日前向 DIGIT 注册并披露安全框架",
+          "article_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+          "article_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+          "added_at": "2026-11-11T06:19:47.681064+00:00"
+        }
+      ]
+    },
+    {
+      "source": "new york state digit",
+      "target": "openai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "纽约 RAISE 法案要求 OpenAI 等大型前沿开发者注册、72 小时内报告重大安全事件",
+          "article_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+          "article_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+          "added_at": "2026-11-11T06:19:47.681064+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "AMD 参与 Anthropic IPO 同步 260 亿美元 N 类股私募",
+          "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+          "added_at": "2026-11-11T06:19:48.192568+00:00"
+        }
+      ]
+    },
+    {
+      "source": "broadcom",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Broadcom 参与 Anthropic IPO 同步 260 亿美元 N 类股私募",
+          "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+          "added_at": "2026-11-11T06:19:48.192568+00:00"
+        }
+      ]
+    },
+    {
+      "source": "micron",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Micron 参与 Anthropic IPO 同步 260 亿美元 N 类股私募",
+          "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+          "added_at": "2026-11-11T06:19:48.192568+00:00"
+        }
+      ]
+    },
+    {
+      "source": "taiwan semiconductor manufacturing tsmc",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "TSMC 参与 Anthropic IPO 同步 260 亿美元 N 类股私募",
+          "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+          "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+          "added_at": "2026-11-11T06:19:48.192568+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "ring",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Ring 为亚马逊旗下公司，成立 Ring Robotics 发布室内安防无人机和企业巡逻机器人",
+          "article_title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+          "article_url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 10 Nov 2026 13:30:00 +0000",
+          "added_at": "2026-11-11T06:19:48.941276+00:00"
+        }
+      ]
+    },
+    {
+      "source": "georgian",
+      "target": "path",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Georgian 领投 Path Robotics 3 亿美元 E 轮，投后估值 24.5 亿美元",
+          "article_title": "Industrial automation startup Path Robotics raises $300M in funding",
+          "article_url": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 01:51:39 +0000",
+          "added_at": "2026-11-11T06:19:49.688854+00:00"
+        }
+      ]
+    },
+    {
+      "source": "yamaha motor",
+      "target": "path",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Yamaha Motor 风投部门参投 Path Robotics E 轮",
+          "article_title": "Industrial automation startup Path Robotics raises $300M in funding",
+          "article_url": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 01:51:39 +0000",
+          "added_at": "2026-11-11T06:19:49.688854+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "microsoft",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "AWS 以模型中立的 Bedrock 和自研 Trainium 竞争，Azure 以 Copilot 客户锁定竞争",
+          "article_title": "What we learned about the hyperscalers from earnings season",
+          "article_url": "https://siliconangle.com/2026/11/10/what-we-learned-about-the-hyperscalers-from-earnings-season/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 01:01:35 +0000",
+          "added_at": "2026-11-11T06:19:50.194926+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "alphabet",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "AWS 与 Google Cloud 在云和自研 AI 芯片上竞争，Google Cloud 增长 103% 但作者认为基础脆弱",
+          "article_title": "What we learned about the hyperscalers from earnings season",
+          "article_url": "https://siliconangle.com/2026/11/10/what-we-learned-about-the-hyperscalers-from-earnings-season/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 01:01:35 +0000",
+          "added_at": "2026-11-11T06:19:50.194926+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "openai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Microsoft 的 AI 战略高度依赖 OpenAI，作者认为 OpenAI 越来越像竞争对手",
+          "article_title": "What we learned about the hyperscalers from earnings season",
+          "article_url": "https://siliconangle.com/2026/11/10/what-we-learned-about-the-hyperscalers-from-earnings-season/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 01:01:35 +0000",
+          "added_at": "2026-11-11T06:19:50.194926+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AWS Bedrock 第三季度上线 Anthropic Claude Opus 5.5 和 Sonnet 5.5",
+          "article_title": "What we learned about the hyperscalers from earnings season",
+          "article_url": "https://siliconangle.com/2026/11/10/what-we-learned-about-the-hyperscalers-from-earnings-season/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 01:01:35 +0000",
+          "added_at": "2026-11-11T06:19:50.194926+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "taiwan semiconductor manufacturing tsmc",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "AMD Zen 6 核心采用 TSMC 2 纳米工艺制造",
+          "article_title": "AMD introduces Epyc 6 processors for AI agent workloads",
+          "article_url": "https://siliconangle.com/2026/11/10/amd-introduces-epyc-6-processors-for-ai-agent-workloads/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 00:18:31 +0000",
+          "added_at": "2026-11-11T06:19:50.951327+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "advanced micro devices",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Microsoft Azure 推出两款基于 Epyc 6 的实例",
+          "article_title": "AMD introduces Epyc 6 processors for AI agent workloads",
+          "article_url": "https://siliconangle.com/2026/11/10/amd-introduces-epyc-6-processors-for-ai-agent-workloads/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 00:18:31 +0000",
+          "added_at": "2026-11-11T06:19:50.951327+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "coreweave",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Nvidia 为 CoreWeave 提供 GPU，并提供其采购芯片所需的大量资金",
+          "article_title": "CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance",
+          "article_url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 10 Nov 2026 23:26:45 +0000",
+          "added_at": "2026-11-11T06:19:51.446379+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coreweave",
+      "target": "nebius",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "CoreWeave 与 Nebius 同为依赖 Nvidia 的 neocloud",
+          "article_title": "CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance",
+          "article_url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 10 Nov 2026 23:26:45 +0000",
+          "added_at": "2026-11-11T06:19:51.446379+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openspace capital",
+      "target": "staera semiconductor",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Openspace Capital 领投 Staera 460 万美元种子前融资",
+          "article_title": "Staera launches with $4.6M to develop an optical interconnect for chiplets",
+          "article_url": "https://siliconangle.com/2026/11/10/staera-launches-with-4-6m-to-develop-an-optical-interconnect-for-chiplets/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 10 Nov 2026 15:00:31 +0000",
+          "added_at": "2026-11-11T06:19:52.209922+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sginnovate",
+      "target": "staera semiconductor",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "SGInnovate 参投 Staera 种子前融资",
+          "article_title": "Staera launches with $4.6M to develop an optical interconnect for chiplets",
+          "article_url": "https://siliconangle.com/2026/11/10/staera-launches-with-4-6m-to-develop-an-optical-interconnect-for-chiplets/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 10 Nov 2026 15:00:31 +0000",
+          "added_at": "2026-11-11T06:19:52.209922+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hedra",
+      "target": "minimax",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Hedra 重训 MiniMax 开源 H3 视频模型，Physics-IQ 从 30.3 提升到 34.9",
+          "article_title": "Hedra’s new Model Factory cranks up the production volume for physical AI model training",
+          "article_url": "https://siliconangle.com/2026/11/10/hedras-new-model-factory-cranks-up-the-production-volume-for-physical-ai-model-training/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 10 Nov 2026 14:30:19 +0000",
+          "added_at": "2026-11-11T06:19:52.701714+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hedra",
+      "target": "krea",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Hedra 将 Krea 3 2K 模型采样步数从 30 步蒸馏到 14 步，延迟降至 3.6 秒",
+          "article_title": "Hedra’s new Model Factory cranks up the production volume for physical AI model training",
+          "article_url": "https://siliconangle.com/2026/11/10/hedras-new-model-factory-cranks-up-the-production-volume-for-physical-ai-model-training/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 10 Nov 2026 14:30:19 +0000",
+          "added_at": "2026-11-11T06:19:52.701714+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kora systems",
+      "target": "qualcomm incorporated",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Qualcomm 与 Kora 合作近一年，将 AI 原生 Linux 桌面带到骁龙 X2 Elite PC，可本地运行 260 亿参数模型",
+          "article_title": "Kora builds AI models and agents into a new Linux OS bound for Qualcomm Snapdragon PCs",
+          "article_url": "https://siliconangle.com/2026/11/10/kora-builds-ai-models-and-agents-into-a-new-linux-os-bound-for-qualcomm-snapdragon-pcs/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 10 Nov 2026 14:00:49 +0000",
+          "added_at": "2026-11-11T06:19:53.680951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kora systems",
+      "target": "humain",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Kora 与沙特 HUMAIN 共同开发企业系统 HUMAIN OS，首批机器 2027 年出货",
+          "article_title": "Kora builds AI models and agents into a new Linux OS bound for Qualcomm Snapdragon PCs",
+          "article_url": "https://siliconangle.com/2026/11/10/kora-builds-ai-models-and-agents-into-a-new-linux-os-bound-for-qualcomm-snapdragon-pcs/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 10 Nov 2026 14:00:49 +0000",
+          "added_at": "2026-11-11T06:19:53.680951+00:00"
         }
       ]
     }
@@ -16917,6 +18012,285 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 09 Nov 2026 13:00:14 +0000",
       "added_at": "2026-11-10T05:13:49.259537+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "海上移动发射平台进入建造，Kratos 签长期使用协议，发射场/靶场这一稀缺基础设施出现新供给，高超音速试验等国防需求支撑太空经济板块；但平台未建成，属早期信号",
+      "article_title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+      "article_url": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+      "source_name": "SpaceNews",
+      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "added_at": "2026-11-11T06:19:37.258756+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "NASA 标准化 SLS、提高发射节奏，商业月球运输要到 2030 年代才接手，短期利好现有体系供应商（ULA Centaur V、Blue Origin 获政府设备），但'商业航天快速替代 SLS'的预期需后移",
+      "article_title": "Isaacman lays out SLS path to the 2030s",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Wed, 11 Nov 2026 04:02:42 +0000",
+      "added_at": "2026-11-11T06:19:42.613406+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "荷兰以国家任务形式整合光量子供应链（低损耗芯片、光子源、探测、控制 ASIC、封装），瓶颈是光损耗，利好光子芯片平台、封装耦合和探测器等上游层；公司新闻稿，逻辑量子比特 2028 年后才演示",
+      "article_title": "QuiX Quantum Leads National Mission to Develop 100+ Qubit Photonic Quantum Computer",
+      "article_url": "https://thequantuminsider.com/2026/11/10/quix-quantum-leads-national-mission-100-qubit-photonic-quantum-computer/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 18:23:52 +0000",
+      "added_at": "2026-11-11T06:19:43.106208+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "AI 设计量子电路把关键模块资源需求降低 9.9–39 倍（综合指标），相当于降低对容错硬件规模的要求，利好全栈量子公司和量子软件/编译层；QuEra 新闻稿、预印本未经同行评审",
+      "article_title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
+      "article_url": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 18:10:47 +0000",
+      "added_at": "2026-11-11T06:19:43.605289+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "前沿模型在'有自动评估器'的科研场景中发现新电路结构，为 AI 公司打开 AI for Science 付费场景；模块级估算，离完整应用仍远",
+      "article_title": "QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements",
+      "article_url": "https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 18:10:47 +0000",
+      "added_at": "2026-11-11T06:19:43.854973+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "欧盟量子法案草案拟将战略项目和公共采购原则上限于欧盟控制企业，并强制关键行业采购支持后量子密码，利好欧洲本土量子硬件/供应链和后量子密码供应商，美国厂商进入难度上升；草案未定资金总额，属政策早期信号",
+      "article_title": "Draft EU Quantum Act Would Favor European Suppliers, Set Computing and Security Targets",
+      "article_url": "https://thequantuminsider.com/2026/11/10/draft-eu-quantum-act-would-favor-european-suppliers-set-computing-and-security-targets/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 17:32:31 +0000",
+      "added_at": "2026-11-11T06:19:44.364714+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "美国量子主导权委员会把瓶颈定在规模化制造和代工准入，建议国家量子代工准入计划、NIST 基准和后量子密码迁移，利好本土量子代工与软硬件协同层；仅为初步报告，最终建议 2027 年春发布",
+      "article_title": "Commission on U.S. Quantum Primacy Urges Sustained Investment to Turn Quantum Discovery Into American Advantage",
+      "article_url": "https://thequantuminsider.com/2026/11/10/commission-on-u-s-quantum-primacy-urges-sustained-investment-to-turn-quantum-discovery-into-american-advantage/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 15:26:59 +0000",
+      "added_at": "2026-11-11T06:19:44.892906+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "光开关损耗从 20 mdB 降到 7 mdB 并在量产线实现，直接缓解光量子扩展的光损耗瓶颈，利好 TFLN 等光子材料/制造平台；Xanadu 新闻稿，竞品对比未经验证",
+      "article_title": "Xanadu and HyperLight Reduce Photonic Switch Loss to 7 mdB",
+      "article_url": "https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 13:09:20 +0000",
+      "added_at": "2026-11-11T06:19:45.419294+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "同一 TFLN 平台也供货 AI 数据中心光互联，低损耗光子器件可溢出到高速光模块，呼应'网络成为 AI 核心'主线；HyperLight 为私有公司，二级市场标的有限",
+      "article_title": "Xanadu and HyperLight Reduce Photonic Switch Loss to 7 mdB",
+      "article_url": "https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 13:09:20 +0000",
+      "added_at": "2026-11-11T06:19:45.670875+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "D-Wave 收入增长 21% 但体量仅 450 万美元、毛利率降至 52.9%、费用增 84%；亮点是 NTT DOCOMO 把量子优化纳入日常网络运营和 CHIPS 资金到位，利好有本土代工与政府资金背书的厂商，需警惕收入结构偏向低毛利服务",
+      "article_title": "D-Wave Revenue Rises 21% as Customer Deployments Expand And CHIPS Agreement Advances",
+      "article_url": "https://thequantuminsider.com/2026/11/10/d-wave-revenue-rises-21-as-customer-deployments-expand-and-chips-agreement-advances/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 10 Nov 2026 12:54:04 +0000",
+      "added_at": "2026-11-11T06:19:46.173706+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "中期选举 40 多项反数据中心提案仅 Harwood 一处被否决，'能合法按时通电的场地'成为稀缺资产；Applied Digital 自投 1 亿美元电网升级换取社区支持，利好电网升级与本地电力投资",
+      "article_title": "Applied Digital is building in the only US town to say yes to data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/data-center-harwood-north-dakota-applied-digital-us-midterm-elections/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 10 Nov 2026 17:30:00 +0000",
+      "added_at": "2026-11-11T06:19:46.677863+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "社区阻力系统化使已拿到场地和电力的数据中心开发商与已装机算力更稀缺，利好 Applied Digital 这类在友好州深耕者和算力租赁方；Harwood 模式可复制性有限",
+      "article_title": "Applied Digital is building in the only US town to say yes to data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/data-center-harwood-north-dakota-applied-digital-us-midterm-elections/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 10 Nov 2026 17:30:00 +0000",
+      "added_at": "2026-11-11T06:19:46.928763+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nvidia 股东就黄仁勋与涉嫌间谍关系的披露问题提起集体诉讼，风险从外部出口管制转向内部治理；算力需求未变，但 Nvidia 作为 neocloud 资金方的'循环融资'会被重新审视，利空 Nvidia 估值与 neocloud 融资情绪，AMD/Broadcom 等仅情绪上相对受益",
+      "article_title": "Nvidia shareholders file class action lawsuit against chip giant and its CEO Jensen Huang following fall-out from Chinese spy allegations",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 10 Nov 2026 13:23:52 +0000",
+      "added_at": "2026-11-11T06:19:47.428944+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "纽约 RAISE 法案生效，加州、伊利诺伊规则趋同且趋严（72 小时报告、独立审计），合规成为前沿实验室固定成本；不改变算力需求，利好 AI 安全评估/审计服务，受压的是刚过 5 亿美元门槛的中型模型公司",
+      "article_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "article_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+      "added_at": "2026-11-11T06:19:47.936252+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic IPO 定价区间 70–78 美元、估值约 1.4 万亿，算力供应链七家公司私募 260 亿美元，9009 亿美元算力承诺将回流 GPU/HBM/代工/定制芯片层；但前九个月净亏损 1040 亿美元，IPO 表现将成为整个 AI 板块融资情绪的试金石",
+      "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+      "added_at": "2026-11-11T06:19:48.437479+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Anthropic 9009 亿美元的算力与基础设施承诺最终要落到电力上，IPO 募资转化为算力订单间接支撑数据中心用电需求",
+      "article_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "article_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 10 Nov 2026 14:01:39 +0000",
+      "added_at": "2026-11-11T06:19:48.686137+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Ring 把移动机器人收窄到'报警联动去现场看'这一安防刚需，借现有订阅生态推出 270 美元无人机和 1000 美元巡逻机器人，利好低成本室内导航和有渠道的消费硬件；Astro 失败在前、隐私争议大，只能观望",
+      "article_title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "article_url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 10 Nov 2026 13:30:00 +0000",
+      "added_at": "2026-11-11T06:19:49.189834+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "家用/商用移动机器人需本地避障导航，但 Ring 的 AI Pilot 明确依赖云端处理，端侧算力拉动有限，信号偏弱",
+      "article_title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "article_url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 10 Nov 2026 13:30:00 +0000",
+      "added_at": "2026-11-11T06:19:49.437537+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Path Robotics 用激光+相机采集数据训练'焊接世界模型'，解决热变形这一具体自动化瓶颈，3 亿美元 E 轮说明垂直工艺型工业 AI 获资本认可，利好工业传感器、机械臂本体（Fanuc/Yaskawa/ABB 间接）和垂直场景公司",
+      "article_title": "Industrial automation startup Path Robotics raises $300M in funding",
+      "article_url": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 01:51:39 +0000",
+      "added_at": "2026-11-11T06:19:49.941381+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "三大云 AI 资本开支持续加速（AWS 约 2200 亿、Alphabet 2027 年超 3000 亿），推理单位成本成为采购核心指标、自研推理芯片开始对外销售，利好定制 ASIC 合作方与先进代工；自由现金流转负、Oracle 借债扩张是风险信号（分析师观点文章）",
+      "article_title": "What we learned about the hyperscalers from earnings season",
+      "article_url": "https://siliconangle.com/2026/11/10/what-we-learned-about-the-hyperscalers-from-earnings-season/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 01:01:35 +0000",
+      "added_at": "2026-11-11T06:19:50.449798+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "云厂商千亿美元级资本开支无论谁赢都要落到数据中心电力，能源基础设施是确定性需求方",
+      "article_title": "What we learned about the hyperscalers from earnings season",
+      "article_url": "https://siliconangle.com/2026/11/10/what-we-learned-about-the-hyperscalers-from-earnings-season/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 01:01:35 +0000",
+      "added_at": "2026-11-11T06:19:50.704364+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Agent 的工具调用跑在 CPU 上，AI 算力需求从'GPU 为主'扩展到'GPU+大量 CPU'，AMD Epyc 6（TSMC 2nm、最高 256 核）瞄准每瓦 Agent 数和按核计费成本，利好 x86 服务器 CPU 与先进制程；对比数据为 AMD 自述",
+      "article_title": "AMD introduces Epyc 6 processors for AI agent workloads",
+      "article_url": "https://siliconangle.com/2026/11/10/amd-introduces-epyc-6-processors-for-ai-agent-workloads/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 00:18:31 +0000",
+      "added_at": "2026-11-11T06:19:51.202489+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "CoreWeave 收入增 168%、积压订单升至 1325 亿美元并上调指引，需求仍强；但债券收益率超 16%、总债务近 470 亿美元，瓶颈已从 GPU 供给转向资本成本，利好能用合同绑定融资、已有积压订单的算力运营商，循环融资风险向 Nvidia 集中",
+      "article_title": "CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance",
+      "article_url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 10 Nov 2026 23:26:45 +0000",
+      "added_at": "2026-11-11T06:19:51.704747+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "CoreWeave 年底目标 1.85GW 在用算力、资本开支 370–390 亿美元，且 CEO 认为建设放缓会让已装机算力更稀缺，支撑数据中心电力需求",
+      "article_title": "CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance",
+      "article_url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 10 Nov 2026 23:26:45 +0000",
+      "added_at": "2026-11-11T06:19:51.959875+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Staera 用氮化镓微型 LED+氮化硅波导做封装内光互连，瞄准 chiplet 与 HBM 之间的'内存墙'瓶颈，当前真正受益的是 HBM 厂商和先进封装产能；公司 2030 年才出货，仅为技术方向信号",
+      "article_title": "Staera launches with $4.6M to develop an optical interconnect for chiplets",
+      "article_url": "https://siliconangle.com/2026/11/10/staera-launches-with-4-6m-to-develop-an-optical-interconnect-for-chiplets/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 10 Nov 2026 15:00:31 +0000",
+      "added_at": "2026-11-11T06:19:52.455861+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Hedra Model Factory 以递归自我改进+VLM 打分做物理 AI 后训练服务，针对'每个新任务/新硬件都要重新适配'的瓶颈（换夹爪不重训即恢复成功率），利好后训练工具链；效果为公司自报个案",
+      "article_title": "Hedra’s new Model Factory cranks up the production volume for physical AI model training",
+      "article_url": "https://siliconangle.com/2026/11/10/hedras-new-model-factory-cranks-up-the-production-volume-for-physical-ai-model-training/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 10 Nov 2026 14:30:19 +0000",
+      "added_at": "2026-11-11T06:19:52.950001+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "'模型工厂'本质是持续的训练和推理负载，物理 AI 专用模型数量增长将拉动 GPU 算力需求",
+      "article_title": "Hedra’s new Model Factory cranks up the production volume for physical AI model training",
+      "article_url": "https://siliconangle.com/2026/11/10/hedras-new-model-factory-cranks-up-the-production-volume-for-physical-ai-model-training/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 10 Nov 2026 14:30:19 +0000",
+      "added_at": "2026-11-11T06:19:53.194762+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Hedra 支持把模型蒸馏到边缘设备做低延迟推理，物理 AI 专用小模型增多利好端侧推理芯片",
+      "article_title": "Hedra’s new Model Factory cranks up the production volume for physical AI model training",
+      "article_url": "https://siliconangle.com/2026/11/10/hedras-new-model-factory-cranks-up-the-production-volume-for-physical-ai-model-training/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 10 Nov 2026 14:30:19 +0000",
+      "added_at": "2026-11-11T06:19:53.436479+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "端侧 AI 的瓶颈从芯片算力转向软件生态（NPU 常闲置），Kora 以统一调度 CPU/GPU/NPU 的 AI 原生 OS 补这一层，利好 Qualcomm 等端侧 SoC 与 Arm 生态；挑战 Windows 历史上多失败、2027 年才出货，只能观望",
+      "article_title": "Kora builds AI models and agents into a new Linux OS bound for Qualcomm Snapdragon PCs",
+      "article_url": "https://siliconangle.com/2026/11/10/kora-builds-ai-models-and-agents-into-a-new-linux-os-bound-for-qualcomm-snapdragon-pcs/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 10 Nov 2026 14:00:49 +0000",
+      "added_at": "2026-11-11T06:19:53.939117+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "AMD 以'每瓦支持多少 Agent'作为核心卖点，说明 Agent 规模化后 CPU 功耗同样受数据中心电力约束，电力仍是确定性瓶颈",
+      "article_title": "AMD introduces Epyc 6 processors for AI agent workloads",
+      "article_url": "https://siliconangle.com/2026/11/10/amd-introduces-epyc-6-processors-for-ai-agent-workloads/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 00:18:31 +0000",
+      "added_at": "2026-11-11T06:20:12.954777+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Path Robotics 融资将投入数据、算力和焊接世界模型训练，垂直工业 AI 的模拟训练需求回到 GPU 基础设施层",
+      "article_title": "Industrial automation startup Path Robotics raises $300M in funding",
+      "article_url": "https://siliconangle.com/2026/11/10/industrial-automation-startup-path-robotics-raises-300m-in-funding/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 01:51:39 +0000",
+      "added_at": "2026-11-11T06:20:13.213148+00:00"
     }
   ]
 }
