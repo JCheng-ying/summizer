@@ -241,11 +241,12 @@
         "AI compute / robotics platforms",
         "AI compute / networking",
         "AI accelerators",
-        "AI accelerators / GPUs"
+        "AI accelerators / GPUs",
+        "AI GPUs"
       ],
-      "mentions": 28,
+      "mentions": 29,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-11T06:19:51.446379+00:00",
+      "last_seen": "2026-11-12T04:06:47.275354+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -380,7 +381,8 @@
       "type": "company",
       "sectors": [
         "cloud / AI",
-        "cloud / software"
+        "cloud / software",
+        "hyperscale cloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -388,9 +390,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 11,
+      "mentions": 13,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:50.951327+00:00"
+      "last_seen": "2026-11-12T04:06:42.206381+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -405,9 +407,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 13,
+      "mentions": 14,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:50.194926+00:00"
+      "last_seen": "2026-11-12T04:06:43.035329+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -416,7 +418,8 @@
         "e-commerce / logistics",
         "e-commerce / drone delivery",
         "cloud",
-        "cloud / e-commerce"
+        "cloud / e-commerce",
+        "hyperscale cloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -425,9 +428,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 12,
+      "mentions": 13,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:50.194926+00:00"
+      "last_seen": "2026-11-12T04:06:41.415270+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -460,9 +463,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 29,
+      "mentions": 31,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:50.194926+00:00"
+      "last_seen": "2026-11-12T04:06:43.035329+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -540,9 +543,9 @@
       ],
       "hot": "hot",
       "ticker": "CRWV",
-      "mentions": 6,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:51.446379+00:00"
+      "last_seen": "2026-11-12T04:06:42.206381+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -574,16 +577,17 @@
       "name": "Cerebras Systems",
       "type": "company",
       "sectors": [
-        "AI accelerators"
+        "AI accelerators",
+        "wafer-scale AI chips"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": "CBRS",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-06T07:01:18.955321+00:00"
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
     },
     "sambanova systems": {
       "name": "SambaNova Systems",
@@ -678,9 +682,9 @@
       ],
       "hot": "cold",
       "ticker": "NBIS",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:51.446379+00:00"
+      "last_seen": "2026-11-12T04:06:42.206381+00:00"
     },
     "langchain": {
       "name": "LangChain",
@@ -703,7 +707,8 @@
         "orbital launch vehicles, satellite constellations, frontier AI (via SpaceXAI)",
         "launch services",
         "launch / Starlink",
-        "launch / satellites / compute"
+        "launch / satellites / compute",
+        "launch / satellite / compute"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -711,9 +716,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 11,
+      "mentions": 13,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-10T05:12:45.984045+00:00"
+      "last_seen": "2026-11-12T04:06:48.588948+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -1063,15 +1068,17 @@
     "rigetti computing": {
       "name": "Rigetti Computing",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "superconducting quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "RGTI",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-12T04:06:40.101618+00:00"
     },
     "dwave quantum": {
       "name": "D-Wave Quantum",
@@ -1094,7 +1101,8 @@
       "type": "company",
       "sectors": [
         "quantum computing",
-        "quantum computing / enterprise IT"
+        "quantum computing / enterprise IT",
+        "superconducting quantum computing"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1102,9 +1110,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 3,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-10T05:12:44.966831+00:00"
+      "last_seen": "2026-11-12T04:06:40.629138+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -1117,9 +1125,9 @@
       ],
       "hot": "hot",
       "ticker": "HON",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-06T07:01:15.798724+00:00"
+      "last_seen": "2026-11-12T04:06:40.629138+00:00"
     },
     "quantinuum": {
       "name": "Quantinuum",
@@ -1132,9 +1140,9 @@
       ],
       "hot": "hot",
       "ticker": "QNT",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-06T07:01:15.798724+00:00"
+      "last_seen": "2026-11-12T04:06:40.629138+00:00"
     },
     "psiquantum": {
       "name": "PsiQuantum",
@@ -1361,16 +1369,17 @@
       "name": "Boston Dynamics",
       "type": "company",
       "sectors": [
-        "humanoid & legged robotics"
+        "humanoid & legged robotics",
+        "legged / humanoid robotics"
       ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-10-20T06:47:37.377572+00:00"
+      "last_seen": "2026-11-12T04:06:47.806934+00:00"
     },
     "hyundai motor": {
       "name": "Hyundai Motor Group",
@@ -1558,9 +1567,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-11-09T06:05:59.960286+00:00"
+      "last_seen": "2026-11-12T04:06:47.806934+00:00"
     },
     "agility": {
       "name": "Agility Robotics",
@@ -1698,9 +1707,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 12,
+      "mentions": 13,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:50.951327+00:00"
+      "last_seen": "2026-11-12T04:06:39.295430+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1727,9 +1736,9 @@
       ],
       "hot": "hot",
       "ticker": "005930.KS",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-09T06:06:07.837516+00:00"
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
     },
     "alphabet": {
       "name": "Alphabet Inc.",
@@ -1740,7 +1749,8 @@
         "AI models / cloud",
         "cloud / AI / custom silicon",
         "cloud / AI",
-        "cloud / TPU / AI models"
+        "cloud / TPU / AI models",
+        "hyperscale cloud / AI"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1751,9 +1761,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 24,
+      "mentions": 26,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:50.194926+00:00"
+      "last_seen": "2026-11-12T04:06:44.074553+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2493,7 +2503,8 @@
       "sectors": [
         "AI research lab",
         "foundation models",
-        "AI research"
+        "AI research",
+        "AI research / robotics models"
       ],
       "sector_tags": [
         "机器人板块",
@@ -2501,9 +2512,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T05:07:37.450235+00:00",
-      "last_seen": "2026-11-06T06:49:27.522793+00:00"
+      "last_seen": "2026-11-12T04:06:47.806934+00:00"
     },
     "thinking machines": {
       "name": "Thinking Machines",
@@ -2858,15 +2869,17 @@
     "franka": {
       "name": "Franka Robotics",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "robot arms"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:50:16.805255+00:00",
-      "last_seen": "2026-08-15T05:50:16.805255+00:00"
+      "last_seen": "2026-11-12T04:06:47.806934+00:00"
     },
     "robotiq": {
       "name": "Robotiq",
@@ -3449,7 +3462,8 @@
       "type": "company",
       "sectors": [
         "frontier AI models (Qwen series)",
-        "Chinese cloud / e-commerce"
+        "Chinese cloud / e-commerce",
+        "cloud / internet"
       ],
       "sector_tags": [
         "AI板块",
@@ -3457,9 +3471,9 @@
       ],
       "hot": "hot",
       "ticker": "BABA",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-11-10T05:12:47.007626+00:00"
+      "last_seen": "2026-11-12T04:06:47.275354+00:00"
     },
     "moonshot ai": {
       "name": "Moonshot AI",
@@ -4289,21 +4303,25 @@
     "softbank": {
       "name": "SoftBank Group",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "telecom / AI data centers"
+      ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "量子计算板块"
       ],
       "hot": null,
-      "ticker": null,
-      "mentions": 1,
+      "ticker": "9434.T",
+      "mentions": 2,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-02T01:41:22.570043+00:00"
+      "last_seen": "2026-11-12T04:06:40.629138+00:00"
     },
     "nscale": {
       "name": "Nscale",
       "type": "company",
       "sectors": [
-        "AI neocloud"
+        "AI neocloud",
+        "neocloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -4311,9 +4329,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-10T05:12:45.984045+00:00"
+      "last_seen": "2026-11-12T04:06:41.415270+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -4850,16 +4868,17 @@
       "name": "RIKEN",
       "type": "institution",
       "sectors": [
-        "Japanese research institute"
+        "Japanese research institute",
+        "research institute / HPC"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-11-06T07:01:15.798724+00:00",
-      "last_seen": "2026-11-06T07:01:15.798724+00:00"
+      "last_seen": "2026-11-12T04:06:40.629138+00:00"
     },
     "skywater": {
       "name": "SkyWater Technology",
@@ -4912,7 +4931,8 @@
       "sectors": [
         "DOE national lab / HPC",
         "DOE national lab",
-        "US DOE national lab"
+        "US DOE national lab",
+        "national laboratory / HPC"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -4920,9 +4940,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-06T07:01:16.365949+00:00",
-      "last_seen": "2026-11-10T05:12:44.966831+00:00"
+      "last_seen": "2026-11-12T04:06:39.295430+00:00"
     },
     "chemours": {
       "name": "Chemours",
@@ -5630,16 +5650,17 @@
       "name": "BT Group",
       "type": "company",
       "sectors": [
-        "telecom operator"
+        "telecom operator",
+        "telecom"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
-      "ticker": null,
-      "mentions": 1,
+      "ticker": "BT-A.L",
+      "mentions": 2,
       "first_seen": "2026-11-09T06:06:05.430858+00:00",
-      "last_seen": "2026-11-09T06:06:05.430858+00:00"
+      "last_seen": "2026-11-12T04:06:48.588948+00:00"
     },
     "colt services": {
       "name": "Colt Technology Services",
@@ -5851,7 +5872,8 @@
       "name": "Crusoe",
       "type": "company",
       "sectors": [
-        "AI data center development"
+        "AI data center development",
+        "AI cloud / data centers"
       ],
       "sector_tags": [
         "AI板块",
@@ -5859,9 +5881,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:06:09.263035+00:00",
-      "last_seen": "2026-11-09T06:06:09.263035+00:00"
+      "last_seen": "2026-11-12T04:06:46.488405+00:00"
     },
     "megaspeed": {
       "name": "Megaspeed",
@@ -5869,16 +5891,17 @@
       "sectors": [
         "cloud / GPU reseller (Singapore)",
         "Singapore data center operator",
-        "IT / cloud services"
+        "IT / cloud services",
+        "neocloud (Singapore)"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-11T06:19:47.177835+00:00"
+      "last_seen": "2026-11-12T04:06:47.275354+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -6169,7 +6192,8 @@
       "name": "Akamai",
       "type": "company",
       "sectors": [
-        "edge cloud / CDN"
+        "edge cloud / CDN",
+        "CDN / cloud infrastructure"
       ],
       "sector_tags": [
         "AI板块",
@@ -6177,9 +6201,9 @@
       ],
       "hot": null,
       "ticker": "AKAM",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:45.217670+00:00",
-      "last_seen": "2026-11-10T05:12:45.217670+00:00"
+      "last_seen": "2026-11-12T04:06:41.415270+00:00"
     },
     "riot platforms": {
       "name": "Riot Platforms",
@@ -6246,16 +6270,17 @@
       "name": "Lambda",
       "type": "company",
       "sectors": [
-        "AI neocloud"
+        "AI neocloud",
+        "GPU cloud / neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:45.984045+00:00",
-      "last_seen": "2026-11-10T05:12:45.984045+00:00"
+      "last_seen": "2026-11-12T04:06:41.415270+00:00"
     },
     "orbital compute": {
       "name": "Orbital Compute",
@@ -6462,9 +6487,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:47.804011+00:00",
-      "last_seen": "2026-11-10T05:12:47.804011+00:00"
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
     },
     "anduril": {
       "name": "Anduril",
@@ -6730,9 +6755,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-11T06:19:45.925248+00:00"
+      "last_seen": "2026-11-12T04:06:40.101618+00:00"
     },
     "applied digital": {
       "name": "Applied Digital",
@@ -6924,6 +6949,346 @@
       "mentions": 1,
       "first_seen": "2026-11-11T06:19:53.680951+00:00",
       "last_seen": "2026-11-11T06:19:53.680951+00:00"
+    },
+    "eon": {
+      "name": "E.ON",
+      "type": "company",
+      "sectors": [
+        "energy utility"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:39.295430+00:00",
+      "last_seen": "2026-11-12T04:06:39.295430+00:00"
+    },
+    "algorithmiq": {
+      "name": "Algorithmiq",
+      "type": "company",
+      "sectors": [
+        "quantum algorithms software"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:39.295430+00:00",
+      "last_seen": "2026-11-12T04:06:39.295430+00:00"
+    },
+    "qctrl": {
+      "name": "Q-CTRL",
+      "type": "company",
+      "sectors": [
+        "quantum control software"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:39.295430+00:00",
+      "last_seen": "2026-11-12T04:06:39.295430+00:00"
+    },
+    "cleveland clinic": {
+      "name": "Cleveland Clinic",
+      "type": "institution",
+      "sectors": [
+        "healthcare research"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:39.295430+00:00",
+      "last_seen": "2026-11-12T04:06:39.295430+00:00"
+    },
+    "cdac": {
+      "name": "C-DAC",
+      "type": "institution",
+      "sectors": [
+        "Indian government computing R&D"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:40.101618+00:00",
+      "last_seen": "2026-11-12T04:06:40.101618+00:00"
+    },
+    "nedo": {
+      "name": "NEDO",
+      "type": "institution",
+      "sectors": [
+        "Japanese government R&D funding"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:40.629138+00:00",
+      "last_seen": "2026-11-12T04:06:40.629138+00:00"
+    },
+    "iren": {
+      "name": "IREN",
+      "type": "company",
+      "sectors": [
+        "neocloud / bitcoin mining"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "IREN",
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:42.206381+00:00",
+      "last_seen": "2026-11-12T04:06:42.206381+00:00"
+    },
+    "fractile": {
+      "name": "Fractile",
+      "type": "company",
+      "sectors": [
+        "AI inference chips (DRAM stacking)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:43.553496+00:00",
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+    },
+    "thrive capital": {
+      "name": "Thrive Capital",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:43.553496+00:00",
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+    },
+    "founders fund": {
+      "name": "Founders Fund",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:43.553496+00:00",
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+    },
+    "redpoint ventures": {
+      "name": "Redpoint Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:43.553496+00:00",
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+    },
+    "capitalg": {
+      "name": "CapitalG",
+      "type": "company",
+      "sectors": [
+        "Alphabet growth fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:43.553496+00:00",
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+    },
+    "uk sovereign ai fund": {
+      "name": "UK Sovereign AI Fund",
+      "type": "institution",
+      "sectors": [
+        "government fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:43.553496+00:00",
+      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+    },
+    "tapestry": {
+      "name": "Tapestry",
+      "type": "company",
+      "sectors": [
+        "grid AI software (Google X)"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:44.074553+00:00",
+      "last_seen": "2026-11-12T04:06:44.074553+00:00"
+    },
+    "pjm interconnection": {
+      "name": "PJM Interconnection",
+      "type": "institution",
+      "sectors": [
+        "US grid operator (RTO)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:44.074553+00:00",
+      "last_seen": "2026-11-12T04:06:44.074553+00:00"
+    },
+    "kraft": {
+      "name": "Kraft Group",
+      "type": "company",
+      "sectors": [
+        "conglomerate / real estate"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:44.881875+00:00",
+      "last_seen": "2026-11-12T04:06:44.881875+00:00"
+    },
+    "unified global packaging": {
+      "name": "Unified Global Packaging Group",
+      "type": "company",
+      "sectors": [
+        "packaging"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:44.881875+00:00",
+      "last_seen": "2026-11-12T04:06:44.881875+00:00"
+    },
+    "mubbadrah investment": {
+      "name": "Mubbadrah Investment",
+      "type": "company",
+      "sectors": [
+        "Omani investment group"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:46.488405+00:00",
+      "last_seen": "2026-11-12T04:06:46.488405+00:00"
+    },
+    "sustopia capital": {
+      "name": "Sustopia Capital",
+      "type": "company",
+      "sectors": [
+        "data center platform"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:46.488405+00:00",
+      "last_seen": "2026-11-12T04:06:46.488405+00:00"
+    },
+    "vela tech": {
+      "name": "Vela Tech",
+      "type": "company",
+      "sectors": [
+        "holding company / data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:46.488405+00:00",
+      "last_seen": "2026-11-12T04:06:46.488405+00:00"
+    },
+    "o2 global energy": {
+      "name": "O2 Global Energy",
+      "type": "company",
+      "sectors": [
+        "solar and storage developer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:46.488405+00:00",
+      "last_seen": "2026-11-12T04:06:46.488405+00:00"
+    },
+    "shanghai century litong": {
+      "name": "Shanghai Century Litong",
+      "type": "company",
+      "sectors": [
+        "cloud / GPU procurement (China)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:47.275354+00:00",
+      "last_seen": "2026-11-12T04:06:47.275354+00:00"
+    },
+    "agile robots": {
+      "name": "Agile Robots",
+      "type": "company",
+      "sectors": [
+        "industrial robotics"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:47.806934+00:00",
+      "last_seen": "2026-11-12T04:06:47.806934+00:00"
+    },
+    "mercedesbenz": {
+      "name": "Mercedes-Benz",
+      "type": "company",
+      "sectors": [
+        "automotive manufacturing"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": "hot",
+      "ticker": "MBG.DE",
+      "mentions": 1,
+      "first_seen": "2026-11-12T04:06:47.806934+00:00",
+      "last_seen": "2026-11-12T04:06:47.806934+00:00"
     }
   },
   "edges": [
@@ -7386,6 +7751,14 @@
           "source_name": "CNBC",
           "published": "2025-09-09",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "Nebius 依赖 Microsoft 大额预付款来支付算力产能建设",
+          "article_title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+          "article_url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 11 Nov 2026 19:54:00 +0000",
+          "added_at": "2026-11-12T04:06:42.206381+00:00"
         }
       ]
     },
@@ -7697,6 +8070,14 @@
           "source_name": "SiliconANGLE",
           "published": "Fri, 06 Nov 2026 23:43:40 +0000",
           "added_at": "2026-11-09T06:06:11.923617+00:00"
+        },
+        {
+          "description": "OpenAI 季度收入首破 100 亿美元、年化 500 亿美元；Anthropic Q3 收入 170 亿美元、年化 810 亿美元并在企业市场领先（两家年化口径不同）",
+          "article_title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+          "article_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 11 Nov 2026 16:14:44 +0000",
+          "added_at": "2026-11-12T04:06:43.035329+00:00"
         }
       ]
     },
@@ -12431,6 +12812,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 16:25:42 +0000",
           "added_at": "2026-11-10T05:12:44.966831+00:00"
+        },
+        {
+          "description": "双方用 Nighthawk r2 模拟真实磁性材料，实验提速 12 倍；并共建与 AMD 合作的量子纠错协同设计平台",
+          "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+          "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+          "added_at": "2026-11-12T04:06:39.295430+00:00"
         }
       ]
     },
@@ -12461,6 +12850,14 @@
           "source_name": "The Quantum Insider",
           "published": "Thu, 05 Nov 2026 13:02:38 +0000",
           "added_at": "2026-11-06T07:01:16.365949+00:00"
+        },
+        {
+          "description": "AMD Instinct MI355X GPU 与 EPYC CPU 驱动与 Nighthawk 同址部署的 ORNL Umbra HPC 系统",
+          "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+          "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+          "added_at": "2026-11-12T04:06:39.295430+00:00"
         }
       ]
     },
@@ -12694,6 +13091,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 13:33:42 +0000",
           "added_at": "2026-11-10T05:12:45.984045+00:00"
+        },
+        {
+          "description": "Anthropic 与 Nscale 签有算力合同",
+          "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+          "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+          "added_at": "2026-11-12T04:06:41.415270+00:00"
         }
       ]
     },
@@ -14391,6 +14796,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 16:12:16 +0000",
           "added_at": "2026-11-10T05:12:45.217670+00:00"
+        },
+        {
+          "description": "Anthropic 与 Akamai 签有算力合同",
+          "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+          "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+          "added_at": "2026-11-12T04:06:41.415270+00:00"
         }
       ]
     },
@@ -14526,6 +14939,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 13:33:42 +0000",
           "added_at": "2026-11-10T05:12:45.984045+00:00"
+        },
+        {
+          "description": "向 Google 租用算力的承诺支出 1,213 亿美元",
+          "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+          "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+          "added_at": "2026-11-12T04:06:41.415270+00:00"
         }
       ]
     },
@@ -14541,6 +14962,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 13:33:42 +0000",
           "added_at": "2026-11-10T05:12:45.984045+00:00"
+        },
+        {
+          "description": "向 SpaceX 采购算力容量的承诺支出 1,205 亿美元",
+          "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+          "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+          "added_at": "2026-11-12T04:06:41.415270+00:00"
         }
       ]
     },
@@ -14556,6 +14985,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 13:33:42 +0000",
           "added_at": "2026-11-10T05:12:45.984045+00:00"
+        },
+        {
+          "description": "向 Amazon 的算力承诺支出 1,100 亿美元",
+          "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+          "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+          "added_at": "2026-11-12T04:06:41.415270+00:00"
         }
       ]
     },
@@ -14571,6 +15008,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 13:33:42 +0000",
           "added_at": "2026-11-10T05:12:45.984045+00:00"
+        },
+        {
+          "description": "新增最多 43 亿美元算力协议，Microsoft 合同总额升至 472-492 亿美元",
+          "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+          "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+          "added_at": "2026-11-12T04:06:41.415270+00:00"
         }
       ]
     },
@@ -14586,6 +15031,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 13:33:42 +0000",
           "added_at": "2026-11-10T05:12:45.984045+00:00"
+        },
+        {
+          "description": "349 亿美元合同因 Lambda 未按期拿到设施租约而变为双方均可终止，Anthropic 称目前不打算终止",
+          "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+          "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+          "added_at": "2026-11-12T04:06:41.415270+00:00"
         }
       ]
     },
@@ -14714,6 +15167,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Tue, 10 Nov 2026 13:23:52 +0000",
           "added_at": "2026-11-11T06:19:47.177835+00:00"
+        },
+        {
+          "description": "Megaspeed 过去两年据报道购买 48 亿美元 Nvidia 芯片，因涉嫌帮助中国企业规避出口管制被美国和新加坡调查",
+          "article_title": "The unfolding Jensen Huang scandal: a timeline",
+          "article_url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+          "added_at": "2026-11-12T04:06:47.275354+00:00"
         }
       ]
     },
@@ -15479,6 +15940,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 10 Nov 2026 23:26:45 +0000",
           "added_at": "2026-11-11T06:19:51.446379+00:00"
+        },
+        {
+          "description": "同为 neocloud，均转向由大客户预付来为扩张融资",
+          "article_title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+          "article_url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 11 Nov 2026 19:54:00 +0000",
+          "added_at": "2026-11-12T04:06:42.206381+00:00"
         }
       ]
     },
@@ -15569,6 +16038,561 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 10 Nov 2026 14:00:49 +0000",
           "added_at": "2026-11-11T06:19:53.680951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "eon",
+      "target": "ibm",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "E.ON 在 Nighthawk r2 上做电网优化相关量子机器学习，报告相对 Heron 15 倍加速",
+          "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+          "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+          "added_at": "2026-11-12T04:06:39.295430+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "algorithmiq",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "异质量子材料模拟实验扩展到 Nighthawk r2，比 Heron 上快 8 倍",
+          "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+          "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+          "added_at": "2026-11-12T04:06:39.295430+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qctrl",
+      "target": "ibm",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Q-CTRL 等合作方在 Nighthawk r2 上累计运行线路并报告性能提升",
+          "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+          "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+          "added_at": "2026-11-12T04:06:39.295430+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "riken",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "在 IBM Quantum Platform 的 HPC 整合环境中，SQD 工作流提速约 5 倍、计算量增加 100 倍",
+          "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+          "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+          "added_at": "2026-11-12T04:06:39.295430+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cleveland clinic",
+      "target": "ibm",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Cleveland Clinic 与 RIKEN 借助平台自动处理 6.08 亿样本建模生物结构",
+          "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+          "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+          "added_at": "2026-11-12T04:06:39.295430+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "rigetti computing",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "依 CHIPS 法案授予最高 1 亿美元研发资助，并获得 Rigetti 少数、非控制性股权",
+          "article_title": "Rigetti Reports Q3 2026 Results and Updates Quantum Computing Roadmap",
+          "article_url": "https://thequantuminsider.com/2026/11/11/rigetti-q3-2026-results-quantum-computing-roadmap/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 09:30:09 +0000",
+          "added_at": "2026-11-12T04:06:40.101618+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cdac",
+      "target": "rigetti computing",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Rigetti 2026 全年约 2,000 万美元收入指引以 C-DAC 第四季度验收为前提",
+          "article_title": "Rigetti Reports Q3 2026 Results and Updates Quantum Computing Roadmap",
+          "article_url": "https://thequantuminsider.com/2026/11/11/rigetti-q3-2026-results-quantum-computing-roadmap/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 11 Nov 2026 09:30:09 +0000",
+          "added_at": "2026-11-12T04:06:40.101618+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantinuum",
+      "target": "riken",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "把 RIKEN 的 Reimei 量子计算机升级为 56 比特 System Model H2，并联合日本大学和供应商研发 Made with Japan 容错量子计算机",
+          "article_title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:36:10 +0000",
+          "added_at": "2026-11-12T04:06:40.629138+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantinuum",
+      "target": "softbank",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与 RIKEN、SoftBank 合作探索把量子计算机直接接入日本 AI 数据中心，提供量子-AI 混合计算服务",
+          "article_title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:36:10 +0000",
+          "added_at": "2026-11-12T04:06:40.629138+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nedo",
+      "target": "riken",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Reimei 作为 JHPC-quantum 项目的一部分由 NEDO 资助运营",
+          "article_title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:36:10 +0000",
+          "added_at": "2026-11-12T04:06:40.629138+00:00"
+        }
+      ]
+    },
+    {
+      "source": "honeywell",
+      "target": "quantinuum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Honeywell 持有 Quantinuum 54% 股权",
+          "article_title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:36:10 +0000",
+          "added_at": "2026-11-12T04:06:40.629138+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "quantinuum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "IBM 是 Quantinuum 的投资方",
+          "article_title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:36:10 +0000",
+          "added_at": "2026-11-12T04:06:40.629138+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "coreweave",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Anthropic 与 CoreWeave 签有算力合同",
+          "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+          "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+          "added_at": "2026-11-12T04:06:41.415270+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "iren",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "IREN 依赖 Microsoft 大额预付款来支付算力产能建设",
+          "article_title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+          "article_url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 11 Nov 2026 19:54:00 +0000",
+          "added_at": "2026-11-12T04:06:42.206381+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thrive capital",
+      "target": "fractile",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Fractile 7.2 亿美元 C 轮，估值 70 亿美元",
+          "article_title": "British inference chip developer Fractile raises $720M in funding",
+          "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+          "added_at": "2026-11-12T04:06:43.553496+00:00"
+        }
+      ]
+    },
+    {
+      "source": "founders fund",
+      "target": "fractile",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Fractile 7.2 亿美元 C 轮",
+          "article_title": "British inference chip developer Fractile raises $720M in funding",
+          "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+          "added_at": "2026-11-12T04:06:43.553496+00:00"
+        }
+      ]
+    },
+    {
+      "source": "lightspeed venture partners",
+      "target": "fractile",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Fractile 7.2 亿美元 C 轮",
+          "article_title": "British inference chip developer Fractile raises $720M in funding",
+          "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+          "added_at": "2026-11-12T04:06:43.553496+00:00"
+        }
+      ]
+    },
+    {
+      "source": "redpoint ventures",
+      "target": "fractile",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Fractile 7.2 亿美元 C 轮",
+          "article_title": "British inference chip developer Fractile raises $720M in funding",
+          "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+          "added_at": "2026-11-12T04:06:43.553496+00:00"
+        }
+      ]
+    },
+    {
+      "source": "capitalg",
+      "target": "fractile",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Alphabet 旗下 CapitalG 参投 Fractile C 轮",
+          "article_title": "British inference chip developer Fractile raises $720M in funding",
+          "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+          "added_at": "2026-11-12T04:06:43.553496+00:00"
+        }
+      ]
+    },
+    {
+      "source": "uk sovereign ai fund",
+      "target": "fractile",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英国主权 AI 基金参投，以提升英国在 AI 硬件中的份额",
+          "article_title": "British inference chip developer Fractile raises $720M in funding",
+          "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+          "added_at": "2026-11-12T04:06:43.553496+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fractile",
+      "target": "cerebras systems",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "都在解决推理时片外 HBM 数据搬运瓶颈：Cerebras 用大容量片上 SRAM，Fractile 把 DRAM 堆叠在芯片上",
+          "article_title": "British inference chip developer Fractile raises $720M in funding",
+          "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+          "added_at": "2026-11-12T04:06:43.553496+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fractile",
+      "target": "samsung electronics",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Samsung 的 zHBM 同样采用堆叠在 AI 加速器上的方案",
+          "article_title": "British inference chip developer Fractile raises $720M in funding",
+          "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+          "added_at": "2026-11-12T04:06:43.553496+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pjm interconnection",
+      "target": "tapestry",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "PJM 部署 Tapestry 的 HyperQ 平台，不到一天审查 Cycle 1 中 220GW 发电项目的场址控制文件",
+          "article_title": "Google-backed Tapestry completes deployment of HyperQ AI platform for PJM's Cycle 1 interconnection review",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 16:21:44 +0000",
+          "added_at": "2026-11-12T04:06:44.074553+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "tapestry",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Tapestry 是 Google X 的 moonshot 项目，由 Google 支持",
+          "article_title": "Google-backed Tapestry completes deployment of HyperQ AI platform for PJM's Cycle 1 interconnection review",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 16:21:44 +0000",
+          "added_at": "2026-11-12T04:06:44.074553+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kraft",
+      "target": "unified global packaging",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "计划在 Unified 的 Sutton Parkway 地块合建 900MW、160 亿美元的数据中心园区，尚未提交正式申请",
+          "article_title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
+          "article_url": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 14:34:00 +0000",
+          "added_at": "2026-11-12T04:06:44.881875+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mubbadrah investment",
+      "target": "sustopia capital",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Mubbadrah 牵头财团在阿曼 Salalah 建 400MW AI 数据中心，初始投资 30 亿美元",
+          "article_title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+          "article_url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 17:13:28 +0000",
+          "added_at": "2026-11-12T04:06:46.488405+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mubbadrah investment",
+      "target": "vela tech",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Vela Tech 为阿曼 Salalah AI 数据中心财团成员",
+          "article_title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+          "article_url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 17:13:28 +0000",
+          "added_at": "2026-11-12T04:06:46.488405+00:00"
+        }
+      ]
+    },
+    {
+      "source": "o2 global energy",
+      "target": "mubbadrah investment",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "O2 Global Energy 为项目开发 400MW 光伏加电池储能",
+          "article_title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+          "article_url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 17:13:28 +0000",
+          "added_at": "2026-11-12T04:06:46.488405+00:00"
+        }
+      ]
+    },
+    {
+      "source": "crusoe",
+      "target": "mubbadrah investment",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Crusoe 表示有意成为该项目数据中心容量的潜在客户（未签约）",
+          "article_title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+          "article_url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 17:13:28 +0000",
+          "added_at": "2026-11-12T04:06:46.488405+00:00"
+        }
+      ]
+    },
+    {
+      "source": "shanghai century litong",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "成为 Nvidia 优选云合作伙伴，据报道经手 75 亿美元 Nvidia 芯片采购（含禁售芯片）",
+          "article_title": "The unfolding Jensen Huang scandal: a timeline",
+          "article_url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+          "added_at": "2026-11-12T04:06:47.275354+00:00"
+        }
+      ]
+    },
+    {
+      "source": "megaspeed",
+      "target": "alibaba",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Megaspeed 曾向阿里巴巴等中国公司出租算力",
+          "article_title": "The unfolding Jensen Huang scandal: a timeline",
+          "article_url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+          "added_at": "2026-11-12T04:06:47.275354+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "apptronik",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Gemini Robotics 2.5 适配 Apptronik Apollo 2 人形机器人，经数周后训练迁移到 Mercedes-Benz 产线几乎无性能下降",
+          "article_title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+          "article_url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 16:30:22 +0000",
+          "added_at": "2026-11-12T04:06:47.806934+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "boston dynamics",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Gemini Robotics 2.5 通过 Boston Dynamics 等机器人合作伙伴推出",
+          "article_title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+          "article_url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 16:30:22 +0000",
+          "added_at": "2026-11-12T04:06:47.806934+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "agile robots",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Gemini Robotics 2.5 通过 Agile Robots 等机器人合作伙伴推出",
+          "article_title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+          "article_url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 16:30:22 +0000",
+          "added_at": "2026-11-12T04:06:47.806934+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mercedesbenz",
+      "target": "google deepmind",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Mercedes-Benz 真实场景概念验证中，Gemini Robotics 2.5 打包汽车零部件成功率 96%",
+          "article_title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+          "article_url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 16:30:22 +0000",
+          "added_at": "2026-11-12T04:06:47.806934+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "franka",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Gemini Robotics 2.5 原生支持 Franka Duo 双臂平台",
+          "article_title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+          "article_url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 11 Nov 2026 16:30:22 +0000",
+          "added_at": "2026-11-12T04:06:47.806934+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bt",
+      "target": "spacex",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "BT 已准备好上线与 Starlink 的卫星连接合作，但因 Starlink 在乌克兰服务中断风波推迟到未来几个月",
+          "article_title": "BT delays Starlink partnership amid recent Ukrainian disruption - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/bt-delays-starlink-partnership-amid-recent-ukrainian-disruption-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 11 Nov 2026 14:37:03 +0000",
+          "added_at": "2026-11-12T04:06:48.588948+00:00"
         }
       ]
     }
@@ -18291,6 +19315,213 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 11 Nov 2026 01:51:39 +0000",
       "added_at": "2026-11-11T06:20:13.213148+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "IBM 发布 Nighthawk r3（520 可编程比特、10,000 次操作）并计划 2027 年用 l-coupler 互联成 1,040 比特系统，r2 已有客户线路与加速比数据，模块化+经典协同路线得到阶段性验证",
+      "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+      "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+      "added_at": "2026-11-12T04:06:39.555551+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "IBM 把 HPC 经典算力与量子处理器整合进同一平台，量子纠错与混合工作流将持续消耗 GPU/CPU 经典算力（如 AMD MI355X），对 AI 基础设施层是边际增量",
+      "article_title": "IBM Plans 1,040-Qubit Quantum System with Next-Generation Nighthawk Processors",
+      "article_url": "https://thequantuminsider.com/2026/11/11/ibm-nighthawk-r3-processor-520-programmable-qubits/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 14:03:23 +0000",
+      "added_at": "2026-11-12T04:06:39.824012+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Rigetti 108 比特 Cepheus-1 达成 99.5% 两比特门保真度，现金 4.97 亿美元无负债、获商务部 1 亿美元 CHIPS 资助并入股，但单季收入仅 140 万美元，商业化仍很早，偏中性略正面",
+      "article_title": "Rigetti Reports Q3 2026 Results and Updates Quantum Computing Roadmap",
+      "article_url": "https://thequantuminsider.com/2026/11/11/rigetti-q3-2026-results-quantum-computing-roadmap/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 11 Nov 2026 09:30:09 +0000",
+      "added_at": "2026-11-12T04:06:40.368069+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Quantinuum 把 RIKEN 的 Reimei 升级为 56 比特 H2、启动 Made with Japan 容错机研发，并与 SoftBank 探索量子接入 AI 数据中心，国家项目投入加商业渠道双重确认",
+      "article_title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+      "article_url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 12:36:10 +0000",
+      "added_at": "2026-11-12T04:06:40.892103+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "量子计算被定位为 AI 数据中心中的附加加速能力（Quantum AI Datacenter），而非替代 GPU，对 AI 数据中心运营商是差异化增量，目前仍处于探索阶段",
+      "article_title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+      "article_url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 12:36:10 +0000",
+      "added_at": "2026-11-12T04:06:41.149319+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic 承诺算力支出约 8,954 亿美元并再加签 Microsoft 43 亿美元，需求侧依旧强劲；但 Lambda 349 亿合同因拿不到设施租约变为可终止、Q3 转为经营亏损，显示瓶颈在带电场地而非客户需求",
+      "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+      "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+      "added_at": "2026-11-12T04:06:41.672292+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Lambda 合同因拿不到设施租约而可终止，说明 AI 扩张的真正瓶颈是带电场地，能交付电力与现场发电的一层（呼应 Anthropic 燃气发电机合同）直接受益",
+      "article_title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+      "article_url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 12:19:07 +0000",
+      "added_at": "2026-11-12T04:06:41.937951+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "CoreWeave Q3 收入增 168%、短期算力售价超每兆瓦每年 4,000 万美元、预计 90 亿美元客户预付，算力议价权在卖方；但净亏损 7.09 亿、债券收益率超 15%，结构对需求下滑高度敏感",
+      "article_title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "article_url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 11 Nov 2026 19:54:00 +0000",
+      "added_at": "2026-11-12T04:06:42.477086+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "CoreWeave 30 亿美元以上预付款针对已建成产能，现成的电力和机房最稀缺、议价权最高，利好能交付带电产能的能源与数据中心基础设施层",
+      "article_title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "article_url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 11 Nov 2026 19:54:00 +0000",
+      "added_at": "2026-11-12T04:06:42.741260+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "据 Bloomberg 匿名信源，OpenAI 季度收入首破 100 亿美元、环比增约 50%，经营利润率由 -150% 收窄至 -109%，头部模型公司收入加速，支撑上游算力承诺，但仍为非正式披露",
+      "article_title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "article_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 11 Nov 2026 16:14:44 +0000",
+      "added_at": "2026-11-12T04:06:43.300256+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Fractile 融资 7.2 亿美元押注把 DRAM 堆叠在推理芯片上以消除 HBM 数据搬运瓶颈（性能与 90% 节能为公司自述、未经独立验证），资本仍在大规模押注推理效率，先进封装与存储层受益",
+      "article_title": "British inference chip developer Fractile raises $720M in funding",
+      "article_url": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 21:12:49 +0000",
+      "added_at": "2026-11-12T04:06:43.818404+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Tapestry 的 HyperQ 用多模态 AI 把 PJM 并网申请的场址控制审查从两个月压到不到一天，针对的是电力供给链上并网排队这一具体卡点，但目前只覆盖初始审查",
+      "article_title": "Google-backed Tapestry completes deployment of HyperQ AI platform for PJM's Cycle 1 interconnection review",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 16:21:44 +0000",
+      "added_at": "2026-11-12T04:06:44.342615+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "HyperQ 在 PJM 的部署展示了人类审核加 AI 引用溯源在强监管行业的落地范例，AI 被用来缓解 AI 自身的电力约束",
+      "article_title": "Google-backed Tapestry completes deployment of HyperQ AI platform for PJM's Cycle 1 interconnection review",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 16:21:44 +0000",
+      "added_at": "2026-11-12T04:06:44.604199+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Sutton 900MW 园区规划电力方案仍是空白、正与区域电网运营商商谈供电，大型园区落地的瓶颈在电网接入与社会许可，输变电和现场发电层受益",
+      "article_title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
+      "article_url": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 14:34:00 +0000",
+      "added_at": "2026-11-12T04:06:45.164425+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Kraft Group 规划 160 亿美元、900MW 数据中心园区说明需求仍在推动大型项目，但项目暂定、2027 年 5 月才投票，从宣布到动工不确定性很高",
+      "article_title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
+      "article_url": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 14:34:00 +0000",
+      "added_at": "2026-11-12T04:06:45.424164+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Ottawa 以 71.85% 跨党派选票通过十年数据中心禁令，全美中期选举中支持类似立法超 40 项，土地和社会许可成为与电力并列的硬约束，新增产能落地周期被拉长，边际利空",
+      "article_title": "10-year data center moratorium approved in Ottawa, Kansas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 13:35:00 +0000",
+      "added_at": "2026-11-12T04:06:45.949656+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "被禁令挡住的 Lightfield 项目是数据中心加燃气电厂一体化方案，配套电源项目会随禁令一并受阻，同时已获许可的存量带电产能稀缺性上升",
+      "article_title": "10-year data center moratorium approved in Ottawa, Kansas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 13:35:00 +0000",
+      "added_at": "2026-11-12T04:06:46.220132+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "阿曼 400MW AI 数据中心配套开发 400MW 光伏加电池储能，30 亿美元投资覆盖电力、冷却、建筑与网络，光伏储能设备与冷却系统获得实打实的硬件需求",
+      "article_title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+      "article_url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 17:13:28 +0000",
+      "added_at": "2026-11-12T04:06:46.753262+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "欧美社区与电网约束收紧之际，算力需求外溢到能源充足的中东，Crusoe 表示有意租用，但项目仍处早期规划、无时间表",
+      "article_title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+      "article_url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 17:13:28 +0000",
+      "added_at": "2026-11-12T04:06:47.011596+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "黄仁勋丑闻升级至董事会可能罢免、Nvidia 盘后跌约 8%，叠加 Megaspeed 芯片走私调查与无接班人的关键人风险，短期对 AI 板块情绪利空；需求未变，中期可能边际利好 AMD、自研 ASIC 等替代方案",
+      "article_title": "The unfolding Jensen Huang scandal: a timeline",
+      "article_url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+      "added_at": "2026-11-12T04:06:47.536462+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Gemini Robotics 2.5 借助 Gemini 4 Argon 能力在 200 多项任务上提升灵巧度与速度，在 Mercedes-Benz 概念验证中打包成功率 96%，Apptronik 数周后训练即迁移产线，但任务间成功率 30%-100% 差距仍大",
+      "article_title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+      "article_url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 16:30:22 +0000",
+      "added_at": "2026-11-12T04:06:48.065139+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "前沿大模型推理能力向 VLA 机器人模型迁移，展示了 AI 向物理世界溢出的商业路径，训练与推理 VLA 仍需大量算力",
+      "article_title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+      "article_url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 11 Nov 2026 16:30:22 +0000",
+      "added_at": "2026-11-12T04:06:48.329187+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "BT 因 Starlink 乌克兰服务中断的声誉风波推迟上线合作，显示低轨星座的瓶颈正转向客户信任与主权可控，对 Starlink 是短期小利空、对欧洲主权星座是差异化卖点",
+      "article_title": "BT delays Starlink partnership amid recent Ukrainian disruption - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/bt-delays-starlink-partnership-amid-recent-ukrainian-disruption-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 11 Nov 2026 14:37:03 +0000",
+      "added_at": "2026-11-12T04:06:48.860966+00:00"
     }
   ]
 }
