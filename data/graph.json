@@ -2681,15 +2681,17 @@
     "nist": {
       "name": "NIST",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "standards agency"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-09T05:41:43.641813+00:00",
-      "last_seen": "2026-08-09T05:41:43.641813+00:00"
+      "last_seen": "2026-11-13T18:10:29.340199+00:00"
     },
     "deepseek": {
       "name": "DeepSeek",
@@ -4425,7 +4427,8 @@
       "name": "DARPA",
       "type": "institution",
       "sectors": [
-        "US defense research agency"
+        "US defense research agency",
+        "defense research agency"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -4433,9 +4436,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 6,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-13T18:10:29.340199+00:00"
     },
     "los alamos national laboratory": {
       "name": "Los Alamos National Laboratory",
@@ -6810,9 +6813,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-12T04:06:40.101618+00:00"
+      "last_seen": "2026-11-13T18:10:29.340199+00:00"
     },
     "applied digital": {
       "name": "Applied Digital",
@@ -8233,6 +8236,81 @@
       "mentions": 1,
       "first_seen": "2026-11-13T17:11:09.897564+00:00",
       "last_seen": "2026-11-13T17:11:09.897564+00:00"
+    },
+    "california institute of caltech": {
+      "name": "California Institute of Technology (Caltech)",
+      "type": "institution",
+      "sectors": [
+        "university / in-space assembly research"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T18:10:28.398910+00:00",
+      "last_seen": "2026-11-13T18:10:28.398910+00:00"
+    },
+    "corvus": {
+      "name": "Corvus Robotics",
+      "type": "company",
+      "sectors": [
+        "warehouse inventory drones"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T18:10:28.398910+00:00",
+      "last_seen": "2026-11-13T18:10:28.398910+00:00"
+    },
+    "asics america": {
+      "name": "ASICS America",
+      "type": "company",
+      "sectors": [
+        "apparel / distribution"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T18:10:28.398910+00:00",
+      "last_seen": "2026-11-13T18:10:28.398910+00:00"
+    },
+    "foundation for american innovation": {
+      "name": "Foundation for American Innovation",
+      "type": "institution",
+      "sectors": [
+        "policy think tank"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T18:10:29.340199+00:00",
+      "last_seen": "2026-11-13T18:10:29.340199+00:00"
+    },
+    "playground global": {
+      "name": "Playground Global",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T18:10:29.340199+00:00",
+      "last_seen": "2026-11-13T18:10:29.340199+00:00"
     }
   },
   "edges": [
@@ -19094,6 +19172,66 @@
           "added_at": "2026-11-13T17:11:09.897564+00:00"
         }
       ]
+    },
+    {
+      "source": "darpa",
+      "target": "california institute of caltech",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "DARPA NOM4D 项目中 Caltech 在轨载荷用三轴龙门机器人完成首次自动化在轨桁架组装演示",
+          "article_title": "Video Friday: NASA PROMISEs a New Moon Rover",
+          "article_url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Fri, 13 Nov 2026 17:30:03 +0000",
+          "added_at": "2026-11-13T18:10:28.398910+00:00"
+        }
+      ]
+    },
+    {
+      "source": "asics america",
+      "target": "corvus",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Corvus One 无人机在 ASICS America 密西西比 Byhalia 配送中心无定位基础设施清点箱子、读取 UPC",
+          "article_title": "Video Friday: NASA PROMISEs a New Moon Rover",
+          "article_url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Fri, 13 Nov 2026 17:30:03 +0000",
+          "added_at": "2026-11-13T18:10:28.398910+00:00"
+        }
+      ]
+    },
+    {
+      "source": "foundation for american innovation",
+      "target": "playground global",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "FAI 与 Playground Global 共同主办量子供应链圆桌,据此发布政策分析",
+          "article_title": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
+          "article_url": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 13 Nov 2026 16:17:23 +0000",
+          "added_at": "2026-11-13T18:10:29.340199+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "nist",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "NIST 隶属商务部,新设量子部件与系统中心,支持量子制造能力",
+          "article_title": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
+          "article_url": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 13 Nov 2026 16:17:23 +0000",
+          "added_at": "2026-11-13T18:10:29.340199+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -22489,6 +22627,60 @@
       "source_name": "SiliconANGLE",
       "published": "Fri, 13 Nov 2026 16:45:11 +0000",
       "added_at": "2026-11-13T17:11:10.370551+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "DARPA NOM4D 项目由 Caltech 载荷完成首次自动化在轨桁架组装演示(三轴龙门机器人 + 定制接头),在轨制造/在轨服务层是大型太空结构的前置条件;仍是概念验证",
+      "article_title": "Video Friday: NASA PROMISEs a New Moon Rover",
+      "article_url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 13 Nov 2026 17:30:03 +0000",
+      "added_at": "2026-11-13T18:10:28.632888+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "在轨组装用简单三轴龙门机器人而非复杂机械臂,空间机器人细分方向受益;Corvus 无人机在 ASICS 仓库无定位设施盘点是仓储机器人落地案例;均为演示/单点案例",
+      "article_title": "Video Friday: NASA PROMISEs a New Moon Rover",
+      "article_url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 13 Nov 2026 17:30:03 +0000",
+      "added_at": "2026-11-13T18:10:28.871078+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "FAI 政策分析指出制冷、氦-3、硅-28、激光与光学等使能层仅获不足 12% 联邦量子资金且被 AI 需求挤占,建议预先市场承诺与联邦多系统采购;瓶颈在使能层,Bluefors/Oxford Instruments 等制冷、测控与激光供应商先受益;尚为政策建议,关键看 12 月国家量子战略更新",
+      "article_title": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
+      "article_url": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 13 Nov 2026 16:17:23 +0000",
+      "added_at": "2026-11-13T18:10:29.578033+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "圆桌反映 AI 需求已吸走大量光子芯片、低损耗光开关和高质量光纤供应,侧面印证 AI 数据中心光互联需求真实,Broadcom、Marvell、Corning 等互联层持续受益",
+      "article_title": "U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn",
+      "article_url": "https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 13 Nov 2026 16:17:23 +0000",
+      "added_at": "2026-11-13T18:10:29.822347+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "DCD Connect Virginia:speed-to-power 仍是数据中心头号障碍,燃气作桥接电源、数据中心需成为电网资源,800VDC 供电进入视野;利好现场发电、储能/需求响应与 Vertiv、Eaton 等配电电源层;中期选举否决多数地方数据中心议案使社会许可成为第二道瓶颈;会议观察非硬数据",
+      "article_title": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 18:04:32 +0000",
+      "added_at": "2026-11-13T18:10:30.289293+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "OpenAI/Anthropic 据报寻求 20–30MW 推理部署,AI/neocloud 客户网络机房达 400 机柜,推理负载推动中小型分散站点与本地光纤、交换节点需求,利好光纤互联层;选举反弹抬高新项目时间成本",
+      "article_title": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 18:04:32 +0000",
+      "added_at": "2026-11-13T18:10:30.523065+00:00"
     }
   ]
 }
