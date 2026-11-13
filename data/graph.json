@@ -465,9 +465,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 32,
+      "mentions": 33,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:09.837038+00:00"
+      "last_seen": "2026-11-13T11:09:39.674798+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -4350,7 +4350,8 @@
       "type": "company",
       "sectors": [
         "AI neocloud",
-        "neocloud"
+        "neocloud",
+        "AI cloud / neocloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -4358,9 +4359,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-13T06:17:10.573039+00:00"
+      "last_seen": "2026-11-13T11:09:39.674798+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -7825,6 +7826,75 @@
       "mentions": 1,
       "first_seen": "2026-11-13T10:11:35.296951+00:00",
       "last_seen": "2026-11-13T10:11:35.296951+00:00"
+    },
+    "sttgdc": {
+      "name": "STTGDC",
+      "type": "company",
+      "sectors": [
+        "APAC colocation data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T11:09:40.396868+00:00",
+      "last_seen": "2026-11-13T11:09:40.396868+00:00"
+    },
+    "neysa": {
+      "name": "Neysa",
+      "type": "company",
+      "sectors": [
+        "India AI cloud / neocloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T11:09:40.396868+00:00",
+      "last_seen": "2026-11-13T11:09:40.396868+00:00"
+    },
+    "kkr": {
+      "name": "KKR",
+      "type": "company",
+      "sectors": [
+        "private equity"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T11:09:40.396868+00:00",
+      "last_seen": "2026-11-13T11:09:40.396868+00:00"
+    },
+    "singtel": {
+      "name": "Singtel",
+      "type": "company",
+      "sectors": [
+        "telecommunications"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T11:09:40.396868+00:00",
+      "last_seen": "2026-11-13T11:09:40.396868+00:00"
+    },
+    "st telemedia": {
+      "name": "ST Telemedia",
+      "type": "company",
+      "sectors": [
+        "telecom & digital infrastructure investment"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T11:09:40.396868+00:00",
+      "last_seen": "2026-11-13T11:09:40.396868+00:00"
     }
   },
   "edges": [
@@ -13707,6 +13777,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 11 Nov 2026 12:19:07 +0000",
           "added_at": "2026-11-12T04:06:41.415270+00:00"
+        },
+        {
+          "description": "8 月签署 450 亿美元 Monarch 园区算力协议;9 月 29 日行使 2 号楼追加算力权利,并有 3 号楼优先权;Nscale 交付延迟时 Anthropic 可无责终止对应批次",
+          "article_title": "Nscale brings online two data centers and 25,000 GPUs in 2.5 months",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nscale-brings-online-two-data-centers-and-25000-gpus-in-25-months/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:05:00 +0000",
+          "added_at": "2026-11-13T11:09:39.674798+00:00"
         }
       ]
     },
@@ -18089,6 +18167,66 @@
           "added_at": "2026-11-13T10:11:35.296951+00:00"
         }
       ]
+    },
+    {
+      "source": "neysa",
+      "target": "sttgdc",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Neysa 将在 STTGDC Noida NOI2 数据中心租用容量,部署约 9000 块 GPU",
+          "article_title": "STTGDC launches 22MW data center in Noida, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sttgdc-launches-22mw-data-center-in-noida-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:16:44 +0000",
+          "added_at": "2026-11-13T11:09:40.396868+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kkr",
+      "target": "sttgdc",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "今年 2 月与 Singtel 从 ST Telemedia 手中全资收购 STT GDC",
+          "article_title": "STTGDC launches 22MW data center in Noida, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sttgdc-launches-22mw-data-center-in-noida-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:16:44 +0000",
+          "added_at": "2026-11-13T11:09:40.396868+00:00"
+        }
+      ]
+    },
+    {
+      "source": "singtel",
+      "target": "sttgdc",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "今年 2 月与 KKR 从 ST Telemedia 手中全资收购 STT GDC",
+          "article_title": "STTGDC launches 22MW data center in Noida, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sttgdc-launches-22mw-data-center-in-noida-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:16:44 +0000",
+          "added_at": "2026-11-13T11:09:40.396868+00:00"
+        }
+      ]
+    },
+    {
+      "source": "st telemedia",
+      "target": "sttgdc",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "STT GDC 原为 ST Telemedia 旗下公司,今年 2 月出售给 KKR 与 Singtel",
+          "article_title": "STTGDC launches 22MW data center in Noida, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sttgdc-launches-22mw-data-center-in-noida-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:16:44 +0000",
+          "added_at": "2026-11-13T11:09:40.396868+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -21313,6 +21451,33 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 13 Nov 2026 09:58:23 +0000",
       "added_at": "2026-11-13T10:11:35.765261+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nscale 招股书显示活跃+已签约 TCV 达 1058 亿美元、46.1 万块 GPU 待部署但仅交付约 5 万块,需求确认而融资尚未落地,利好 GPU 层,neocloud 本身风险高(数据来自公司招股书)",
+      "article_title": "Nscale brings online two data centers and 25,000 GPUs in 2.5 months",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nscale-brings-online-two-data-centers-and-25000-gpus-in-25-months/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 10:05:00 +0000",
+      "added_at": "2026-11-13T11:09:39.912979+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Nscale 1.37GW 已签约容量中 1GW 在自有站点,并称对 10GW 潜在电力有 line of sight,neocloud 自行囤电拿电,利好电网设备与表后发电",
+      "article_title": "Nscale brings online two data centers and 25,000 GPUs in 2.5 months",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nscale-brings-online-two-data-centers-and-25000-gpus-in-25-months/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 10:05:00 +0000",
+      "added_at": "2026-11-13T11:09:40.148890+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "印度本土 neocloud Neysa 在 STTGDC 22MW 新楼部署约 9000 块 GPU,单一 AI 租户即可吃掉一栋楼大部分容量,利好 GPU 供应和持有已通电容量的托管运营商",
+      "article_title": "STTGDC launches 22MW data center in Noida, India",
+      "article_url": "https://www.datacenterdynamics.com/en/news/sttgdc-launches-22mw-data-center-in-noida-india/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 10:16:44 +0000",
+      "added_at": "2026-11-13T11:09:40.635373+00:00"
     }
   ]
 }
