@@ -1309,15 +1309,17 @@
     "atom computing": {
       "name": "Atom Computing",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "neutral-atom quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-13T20:09:34.600622+00:00"
     },
     "oxford quantum circuits oqc": {
       "name": "Oxford Quantum Circuits (OQC)",
@@ -4432,7 +4434,8 @@
       "type": "institution",
       "sectors": [
         "US defense research agency",
-        "defense research agency"
+        "defense research agency",
+        "defense R&D agency"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -4440,9 +4443,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-13T18:10:29.340199+00:00"
+      "last_seen": "2026-11-13T20:09:34.600622+00:00"
     },
     "los alamos national laboratory": {
       "name": "Los Alamos National Laboratory",
@@ -6811,16 +6814,17 @@
       "name": "U.S. Department of Commerce",
       "type": "institution",
       "sectors": [
-        "government"
+        "government",
+        "federal government"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-13T18:10:29.340199+00:00"
+      "last_seen": "2026-11-13T20:09:34.600622+00:00"
     },
     "applied digital": {
       "name": "Applied Digital",
@@ -8346,6 +8350,47 @@
       "mentions": 1,
       "first_seen": "2026-11-13T19:09:50.917587+00:00",
       "last_seen": "2026-11-13T19:09:50.917587+00:00"
+    },
+    "qunorth": {
+      "name": "QuNorth",
+      "type": "institution",
+      "sectors": [
+        "Nordic quantum initiative"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T20:09:34.600622+00:00",
+      "last_seen": "2026-11-13T20:09:34.600622+00:00"
+    },
+    "eifo": {
+      "name": "EIFO",
+      "type": "institution",
+      "sectors": [
+        "Danish export & investment fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T20:09:34.600622+00:00",
+      "last_seen": "2026-11-13T20:09:34.600622+00:00"
+    },
+    "novo nordisk foundation": {
+      "name": "Novo Nordisk Foundation",
+      "type": "institution",
+      "sectors": [
+        "foundation"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T20:09:34.600622+00:00",
+      "last_seen": "2026-11-13T20:09:34.600622+00:00"
     }
   },
   "edges": [
@@ -19320,6 +19365,81 @@
           "added_at": "2026-11-13T19:09:50.917587+00:00"
         }
       ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "atom computing",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "商务部与 Atom Computing 签署最高 1 亿美元研发协议(此前意向书的落地),用于自研关键技术、扩建测试平台和供应链合作,加速容错实用规模量子计算机",
+          "article_title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+          "article_url": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 13 Nov 2026 18:36:11 +0000",
+          "added_at": "2026-11-13T20:09:34.600622+00:00"
+        }
+      ]
+    },
+    {
+      "source": "darpa",
+      "target": "atom computing",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Atom Computing 作为唯一中性原子公司进入 DARPA 量子基准计划(QBI)C 阶段,潜在资金最高 3 亿美元",
+          "article_title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+          "article_url": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 13 Nov 2026 18:36:11 +0000",
+          "added_at": "2026-11-13T20:09:34.600622+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qunorth",
+      "target": "atom computing",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "2025 年 Atom Computing 向北欧量子计划 QuNorth 出售首台商用本地部署量子计算机",
+          "article_title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+          "article_url": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 13 Nov 2026 18:36:11 +0000",
+          "added_at": "2026-11-13T20:09:34.600622+00:00"
+        }
+      ]
+    },
+    {
+      "source": "eifo",
+      "target": "qunorth",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "QuNorth 由 EIFO 和诺和诺德基金会资助",
+          "article_title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+          "article_url": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 13 Nov 2026 18:36:11 +0000",
+          "added_at": "2026-11-13T20:09:34.600622+00:00"
+        }
+      ]
+    },
+    {
+      "source": "novo nordisk foundation",
+      "target": "qunorth",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "QuNorth 由 EIFO 和诺和诺德基金会资助",
+          "article_title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+          "article_url": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 13 Nov 2026 18:36:11 +0000",
+          "added_at": "2026-11-13T20:09:34.600622+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -22778,6 +22898,15 @@
       "source_name": "TechCrunch - AI",
       "published": "Fri, 13 Nov 2026 18:40:30 +0000",
       "added_at": "2026-11-13T19:09:51.157654+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "(公司新闻稿,利益相关,技术里程碑未经独立验证)Atom Computing 落地商务部最高 1 亿美元研发协议、并进入 DARPA QBI C 阶段(最高 3 亿美元),资金主要投向垂直整合、测试平台和供应链扩产,呼应量子供应链瓶颈;政府资金在多条技术路线上同时下注,利好板块情绪,中性原子路线上游的激光/光学与测控层可能先受益;Atom 未上市,金额均为上限且按里程碑拨付",
+      "article_title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award",
+      "article_url": "https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 13 Nov 2026 18:36:11 +0000",
+      "added_at": "2026-11-13T20:09:34.833847+00:00"
     }
   ]
 }
