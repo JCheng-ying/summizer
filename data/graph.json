@@ -242,11 +242,12 @@
         "AI compute / networking",
         "AI accelerators",
         "AI accelerators / GPUs",
-        "AI GPUs"
+        "AI GPUs",
+        "GPU / AI compute"
       ],
-      "mentions": 40,
+      "mentions": 41,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-13T19:09:50.917587+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -698,15 +699,17 @@
     "langchain": {
       "name": "LangChain",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "AI agent management (LangSmith)"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
     },
     "spacex": {
       "name": "SpaceX",
@@ -2488,9 +2491,9 @@
       ],
       "hot": "hot",
       "ticker": "TM",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T05:07:36.963318+00:00",
-      "last_seen": "2026-11-06T07:01:18.386391+00:00"
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
     },
     "persona": {
       "name": "Persona",
@@ -7180,14 +7183,17 @@
       "name": "CapitalG",
       "type": "company",
       "sectors": [
-        "Alphabet growth fund"
+        "Alphabet growth fund",
+        "growth fund (Alphabet)"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-12T04:06:43.553496+00:00",
-      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
     },
     "uk sovereign ai fund": {
       "name": "UK Sovereign AI Fund",
@@ -8391,6 +8397,129 @@
       "mentions": 1,
       "first_seen": "2026-11-13T20:09:34.600622+00:00",
       "last_seen": "2026-11-13T20:09:34.600622+00:00"
+    },
+    "gic": {
+      "name": "GIC",
+      "type": "institution",
+      "sectors": [
+        "Singapore sovereign wealth fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "dfj growth": {
+      "name": "DFJ Growth",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "ivp": {
+      "name": "IVP",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "sapphire ventures": {
+      "name": "Sapphire Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "mintive": {
+      "name": "Mintive",
+      "type": "company",
+      "sectors": [
+        "AI agent management"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "harvey": {
+      "name": "Harvey",
+      "type": "company",
+      "sectors": [
+        "legal AI"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "rippling": {
+      "name": "Rippling",
+      "type": "company",
+      "sectors": [
+        "HR software"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "clay": {
+      "name": "Clay",
+      "type": "company",
+      "sectors": [
+        "go-to-market data software"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "salesforce": {
+      "name": "Salesforce",
+      "type": "company",
+      "sectors": [
+        "enterprise software"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "CRM",
+      "mentions": 1,
+      "first_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T21:09:37.045387+00:00"
     }
   },
   "edges": [
@@ -19440,6 +19569,186 @@
           "added_at": "2026-11-13T20:09:34.600622+00:00"
         }
       ]
+    },
+    {
+      "source": "capitalg",
+      "target": "langchain",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "CapitalG 领投 LangChain 3 亿美元 C 轮,估值 30 亿美元",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gic",
+      "target": "langchain",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "GIC 领投/参投 LangChain 3 亿美元 C 轮(估值 30 亿美元)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dfj growth",
+      "target": "langchain",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "DFJ Growth 领投/参投 LangChain 3 亿美元 C 轮(估值 30 亿美元)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ivp",
+      "target": "langchain",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "IVP 参投 C 轮;约一年前领投其 1.25 亿美元融资(估值 12.5 亿美元)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sapphire ventures",
+      "target": "langchain",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Sapphire Ventures 领投/参投 LangChain 3 亿美元 C 轮(估值 30 亿美元)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mintive",
+      "target": "langchain",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Mintive 是主打类似卖点的 Agent 管理新创公司",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvey",
+      "target": "langchain",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Harvey 是 LangSmith 客户(公司口径)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rippling",
+      "target": "langchain",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Rippling 是 LangSmith 客户(公司口径)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "clay",
+      "target": "langchain",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Clay 是 LangSmith 客户(公司口径)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "langchain",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Nvidia 是 LangSmith 企业客户(公司口径)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "toyota motor",
+      "target": "langchain",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Toyota 是 LangSmith 企业客户(公司口径)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "salesforce",
+      "target": "langchain",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Salesforce 是 LangSmith 企业客户(公司口径)",
+          "article_title": "AI agent startup LangChain hits $3B valuation",
+          "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+          "added_at": "2026-11-13T21:09:37.045387+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -22907,6 +23216,15 @@
       "source_name": "The Quantum Insider",
       "published": "Fri, 13 Nov 2026 18:36:11 +0000",
       "added_at": "2026-11-13T20:09:34.833847+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "LangChain 以 30 亿美元估值完成 3 亿美元 C 轮(CapitalG 领投),估值一年翻倍,说明资本在为'模型之外的 Agent 治理/可观测性/跨模型中立层'定价,对应企业 Agent 落地的可控性瓶颈;Agent 长时多步运行也持续拉动推理算力需求。7,000 家客户为公司口径未经独立验证,且中间层夹在模型厂商与云厂商之间、竞争者门槛不高,确定性有限",
+      "article_title": "AI agent startup LangChain hits $3B valuation",
+      "article_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "added_at": "2026-11-13T21:09:37.279291+00:00"
     }
   ]
 }
