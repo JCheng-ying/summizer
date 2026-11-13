@@ -3334,5 +3334,341 @@
   "https://siliconangle.com/2026/11/11/ibm-quantum-announces-upcoming-nighthawk-r3-processor-designed-to-execute-10000-operations/": {
     "title": "IBM Quantum announces upcoming Nighthawk r3 processor designed to execute 10,000 operations",
     "seen_at": "2026-11-12T04:07:02.310167+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/": {
+    "title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+    "seen_at": "2026-11-13T06:17:09.845188+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/": {
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "seen_at": "2026-11-13T06:17:10.582799+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/": {
+    "title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
+    "seen_at": "2026-11-13T06:17:11.336865+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/": {
+    "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+    "seen_at": "2026-11-13T06:17:12.099687+00:00"
+  },
+  "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/": {
+    "title": "AST SpaceMobile presses case for developing own launch vehicle",
+    "seen_at": "2026-11-13T06:17:12.604920+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/": {
+    "title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
+    "seen_at": "2026-11-13T06:17:13.104589+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/q-ctrl-secures-us290-million-series-c-funding-led-by-salesforce-ventures/": {
+    "title": "Q-CTRL Secures US$290 Million Series C Funding Led by Salesforce Ventures",
+    "seen_at": "2026-11-13T06:17:13.852315+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/ibm-quantum-and-the-race-to-make-scientific-advantage-useful-to-industry/": {
+    "title": "IBM Quantum and the race to make scientific advantage useful to industry",
+    "seen_at": "2026-11-13T06:17:14.341449+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again/": {
+    "title": "Applied Materials posts impressive 53% jump in revenue as it beats expectations again",
+    "seen_at": "2026-11-13T06:17:15.091259+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/cisco-beats-expectations-lifts-its-guidance-and-forecasts-ai-infrastructure-revenue-to-double-in-fiscal-2027/": {
+    "title": "Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027",
+    "seen_at": "2026-11-13T06:17:15.593417+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/": {
+    "title": "Surging AI chip revenue and Microsoft deal boost Cerebras Systems stock by 17%",
+    "seen_at": "2026-11-13T06:17:16.099371+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/": {
+    "title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+    "seen_at": "2026-11-13T06:17:16.602620+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/": {
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "seen_at": "2026-11-13T06:17:17.382643+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/": {
+    "title": "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs",
+    "seen_at": "2026-11-13T06:17:18.142480+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/": {
+    "title": "Google releases Gemini 4 Hydrogen, a lower-cost model said to outscore Argon",
+    "seen_at": "2026-11-13T06:17:18.654696+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/mufg-enters-mou-with-japanese-industry-coalition-to-build-satellite-mega-constellation/": {
+    "title": "MUFG enters MoU with Japanese industry coalition to build satellite mega-constellation",
+    "seen_at": "2026-11-13T06:17:19.162529+00:00"
+  },
+  "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/": {
+    "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+    "seen_at": "2026-11-13T06:17:19.663166+00:00"
+  },
+  "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/": {
+    "title": "What role does industry play in Europe’s space sovereignty push?",
+    "seen_at": "2026-11-13T06:17:19.907188+00:00"
+  },
+  "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/": {
+    "title": "Starship Flight 15 to attempt first catch of both stages",
+    "seen_at": "2026-11-13T06:17:20.150719+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/": {
+    "title": "The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm",
+    "seen_at": "2026-11-13T06:17:20.394275+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/train-the-trainer-inside-mahes-hardware-first-bet-on-quantum/": {
+    "title": "Train the Trainer: Inside MAHE’s Hardware-First Bet on Quantum",
+    "seen_at": "2026-11-13T06:17:20.640463+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/haiqu-appoints-kortny-rolston-duce-ecosystem-development-marketing/": {
+    "title": "Haiqu Appoints Kortny Rolston-Duce to Lead Ecosystem Development and Marketing",
+    "seen_at": "2026-11-13T06:17:20.887657+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/qedma-appoints-scott-aaronson-scientific-advisory-board/": {
+    "title": "Qedma Appoints Scott Aaronson to Its Scientific Advisory Board",
+    "seen_at": "2026-11-13T06:17:21.127727+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/fau-3-million-award-quantum-workforce-development/": {
+    "title": "FAU Receives $3 Million Award for Quantum Workforce Development",
+    "seen_at": "2026-11-13T06:17:21.366197+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/quantum-elements-helps-rigetti-predict-quantum-hardware-behavior/": {
+    "title": "Quantum Elements Helps Rigetti Predict Quantum Hardware Behavior",
+    "seen_at": "2026-11-13T06:17:21.608103+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/orangeqs-raj-badoni-chief-commercial-officer/": {
+    "title": "OrangeQS Appoints Raj Badoni as Chief Commercial Officer",
+    "seen_at": "2026-11-13T06:17:21.854736+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/12/qunovas-hybrid-computing-method-matches-classical-benchmark-for-iron-sulfur-cluster/": {
+    "title": "Qunova’s Hybrid Computing Method Matches Classical Benchmark for Iron-Sulfur Cluster",
+    "seen_at": "2026-11-13T06:17:22.095864+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/": {
+    "title": "Ousted Nvidia CEO Jensen Huang accused of third affair, with another staffer",
+    "seen_at": "2026-11-13T06:17:22.338964+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/": {
+    "title": "Sabey signs 43.5MW PPA in Texas",
+    "seen_at": "2026-11-13T06:17:22.583006+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/": {
+    "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
+    "seen_at": "2026-11-13T06:17:22.825770+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/": {
+    "title": "CDC files to develop 1.4GW data center campus in Kemps Creek, Australia",
+    "seen_at": "2026-11-13T06:17:23.069674+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/": {
+    "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex",
+    "seen_at": "2026-11-13T06:17:23.310700+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/magazines/advancing-thermal-management-for-the-ai-era/": {
+    "title": "Advancing thermal management for the AI era",
+    "seen_at": "2026-11-13T06:17:23.552231+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/telef%C3%B3nica-germany-expands-fiber-net-through-network-sharing-agreement-with-deutsche-glasfaser/": {
+    "title": "Telefónica Germany expands fiber net through network-sharing agreement with Deutsche Glasfaser",
+    "seen_at": "2026-11-13T06:17:23.795330+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/one-year-moratorium-could-be-implemented-in-indiantown-florida/": {
+    "title": "One-year moratorium could be implemented in Indiantown, Florida",
+    "seen_at": "2026-11-13T06:17:24.038726+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/developers-propose-inference-point-facility-in-swansea-massachusetts/": {
+    "title": "Developers propose “inference point facility” in Swansea, Massachusetts",
+    "seen_at": "2026-11-13T06:17:24.282267+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-apologizes-after-second-5g-sa-network-outage-in-five-days/": {
+    "title": "Japan's NTT Docomo apologizes after second 5G SA network outage in five days",
+    "seen_at": "2026-11-13T06:17:24.530219+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/opinions/cooling-orchestration-software-a-welcome-addition-to-ai-data-center-operations/": {
+    "title": "Sponsored: Cooling orchestration software: A welcome addition to AI data center operations",
+    "seen_at": "2026-11-13T06:17:24.777269+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/openai-faces-civil-racketeering-charges-over-30bn-data-center-planned-in-effingham-county-georgia/": {
+    "title": "OpenAI faces civil racketeering charges over $30bn data center planned in Effingham County, Georgia",
+    "seen_at": "2026-11-13T06:17:25.015382+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-resigns-after-multiple-affairs/": {
+    "title": "Nvidia CEO Jensen Huang resigns after multiple affairs",
+    "seen_at": "2026-11-13T06:17:25.255354+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/telia-to-acquire-nordic-mvno-telavox-for-381m/": {
+    "title": "Telia to acquire Nordic MVNO Telavox for $381m",
+    "seen_at": "2026-11-13T06:17:25.498596+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/us-dept-of-energys-jefferson-lab-decommissions-sciphi-xvi-supercomputer/": {
+    "title": "US Dep’t of Energy’s Jefferson Lab decommissions SciPhi-XVI supercomputer",
+    "seen_at": "2026-11-13T06:17:25.743477+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/uk-chip-startup-fractile-valued-at-7bn-following-720m-series-c-funding-round/": {
+    "title": "UK chip startup Fractile valued at $7bn following $720m Series C funding round",
+    "seen_at": "2026-11-13T06:17:25.994818+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/meta-signs-series-of-low-carbon-building-materials-purchase-commitments/": {
+    "title": "Meta signs series of low-carbon building materials purchase commitments",
+    "seen_at": "2026-11-13T06:17:26.230738+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/aws-launches-chile-cloud-region-for-select-customers/": {
+    "title": "AWS launches Chile cloud region for \"select customers\"",
+    "seen_at": "2026-11-13T06:17:26.463434+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/": {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "seen_at": "2026-11-13T06:17:26.696416+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/": {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "seen_at": "2026-11-13T06:17:26.930698+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "seen_at": "2026-11-13T06:17:27.168272+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/": {
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "seen_at": "2026-11-13T06:17:27.411475+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/": {
+    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "seen_at": "2026-11-13T06:17:27.664330+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/": {
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "seen_at": "2026-11-13T06:17:27.906300+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/": {
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "seen_at": "2026-11-13T06:17:28.150801+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/": {
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "seen_at": "2026-11-13T06:17:28.392459+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/": {
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "seen_at": "2026-11-13T06:17:28.629884+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/": {
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "seen_at": "2026-11-13T06:17:28.866627+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/": {
+    "title": "Jensen Huang agrees to testify before Congress",
+    "seen_at": "2026-11-13T06:17:29.101314+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/": {
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "seen_at": "2026-11-13T06:17:29.339436+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/": {
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "seen_at": "2026-11-13T06:17:29.581430+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/": {
+    "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+    "seen_at": "2026-11-13T06:17:29.825664+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/": {
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "seen_at": "2026-11-13T06:17:30.077977+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/": {
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+    "seen_at": "2026-11-13T06:17:30.323336+00:00"
+  },
+  "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/": {
+    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+    "seen_at": "2026-11-13T06:17:30.576954+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/five-thoughts-from-ciscos-first-quarter-of-fiscal-2027/": {
+    "title": "Five thoughts from Cisco’s first quarter of fiscal 2027",
+    "seen_at": "2026-11-13T06:17:30.816371+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/quantum-sensor-and-software-maker-q-ctrl-raises-290m-in-funding/": {
+    "title": "Quantum sensor and software maker Q-CTRL raises $290M in funding",
+    "seen_at": "2026-11-13T06:17:31.047941+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/kubevirt-graduates-from-cncf-kubernetes-unites-vms-ai-kubeconna/": {
+    "title": "Kubernetes now runs containers and VMs side by side",
+    "seen_at": "2026-11-13T06:17:31.281325+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/": {
+    "title": "AI agent tooling provider LangChain secures $300M investment",
+    "seen_at": "2026-11-13T06:17:31.520609+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/cloud-native-developers-top-21-million-lead-ai-adoption-kubeconna/": {
+    "title": "CNCF data shows cloud native is the on-ramp to AI, and maintainers are paying the price",
+    "seen_at": "2026-11-13T06:17:31.757410+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/ai-networking-nvidia-scalein-security-agentic-aifactoriesdatacenters/": {
+    "title": "As AI agents take control, Nvidia rethinks the security playbook",
+    "seen_at": "2026-11-13T06:17:31.996280+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/high-performance-computing-ai-thecube-sc26/": {
+    "title": "What to expect during SC26: Join theCUBE Nov. 17–19",
+    "seen_at": "2026-11-13T06:17:32.246368+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/3-ways-ai-is-changing-the-healthcare-revenue-cycle-adonisai/": {
+    "title": "3 ways AI is changing the healthcare revenue cycle",
+    "seen_at": "2026-11-13T06:17:32.494784+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/shares-of-ai-cloud-operator-nebius-drop-16-despite-strong-quarterly-results/": {
+    "title": "Shares of AI cloud operator Nebius drop 16%+ despite strong earnings results",
+    "seen_at": "2026-11-13T06:17:32.747691+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/agentic-ai-systems-push-kubernetes-second-act-kubeconna/": {
+    "title": "Kubernetes gets a second act as AI agents turn one prompt into thousands of inference calls",
+    "seen_at": "2026-11-13T06:17:32.994227+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/signal-week-raise-summit-cubeconversations/": {
+    "title": "Paris Signal Week looks to bridge crypto and institutional finance",
+    "seen_at": "2026-11-13T06:17:33.229504+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/block-builderlab-launch-event-2026-ai-agents-join-team/": {
+    "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues",
+    "seen_at": "2026-11-13T06:17:33.463045+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/agentic-workloads-push-google-retool-kubernetes-agents-kubeconna/": {
+    "title": "Google retools Kubernetes for AI agents instead of building a new stack",
+    "seen_at": "2026-11-13T06:17:33.703479+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/vanta-launches-ai-governance-risk-quantification-and-a-vanta-agent-for-entire-jobs/": {
+    "title": "Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire jobs",
+    "seen_at": "2026-11-13T06:17:33.936947+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/computer-vision-startup-tristar-ai-pulls-in-12-4m-to-automate-quality-control-for-manufacturers/": {
+    "title": "Computer vision startup Tristar AI pulls in $12.4M to automate quality control for manufacturers",
+    "seen_at": "2026-11-13T06:17:34.179842+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/exclusive-menlo-iris-extension-gives-security-teams-control-over-ai-use-without-a-new-browser/": {
+    "title": "Exclusive: Menlo IRIS extension gives security teams control over AI use without a new browser",
+    "seen_at": "2026-11-13T06:17:34.426998+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/clipto-enables-chatgpt-and-claude-to-search-and-analyze-years-of-peoples-meetings-and-video-calls/": {
+    "title": "Clipto enables ChatGPT and Claude to search and analyze years of people’s meetings and video calls",
+    "seen_at": "2026-11-13T06:17:34.672322+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/servicenow-launches-ai-powered-engine-to-accelerate-migrations-from-crm-rivals/": {
+    "title": "ServiceNow launches AI-powered engine to accelerate migrations from CRM rivals",
+    "seen_at": "2026-11-13T06:17:34.909265+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/square-takes-squaremates-ai-agent-out-of-beta-and-opens-up-to-sellers-own-ai-software/": {
+    "title": "Square takes Squaremates AI agent out of beta and opens up to sellers’ own AI software",
+    "seen_at": "2026-11-13T06:17:35.146846+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/qvyon-launches-with-8m-to-improve-safety-for-physical-ai-deployments/": {
+    "title": "Qvyon launches with $8M to improve safety for physical AI deployments",
+    "seen_at": "2026-11-13T06:17:35.384798+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/horizon3-launches-adversarial-intelligence-frontier-lab-built-on-nodezero-attack-data/": {
+    "title": "Horizon3 launches Adversarial Intelligence Frontier Lab built on NodeZero attack data",
+    "seen_at": "2026-11-13T06:17:35.618028+00:00"
+  },
+  "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/": {
+    "title": "Hatz AI raises $24M to help small businesses go AI-native through their MSPs",
+    "seen_at": "2026-11-13T06:17:35.883446+00:00"
   }
 }

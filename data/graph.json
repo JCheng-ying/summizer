@@ -244,9 +244,9 @@
         "AI accelerators / GPUs",
         "AI GPUs"
       ],
-      "mentions": 29,
+      "mentions": 34,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-12T04:06:47.275354+00:00",
+      "last_seen": "2026-11-13T06:17:18.133665+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -390,9 +390,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 13,
+      "mentions": 15,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:42.206381+00:00"
+      "last_seen": "2026-11-13T06:17:16.091747+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -407,9 +407,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 14,
+      "mentions": 16,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:43.035329+00:00"
+      "last_seen": "2026-11-13T06:17:16.091747+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -419,18 +419,20 @@
         "e-commerce / drone delivery",
         "cloud",
         "cloud / e-commerce",
-        "hyperscale cloud"
+        "hyperscale cloud",
+        "cloud / satellite broadband"
       ],
       "sector_tags": [
         "AI板块",
         "机器人板块",
-        "量子计算板块"
+        "量子计算板块",
+        "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 13,
+      "mentions": 16,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:41.415270+00:00"
+      "last_seen": "2026-11-13T06:17:18.133665+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -446,9 +448,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-10T05:12:46.751445+00:00"
+      "last_seen": "2026-11-13T06:17:10.573039+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -463,9 +465,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 31,
+      "mentions": 32,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:43.035329+00:00"
+      "last_seen": "2026-11-13T06:17:09.837038+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -496,9 +498,9 @@
       ],
       "hot": "hot",
       "ticker": "ORCL",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:50.194926+00:00"
+      "last_seen": "2026-11-13T06:17:16.091747+00:00"
     },
     "palantir": {
       "name": "Palantir Technologies",
@@ -526,9 +528,9 @@
       ],
       "hot": "hot",
       "ticker": "TSM",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:50.951327+00:00"
+      "last_seen": "2026-11-13T06:17:15.080267+00:00"
     },
     "coreweave": {
       "name": "CoreWeave",
@@ -543,9 +545,9 @@
       ],
       "hot": "hot",
       "ticker": "CRWV",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:42.206381+00:00"
+      "last_seen": "2026-11-13T06:17:09.837038+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -578,16 +580,17 @@
       "type": "company",
       "sectors": [
         "AI accelerators",
-        "wafer-scale AI chips"
+        "wafer-scale AI chips",
+        "AI chips"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": "CBRS",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+      "last_seen": "2026-11-13T06:17:16.091747+00:00"
     },
     "sambanova systems": {
       "name": "SambaNova Systems",
@@ -621,15 +624,17 @@
     "together ai": {
       "name": "Together AI",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "inference cloud"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-13T06:17:18.133665+00:00"
     },
     "mistral ai": {
       "name": "Mistral AI",
@@ -682,9 +687,9 @@
       ],
       "hot": "cold",
       "ticker": "NBIS",
-      "mentions": 4,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:42.206381+00:00"
+      "last_seen": "2026-11-13T06:17:10.573039+00:00"
     },
     "langchain": {
       "name": "LangChain",
@@ -708,7 +713,8 @@
         "launch services",
         "launch / Starlink",
         "launch / satellites / compute",
-        "launch / satellite / compute"
+        "launch / satellite / compute",
+        "launch / satellites / orbital compute"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -716,9 +722,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 13,
+      "mentions": 14,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-12T04:06:48.588948+00:00"
+      "last_seen": "2026-11-13T06:17:11.328474+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -726,16 +732,17 @@
       "sectors": [
         "orbital launch vehicles (New Glenn)",
         "launch / lunar landers",
-        "launch / lunar lander"
+        "launch / lunar lander",
+        "launch / engines"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-11T06:19:42.356600+00:00"
+      "last_seen": "2026-11-13T06:17:12.091710+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -785,16 +792,17 @@
       "type": "company",
       "sectors": [
         "aerospace and defense",
-        "aerospace & defense"
+        "aerospace & defense",
+        "defense / solid rocket boosters"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "NOC",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-09T06:06:01.385594+00:00"
+      "last_seen": "2026-11-13T06:17:12.091710+00:00"
     },
     "l3harris": {
       "name": "L3Harris Technologies",
@@ -814,31 +822,33 @@
       "type": "company",
       "sectors": [
         "launch services",
-        "launch vehicles"
+        "launch vehicles",
+        "launch"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-11T06:19:42.356600+00:00"
+      "last_seen": "2026-11-13T06:17:12.091710+00:00"
     },
     "ast spacemobile": {
       "name": "AST SpaceMobile",
       "type": "company",
       "sectors": [
-        "satellite broadband"
+        "satellite broadband",
+        "direct-to-device satellites"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "ASTS",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-06T07:01:15.503898+00:00"
+      "last_seen": "2026-11-13T06:17:12.592990+00:00"
     },
     "iridium communications": {
       "name": "Iridium Communications",
@@ -944,16 +954,17 @@
       "sectors": [
         "commercial lunar landers, launch vehicles",
         "commercial launch vehicles (Alpha, Eclipse)",
-        "launch / lunar landers"
+        "launch / lunar landers",
+        "launch / engines"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": "FLY",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-09T06:06:01.385594+00:00"
+      "last_seen": "2026-11-13T06:17:12.592990+00:00"
     },
     "voyager": {
       "name": "Voyager Technologies",
@@ -1102,7 +1113,8 @@
       "sectors": [
         "quantum computing",
         "quantum computing / enterprise IT",
-        "superconducting quantum computing"
+        "superconducting quantum computing",
+        "quantum / enterprise IT"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1110,9 +1122,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-12T04:06:40.629138+00:00"
+      "last_seen": "2026-11-13T06:17:13.844681+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -1147,21 +1159,24 @@
     "psiquantum": {
       "name": "PsiQuantum",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "photonic quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-13T06:17:13.096700+00:00"
     },
     "intel": {
       "name": "Intel",
       "type": "company",
       "sectors": [
-        "CPUs / foundry"
+        "CPUs / foundry",
+        "semiconductors"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1170,9 +1185,9 @@
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-11T06:19:50.951327+00:00"
+      "last_seen": "2026-11-13T06:17:15.080267+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -1698,7 +1713,8 @@
         "AI compute",
         "AI chips",
         "GPUs / CPUs",
-        "CPUs / GPUs"
+        "CPUs / GPUs",
+        "CPUs / GPUs / FPGAs"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1707,9 +1723,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 13,
+      "mentions": 15,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:39.295430+00:00"
+      "last_seen": "2026-11-13T06:17:13.844681+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1728,7 +1744,8 @@
       "name": "Samsung Electronics Co., Ltd.",
       "type": "company",
       "sectors": [
-        "memory / semiconductors"
+        "memory / semiconductors",
+        "memory / foundry"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1736,9 +1753,9 @@
       ],
       "hot": "hot",
       "ticker": "005930.KS",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+      "last_seen": "2026-11-13T06:17:15.080267+00:00"
     },
     "alphabet": {
       "name": "Alphabet Inc.",
@@ -1761,9 +1778,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 26,
+      "mentions": 27,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-12T04:06:44.074553+00:00"
+      "last_seen": "2026-11-13T06:17:18.646640+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -1795,7 +1812,8 @@
       "name": "Micron Technology, Inc.",
       "type": "company",
       "sectors": [
-        "memory / HBM"
+        "memory / HBM",
+        "memory"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1803,9 +1821,9 @@
       ],
       "hot": "hot",
       "ticker": "MU",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-11T06:19:48.192568+00:00"
+      "last_seen": "2026-11-13T06:17:15.080267+00:00"
     },
     "ambarella": {
       "name": "Ambarella, Inc.",
@@ -2114,16 +2132,17 @@
       "name": "Bloom Energy",
       "type": "company",
       "sectors": [
-        "solid oxide fuel cells"
+        "solid oxide fuel cells",
+        "fuel cells"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "BE",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-11-09T06:06:09.263035+00:00"
+      "last_seen": "2026-11-13T06:17:10.573039+00:00"
     },
     "oklo": {
       "name": "Oklo Inc",
@@ -2619,15 +2638,17 @@
     "hugging face": {
       "name": "Hugging Face",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "open model hub"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-09T05:41:43.395872+00:00",
-      "last_seen": "2026-08-09T05:41:43.395872+00:00"
+      "last_seen": "2026-11-13T06:17:09.837038+00:00"
     },
     "servicenow": {
       "name": "ServiceNow",
@@ -2870,16 +2891,17 @@
       "name": "Franka Robotics",
       "type": "company",
       "sectors": [
-        "robot arms"
+        "robot arms",
+        "robot manipulators"
       ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-15T05:50:16.805255+00:00",
-      "last_seen": "2026-11-12T04:06:47.806934+00:00"
+      "last_seen": "2026-11-13T06:17:16.594145+00:00"
     },
     "robotiq": {
       "name": "Robotiq",
@@ -2951,15 +2973,17 @@
     "mitsubishi electric": {
       "name": "Mitsubishi Electric Corp.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "electronics / satellites"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:55:30.112336+00:00",
-      "last_seen": "2026-08-15T05:55:30.112336+00:00"
+      "last_seen": "2026-11-13T06:17:19.154358+00:00"
     },
     "us space force": {
       "name": "U.S. Space Force",
@@ -4160,16 +4184,17 @@
       "name": "Gemini 4 Argon",
       "type": "product",
       "sectors": [
-        "multimodal foundation model"
+        "multimodal foundation model",
+        "LLM"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-10-20T06:47:38.225415+00:00",
-      "last_seen": "2026-10-20T06:47:38.225415+00:00"
+      "last_seen": "2026-11-13T06:17:18.646640+00:00"
     },
     "disney research": {
       "name": "Disney Research",
@@ -4304,17 +4329,20 @@
       "name": "SoftBank Group",
       "type": "company",
       "sectors": [
-        "telecom / AI data centers"
+        "telecom / AI data centers",
+        "investment holding"
       ],
       "sector_tags": [
         "AI板块",
-        "量子计算板块"
+        "量子计算板块",
+        "能源板块",
+        "机器人板块"
       ],
       "hot": null,
       "ticker": "9434.T",
-      "mentions": 2,
+      "mentions": 4,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-12T04:06:40.629138+00:00"
+      "last_seen": "2026-11-13T06:17:17.374808+00:00"
     },
     "nscale": {
       "name": "Nscale",
@@ -4329,9 +4357,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-12T04:06:41.415270+00:00"
+      "last_seen": "2026-11-13T06:17:10.573039+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -5284,16 +5312,17 @@
       "name": "Arista Networks",
       "type": "company",
       "sectors": [
-        "AI networking / Ethernet switching"
+        "AI networking / Ethernet switching",
+        "networking"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "ANET",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-06T07:01:18.955321+00:00",
-      "last_seen": "2026-11-06T07:01:18.955321+00:00"
+      "last_seen": "2026-11-13T06:17:15.584969+00:00"
     },
     "world labs": {
       "name": "World Labs",
@@ -5892,16 +5921,17 @@
         "cloud / GPU reseller (Singapore)",
         "Singapore data center operator",
         "IT / cloud services",
-        "neocloud (Singapore)"
+        "neocloud (Singapore)",
+        "neocloud / GPU rental"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-12T04:06:47.275354+00:00"
+      "last_seen": "2026-11-13T06:17:09.837038+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -6720,14 +6750,17 @@
       "name": "NTT DOCOMO",
       "type": "company",
       "sectors": [
-        "telecommunications"
+        "telecommunications",
+        "telecom"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "太空经济板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-11T06:19:45.925248+00:00"
+      "last_seen": "2026-11-13T06:17:19.154358+00:00"
     },
     "swiss quantum": {
       "name": "Swiss Quantum Technology",
@@ -6984,16 +7017,17 @@
       "name": "Q-CTRL",
       "type": "company",
       "sectors": [
-        "quantum control software"
+        "quantum control software",
+        "quantum control software / quantum sensing"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-12T04:06:39.295430+00:00",
-      "last_seen": "2026-11-12T04:06:39.295430+00:00"
+      "last_seen": "2026-11-13T06:17:13.844681+00:00"
     },
     "cleveland clinic": {
       "name": "Cleveland Clinic",
@@ -7038,7 +7072,8 @@
       "name": "IREN",
       "type": "company",
       "sectors": [
-        "neocloud / bitcoin mining"
+        "neocloud / bitcoin mining",
+        "neocloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -7046,9 +7081,9 @@
       ],
       "hot": null,
       "ticker": "IREN",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-12T04:06:42.206381+00:00",
-      "last_seen": "2026-11-12T04:06:42.206381+00:00"
+      "last_seen": "2026-11-13T06:17:10.573039+00:00"
     },
     "fractile": {
       "name": "Fractile",
@@ -7264,16 +7299,17 @@
       "name": "Agile Robots",
       "type": "company",
       "sectors": [
-        "industrial robotics"
+        "industrial robotics",
+        "industrial / humanoid robotics"
       ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-12T04:06:47.806934+00:00",
-      "last_seen": "2026-11-12T04:06:47.806934+00:00"
+      "last_seen": "2026-11-13T06:17:16.594145+00:00"
     },
     "mercedesbenz": {
       "name": "Mercedes-Benz",
@@ -7289,6 +7325,187 @@
       "mentions": 1,
       "first_seen": "2026-11-12T04:06:47.806934+00:00",
       "last_seen": "2026-11-12T04:06:47.806934+00:00"
+    },
+    "dataone": {
+      "name": "DataOne",
+      "type": "company",
+      "sectors": [
+        "data center operator"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:10.573039+00:00",
+      "last_seen": "2026-11-13T06:17:10.573039+00:00"
+    },
+    "salesforce ventures": {
+      "name": "Salesforce Ventures",
+      "type": "company",
+      "sectors": [
+        "corporate venture capital"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:13.844681+00:00",
+      "last_seen": "2026-11-13T06:17:13.844681+00:00"
+    },
+    "applied materials": {
+      "name": "Applied Materials",
+      "type": "company",
+      "sectors": [
+        "semiconductor equipment"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "AMAT",
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:15.080267+00:00",
+      "last_seen": "2026-11-13T06:17:15.080267+00:00"
+    },
+    "cisco systems": {
+      "name": "Cisco Systems",
+      "type": "company",
+      "sectors": [
+        "networking"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "CSCO",
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:15.584969+00:00",
+      "last_seen": "2026-11-13T06:17:15.584969+00:00"
+    },
+    "hitachi": {
+      "name": "Hitachi",
+      "type": "company",
+      "sectors": [
+        "industrial conglomerate"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:16.594145+00:00",
+      "last_seen": "2026-11-13T06:17:16.594145+00:00"
+    },
+    "sb energy": {
+      "name": "SB Energy",
+      "type": "company",
+      "sectors": [
+        "power generation"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:17.374808+00:00",
+      "last_seen": "2026-11-13T06:17:17.374808+00:00"
+    },
+    "luminal": {
+      "name": "Luminal",
+      "type": "company",
+      "sectors": [
+        "AI compiler / inference cloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:18.133665+00:00",
+      "last_seen": "2026-11-13T06:17:18.133665+00:00"
+    },
+    "gemini 4 hydrogen": {
+      "name": "Gemini 4 Hydrogen",
+      "type": "product",
+      "sectors": [
+        "LLM"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:18.646640+00:00",
+      "last_seen": "2026-11-13T06:17:18.646640+00:00"
+    },
+    "mitsubishi ufj financial mufg": {
+      "name": "Mitsubishi UFJ Financial Group (MUFG)",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:19.154358+00:00",
+      "last_seen": "2026-11-13T06:17:19.154358+00:00"
+    },
+    "ntt": {
+      "name": "NTT, Inc.",
+      "type": "company",
+      "sectors": [
+        "telecom"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:19.154358+00:00",
+      "last_seen": "2026-11-13T06:17:19.154358+00:00"
+    },
+    "development bank of japan": {
+      "name": "Development Bank of Japan",
+      "type": "institution",
+      "sectors": [
+        "policy bank"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:19.154358+00:00",
+      "last_seen": "2026-11-13T06:17:19.154358+00:00"
+    },
+    "infostellar": {
+      "name": "Infostellar",
+      "type": "company",
+      "sectors": [
+        "ground station as a service"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T06:17:19.154358+00:00",
+      "last_seen": "2026-11-13T06:17:19.154358+00:00"
     }
   },
   "edges": [
@@ -7425,6 +7642,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Mon, 09 Nov 2026 05:26:29 +0000",
           "added_at": "2026-11-09T06:06:10.005703+00:00"
+        },
+        {
+          "description": "Nvidia 对 OpenAI 提供融资支持,被批评为循环融资",
+          "article_title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+          "article_url": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 14:55:04 +0000",
+          "added_at": "2026-11-13T06:17:09.837038+00:00"
         }
       ]
     },
@@ -7546,6 +7771,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Mon, 09 Nov 2026 05:26:29 +0000",
           "added_at": "2026-11-09T06:06:10.005703+00:00"
+        },
+        {
+          "description": "Nvidia 对 neocloud CoreWeave 提供融资支持",
+          "article_title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+          "article_url": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 14:55:04 +0000",
+          "added_at": "2026-11-13T06:17:09.837038+00:00"
         }
       ]
     },
@@ -7661,6 +7894,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 10 Nov 2026 14:01:39 +0000",
           "added_at": "2026-11-11T06:19:48.192568+00:00"
+        },
+        {
+          "description": "Nvidia 对 Anthropic 提供融资支持",
+          "article_title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+          "article_url": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 14:55:04 +0000",
+          "added_at": "2026-11-13T06:17:09.837038+00:00"
         }
       ]
     },
@@ -7759,6 +8000,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 11 Nov 2026 19:54:00 +0000",
           "added_at": "2026-11-12T04:06:42.206381+00:00"
+        },
+        {
+          "description": "微软与 Nebius 签有最高 194 亿美元算力合同,新泽西 Vineland 站点约一半容量推迟到 2027 年二季度",
+          "article_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "article_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+          "added_at": "2026-11-13T06:17:10.573039+00:00"
         }
       ]
     },
@@ -7782,6 +8031,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Mon, 09 Nov 2026 05:26:29 +0000",
           "added_at": "2026-11-09T06:06:10.005703+00:00"
+        },
+        {
+          "description": "Nvidia 对 neocloud Nebius 提供融资支持",
+          "article_title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+          "article_url": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 14:55:04 +0000",
+          "added_at": "2026-11-13T06:17:09.837038+00:00"
         }
       ]
     },
@@ -8176,6 +8433,14 @@
           "source_name": "NASASpaceFlight.com",
           "published": "Thu, 05 Nov 2026 20:51:14 +0000",
           "added_at": "2026-11-06T07:01:15.503898+00:00"
+        },
+        {
+          "description": "Vulcan 一级使用两台 Blue Origin BE-4 发动机",
+          "article_title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 12 Nov 2026 17:44:44 +0000",
+          "added_at": "2026-11-13T06:17:12.091710+00:00"
         }
       ]
     },
@@ -8191,6 +8456,14 @@
           "source_name": "Northrop Grumman",
           "published": "2025-08",
           "added_at": "2026-08-06T04:44:48.296846+00:00"
+        },
+        {
+          "description": "Northrop Grumman 为 Vulcan 提供 GEM-63XL 固体助推器,喷管问题导致 Vulcan 停飞并完成三项修复",
+          "article_title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 12 Nov 2026 17:44:44 +0000",
+          "added_at": "2026-11-13T06:17:12.091710+00:00"
         }
       ]
     },
@@ -11265,6 +11538,14 @@
           "source_name": "IEEE Spectrum - Robotics",
           "published": "Fri, 28 Aug 2026 16:00:03 +0000",
           "added_at": "2026-09-02T06:34:45.340354+00:00"
+        },
+        {
+          "description": "Nvidia 已同意以约 129 亿美元收购 Hugging Face,交易待监管批准,黄仁勋离任使其前景存疑",
+          "article_title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+          "article_url": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 14:55:04 +0000",
+          "added_at": "2026-11-13T06:17:09.837038+00:00"
         }
       ]
     },
@@ -13038,6 +13319,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Thu, 05 Nov 2026 15:29:27 +0000",
           "added_at": "2026-11-06T07:01:17.225697+00:00"
+        },
+        {
+          "description": "微软放弃扩大 Nscale 德州合同的选项并退出其 Essex 站点锚定客户角色",
+          "article_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "article_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+          "added_at": "2026-11-13T06:17:10.573039+00:00"
         }
       ]
     },
@@ -14428,6 +14717,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Mon, 09 Nov 2026 05:26:29 +0000",
           "added_at": "2026-11-09T06:06:10.005703+00:00"
+        },
+        {
+          "description": "Megaspeed 是 Nvidia 客户,其高管 Alice Huang 被美方认定为中国情报人员并被指促成约 75 亿美元对华芯片销售,导致黄仁勋辞职",
+          "article_title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+          "article_url": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 14:55:04 +0000",
+          "added_at": "2026-11-13T06:17:09.837038+00:00"
         }
       ]
     },
@@ -16248,6 +16545,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 11 Nov 2026 19:54:00 +0000",
           "added_at": "2026-11-12T04:06:42.206381+00:00"
+        },
+        {
+          "description": "微软正收紧对 IREN 等第三方算力项目的监督",
+          "article_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "article_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+          "added_at": "2026-11-13T06:17:10.573039+00:00"
         }
       ]
     },
@@ -16593,6 +16898,546 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 11 Nov 2026 14:37:03 +0000",
           "added_at": "2026-11-12T04:06:48.588948+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meta platforms",
+      "target": "nebius",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Meta 与 Nebius 的合同附带大额预付款,可用于资产支持融资",
+          "article_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "article_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+          "added_at": "2026-11-13T06:17:10.573039+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nebius",
+      "target": "dataone",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "DataOne 运营 Nebius 为微软建设的 Vineland 站点,提前撤掉临时发电导致交付延迟",
+          "article_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "article_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+          "added_at": "2026-11-13T06:17:10.573039+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dataone",
+      "target": "bloom energy",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Vineland 站点从临时燃气发电转向 Bloom Energy 燃料电池",
+          "article_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "article_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+          "added_at": "2026-11-13T06:17:10.573039+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "nvidia",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "SpaceX 向 Nvidia 采购 Vera Rubin GPU 封装,开发自定义 Kessel 机柜用于地面和轨道数据中心,绕过 Nvidia L6 计算板自行采购其余部件",
+          "article_title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 12 Nov 2026 16:24:12 +0000",
+          "added_at": "2026-11-13T06:17:11.328474+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "united launch alliance ula",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "亚马逊在 ULA 预订最多 38 次 Vulcan 发射部署 Amazon Leo 星座,LV-01 搭载 40 颗卫星",
+          "article_title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 12 Nov 2026 17:44:44 +0000",
+          "added_at": "2026-11-13T06:17:12.091710+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ast spacemobile",
+      "target": "firefly aerospace",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "AST 与 Firefly 签订 13 亿美元合同,采购 Miranda/Vira 发动机及生产授权,用于自研 Blacklift 火箭",
+          "article_title": "AST SpaceMobile presses case for developing own launch vehicle",
+          "article_url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
+          "source_name": "SpaceNews",
+          "published": "Fri, 13 Nov 2026 01:15:21 +0000",
+          "added_at": "2026-11-13T06:17:12.592990+00:00"
+        }
+      ]
+    },
+    {
+      "source": "psiquantum",
+      "target": "advanced micro devices",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方扩大合作,共同设计容错量子计算所需的经典+量子基础设施,覆盖 Versal FPGA、Instinct GPU、EPYC CPU 和 ROCm",
+          "article_title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
+          "article_url": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 12 Nov 2026 15:54:57 +0000",
+          "added_at": "2026-11-13T06:17:13.096700+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "psiquantum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "AMD 计划对 PsiQuantum 进行股权投资",
+          "article_title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
+          "article_url": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 12 Nov 2026 15:54:57 +0000",
+          "added_at": "2026-11-13T06:17:13.096700+00:00"
+        }
+      ]
+    },
+    {
+      "source": "salesforce ventures",
+      "target": "qctrl",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Salesforce Ventures 领投 Q-CTRL 2.9 亿美元 C 轮",
+          "article_title": "Q-CTRL Secures US$290 Million Series C Funding Led by Salesforce Ventures",
+          "article_url": "https://thequantuminsider.com/2026/11/12/q-ctrl-secures-us290-million-series-c-funding-led-by-salesforce-ventures/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 12 Nov 2026 13:05:33 +0000",
+          "added_at": "2026-11-13T06:17:13.844681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "qctrl",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "AMD Ventures 作为新投资方参与 Q-CTRL C 轮",
+          "article_title": "Q-CTRL Secures US$290 Million Series C Funding Led by Salesforce Ventures",
+          "article_url": "https://thequantuminsider.com/2026/11/12/q-ctrl-secures-us290-million-series-c-funding-led-by-salesforce-ventures/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 12 Nov 2026 13:05:33 +0000",
+          "added_at": "2026-11-13T06:17:13.844681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qctrl",
+      "target": "ibm",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Q-CTRL 在 IBM 硬件上的材料模拟可直接从 IBM Quantum 平台调用",
+          "article_title": "Q-CTRL Secures US$290 Million Series C Funding Led by Salesforce Ventures",
+          "article_url": "https://thequantuminsider.com/2026/11/12/q-ctrl-secures-us290-million-series-c-funding-led-by-salesforce-ventures/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 12 Nov 2026 13:05:33 +0000",
+          "added_at": "2026-11-13T06:17:13.844681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "applied materials",
+      "target": "taiwan semiconductor manufacturing tsmc",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Applied Materials 为台积电提供芯片制造设备",
+          "article_title": "Applied Materials posts impressive 53% jump in revenue as it beats expectations again",
+          "article_url": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 02:09:46 +0000",
+          "added_at": "2026-11-13T06:17:15.080267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "applied materials",
+      "target": "samsung electronics",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Applied Materials 为三星提供芯片制造设备",
+          "article_title": "Applied Materials posts impressive 53% jump in revenue as it beats expectations again",
+          "article_url": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 02:09:46 +0000",
+          "added_at": "2026-11-13T06:17:15.080267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "applied materials",
+      "target": "micron",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Applied Materials 为美光提供芯片制造设备",
+          "article_title": "Applied Materials posts impressive 53% jump in revenue as it beats expectations again",
+          "article_url": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 02:09:46 +0000",
+          "added_at": "2026-11-13T06:17:15.080267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "applied materials",
+      "target": "intel",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Intel 是 Applied 50 亿美元 EPIC 研发中心首批合作方,共同开发下一代晶体管、互连和先进封装",
+          "article_title": "Applied Materials posts impressive 53% jump in revenue as it beats expectations again",
+          "article_url": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 02:09:46 +0000",
+          "added_at": "2026-11-13T06:17:15.080267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cisco systems",
+      "target": "arista networks",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Cisco 与 Arista 在 AI 数据中心网络市场竞争,Cisco 预计 2027 财年 AI 基础设施收入翻倍至 90 亿美元",
+          "article_title": "Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027",
+          "article_url": "https://siliconangle.com/2026/11/12/cisco-beats-expectations-lifts-its-guidance-and-forecasts-ai-infrastructure-revenue-to-double-in-fiscal-2027/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 01:30:06 +0000",
+          "added_at": "2026-11-13T06:17:15.584969+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "cerebras systems",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "微软成为 Cerebras 新客户,预计 2027 财年一季度开始贡献收入",
+          "article_title": "Surging AI chip revenue and Microsoft deal boost Cerebras Systems stock by 17%",
+          "article_url": "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 23:40:34 +0000",
+          "added_at": "2026-11-13T06:17:16.091747+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "cerebras systems",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Cerebras 260 亿美元积压订单中很大一部分来自 OpenAI 协议",
+          "article_title": "Surging AI chip revenue and Microsoft deal boost Cerebras Systems stock by 17%",
+          "article_url": "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 23:40:34 +0000",
+          "added_at": "2026-11-13T06:17:16.091747+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "cerebras systems",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "AWS 此前已与 Cerebras 签约",
+          "article_title": "Surging AI chip revenue and Microsoft deal boost Cerebras Systems stock by 17%",
+          "article_url": "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 23:40:34 +0000",
+          "added_at": "2026-11-13T06:17:16.091747+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oracle",
+      "target": "cerebras systems",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Oracle 此前已与 Cerebras 签约",
+          "article_title": "Surging AI chip revenue and Microsoft deal boost Cerebras Systems stock by 17%",
+          "article_url": "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 23:40:34 +0000",
+          "added_at": "2026-11-13T06:17:16.091747+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cerebras systems",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Cerebras 称 Nvidia GPU 交期长、成本高为其硬件销售创造机会",
+          "article_title": "Surging AI chip revenue and Microsoft deal boost Cerebras Systems stock by 17%",
+          "article_url": "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 23:40:34 +0000",
+          "added_at": "2026-11-13T06:17:16.091747+00:00"
+        }
+      ]
+    },
+    {
+      "source": "softbank",
+      "target": "agile robots",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "软银领投 Agile Robots 5 亿美元 F 轮,估值 85 亿美元",
+          "article_title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 16:10:57 +0000",
+          "added_at": "2026-11-13T06:17:16.594145+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "agile robots",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 参与 Agile Robots F 轮,其 Agile One SN 预配置 Nvidia Isaac GR00T 模型",
+          "article_title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 16:10:57 +0000",
+          "added_at": "2026-11-13T06:17:16.594145+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hitachi",
+      "target": "agile robots",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "日立参与 Agile Robots F 轮",
+          "article_title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 16:10:57 +0000",
+          "added_at": "2026-11-13T06:17:16.594145+00:00"
+        }
+      ]
+    },
+    {
+      "source": "agile robots",
+      "target": "franka",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Franka Robotics 是 Agile Robots 子公司,提供操作技术",
+          "article_title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 16:10:57 +0000",
+          "added_at": "2026-11-13T06:17:16.594145+00:00"
+        }
+      ]
+    },
+    {
+      "source": "softbank",
+      "target": "sb energy",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "SB Energy 是软银子公司,计划投资 330 亿美元建设 9.2GW 燃气电厂,软银因超额预订轮机损失超 30 亿美元",
+          "article_title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+          "article_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 12 Nov 2026 17:00:52 +0000",
+          "added_at": "2026-11-13T06:17:17.374808+00:00"
+        }
+      ]
+    },
+    {
+      "source": "luminal",
+      "target": "amazoncom",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Luminal 与 AWS 合作,大量负载运行在 Trainium 芯片上",
+          "article_title": "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs",
+          "article_url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 15:00:44 +0000",
+          "added_at": "2026-11-13T06:17:18.133665+00:00"
+        }
+      ]
+    },
+    {
+      "source": "luminal",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Luminal 用搜索式编译器让模型跨芯片运行,挑战 CUDA 软件护城河",
+          "article_title": "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs",
+          "article_url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 15:00:44 +0000",
+          "added_at": "2026-11-13T06:17:18.133665+00:00"
+        }
+      ]
+    },
+    {
+      "source": "luminal",
+      "target": "together ai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Luminal 推理云每月处理 45 万亿 token,约为 Together AI 累计量的 10%",
+          "article_title": "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs",
+          "article_url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 15:00:44 +0000",
+          "added_at": "2026-11-13T06:17:18.133665+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "gemini 4 hydrogen",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Google 发布低成本模型 Gemini 4 Hydrogen,智能指数 51 分超过旗舰 Argon",
+          "article_title": "Google releases Gemini 4 Hydrogen, a lower-cost model said to outscore Argon",
+          "article_url": "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 22:50:02 +0000",
+          "added_at": "2026-11-13T06:17:18.646640+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gemini 4 hydrogen",
+      "target": "gemini 4 argon",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Hydrogen 定价 1.5/7.5 美元每百万 token,低于 Argon 且得分更高",
+          "article_title": "Google releases Gemini 4 Hydrogen, a lower-cost model said to outscore Argon",
+          "article_url": "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 12 Nov 2026 22:50:02 +0000",
+          "added_at": "2026-11-13T06:17:18.646640+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mitsubishi ufj financial mufg",
+      "target": "mitsubishi electric",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "MUFG 与三菱电机等签署 MoU,研究建设覆盖通信、对地观测、PNT、国家安全和轨道数据中心的卫星巨型星座",
+          "article_title": "MUFG enters MoU with Japanese industry coalition to build satellite mega-constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mufg-enters-mou-with-japanese-industry-coalition-to-build-satellite-mega-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 12 Nov 2026 11:40:58 +0000",
+          "added_at": "2026-11-13T06:17:19.154358+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mitsubishi ufj financial mufg",
+      "target": "ntt",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "NTT 负责研究星地通信网络,参与日本星座联盟",
+          "article_title": "MUFG enters MoU with Japanese industry coalition to build satellite mega-constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mufg-enters-mou-with-japanese-industry-coalition-to-build-satellite-mega-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 12 Nov 2026 11:40:58 +0000",
+          "added_at": "2026-11-13T06:17:19.154358+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mitsubishi ufj financial mufg",
+      "target": "ntt docomo",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "NTT Docomo Business 负责研究星座用户需求",
+          "article_title": "MUFG enters MoU with Japanese industry coalition to build satellite mega-constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mufg-enters-mou-with-japanese-industry-coalition-to-build-satellite-mega-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 12 Nov 2026 11:40:58 +0000",
+          "added_at": "2026-11-13T06:17:19.154358+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mitsubishi ufj financial mufg",
+      "target": "development bank of japan",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "日本政策投资银行研究星座长期商业化",
+          "article_title": "MUFG enters MoU with Japanese industry coalition to build satellite mega-constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mufg-enters-mou-with-japanese-industry-coalition-to-build-satellite-mega-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 12 Nov 2026 11:40:58 +0000",
+          "added_at": "2026-11-13T06:17:19.154358+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mitsubishi electric",
+      "target": "infostellar",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "三菱电机今年 6 月收购地面站即服务公司 Infostellar",
+          "article_title": "MUFG enters MoU with Japanese industry coalition to build satellite mega-constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mufg-enters-mou-with-japanese-industry-coalition-to-build-satellite-mega-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 12 Nov 2026 11:40:58 +0000",
+          "added_at": "2026-11-13T06:17:19.154358+00:00"
         }
       ]
     }
@@ -19522,6 +20367,213 @@
       "source_name": "DataCenterDynamics",
       "published": "Wed, 11 Nov 2026 14:37:03 +0000",
       "added_at": "2026-11-12T04:06:48.860966+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "黄仁勋因丑闻辞职、市值蒸发超 6000 亿美元,依赖 Nvidia 背书融资的 neocloud 融资成本承压,属情绪利空而非需求反转;替代算力(TPU/AMD/Cerebras)相对受益",
+      "article_title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+      "article_url": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 14:55:04 +0000",
+      "added_at": "2026-11-13T06:17:10.085371+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "黄仁勋一手推动的面向本地 agent 的 Nvidia AI PC 在节假日季失去最佳代言人,短期偏负面",
+      "article_title": "Nvidia CEO Jensen Huang resigns following affairs scandal",
+      "article_url": "https://siliconangle.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-following-affairs-scandal/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 14:55:04 +0000",
+      "added_at": "2026-11-13T06:17:10.331065+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Nebius 托管站点因临时发电撤出和许可问题延迟交付,现场发电/燃料电池/储能直接决定 AI 算力交付时间",
+      "article_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "article_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "added_at": "2026-11-13T06:17:10.827404+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nebius 三季度营收增 571% 但下调全年指引、股价跌 17%,neocloud 估值开始按交付确定性和融资能力定价",
+      "article_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "article_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "added_at": "2026-11-13T06:17:11.074333+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "SpaceX 定制 Vera Rubin 机柜说明 GPU 封装需求延伸到轨道算力,同时高层数 PCB 等互联零部件成为可制造性瓶颈",
+      "article_title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 12 Nov 2026 16:24:12 +0000",
+      "added_at": "2026-11-13T06:17:11.584783+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Kessel 机柜让轨道数据中心落到机柜级工程选择,SpaceX 在构建自己发射、自己部署算力的闭环",
+      "article_title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 12 Nov 2026 16:24:12 +0000",
+      "added_at": "2026-11-13T06:17:11.839567+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Vulcan 复飞验证助推器修复,非 SpaceX 运力仍稀缺,稳定交付的发射商及推进系统供应商受益,Amazon Leo 建网进度取决于此",
+      "article_title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Thu, 12 Nov 2026 17:44:44 +0000",
+      "added_at": "2026-11-13T06:17:12.343509+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "AST 因拿不到准时发射而自研火箭,发射运力紧张使 Firefly 等发动机供应商和发射场基础设施确定受益,AST 自身资本负担加重",
+      "article_title": "AST SpaceMobile presses case for developing own launch vehicle",
+      "article_url": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
+      "source_name": "SpaceNews",
+      "published": "Fri, 13 Nov 2026 01:15:21 +0000",
+      "added_at": "2026-11-13T06:17:12.849355+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "容错量子计算的纠错解码需要低延迟经典硬件,AMD 同时绑定 IBM 与 PsiQuantum 路线,经典控制层先受益(合作方新闻稿,结果未经独立验证)",
+      "article_title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
+      "article_url": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 15:54:57 +0000",
+      "added_at": "2026-11-13T06:17:13.346134+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "混合量子-经典工作流增加对 GPU/CPU/FPGA 的需求,AI 算力厂商借此进入量子产业链",
+      "article_title": "PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure",
+      "article_url": "https://thequantuminsider.com/2026/11/12/psiquantum-amd-expand-quantum-computing-infrastructure-partnership/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 15:54:57 +0000",
+      "added_at": "2026-11-13T06:17:13.594140+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Q-CTRL 获 2.9 亿美元成为量子软件独角兽,量子传感/导航和硬件无关的控制软件比硬件更早变现(融资新闻稿,性能指标未经独立验证)",
+      "article_title": "Q-CTRL Secures US$290 Million Series C Funding Led by Salesforce Ventures",
+      "article_url": "https://thequantuminsider.com/2026/11/12/q-ctrl-secures-us290-million-series-c-funding-led-by-salesforce-ventures/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 12 Nov 2026 13:05:33 +0000",
+      "added_at": "2026-11-13T06:17:14.097752+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "IBM 宣称 2026 年实现量子优势并把 2028 年产业影响作为新目标,瓶颈从量子比特转向软件、工作流和经济性,平台型公司受益",
+      "article_title": "IBM Quantum and the race to make scientific advantage useful to industry",
+      "article_url": "https://siliconangle.com/2026/11/12/ibm-quantum-and-the-race-to-make-scientific-advantage-useful-to-industry/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 18:01:06 +0000",
+      "added_at": "2026-11-13T06:17:14.585545+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "量子-经典混合工作流中经典计算和 AI 辅助工具的比重在增加,经典 HPC/GPU 需求不会因量子进展而消失",
+      "article_title": "IBM Quantum and the race to make scientific advantage useful to industry",
+      "article_url": "https://siliconangle.com/2026/11/12/ibm-quantum-and-the-race-to-make-scientific-advantage-useful-to-industry/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 18:01:06 +0000",
+      "added_at": "2026-11-13T06:17:14.832777+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Applied Materials 营收增 53% 并给出超预期指引,晶圆厂扩产未因 Nvidia 动荡松动,前道和封装设备是 AI 芯片扩产的确定性受益层",
+      "article_title": "Applied Materials posts impressive 53% jump in revenue as it beats expectations again",
+      "article_url": "https://siliconangle.com/2026/11/12/applied-materials-posts-an-impressive-53-jump-in-revenue-as-it-beats-expectations-again/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 13 Nov 2026 02:09:46 +0000",
+      "added_at": "2026-11-13T06:17:15.336272+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Cisco 上调指引、AI 基础设施收入预计翻倍,AI 网络需求加速,但内存短缺压低硬件毛利;交换芯片/光互联/交换机整机受益",
+      "article_title": "Cisco beats expectations, lifts guidance and forecasts AI infrastructure revenue to double in fiscal 2027",
+      "article_url": "https://siliconangle.com/2026/11/12/cisco-beats-expectations-lifts-its-guidance-and-forecasts-ai-infrastructure-revenue-to-double-in-fiscal-2027/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 13 Nov 2026 01:30:06 +0000",
+      "added_at": "2026-11-13T06:17:15.839277+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Cerebras 营收增 70% 并拿下微软,GPU 交期和成本瓶颈让替代推理芯片接住溢出需求,但客户集中于 OpenAI",
+      "article_title": "Surging AI chip revenue and Microsoft deal boost Cerebras Systems stock by 17%",
+      "article_url": "https://siliconangle.com/2026/11/12/surging-ai-chip-revenue-and-microsoft-deal-boost-cerebras-systems-stock-by-17/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 23:40:34 +0000",
+      "added_at": "2026-11-13T06:17:16.345638+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Agile Robots 获 5 亿美元、已部署约 2 万套工业方案,资本流向有真实部署和全关节力矩传感的工业机器人,力矩传感器/灵巧手等零部件受益",
+      "article_title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+      "article_url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 16:10:57 +0000",
+      "added_at": "2026-11-13T06:17:16.853761+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nvidia 同时作为投资人和 GR00T 机器人基础模型提供者,在 Physical AI 模型与仿真层卡位加深",
+      "article_title": "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+      "article_url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 16:10:57 +0000",
+      "added_at": "2026-11-13T06:17:17.117287+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "软银超额预订燃气轮机亏损超 30 亿美元,AI 电力瓶颈真实但燃气路线出现价格发现,储能与电网灵活性比燃气轮机更确定受益",
+      "article_title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "article_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 12 Nov 2026 17:00:52 +0000",
+      "added_at": "2026-11-13T06:17:17.628030+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 基础设施资金存在错配风险,软银单季亏损 71 亿美元提醒电力相关押注的资本回报不确定",
+      "article_title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "article_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 12 Nov 2026 17:00:52 +0000",
+      "added_at": "2026-11-13T06:17:17.878117+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "替代芯片的瓶颈是 CUDA 迁移成本,跨硬件编译器与推理云是去 Nvidia 化中杠杆最高的一层,利好 Trainium/TPU 等自研芯片",
+      "article_title": "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs",
+      "article_url": "https://siliconangle.com/2026/11/12/with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidias-cuda-moat-in-its-crosshairs/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 15:00:44 +0000",
+      "added_at": "2026-11-13T06:17:18.391719+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Gemini 4 Hydrogen 以更低价格反超旗舰,agent 瓶颈转向单位任务成本,低延迟推理算力(尤其 TPU)和模型路由软件受益",
+      "article_title": "Google releases Gemini 4 Hydrogen, a lower-cost model said to outscore Argon",
+      "article_url": "https://siliconangle.com/2026/11/12/google-releases-gemini-4-hydrogen-a-lower-cost-model-said-to-outscore-argon/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 12 Nov 2026 22:50:02 +0000",
+      "added_at": "2026-11-13T06:17:18.896239+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "日本金融与电信巨头联合研究主权卫星巨型星座并纳入轨道数据中心,批量造星与本国发射能力是瓶颈,三菱电机等卫星制造方受益",
+      "article_title": "MUFG enters MoU with Japanese industry coalition to build satellite mega-constellation",
+      "article_url": "https://www.datacenterdynamics.com/en/news/mufg-enters-mou-with-japanese-industry-coalition-to-build-satellite-mega-constellation/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 12 Nov 2026 11:40:58 +0000",
+      "added_at": "2026-11-13T06:17:19.410972+00:00"
     }
   ]
 }
