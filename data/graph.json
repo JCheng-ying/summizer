@@ -244,9 +244,9 @@
         "AI accelerators / GPUs",
         "AI GPUs"
       ],
-      "mentions": 39,
+      "mentions": 40,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-13T17:11:09.897564+00:00",
+      "last_seen": "2026-11-13T19:09:50.917587+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -2696,15 +2696,17 @@
     "deepseek": {
       "name": "DeepSeek",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "open-weight LLM lab"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-09T05:41:43.881750+00:00",
-      "last_seen": "2026-08-09T05:41:43.881750+00:00"
+      "last_seen": "2026-11-13T19:09:50.917587+00:00"
     },
     "stanford university": {
       "name": "Stanford University",
@@ -2937,16 +2939,17 @@
       "name": "MiniMax",
       "type": "company",
       "sectors": [
-        "AI models"
+        "AI models",
+        "open-weight LLM lab"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-15T05:50:17.048449+00:00",
-      "last_seen": "2026-11-11T06:19:52.701714+00:00"
+      "last_seen": "2026-11-13T19:09:50.917587+00:00"
     },
     "black forest labs": {
       "name": "Black Forest Labs",
@@ -3522,16 +3525,17 @@
       "name": "Moonshot AI",
       "type": "company",
       "sectors": [
-        "frontier open-weights AI models (Kimi series)"
+        "frontier open-weights AI models (Kimi series)",
+        "open-weight LLM lab (Kimi)"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-10-15T05:35:20.148398+00:00"
+      "last_seen": "2026-11-13T19:09:50.917587+00:00"
     },
     "zai": {
       "name": "Z.ai",
@@ -5947,16 +5951,17 @@
         "Singapore data center operator",
         "IT / cloud services",
         "neocloud (Singapore)",
-        "neocloud / GPU rental"
+        "neocloud / GPU rental",
+        "GPU data center operator"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-13T06:17:09.837038+00:00"
+      "last_seen": "2026-11-13T19:09:50.917587+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -8311,6 +8316,36 @@
       "mentions": 1,
       "first_seen": "2026-11-13T18:10:29.340199+00:00",
       "last_seen": "2026-11-13T18:10:29.340199+00:00"
+    },
+    "ant": {
+      "name": "Ant Group",
+      "type": "company",
+      "sectors": [
+        "fintech / LLM developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T19:09:50.917587+00:00",
+      "last_seen": "2026-11-13T19:09:50.917587+00:00"
+    },
+    "speedmatrix": {
+      "name": "Speedmatrix",
+      "type": "company",
+      "sectors": [
+        "GPU data center / chip trade"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T19:09:50.917587+00:00",
+      "last_seen": "2026-11-13T19:09:50.917587+00:00"
     }
   },
   "edges": [
@@ -16333,6 +16368,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 11 Nov 2026 23:50:00 +0000",
           "added_at": "2026-11-12T04:06:47.275354+00:00"
+        },
+        {
+          "description": "Nvidia 与黄仁勋曾为 Megaspeed 数据中心背书;Megaspeed 被指涉及向中国走私 Nvidia 芯片",
+          "article_title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "article_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+          "added_at": "2026-11-13T19:09:50.917587+00:00"
         }
       ]
     },
@@ -19230,6 +19273,51 @@
           "source_name": "The Quantum Insider",
           "published": "Fri, 13 Nov 2026 16:17:23 +0000",
           "added_at": "2026-11-13T18:10:29.340199+00:00"
+        }
+      ]
+    },
+    {
+      "source": "moonshot ai",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Unemployment Labs 分析称 Kimi K3 权重带有在禁运 Blackwell 上训练的指纹,白宫顾问此前亦称 Moonshot 使用禁运芯片(未必违法,可能经境外数据中心)",
+          "article_title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "article_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+          "added_at": "2026-11-13T19:09:50.917587+00:00"
+        }
+      ]
+    },
+    {
+      "source": "deepseek",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Unemployment Labs 分析称 DeepSeek V4 权重带有在禁运 Blackwell 上训练的指纹",
+          "article_title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "article_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+          "added_at": "2026-11-13T19:09:50.917587+00:00"
+        }
+      ]
+    },
+    {
+      "source": "megaspeed",
+      "target": "speedmatrix",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Speedmatrix 为 Megaspeed 子公司,多年处于对华芯片贸易中心,受美国和新加坡政府调查",
+          "article_title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "article_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+          "added_at": "2026-11-13T19:09:50.917587+00:00"
         }
       ]
     }
@@ -22681,6 +22769,15 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 13 Nov 2026 18:04:32 +0000",
       "added_at": "2026-11-13T18:10:30.523065+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Unemployment Labs 称 DeepSeek V4、Kimi K3 带 Blackwell 训练指纹,Epoch 估 2024–25 年约 200 万颗先进芯片隐蔽入华;出口管制恐从'管位置'转向'管使用者',对 Nvidia 是合规/中国收入的监管面利空,但前沿实验室绕道获取 Blackwell 反证最先进算力仍是硬瓶颈,需求逻辑未反转;芯片使用追踪/集群审计可能变成合规必需品;权重推断方法尚待独立验证",
+      "article_title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+      "article_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "added_at": "2026-11-13T19:09:51.157654+00:00"
     }
   ]
 }
