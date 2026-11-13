@@ -1,0 +1,14 @@
+# Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
+https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+
+黄仁勋辞职引出的一个更大命题是:过去两三年 AI 基础设施创业公司的高估值,有多少是由真实的商业需求支撑的,又有多少是由一家芯片供应商用自己的资产负债表"锚定"出来的。如果后者占比不小,那么 Nvidia 投资节奏的变化,会沿着融资链条一路传导到估值、竞争格局,甚至谁能活下来。
+
+文章指出,Nvidia 这几年是 AI 创业生态里最活跃的投资方之一,每年向创业公司投入数百亿美元,据 PitchBook 统计今年已参与 105 轮融资,而且常常是最大的出资方。Seligman Ventures 的 Umesh Padval(他当年在 Mellanox 董事会,因此早就认识黄仁勋)说,这些投资的重大决定大多由黄仁勋本人拍板。文章列举的投资组合几乎就是一张 neocloud 和开源模型的地图:私有阶段就投了 CoreWeave,参与了 Crusoe 的两轮融资(包括 14 亿美元的 E 轮),今年以 130 亿美元收购 Hugging Face(预计 2027 年完成),还持有 Mistral AI、Lambda、Black Forest Labs 的股份;去年在 Reflection AI 20 亿美元的 B 轮里投了 8 亿美元,当时这家开源模型公司还没有像样的收入。文章援引投资人的说法,临时 CEO Colette Kress"保守得多",不太可能继续以同样的规模支撑早期生态。
+
+文章最有信息量的是对机制的描述。第一,Nvidia 的钱解决的是一个非常具体的问题:基础设施公司起步需要 1 亿到 5 亿美元的 GPU,常常可以从 Nvidia 拿到其中一半左右的资金,估值在 10 亿美元以上。第二,Nvidia 上了股东名单,其他投资人才敢跟进这样的高估值,Padval 的原话是"Nvidia 在股东名单上,所有人都觉得安全"。第三,这些慷慨的支票同时把被投公司锁定在 Nvidia 的芯片上,反过来巩固了它的市场地位,文章也承认这种角色有时像垄断。文章认为接下来 Nvidia 会更挑剔新项目、对存量组合开更小的支票,这会压低估值,传统 VC 也可能暂停部分交易。至于谁来填补空缺,Battery Ventures 的 Dharmesh Thakker 认为 Google、Amazon、Microsoft、AMD 会争夺这顶"投资王冠",取决于谁能同时拿出好产品、能和 CUDA 竞争的生态,以及足够的财力;但他怀疑这些公司会像 Nvidia 那样往还没收入的基础设施公司砸几亿美元。Dawn Capital 的 Shamilla Bankiya 还提到,黄仁勋押注开源和欧洲,如果对美国以外地区的支持停止,会留下"没人能填补"的缺口。
+
+个人看法:先找瓶颈。这篇文章其实把 AI 基础设施创业的瓶颈讲得很清楚——不是技术,也不是需求,而是"第一笔 GPU 钱"。一家 neocloud 或推理服务商在拿到客户合同之前就要先买卡,这笔钱传统 VC 不敢单独出,因为 GPU 折旧快、抵押价值不确定;Nvidia 出了一半,还附带了一个信号,其他资金才跟进。这和 [Kress 质疑客户担保那篇](2026-11-13-jensen-huang-didn-t-show-confidence-in-his-successor-report-says.md) 讲的是同一件事的两面:那篇是债务端的担保和信贷,这篇是股权端的领投,两者都是 Nvidia 用自己的现金把下游需求提前造出来。也和 [CoreWeave 转向客户预付款](2026-11-11-coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth.md)、[Nebius 400 亿美元的支出计划](2026-11-12-nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending.md) 能连成一条线:已经上市、有现金流的 neocloud 可以靠客户预付款和资本市场自救,真正受冲击的是还没收入、靠 Nvidia 领投撑起 10 亿美元估值的那一批。
+
+所以影响的层次会是:第一层直接受损的是早期 neocloud、推理服务商和开源模型公司,估值下调、融资周期拉长,欧洲的开源模型生态尤其明显,因为文章说 Nvidia 是那里少有的大额出资方;第二层是可能补位的大厂——Google、Amazon、Microsoft、AMD 有动机用投资换取自家芯片和云的采用,这和 [以色列 VC 那篇](2026-11-13-israel-s-vcs-see-opportunity-for-challengers-in-nvidia-s-turmoil.md) 说的"挑战者窗口"是同一个机制,而文章顺带提到 Google 本周刚发布两款新芯片,也呼应了 [TPU 8t/8i 那篇](2026-11-09-google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-m.md);但 Thakker 的判断很关键,大厂会投成熟公司,不会去填"还没收入"的那一段,所以补位是不完整的;第三层是降低迁移成本的软件,比如 [Luminal 这类绕开 CUDA 的编译器](2026-11-12-with-23m-in-funding-luminal-is-the-latest-startup-to-put-nvidia-s-cuda-moat-in-i.md)——如果下一笔领投来自 AMD 或 Google,被投公司就需要能跑在非 Nvidia 硬件上的软件栈。对 AI板块的判断是:短期利空早期基础设施创业的估值和融资节奏,总量增速可能放缓,但芯片供应商对客户的"锁定"减弱,结构上对挑战者有利。正如文章最后所说,很少有人认为 Nvidia 投资放缓会单独让整个 AI 繁荣停下来。
+
+现在还早,而且文章里关于 Kress 的判断都来自匿名投资人。值得跟踪的信号是接下来几个月 Nvidia 是否在已有被投公司的后续轮次里缺席或缩减份额,以及是否有大厂第一次领投一家还没收入的 neocloud——如果出现后者,说明这个缺口开始被别人接手。

@@ -243,11 +243,12 @@
         "AI accelerators",
         "AI accelerators / GPUs",
         "AI GPUs",
-        "GPU / AI compute"
+        "GPU / AI compute",
+        "AI chips / GPUs"
       ],
-      "mentions": 41,
+      "mentions": 42,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-13T21:09:37.045387+00:00",
+      "last_seen": "2026-11-13T23:09:29.373228+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -550,9 +551,9 @@
       ],
       "hot": "hot",
       "ticker": "CRWV",
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:09.837038+00:00"
+      "last_seen": "2026-11-13T23:09:29.373228+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -644,15 +645,17 @@
     "mistral ai": {
       "name": "Mistral AI",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "open-weight foundation models"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-13T23:09:29.373228+00:00"
     },
     "cohere": {
       "name": "Cohere",
@@ -2659,16 +2662,17 @@
       "name": "Hugging Face",
       "type": "company",
       "sectors": [
-        "open model hub"
+        "open model hub",
+        "open-source AI platform"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-09T05:41:43.395872+00:00",
-      "last_seen": "2026-11-13T06:17:09.837038+00:00"
+      "last_seen": "2026-11-13T23:09:29.373228+00:00"
     },
     "servicenow": {
       "name": "ServiceNow",
@@ -2959,15 +2963,17 @@
     "black forest labs": {
       "name": "Black Forest Labs",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "generative image models"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:50:17.048449+00:00",
-      "last_seen": "2026-08-15T05:50:17.048449+00:00"
+      "last_seen": "2026-11-13T23:09:29.373228+00:00"
     },
     "bytedance": {
       "name": "ByteDance",
@@ -5937,7 +5943,8 @@
       "type": "company",
       "sectors": [
         "AI data center development",
-        "AI cloud / data centers"
+        "AI cloud / data centers",
+        "AI data center / neocloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -5945,9 +5952,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-09T06:06:09.263035+00:00",
-      "last_seen": "2026-11-12T04:06:46.488405+00:00"
+      "last_seen": "2026-11-13T23:09:29.373228+00:00"
     },
     "megaspeed": {
       "name": "Megaspeed",
@@ -6344,9 +6351,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-10T05:12:45.984045+00:00",
-      "last_seen": "2026-11-12T04:06:41.415270+00:00"
+      "last_seen": "2026-11-13T23:09:29.373228+00:00"
     },
     "orbital compute": {
       "name": "Orbital Compute",
@@ -7968,16 +7975,17 @@
       "name": "Mellanox",
       "type": "company",
       "sectors": [
-        "data center networking"
+        "data center networking",
+        "data center networking chips"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T13:10:37.630195+00:00",
-      "last_seen": "2026-11-13T13:10:37.630195+00:00"
+      "last_seen": "2026-11-13T23:09:29.373228+00:00"
     },
     "powerbridge": {
       "name": "PowerBridge",
@@ -8561,6 +8569,21 @@
       "mentions": 1,
       "first_seen": "2026-11-13T22:09:22.018399+00:00",
       "last_seen": "2026-11-13T22:09:22.018399+00:00"
+    },
+    "reflection ai": {
+      "name": "Reflection AI",
+      "type": "company",
+      "sectors": [
+        "open-source frontier models"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T23:09:29.373228+00:00",
+      "last_seen": "2026-11-13T23:09:29.373228+00:00"
     }
   },
   "edges": [
@@ -8842,6 +8865,14 @@
           "source_name": "SiliconANGLE",
           "published": "Thu, 12 Nov 2026 14:55:04 +0000",
           "added_at": "2026-11-13T06:17:09.837038+00:00"
+        },
+        {
+          "description": "Nvidia 在 CoreWeave 仍为私有公司时就参与投资",
+          "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+          "added_at": "2026-11-13T23:09:29.373228+00:00"
         }
       ]
     },
@@ -12625,6 +12656,14 @@
           "source_name": "SiliconANGLE",
           "published": "Thu, 12 Nov 2026 14:55:04 +0000",
           "added_at": "2026-11-13T06:17:09.837038+00:00"
+        },
+        {
+          "description": "Nvidia 今年以 130 亿美元收购 Hugging Face,预计 2027 年完成",
+          "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+          "added_at": "2026-11-13T23:09:29.373228+00:00"
         }
       ]
     },
@@ -19023,6 +19062,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 12:52:19 +0000",
           "added_at": "2026-11-13T13:10:37.630195+00:00"
+        },
+        {
+          "description": "Nvidia 2020 年以约 70 亿美元完成收购网络芯片公司 Mellanox",
+          "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+          "added_at": "2026-11-13T23:09:29.373228+00:00"
         }
       ]
     },
@@ -19848,6 +19895,81 @@
           "source_name": "SiliconANGLE",
           "published": "Fri, 13 Nov 2026 21:22:49 +0000",
           "added_at": "2026-11-13T22:09:22.018399+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "crusoe",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 参与了 Crusoe 两轮融资,包括 14 亿美元的 E 轮",
+          "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+          "added_at": "2026-11-13T23:09:29.373228+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "mistral ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 持有 Mistral AI 的投资",
+          "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+          "added_at": "2026-11-13T23:09:29.373228+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "lambda",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 持有 Lambda 的投资",
+          "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+          "added_at": "2026-11-13T23:09:29.373228+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "black forest labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 持有 Black Forest Labs 的投资",
+          "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+          "added_at": "2026-11-13T23:09:29.373228+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "reflection ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 在 Reflection AI 20 亿美元 B 轮中投入 8 亿美元,当时该公司尚无可观收入",
+          "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+          "added_at": "2026-11-13T23:09:29.373228+00:00"
         }
       ]
     }
@@ -23335,6 +23457,15 @@
       "source_name": "SiliconANGLE",
       "published": "Fri, 13 Nov 2026 21:22:49 +0000",
       "added_at": "2026-11-13T22:09:22.266028+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "黄仁勋离任后 Nvidia 预计收缩对早期 neocloud、推理服务商和开源模型公司的领投,短期利空早期 AI 基础设施创业的估值与融资节奏;大厂补位不完整,但芯片锁定减弱,结构上利好 Google、AMD 等挑战者及降低迁移成本的软件层",
+      "article_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "article_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "added_at": "2026-11-13T23:09:29.615213+00:00"
     }
   ]
 }
