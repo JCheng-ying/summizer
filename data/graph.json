@@ -468,9 +468,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 34,
+      "mentions": 35,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+      "last_seen": "2026-11-13T22:09:22.018399+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -1796,9 +1796,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 30,
+      "mentions": 31,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+      "last_seen": "2026-11-13T22:09:22.018399+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -8520,6 +8520,47 @@
       "mentions": 1,
       "first_seen": "2026-11-13T21:09:37.045387+00:00",
       "last_seen": "2026-11-13T21:09:37.045387+00:00"
+    },
+    "mirendil": {
+      "name": "Mirendil",
+      "type": "company",
+      "sectors": [
+        "automated AI model training (Lor platform, Mirendil-Base, Fern)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T22:09:22.018399+00:00",
+      "last_seen": "2026-11-13T22:09:22.018399+00:00"
+    },
+    "kleiner perkins": {
+      "name": "Kleiner Perkins",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T22:09:22.018399+00:00",
+      "last_seen": "2026-11-13T22:09:22.018399+00:00"
+    },
+    "clearlake capital": {
+      "name": "Clearlake Capital",
+      "type": "company",
+      "sectors": [
+        "private equity"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T22:09:22.018399+00:00",
+      "last_seen": "2026-11-13T22:09:22.018399+00:00"
     }
   },
   "edges": [
@@ -19749,6 +19790,66 @@
           "added_at": "2026-11-13T21:09:37.045387+00:00"
         }
       ]
+    },
+    {
+      "source": "kleiner perkins",
+      "target": "mirendil",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Kleiner Perkins 联合领投 Mirendil 10 亿美元 A 轮",
+          "article_title": "Mirendil raises $1B in funding to speed up AI model development",
+          "article_url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 21:22:49 +0000",
+          "added_at": "2026-11-13T22:09:22.018399+00:00"
+        }
+      ]
+    },
+    {
+      "source": "clearlake capital",
+      "target": "mirendil",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Clearlake Capital 联合领投 Mirendil 10 亿美元 A 轮",
+          "article_title": "Mirendil raises $1B in funding to speed up AI model development",
+          "article_url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 21:22:49 +0000",
+          "added_at": "2026-11-13T22:09:22.018399+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "mirendil",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Google 参投 Mirendil 10 亿美元 A 轮",
+          "article_title": "Mirendil raises $1B in funding to speed up AI model development",
+          "article_url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 21:22:49 +0000",
+          "added_at": "2026-11-13T22:09:22.018399+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mirendil",
+      "target": "anthropic",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Mirendil 称其编码模型 Fern 单次输入 1000 万 token,为 Claude Opus 5.5 的 10 倍(公司口径)",
+          "article_title": "Mirendil raises $1B in funding to speed up AI model development",
+          "article_url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 21:22:49 +0000",
+          "added_at": "2026-11-13T22:09:22.018399+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -23225,6 +23326,15 @@
       "source_name": "TechCrunch - AI",
       "published": "Fri, 13 Nov 2026 19:37:57 +0000",
       "added_at": "2026-11-13T21:09:37.279291+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Mirendil 获 10 亿美元 A 轮(Kleiner Perkins、Clearlake 领投,Google 参投),押注用数百个智能体自动化模型训练,针对顶级研究员稀缺和实验迭代速度的瓶颈;研发门槛下降会让训练团队变多、并行实验拉动算力需求,利好算力与研发工具层,对次前沿模型定价权是压力。1000 万美元训练成本、99% 代码由智能体编写、1000 万 token 上下文均为公司口径,未经独立验证",
+      "article_title": "Mirendil raises $1B in funding to speed up AI model development",
+      "article_url": "https://siliconangle.com/2026/11/13/mirendil-raises-1b-in-funding-to-speed-up-ai-model-development/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 13 Nov 2026 21:22:49 +0000",
+      "added_at": "2026-11-13T22:09:22.266028+00:00"
     }
   ]
 }
