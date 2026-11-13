@@ -1714,7 +1714,8 @@
         "AI chips",
         "GPUs / CPUs",
         "CPUs / GPUs",
-        "CPUs / GPUs / FPGAs"
+        "CPUs / GPUs / FPGAs",
+        "semiconductors / GPUs"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1723,9 +1724,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 15,
+      "mentions": 16,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:13.844681+00:00"
+      "last_seen": "2026-11-13T10:11:33.161839+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -5240,14 +5241,15 @@
       "name": "Blackstone",
       "type": "company",
       "sectors": [
-        "private equity"
+        "private equity",
+        "alternative asset management"
       ],
       "sector_tags": [],
       "hot": "hot",
       "ticker": "BX",
-      "mentions": 1,
+      "mentions": 3,
       "first_seen": "2026-11-06T07:01:18.116586+00:00",
-      "last_seen": "2026-11-06T07:01:18.116586+00:00"
+      "last_seen": "2026-11-13T10:11:35.296951+00:00"
     },
     "martin uav": {
       "name": "Martin UAV",
@@ -7458,9 +7460,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T06:17:19.154358+00:00",
-      "last_seen": "2026-11-13T06:17:19.154358+00:00"
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
     },
     "ntt": {
       "name": "NTT, Inc.",
@@ -7536,6 +7538,293 @@
       "mentions": 1,
       "first_seen": "2026-11-13T08:09:48.085044+00:00",
       "last_seen": "2026-11-13T08:09:48.085044+00:00"
+    },
+    "fermi": {
+      "name": "Fermi",
+      "type": "company",
+      "sectors": [
+        "data center & power campus developer (Project Matador)"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:33.161839+00:00",
+      "last_seen": "2026-11-13T10:11:33.161839+00:00"
+    },
+    "tensorwave": {
+      "name": "TensorWave",
+      "type": "company",
+      "sectors": [
+        "AI cloud / neocloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:33.161839+00:00",
+      "last_seen": "2026-11-13T10:11:33.161839+00:00"
+    },
+    "texas tech university system": {
+      "name": "Texas Tech University System",
+      "type": "institution",
+      "sectors": [
+        "university land owner"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:33.161839+00:00",
+      "last_seen": "2026-11-13T10:11:33.161839+00:00"
+    },
+    "owlo cloud": {
+      "name": "OwlO Cloud",
+      "type": "company",
+      "sectors": [
+        "orbital data center / in-orbit edge compute"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:33.875226+00:00",
+      "last_seen": "2026-11-13T10:11:33.875226+00:00"
+    },
+    "thales alenia space": {
+      "name": "Thales Alenia Space",
+      "type": "company",
+      "sectors": [
+        "satellite manufacturing"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:33.875226+00:00",
+      "last_seen": "2026-11-13T10:11:33.875226+00:00"
+    },
+    "edge aerospace": {
+      "name": "Edge Aerospace",
+      "type": "company",
+      "sectors": [
+        "space computers / space networking"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:33.875226+00:00",
+      "last_seen": "2026-11-13T10:11:33.875226+00:00"
+    },
+    "thales": {
+      "name": "Thales",
+      "type": "company",
+      "sectors": [
+        "aerospace & defense"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:33.875226+00:00",
+      "last_seen": "2026-11-13T10:11:33.875226+00:00"
+    },
+    "leonardo": {
+      "name": "Leonardo",
+      "type": "company",
+      "sectors": [
+        "aerospace & defense"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:33.875226+00:00",
+      "last_seen": "2026-11-13T10:11:33.875226+00:00"
+    },
+    "rowan digital infrastructure": {
+      "name": "Rowan Digital Infrastructure",
+      "type": "company",
+      "sectors": [
+        "hyperscale data center developer"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:34.590052+00:00",
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+    },
+    "apterra infrastructure capital": {
+      "name": "Apterra Infrastructure Capital",
+      "type": "company",
+      "sectors": [
+        "infrastructure credit"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:34.590052+00:00",
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+    },
+    "citibank": {
+      "name": "Citibank",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:34.590052+00:00",
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+    },
+    "mizuho bank": {
+      "name": "Mizuho Bank",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:34.590052+00:00",
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+    },
+    "sumitomo mitsui banking": {
+      "name": "Sumitomo Mitsui Banking Corporation",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:34.590052+00:00",
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+    },
+    "goldman sachs": {
+      "name": "Goldman Sachs",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:34.590052+00:00",
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+    },
+    "quinbrook infrastructure partners": {
+      "name": "Quinbrook Infrastructure Partners",
+      "type": "company",
+      "sectors": [
+        "infrastructure investment"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:34.590052+00:00",
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+    },
+    "birch infrastructure": {
+      "name": "Birch Infrastructure",
+      "type": "company",
+      "sectors": [
+        "infrastructure development"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:34.590052+00:00",
+      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+    },
+    "airtrunk": {
+      "name": "AirTrunk",
+      "type": "company",
+      "sectors": [
+        "APAC hyperscale data centers"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:35.296951+00:00",
+      "last_seen": "2026-11-13T10:11:35.296951+00:00"
+    },
+    "european energy": {
+      "name": "European Energy",
+      "type": "company",
+      "sectors": [
+        "solar & wind project developer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:35.296951+00:00",
+      "last_seen": "2026-11-13T10:11:35.296951+00:00"
+    },
+    "canadian pension plan cpp": {
+      "name": "Canadian Pension Plan (CPP)",
+      "type": "institution",
+      "sectors": [
+        "pension fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:35.296951+00:00",
+      "last_seen": "2026-11-13T10:11:35.296951+00:00"
+    },
+    "lumina cloudinfra": {
+      "name": "Lumina CloudInfra",
+      "type": "company",
+      "sectors": [
+        "India data center operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T10:11:35.296951+00:00",
+      "last_seen": "2026-11-13T10:11:35.296951+00:00"
     }
   },
   "edges": [
@@ -17500,6 +17789,306 @@
           "added_at": "2026-11-13T08:09:48.085044+00:00"
         }
       ]
+    },
+    {
+      "source": "tensorwave",
+      "target": "fermi",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "TensorWave 原计划在 Project Matador 租用最多 650MW,8 月签署的租赁与服务协议已于 11 月正式终止",
+          "article_title": "Fermi does 600MW power deal with hyperscaler, but TensorWave lease is officially dead",
+          "article_url": "https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:53:30 +0000",
+          "added_at": "2026-11-13T10:11:33.161839+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "tensorwave",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AMD 曾为 TensorWave 在 Fermi 的租约提供信用支持,该信用支持协议随租约一并终止",
+          "article_title": "Fermi does 600MW power deal with hyperscaler, but TensorWave lease is officially dead",
+          "article_url": "https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:53:30 +0000",
+          "added_at": "2026-11-13T10:11:33.161839+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fermi",
+      "target": "texas tech university system",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Project Matador 园区位于 Texas Tech 大学系统所有的土地上",
+          "article_title": "Fermi does 600MW power deal with hyperscaler, but TensorWave lease is officially dead",
+          "article_url": "https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:53:30 +0000",
+          "added_at": "2026-11-13T10:11:33.161839+00:00"
+        }
+      ]
+    },
+    {
+      "source": "owlo cloud",
+      "target": "thales alenia space",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方签署合作备忘录,合作建设轨道计算星座;OwlO 曾参加 Thales Alenia Space 的太空业务加速器",
+          "article_title": "OwlO Cloud emerges from stealth promising European scalable orbital compute & AI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/owlo-cloud-emerges-from-stealth-promising-european-scalable-orbital-compute-ai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:55:55 +0000",
+          "added_at": "2026-11-13T10:11:33.875226+00:00"
+        }
+      ]
+    },
+    {
+      "source": "edge aerospace",
+      "target": "owlo cloud",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "OwlO 计划使用 Edge Aerospace 为轨道数据中心设计的多千瓦级太空计算机,双方签署合作备忘录",
+          "article_title": "OwlO Cloud emerges from stealth promising European scalable orbital compute & AI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/owlo-cloud-emerges-from-stealth-promising-european-scalable-orbital-compute-ai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:55:55 +0000",
+          "added_at": "2026-11-13T10:11:33.875226+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thales",
+      "target": "thales alenia space",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Thales Alenia Space 是 Thales 与 Leonardo 的合资公司",
+          "article_title": "OwlO Cloud emerges from stealth promising European scalable orbital compute & AI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/owlo-cloud-emerges-from-stealth-promising-european-scalable-orbital-compute-ai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:55:55 +0000",
+          "added_at": "2026-11-13T10:11:33.875226+00:00"
+        }
+      ]
+    },
+    {
+      "source": "leonardo",
+      "target": "thales alenia space",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Thales Alenia Space 是 Thales 与 Leonardo 的合资公司",
+          "article_title": "OwlO Cloud emerges from stealth promising European scalable orbital compute & AI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/owlo-cloud-emerges-from-stealth-promising-european-scalable-orbital-compute-ai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:55:55 +0000",
+          "added_at": "2026-11-13T10:11:33.875226+00:00"
+        }
+      ]
+    },
+    {
+      "source": "apterra infrastructure capital",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "牵头为 Rowan 控股公司定期贷款增加 6 亿美元",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "citibank",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "牵头 Rowan 首笔公司级 5.9 亿美元循环信贷和 3.55 亿美元信用证额度",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mitsubishi ufj financial mufg",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 Rowan 循环信贷银团,并曾牵头其 29 亿美元 Temple 1 项目融资",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mizuho bank",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 Rowan 循环信贷银团,并曾牵头其 29 亿美元 Temple 1 项目融资",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sumitomo mitsui banking",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 Rowan 循环信贷银团,并曾牵头其 29 亿美元 Temple 1 项目融资",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "goldman sachs",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 Rowan 循环信贷与信用证贷款银团",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quinbrook infrastructure partners",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "2021 年与 Birch Infrastructure 共同创立 Rowan",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "birch infrastructure",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "2021 年与 Quinbrook 共同创立 Rowan",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "rowan digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "今年早些时候收购 Rowan 一笔重要少数股权",
+          "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+          "added_at": "2026-11-13T10:11:34.590052+00:00"
+        }
+      ]
+    },
+    {
+      "source": "airtrunk",
+      "target": "european energy",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "签署排他协议推进新南威尔士 Hunter 地区 260MW 光伏、800MWh+ 储能和最高 350MW 风电项目;此前已合作 31MW Mulwala 光伏电站",
+          "article_title": "AirTrunk signs 1GW energy deal with European Energy Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:58:23 +0000",
+          "added_at": "2026-11-13T10:11:35.296951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "airtrunk",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "2024 年与 CPP 以 161 亿美元收购 AirTrunk",
+          "article_title": "AirTrunk signs 1GW energy deal with European Energy Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:58:23 +0000",
+          "added_at": "2026-11-13T10:11:35.296951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "canadian pension plan cpp",
+      "target": "airtrunk",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "2024 年与 Blackstone 以 161 亿美元收购 AirTrunk",
+          "article_title": "AirTrunk signs 1GW energy deal with European Energy Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:58:23 +0000",
+          "added_at": "2026-11-13T10:11:35.296951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "airtrunk",
+      "target": "lumina cloudinfra",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "今年收购印度运营商 Lumina CloudInfra,进入印度市场",
+          "article_title": "AirTrunk signs 1GW energy deal with European Energy Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 09:58:23 +0000",
+          "added_at": "2026-11-13T10:11:35.296951+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -20652,6 +21241,78 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 13 Nov 2026 08:00:00 +0000",
       "added_at": "2026-11-13T08:09:48.785950+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Fermi 的投资级云厂商客户在未签租约前先预付 2 亿美元换取 600MW 许可电力,说明已许可电力和并网时间是当前最稀缺的资源,利好发电与电网设备层(利益相关:数据来自 Fermi 公司声明)",
+      "article_title": "Fermi does 600MW power deal with hyperscaler, but TensorWave lease is officially dead",
+      "article_url": "https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 09:53:30 +0000",
+      "added_at": "2026-11-13T10:11:33.399694+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AMD 信用支持的 TensorWave 650MW 租约告吹,芯片厂商为 neocloud 兜底的模式受挫,对依赖此类安排的中小型 AI 云公司偏利空",
+      "article_title": "Fermi does 600MW power deal with hyperscaler, but TensorWave lease is officially dead",
+      "article_url": "https://www.datacenterdynamics.com/en/news/fermi-does-600mw-power-deal-with-hyperscaler-but-tensorwave-lease-is-officially-dead/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 09:53:30 +0000",
+      "added_at": "2026-11-13T10:11:33.637962+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "OwlO 以在轨处理太空数据(对地观测、海上监视、防务)为卖点规划 2030 年 10+ 节点计算星座,利好卫星平台与星间链路层,但目前只是备忘录、规划未经独立验证",
+      "article_title": "OwlO Cloud emerges from stealth promising European scalable orbital compute & AI",
+      "article_url": "https://www.datacenterdynamics.com/en/news/owlo-cloud-emerges-from-stealth-promising-european-scalable-orbital-compute-ai/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 09:55:55 +0000",
+      "added_at": "2026-11-13T10:11:34.115111+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "轨道算力的务实路线本质是功耗受限环境下的边缘推理,以下行带宽成本为基准,利好低功耗、抗辐射的太空级算力芯片",
+      "article_title": "OwlO Cloud emerges from stealth promising European scalable orbital compute & AI",
+      "article_url": "https://www.datacenterdynamics.com/en/news/owlo-cloud-emerges-from-stealth-promising-european-scalable-orbital-compute-ai/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 09:55:55 +0000",
+      "added_at": "2026-11-13T10:11:34.348496+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Rowan 以 speed to power 为核心,新增 15 亿美元公司级信贷(含信用证)用于锁定电力和长交期设备,开发资金最终转化为电网与发电设备订单(利益相关:数据来自公司公告)",
+      "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+      "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+      "added_at": "2026-11-13T10:11:34.828343+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "有 1.2GW 大厂租约的开发商仍能从大型银团持续融资,说明超大规模客户的算力扩张通过开发商持续落地,算力基础设施需求未放缓",
+      "article_title": "Rowan secures $1.5bn in financing for data center build-out",
+      "article_url": "https://www.datacenterdynamics.com/en/news/rowan-secures-15bn-in-financing-for-data-center-build-out/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 10:02:04 +0000",
+      "added_at": "2026-11-13T10:11:35.059784+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "AirTrunk 与 European Energy 推进光伏+800MWh 储能+风电项目,数据中心'自带新电源'成为扩张前提,利好储能集成与风光开发商",
+      "article_title": "AirTrunk signs 1GW energy deal with European Energy Australia",
+      "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 09:58:23 +0000",
+      "added_at": "2026-11-13T10:11:35.533876+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "亚太数据中心增长越来越受新电源开发周期约束(光伏储能 2030、风电 2032 投运),对算力扩张是前置条件而非直接利好",
+      "article_title": "AirTrunk signs 1GW energy deal with European Energy Australia",
+      "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-1gw-energy-deal-with-european-energy-australia/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 09:58:23 +0000",
+      "added_at": "2026-11-13T10:11:35.765261+00:00"
     }
   ]
 }
