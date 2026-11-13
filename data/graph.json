@@ -244,9 +244,9 @@
         "AI accelerators / GPUs",
         "AI GPUs"
       ],
-      "mentions": 36,
+      "mentions": 37,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-13T13:10:38.094303+00:00",
+      "last_seen": "2026-11-13T16:11:02.858942+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -407,9 +407,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 17,
+      "mentions": 18,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T13:10:38.094303+00:00"
+      "last_seen": "2026-11-13T16:11:03.328916+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -420,7 +420,8 @@
         "cloud",
         "cloud / e-commerce",
         "hyperscale cloud",
-        "cloud / satellite broadband"
+        "cloud / satellite broadband",
+        "e-commerce / cloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -430,9 +431,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 16,
+      "mentions": 17,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:18.133665+00:00"
+      "last_seen": "2026-11-13T16:11:03.328916+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -448,9 +449,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:10.573039+00:00"
+      "last_seen": "2026-11-13T16:11:03.328916+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -1072,9 +1073,9 @@
       ],
       "hot": "hot",
       "ticker": "IONQ",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-06T07:01:16.080547+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "rigetti computing": {
       "name": "Rigetti Computing",
@@ -1087,9 +1088,9 @@
       ],
       "hot": "hot",
       "ticker": "RGTI",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-12T04:06:40.101618+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "dwave quantum": {
       "name": "D-Wave Quantum",
@@ -1152,9 +1153,9 @@
       ],
       "hot": "hot",
       "ticker": "QNT",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-12T04:06:40.629138+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "psiquantum": {
       "name": "PsiQuantum",
@@ -1205,15 +1206,17 @@
     "iqm quantum computers": {
       "name": "IQM Quantum Computers",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "superconducting quantum computing"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": "IQMX",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "pasqal": {
       "name": "Pasqal",
@@ -1226,9 +1229,9 @@
       ],
       "hot": "cold",
       "ticker": "PSQL",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-09T06:06:04.007217+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "xanadu quantum": {
       "name": "Xanadu Quantum Technologies",
@@ -1241,22 +1244,24 @@
       ],
       "hot": "cold",
       "ticker": "XNDU",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-11T06:19:45.170270+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "bluefors": {
       "name": "Bluefors",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "dilution refrigerators"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "oxford instruments": {
       "name": "Oxford Instruments",
@@ -4331,7 +4336,8 @@
       "type": "company",
       "sectors": [
         "telecom / AI data centers",
-        "investment holding"
+        "investment holding",
+        "telecom / AI investment"
       ],
       "sector_tags": [
         "AI板块",
@@ -4341,9 +4347,9 @@
       ],
       "hot": null,
       "ticker": "9434.T",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-13T06:17:17.374808+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "nscale": {
       "name": "Nscale",
@@ -4416,9 +4422,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-10T05:12:44.190729+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "los alamos national laboratory": {
       "name": "Los Alamos National Laboratory",
@@ -4875,9 +4881,9 @@
       ],
       "hot": null,
       "ticker": "GFS",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-06T07:01:15.798724+00:00",
-      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "infineon": {
       "name": "Infineon Technologies",
@@ -4899,16 +4905,17 @@
       "type": "institution",
       "sectors": [
         "Japanese research institute",
-        "research institute / HPC"
+        "research institute / HPC",
+        "Japanese national research / supercomputing"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-06T07:01:15.798724+00:00",
-      "last_seen": "2026-11-12T04:06:40.629138+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "skywater": {
       "name": "SkyWater Technology",
@@ -4921,9 +4928,9 @@
       ],
       "hot": null,
       "ticker": "SKYT",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-06T07:01:16.080547+00:00",
-      "last_seen": "2026-11-11T06:19:45.925248+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "elisity": {
       "name": "Elisity",
@@ -5815,13 +5822,14 @@
         "lithography equipment"
       ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "ASML",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:06:07.837516+00:00",
-      "last_seen": "2026-11-09T06:06:07.837516+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "powerchip semiconductor manufacturing": {
       "name": "Powerchip Semiconductor Manufacturing Corporation",
@@ -7049,14 +7057,17 @@
       "name": "C-DAC",
       "type": "institution",
       "sectors": [
-        "Indian government computing R&D"
+        "Indian government computing R&D",
+        "Indian government advanced computing centre"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "量子计算板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-12T04:06:40.101618+00:00",
-      "last_seen": "2026-11-12T04:06:40.101618+00:00"
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     },
     "nedo": {
       "name": "NEDO",
@@ -8029,6 +8040,36 @@
       "mentions": 1,
       "first_seen": "2026-11-13T15:09:23.630283+00:00",
       "last_seen": "2026-11-13T15:09:23.630283+00:00"
+    },
+    "toyo": {
+      "name": "TOYO Corporation",
+      "type": "company",
+      "sectors": [
+        "Japanese measurement / tech distributor"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T16:11:02.858942+00:00",
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+    },
+    "bleichroeder acquisition ii": {
+      "name": "Bleichroeder Acquisition Corp. II",
+      "type": "company",
+      "sectors": [
+        "SPAC"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T16:11:02.858942+00:00",
+      "last_seen": "2026-11-13T16:11:02.858942+00:00"
     }
   },
   "edges": [
@@ -9408,6 +9449,14 @@
           "source_name": "NVIDIA Newsroom",
           "published": "2025-10-28",
           "added_at": "2026-08-06T04:45:56.401807+00:00"
+        },
+        {
+          "description": "IonQ 计划在 Nvidia 波士顿 NVAQC 部署搭载 SkyWater 制造 256 比特 QPU 的 Superion 系统",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
         }
       ]
     },
@@ -11355,6 +11404,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 10 Nov 2026 01:38:35 +0000",
           "added_at": "2026-11-10T05:12:46.751445+00:00"
+        },
+        {
+          "description": "Meta Muse 中 AI 辅助购物已成热门功能,与 ChatGPT Wallet 争夺 Agent 电商入口",
+          "article_title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "article_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+          "added_at": "2026-11-13T16:11:03.328916+00:00"
         }
       ]
     },
@@ -13511,6 +13568,14 @@
           "source_name": "The Quantum Insider",
           "published": "Thu, 05 Nov 2026 21:44:40 +0000",
           "added_at": "2026-11-06T07:01:16.080547+00:00"
+        },
+        {
+          "description": "IonQ 今年以 18 亿美元收购 SkyWater,Q3 贡献 8350 万美元收入",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
         }
       ]
     },
@@ -16979,6 +17044,14 @@
           "source_name": "The Quantum Insider",
           "published": "Wed, 11 Nov 2026 09:30:09 +0000",
           "added_at": "2026-11-12T04:06:40.101618+00:00"
+        },
+        {
+          "description": "Rigetti 全年 2000 万美元收入指引取决于 C-DAC 在 Q4 完成客户验收",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
         }
       ]
     },
@@ -17009,6 +17082,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 11 Nov 2026 12:36:10 +0000",
           "added_at": "2026-11-12T04:06:40.629138+00:00"
+        },
+        {
+          "description": "Quantinuum 与 RIKEN、SoftBank 签约,探索把量子计算直接接入日本 AI 数据中心",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
         }
       ]
     },
@@ -18502,6 +18583,141 @@
           "source_name": "DataCenterDynamics",
           "published": "Fri, 13 Nov 2026 15:01:57 +0000",
           "added_at": "2026-11-13T15:09:23.630283+00:00"
+        }
+      ]
+    },
+    {
+      "source": "skywater",
+      "target": "ionq",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "SkyWater 为 IonQ Superion 制造全集成 256 比特 QPU",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
+        }
+      ]
+    },
+    {
+      "source": "toyo",
+      "target": "iqm quantum computers",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "TOYO Corporation 从 IQM 购买第二台全栈量子计算机",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantinuum",
+      "target": "riken",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Quantinuum 将其在 RIKEN 的量子计算机升级到最新一代系统",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
+        }
+      ]
+    },
+    {
+      "source": "xanadu quantum",
+      "target": "asml",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Xanadu 本季度与 ASML 签署制造合作",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
+        }
+      ]
+    },
+    {
+      "source": "xanadu quantum",
+      "target": "bluefors",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Xanadu 本季度与 Bluefors 签署制造合作",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
+        }
+      ]
+    },
+    {
+      "source": "xanadu quantum",
+      "target": "globalfoundries",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Xanadu 本季度与 GlobalFoundries 签署制造合作",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
+        }
+      ]
+    },
+    {
+      "source": "darpa",
+      "target": "xanadu quantum",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Xanadu Q3 收入主要来自参与 DARPA QBI 项目",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bleichroeder acquisition ii",
+      "target": "pasqal",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Pasqal 通过与 Bleichroeder Acquisition Corp. II 的 SPAC 合并于 8 月 28 日登陆纳斯达克",
+          "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+          "added_at": "2026-11-13T16:11:02.858942+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "amazoncom",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Amazon 屏蔽外部 AI Agent 购物、引导用户使用自家 Alexa,与 ChatGPT Wallet 的 Agent 购物形成竞争",
+          "article_title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "article_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+          "added_at": "2026-11-13T16:11:03.328916+00:00"
         }
       ]
     }
@@ -21827,6 +22043,33 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 13 Nov 2026 15:01:57 +0000",
       "added_at": "2026-11-13T15:09:24.103312+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "七家量子公司 Q3 横向对比呈结构性分化:IonQ(并表 SkyWater,全年指引上调至 5 亿美元以上)、IQM(积压订单 1.025 亿欧元)订单与现金改善,D-Wave/Rigetti/Pasqal 单季收入仍依赖单笔大单与政府项目;瓶颈转向制造与交付,代工、稀释制冷机等供应链层更确定受益",
+      "article_title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal",
+      "article_url": "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 15:22:52 +0000",
+      "added_at": "2026-11-13T16:11:03.090336+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "ChatGPT Wallet 让 Agent 代为结账,为消费级 AI 打开订阅之外的交易变现路径;瓶颈在信任合规与零售商封锁(Amazon 屏蔽外部 Agent),令牌化支付网络是不押注平台的受益层;目前仅少量 Pro 用户试点,影响尚早",
+      "article_title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "article_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "added_at": "2026-11-13T16:11:03.571051+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "theCUBE Research 报告(作者为 Agentcy Labs CEO,存在利益相关)认为 CLOUD Act 使美国超大规模云在控制平面与法律管辖上无法满足主权需求,主权 AI 将推动本地化/私有化 AI 基础设施重复建设,利好私有部署硬件与本地 neocloud,但部分利润从超大规模云分流",
+      "article_title": "Sovereign or not? The 2026 Hyperscaler Buyer’s Guide",
+      "article_url": "https://siliconangle.com/2026/11/13/sovereign-or-not-the-2026-hyperscaler-buyers-guide/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 13 Nov 2026 16:03:38 +0000",
+      "added_at": "2026-11-13T16:11:04.254860+00:00"
     }
   ]
 }
