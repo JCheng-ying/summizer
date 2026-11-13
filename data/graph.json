@@ -7938,6 +7938,97 @@
       "mentions": 1,
       "first_seen": "2026-11-13T13:10:37.630195+00:00",
       "last_seen": "2026-11-13T13:10:37.630195+00:00"
+    },
+    "powerbridge": {
+      "name": "PowerBridge",
+      "type": "company",
+      "sectors": [
+        "powered land / data center campus developer"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T15:09:23.630283+00:00",
+      "last_seen": "2026-11-13T15:09:23.630283+00:00"
+    },
+    "landbridge": {
+      "name": "LandBridge",
+      "type": "company",
+      "sectors": [
+        "Permian Basin landholding"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T15:09:23.630283+00:00",
+      "last_seen": "2026-11-13T15:09:23.630283+00:00"
+    },
+    "five point infrastructure": {
+      "name": "Five Point Infrastructure",
+      "type": "institution",
+      "sectors": [
+        "private equity / infrastructure investor"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T15:09:23.630283+00:00",
+      "last_seen": "2026-11-13T15:09:23.630283+00:00"
+    },
+    "liberty energy": {
+      "name": "Liberty Energy",
+      "type": "company",
+      "sectors": [
+        "oilfield services / distributed power generation"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T15:09:23.630283+00:00",
+      "last_seen": "2026-11-13T15:09:23.630283+00:00"
+    },
+    "liberty power innovations": {
+      "name": "Liberty Power Innovations",
+      "type": "company",
+      "sectors": [
+        "modular natural gas power generation"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T15:09:23.630283+00:00",
+      "last_seen": "2026-11-13T15:09:23.630283+00:00"
+    },
+    "topsfiber": {
+      "name": "TOPSFiber",
+      "type": "company",
+      "sectors": [
+        "fiber infrastructure"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T15:09:23.630283+00:00",
+      "last_seen": "2026-11-13T15:09:23.630283+00:00"
     }
   },
   "edges": [
@@ -18338,6 +18429,81 @@
           "added_at": "2026-11-13T13:10:37.630195+00:00"
         }
       ]
+    },
+    {
+      "source": "landbridge",
+      "target": "powerbridge",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "PowerBridge 由 LandBridge 去年成立,在 LandBridge 自有土地上开发大型数据中心园区",
+          "article_title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:01:57 +0000",
+          "added_at": "2026-11-13T15:09:23.630283+00:00"
+        }
+      ]
+    },
+    {
+      "source": "five point infrastructure",
+      "target": "landbridge",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "LandBridge 由 Five Point Infrastructure 于 2021 年组建",
+          "article_title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:01:57 +0000",
+          "added_at": "2026-11-13T15:09:23.630283+00:00"
+        }
+      ]
+    },
+    {
+      "source": "liberty energy",
+      "target": "liberty power innovations",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Liberty Power Innovations 是 Liberty Energy 子公司",
+          "article_title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:01:57 +0000",
+          "added_at": "2026-11-13T15:09:23.630283+00:00"
+        }
+      ]
+    },
+    {
+      "source": "liberty power innovations",
+      "target": "powerbridge",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "以合资形式在 Alpha Digital 园区设计、开发并运营模块化天然气发电系统",
+          "article_title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:01:57 +0000",
+          "added_at": "2026-11-13T15:09:23.630283+00:00"
+        }
+      ]
+    },
+    {
+      "source": "topsfiber",
+      "target": "powerbridge",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "参与德州 Alpha Digital 园区的光纤基础设施建设",
+          "article_title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 15:01:57 +0000",
+          "added_at": "2026-11-13T15:09:23.630283+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -21643,6 +21809,24 @@
       "source_name": "ScienceDaily - Robotics",
       "published": "Thu, 12 Nov 2026 20:40:17 EST",
       "added_at": "2026-11-13T14:09:24.646275+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "PowerBridge 在德州 Waha 天然气枢纽旁动工 2GW+ 带电园区,首期 300MW 模块化燃气发电 2027Q4 供电并可回送电网,'地+气+电'成为数据中心供电新供给层,利好二叠纪土地持有者与模块化发电;但尚无锚定客户",
+      "article_title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 15:01:57 +0000",
+      "added_at": "2026-11-13T15:09:23.862485+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "为 2027–2028 年 AI 数据中心增加了绕开电网排队的供电来源,间接利好算力扩张;但园区尚未宣布任何终端用户,属于为需求备货",
+      "article_title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 15:01:57 +0000",
+      "added_at": "2026-11-13T15:09:24.103312+00:00"
     }
   ]
 }
