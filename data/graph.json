@@ -244,9 +244,9 @@
         "AI accelerators / GPUs",
         "AI GPUs"
       ],
-      "mentions": 34,
+      "mentions": 36,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-13T06:17:18.133665+00:00",
+      "last_seen": "2026-11-13T13:10:38.094303+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -407,9 +407,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 16,
+      "mentions": 17,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:16.091747+00:00"
+      "last_seen": "2026-11-13T13:10:38.094303+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -5248,9 +5248,9 @@
       "sector_tags": [],
       "hot": "hot",
       "ticker": "BX",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-06T07:01:18.116586+00:00",
-      "last_seen": "2026-11-13T10:11:35.296951+00:00"
+      "last_seen": "2026-11-13T13:10:36.928474+00:00"
     },
     "martin uav": {
       "name": "Martin UAV",
@@ -7780,9 +7780,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T10:11:35.296951+00:00",
-      "last_seen": "2026-11-13T10:11:35.296951+00:00"
+      "last_seen": "2026-11-13T13:10:36.928474+00:00"
     },
     "european energy": {
       "name": "European Energy",
@@ -7808,9 +7808,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T10:11:35.296951+00:00",
-      "last_seen": "2026-11-13T10:11:35.296951+00:00"
+      "last_seen": "2026-11-13T13:10:36.928474+00:00"
     },
     "lumina cloudinfra": {
       "name": "Lumina CloudInfra",
@@ -7895,6 +7895,49 @@
       "mentions": 1,
       "first_seen": "2026-11-13T11:09:40.396868+00:00",
       "last_seen": "2026-11-13T11:09:40.396868+00:00"
+    },
+    "stockland": {
+      "name": "Stockland",
+      "type": "company",
+      "sectors": [
+        "Australian real estate developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T13:10:36.928474+00:00",
+      "last_seen": "2026-11-13T13:10:36.928474+00:00"
+    },
+    "john boyd properties": {
+      "name": "John Boyd Properties",
+      "type": "company",
+      "sectors": [
+        "real estate developer"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T13:10:36.928474+00:00",
+      "last_seen": "2026-11-13T13:10:36.928474+00:00"
+    },
+    "mellanox": {
+      "name": "Mellanox",
+      "type": "company",
+      "sectors": [
+        "data center networking"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T13:10:37.630195+00:00",
+      "last_seen": "2026-11-13T13:10:37.630195+00:00"
     }
   },
   "edges": [
@@ -8039,6 +8082,14 @@
           "source_name": "SiliconANGLE",
           "published": "Thu, 12 Nov 2026 14:55:04 +0000",
           "added_at": "2026-11-13T06:17:09.837038+00:00"
+        },
+        {
+          "description": "据 WSJ 报道,Nvidia 原本与 OpenAI 商谈为其俄亥俄数据中心项目提供 2500 亿美元信贷,Kress 主导下最终承诺 1050 亿美元",
+          "article_title": "Jensen Huang didn’t show confidence in his successor, report says",
+          "article_url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 12:28:23 +0000",
+          "added_at": "2026-11-13T13:10:38.094303+00:00"
         }
       ]
     },
@@ -18227,6 +18278,66 @@
           "added_at": "2026-11-13T11:09:40.396868+00:00"
         }
       ]
+    },
+    {
+      "source": "blackstone",
+      "target": "airtrunk",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Blackstone 与加拿大养老金计划投资委员会组成的财团持有 AirTrunk;AirTrunk 因社区反对放弃悉尼 Lane Cove 140MW 新项目",
+          "article_title": "Three data center developments in Australia change course after community backlash",
+          "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 12:25:08 +0000",
+          "added_at": "2026-11-13T13:10:36.928474+00:00"
+        }
+      ]
+    },
+    {
+      "source": "canadian pension plan cpp",
+      "target": "airtrunk",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "加拿大养老金计划投资委员会与 Blackstone 共同持有 AirTrunk",
+          "article_title": "Three data center developments in Australia change course after community backlash",
+          "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 12:25:08 +0000",
+          "added_at": "2026-11-13T13:10:36.928474+00:00"
+        }
+      ]
+    },
+    {
+      "source": "stockland",
+      "target": "john boyd properties",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方合资的悉尼 Cooks River 35 亿美元综合开发项目在社区抗议后取消其中的 AI 数据中心部分",
+          "article_title": "Three data center developments in Australia change course after community backlash",
+          "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 12:25:08 +0000",
+          "added_at": "2026-11-13T13:10:36.928474+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "mellanox",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Nvidia 2019 年以 69 亿美元收购以色列芯片公司 Mellanox,并以此建立其美国以外最大的研发中心",
+          "article_title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+          "article_url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 13 Nov 2026 12:52:19 +0000",
+          "added_at": "2026-11-13T13:10:37.630195+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -21478,6 +21589,42 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 13 Nov 2026 10:16:44 +0000",
       "added_at": "2026-11-13T11:09:40.635373+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "澳大利亚三个数据中心项目因社区反对取消或暂停(含自带燃气轮机和储能的 1.2GW 园区),电力之后社会许可成为新瓶颈,已获批、已并网的存量资产稀缺性上升,对能源板块偏中性略利好",
+      "article_title": "Three data center developments in Australia change course after community backlash",
+      "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 12:25:08 +0000",
+      "added_at": "2026-11-13T13:10:37.161204+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AirTrunk、Stockland 撤回悉尼数据中心、Quantum DC 暂停 1.2GW 项目,选址周期拉长使算力供给持续偏紧,对 AI板块是供给端的又一个利空约束",
+      "article_title": "Three data center developments in Australia change course after community backlash",
+      "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 12:25:08 +0000",
+      "added_at": "2026-11-13T13:10:37.391017+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "以色列风投认为 Nvidia 换帅降低了客户选择替代方案的成本,结构上利好替代推理芯片和编译器公司,但若 Nvidia 收缩融资支持,AI 总资本开支增速可能放缓,总量偏谨慎",
+      "article_title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "article_url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 13 Nov 2026 12:52:19 +0000",
+      "added_at": "2026-11-13T13:10:37.865756+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "WSJ 称临时 CEO Kress 质疑为客户提供信贷担保、并把对 OpenAI 俄亥俄项目的信贷从 2500 亿缩到 1050 亿美元,Nvidia 若收紧供应商融资,依赖其背书的 neocloud 融资成本上升,短期利空 AI板块融资端",
+      "article_title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "article_url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 13 Nov 2026 12:28:23 +0000",
+      "added_at": "2026-11-13T13:10:38.332793+00:00"
     }
   ]
 }

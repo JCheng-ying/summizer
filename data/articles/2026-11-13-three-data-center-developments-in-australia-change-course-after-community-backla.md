@@ -1,0 +1,14 @@
+# Three data center developments in Australia change course after community backlash
+https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/
+
+这篇文章说明了一件比单个项目取消更重要的事:数据中心扩张的约束正在从"电网接不接得上"进一步延伸到"社区允不允许",而且这种约束已经不只是美国的现象,澳大利亚这个被视为亚太 AI 算力外溢目的地的市场也开始出现同样的反弹。
+
+文章指出,悉尼的两个大型项目被彻底取消、南澳的一个项目被暂停。第一个是 AirTrunk 在 Lane Cove West 提出的 140MW 数据中心(AirTrunk 由 Blackstone 和加拿大养老金计划投资委员会组成的财团持有),公司对当地媒体的解释是该地块"不适合"客户需要的设施类型,并表示会去澳大利亚其他更可行的地点找地;已经运营的 SYD2 园区和已获批的 Apollo Place 不受影响。文章还提到,同一片区域在 9 月已经有 Goodman Group 放弃了 90MW 的 Project Mars,理由是大型数据中心的政策和监管环境"变化很大",同时也提到了社区反馈;另有一个名义上由 Lane Cove DC Alliance 提出的项目被当地媒体调查后取消,调查称该联盟并非注册实体,背后实际是 Ford Land Company 和 Ausgrid 的关联方 Aurora Property Partnership。第二个是 Stockland 与 John Boyd Properties 合资、在 Cooks River 规划的 AI 数据中心,原本属于一个 35 亿美元、18.3 公顷的物流和商业综合项目,现在综合项目保留、数据中心被拿掉;当地反对组织 SCRAP 称动员了数百人抗议,组织者把它称为"人民力量的胜利",并表示还会继续抗议剩下的开发。第三个是 Quantum DC 在 Tungkillo 规划的 1.2GW 超大规模"算力与能源枢纽",设计包含现场燃气轮机作为备用电源、两座新变电站,并与另行开发的电池储能项目共址;公司选址理由是这里处在南澳输电网的关键位置,同时有现成的高压天然气管道和光纤。文章提到,公司此前因为"可信的"炸弹威胁取消过一次社区见面会,现在暂停规划审批,承认自己"误判了民众情绪的强度",并表示设计中"没有什么是不能改的"。
+
+这三个案例其实对应三种不同的失败方式:第一种是城市内的存量园区扩张(Lane Cove),问题在于同一片区域里扎堆了太多项目,社区和监管的耐心被耗尽;第二种是把数据中心夹带在综合开发项目里(Cooks River),开发商在压力下最容易牺牲的就是数据中心这一块,因为它对本地就业贡献最小、争议最大;第三种是远离城市、以能源为中心的超大规模园区(Tungkillo),它本来正是被视为"解决电力瓶颈"的那种模式——自带燃气轮机、自带储能、贴着输电网和气管选址——结果在第一个项目、第一轮社区沟通上就卡住了。
+
+个人看法:先找瓶颈。过去几个月的文章里,数据中心的瓶颈一直被描述成电力:[Norway 暂停新数据中心并网申请](2026-11-09-norway-halts-grid-connection-applications-for-new-data-centers.md)、[Anthropic 签 34 亿美元燃气发电机协议](2026-11-09-anthropic-signs-3-4bn-gas-generator-deal-to-support-1-7gw-of-data-center-power.md),以及今天早些时候 [AirTrunk 和 European Energy Australia 签下 1GW 能源协议](2026-11-13-airtrunk-signs-1gw-energy-deal-with-european-energy-australia.md)。但这篇说明,即使电力问题用"自带发电+储能"的办法解决了,下一道关口是社会许可(social license)。这和美国那边的线索完全一致——[美国数据中心反对力量的分类](2026-11-01-a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspi.md)、[超过一半美国超大规模项目遇到监管摩擦](2026-11-05-more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-af.md)、[堪萨斯州 Ottawa 批准十年禁令](2026-11-11-10-year-data-center-moratorium-approved-in-ottawa-kansas.md),还有 [Applied Digital 只能去"唯一一个说 yes 的小镇"建](2026-11-10-applied-digital-is-building-in-the-only-us-town-to-say-yes-to-data-centers.md)。之前写过的墨尔本那篇(AI reshapes global energy systems)里,文章引用到 2035 年数据中心可能占澳大利亚约 11% 用电量,这次的反弹说明那条增长曲线本身不会自动兑现。
+
+从投资角度看,受影响的层次是:第一层,能源板块里真正受益的不是"给数据中心供电"这个笼统概念,而是已经拿到并网位置和社区同意的那批资产——现成的变电站容量、已获批的园区(比如 AirTrunk 保留下来的 SYD2 和 Apollo Place)稀缺性会上升,电池储能和燃气调峰这类能被包装成"同时服务电网和社区"的设施更容易过审;第二层,AI板块的算力供给会因为选址周期拉长而继续偏紧,对已经在运营容量的 neocloud 和超大规模云厂商反而是定价权上的支撑,对还在找地的开发商则是时间和融资成本的上升;第三层是像 Goodman、Stockland 这样把数据中心当作地产增值选项的开发商,它们可以像 Cooks River 一样随时退回物流和商业用途,风险有限,但"数据中心溢价"的估值逻辑会被打折。所以这篇对能源板块偏中性略利好(利好已获批、已并网的存量资产),对 AI板块是供给端的又一个利空约束。
+
+现在还很难判断澳大利亚会不会像美国一样走到地方立法禁止的程度。值得关注的是 Quantum DC 的"长期沟通计划"最后拿出来的方案改了什么——如果 1.2GW 被缩小或者燃气轮机被拿掉,那基本可以确认"自带燃气发电"这条解决电力瓶颈的路线,在社区层面同样会遇到阻力。
