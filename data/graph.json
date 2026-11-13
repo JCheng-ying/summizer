@@ -1778,9 +1778,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 27,
+      "mentions": 28,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:18.646640+00:00"
+      "last_seen": "2026-11-13T08:09:48.085044+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -7506,6 +7506,36 @@
       "mentions": 1,
       "first_seen": "2026-11-13T06:17:19.154358+00:00",
       "last_seen": "2026-11-13T06:17:19.154358+00:00"
+    },
+    "anyscale": {
+      "name": "Anyscale",
+      "type": "company",
+      "sectors": [
+        "distributed computing platform (Ray)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T08:09:48.085044+00:00",
+      "last_seen": "2026-11-13T08:09:48.085044+00:00"
+    },
+    "cloud native computing foundation cncf": {
+      "name": "Cloud Native Computing Foundation (CNCF)",
+      "type": "institution",
+      "sectors": [
+        "open-source foundation"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T08:09:48.085044+00:00",
+      "last_seen": "2026-11-13T08:09:48.085044+00:00"
     }
   },
   "edges": [
@@ -17440,6 +17470,36 @@
           "added_at": "2026-11-13T06:17:19.154358+00:00"
         }
       ]
+    },
+    {
+      "source": "alphabet",
+      "target": "anyscale",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google Cloud 与 Anyscale 合作开发 KubeRay,让 Ray 平台原生运行在 Kubernetes 上做分布式训练和推理",
+          "article_title": "Google Cloud takes aim at the cost of keeping idle AI agents running on Kubernetes",
+          "article_url": "https://siliconangle.com/2026/11/13/distributed-training-inference-google-s-agent-projects-kubeconna/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 07:42:29 +0000",
+          "added_at": "2026-11-13T08:09:48.085044+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "cloud native computing foundation cncf",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google 向 CNCF 捐赠三个开源项目,用于降低 Agent 在 Kubernetes 上闲置时的算力成本",
+          "article_title": "Google Cloud takes aim at the cost of keeping idle AI agents running on Kubernetes",
+          "article_url": "https://siliconangle.com/2026/11/13/distributed-training-inference-google-s-agent-projects-kubeconna/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 07:42:29 +0000",
+          "added_at": "2026-11-13T08:09:48.085044+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -20574,6 +20634,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Thu, 12 Nov 2026 11:40:58 +0000",
       "added_at": "2026-11-13T06:17:19.410972+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Agent 九成以上时间闲置,Google 开源 Agent Substrate 快照挂起释放算力、宣称降本 10 倍,利好 Agent 运行时/编排软件和云平台层(Google 赞助访谈,数字未经独立验证)",
+      "article_title": "Google Cloud takes aim at the cost of keeping idle AI agents running on Kubernetes",
+      "article_url": "https://siliconangle.com/2026/11/13/distributed-training-inference-google-s-agent-projects-kubeconna/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 13 Nov 2026 07:42:29 +0000",
+      "added_at": "2026-11-13T08:09:48.313070+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "华为数字能源发布模块化 UPS、3.2MW 预制供电、兼容 800V HVDC 的储能和液冷单元,AI 数据中心瓶颈在供电交付和散热,电力电子/储能/液冷层受益(华为赞助稿,指标未经独立验证)",
+      "article_title": "Sponsored: Huawei Digital Power launches four innovative solutions in Dubai to power the next generation of data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/product-news/huawei-digital-power-launches-four-innovative-solutions-in-dubai-to-power-the-next-generation-of-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 08:00:00 +0000",
+      "added_at": "2026-11-13T08:09:48.785950+00:00"
     }
   ]
 }
