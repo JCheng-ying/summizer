@@ -21625,6 +21625,24 @@
       "source_name": "TechCrunch - AI",
       "published": "Fri, 13 Nov 2026 12:28:23 +0000",
       "added_at": "2026-11-13T13:10:38.332793+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "布朗大学在稀土衬底上做出几埃厚仍保持铁电性和磁性的铁酸铋薄膜,并出现交替磁性,拆掉了多铁性材料进芯片的死层瓶颈,长期利好 AI 芯片/存储的每瓦算力,但仍是实验室材料阶段,需观察 CMOS 兼容复现",
+      "article_title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+      "article_url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Thu, 12 Nov 2026 20:40:17 EST",
+      "added_at": "2026-11-13T14:09:24.419374+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "多铁性低功耗存储与逻辑若产业化,将从需求侧缓解 AI 数据中心电力约束,但属非常远期的缓解,短期不改变电网与发电需求曲线",
+      "article_title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+      "article_url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Thu, 12 Nov 2026 20:40:17 EST",
+      "added_at": "2026-11-13T14:09:24.646275+00:00"
     }
   ]
 }
