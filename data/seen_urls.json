@@ -3822,5 +3822,29 @@
   "https://siliconangle.com/2026/11/13/nvidia-ceo-jensen-huangs-abrupt-departure-shakes-ai-industrys-foundations/": {
     "title": "Nvidia CEO Jensen Huang’s abrupt departure shakes AI industry’s foundations",
     "seen_at": "2026-11-13T16:11:04.487108+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/retrieval-for-rag-resistant-docs/": {
+    "title": "An Agent That Searches, Outlines, and Reads Entire Documents Outperforms Chunk-and-Embed Retrieval",
+    "seen_at": "2026-11-13T17:11:08.028800+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/gpt-6-cyber-patches-more-security-flaws-for-less-cost/": {
+    "title": "OpenAI’s Security-Tuned Version of GPT-6 Astra Closed Root-Level Linux Holes for $1,280 Each",
+    "seen_at": "2026-11-13T17:11:08.264179+00:00"
+  },
+  "https://www.deeplearning.ai/the-batch/llms-can-fine-tune-neural-networks/": {
+    "title": "Researchers Used GPT-6 Astra to Improve a Small Model’s Performance by Editing Its Weights",
+    "seen_at": "2026-11-13T17:11:08.727009+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/": {
+    "title": "ASIC ambition",
+    "seen_at": "2026-11-13T17:11:08.964219+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/": {
+    "title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+    "seen_at": "2026-11-13T17:11:09.435212+00:00"
+  },
+  "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/": {
+    "title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+    "seen_at": "2026-11-13T17:11:09.906061+00:00"
   }
 }

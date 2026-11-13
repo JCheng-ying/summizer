@@ -244,14 +244,15 @@
         "AI accelerators / GPUs",
         "AI GPUs"
       ],
-      "mentions": 37,
+      "mentions": 39,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00",
+      "last_seen": "2026-11-13T17:11:09.897564+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
         "机器人板块",
-        "edge AI板块"
+        "edge AI板块",
+        "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "NVDA"
@@ -407,9 +408,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 18,
+      "mentions": 20,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T16:11:03.328916+00:00"
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -431,9 +432,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 17,
+      "mentions": 18,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T16:11:03.328916+00:00"
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -466,9 +467,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 33,
+      "mentions": 34,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T11:09:39.674798+00:00"
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -476,16 +477,17 @@
       "sectors": [
         "semiconductors / networking",
         "custom AI chips / networking",
-        "networking / custom ASIC"
+        "networking / custom ASIC",
+        "custom ASIC / networking silicon"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-11T06:19:48.192568+00:00"
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
@@ -522,16 +524,17 @@
       "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
       "type": "company",
       "sectors": [
-        "foundry"
+        "foundry",
+        "semiconductor foundry"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "TSM",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:15.080267+00:00"
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
     },
     "coreweave": {
       "name": "CoreWeave",
@@ -1069,13 +1072,14 @@
         "trapped-ion quantum computing"
       ],
       "sector_tags": [
-        "量子计算板块"
+        "量子计算板块",
+        "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "IONQ",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-13T17:11:09.897564+00:00"
     },
     "rigetti computing": {
       "name": "Rigetti Computing",
@@ -1751,17 +1755,19 @@
       "type": "company",
       "sectors": [
         "memory / semiconductors",
-        "memory / foundry"
+        "memory / foundry",
+        "memory / semiconductors / HVAC"
       ],
       "sector_tags": [
         "edge AI板块",
-        "AI板块"
+        "AI板块",
+        "能源板块"
       ],
       "hot": "hot",
       "ticker": "005930.KS",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-13T06:17:15.080267+00:00"
+      "last_seen": "2026-11-13T17:11:09.426836+00:00"
     },
     "alphabet": {
       "name": "Alphabet Inc.",
@@ -1773,7 +1779,8 @@
         "cloud / AI / custom silicon",
         "cloud / AI",
         "cloud / TPU / AI models",
-        "hyperscale cloud / AI"
+        "hyperscale cloud / AI",
+        "search / cloud / AI"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1784,9 +1791,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 28,
+      "mentions": 30,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T08:09:48.085044+00:00"
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2257,15 +2264,17 @@
     "modine manufacturing": {
       "name": "Modine Manufacturing",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "data center cooling"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "cold",
       "ticker": "MOD",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-13T17:11:09.426836+00:00"
     },
     "nvent electric": {
       "name": "nVent Electric",
@@ -3165,15 +3174,17 @@
     "kepler communications": {
       "name": "Kepler Communications",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "space data relay"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T06:02:52.895690+00:00",
-      "last_seen": "2026-08-15T06:02:52.895690+00:00"
+      "last_seen": "2026-11-13T17:11:09.897564+00:00"
     },
     "photonic": {
       "name": "Photonic Inc.",
@@ -8070,6 +8081,158 @@
       "mentions": 1,
       "first_seen": "2026-11-13T16:11:02.858942+00:00",
       "last_seen": "2026-11-13T16:11:02.858942+00:00"
+    },
+    "annapurna labs": {
+      "name": "Annapurna Labs",
+      "type": "company",
+      "sectors": [
+        "custom chip design (Trainium / Graviton)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:08.955963+00:00",
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+    },
+    "etched": {
+      "name": "Etched",
+      "type": "company",
+      "sectors": [
+        "AI inference ASIC startup"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:08.955963+00:00",
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+    },
+    "olix": {
+      "name": "Olix",
+      "type": "company",
+      "sectors": [
+        "SRAM + photonics AI chip startup"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:08.955963+00:00",
+      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+    },
+    "fläktgroup": {
+      "name": "FläktGroup",
+      "type": "company",
+      "sectors": [
+        "HVAC / air handling"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:09.426836+00:00",
+      "last_seen": "2026-11-13T17:11:09.426836+00:00"
+    },
+    "airedale": {
+      "name": "Airedale",
+      "type": "company",
+      "sectors": [
+        "data center cooling"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:09.426836+00:00",
+      "last_seen": "2026-11-13T17:11:09.426836+00:00"
+    },
+    "neuralsat": {
+      "name": "NeuralSat",
+      "type": "company",
+      "sectors": [
+        "satellite data relay / in-orbit edge compute"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:09.897564+00:00",
+      "last_seen": "2026-11-13T17:11:09.897564+00:00"
+    },
+    "capnamic": {
+      "name": "Capnamic",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:09.897564+00:00",
+      "last_seen": "2026-11-13T17:11:09.897564+00:00"
+    },
+    "bayern kapital": {
+      "name": "Bayern Kapital",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:09.897564+00:00",
+      "last_seen": "2026-11-13T17:11:09.897564+00:00"
+    },
+    "skyloom": {
+      "name": "Skyloom",
+      "type": "company",
+      "sectors": [
+        "optical inter-satellite terminals"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:09.897564+00:00",
+      "last_seen": "2026-11-13T17:11:09.897564+00:00"
+    },
+    "starcloud": {
+      "name": "Starcloud",
+      "type": "company",
+      "sectors": [
+        "orbital AI data centers"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-13T17:11:09.897564+00:00",
+      "last_seen": "2026-11-13T17:11:09.897564+00:00"
     }
   },
   "edges": [
@@ -14382,6 +14545,14 @@
           "source_name": "DeepLearning.AI - The Batch (Research)",
           "published": "2026-11-06T08:00:00.000-08:00",
           "added_at": "2026-11-09T06:05:58.763708+00:00"
+        },
+        {
+          "description": "GPT-6 Cyber 在 ExploitGym 上得分 48.45%,Google 自测的 Gemini 4 Carbon(无护栏)为 54.8%,双方在网络安全专用模型上竞争",
+          "article_title": "OpenAI’s Security-Tuned Version of GPT-6 Astra Closed Root-Level Linux Holes for $1,280 Each",
+          "article_url": "https://www.deeplearning.ai/the-batch/gpt-6-cyber-patches-more-security-flaws-for-less-cost/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-13T08:00:00.000-08:00",
+          "added_at": "2026-11-13T17:11:08.254616+00:00"
         }
       ]
     },
@@ -15389,6 +15560,14 @@
           "source_name": "SiliconANGLE",
           "published": "Fri, 06 Nov 2026 23:43:40 +0000",
           "added_at": "2026-11-09T06:06:11.923617+00:00"
+        },
+        {
+          "description": "OpenAI 与 Broadcom 合作开发并发布 'Jalapeño' 智能处理器",
+          "article_title": "ASIC ambition",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 17:00:43 +0000",
+          "added_at": "2026-11-13T17:11:08.955963+00:00"
         }
       ]
     },
@@ -18718,6 +18897,201 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 16:00:12 +0000",
           "added_at": "2026-11-13T16:11:03.328916+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "annapurna labs",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Amazon 2015 年收购 Annapurna Labs,发展出 Trainium/Graviton,定制芯片业务年化收入超 250 亿美元",
+          "article_title": "ASIC ambition",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 17:00:43 +0000",
+          "added_at": "2026-11-13T17:11:08.955963+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "anthropic",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Amazon 与 Anthropic 等客户沟通其发展方向,据此针对性设计定制芯片",
+          "article_title": "ASIC ambition",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 17:00:43 +0000",
+          "added_at": "2026-11-13T17:11:08.955963+00:00"
+        }
+      ]
+    },
+    {
+      "source": "etched",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Etched 融资 7 亿美元(估值 210 亿美元)开发推理定制芯片,与通用 GPU 竞争",
+          "article_title": "ASIC ambition",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 17:00:43 +0000",
+          "added_at": "2026-11-13T17:11:08.955963+00:00"
+        }
+      ]
+    },
+    {
+      "source": "olix",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Olix 融资 3 亿美元(估值 33 亿美元),以 SRAM+光子架构绕开 HBM 做 AI 芯片",
+          "article_title": "ASIC ambition",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 17:00:43 +0000",
+          "added_at": "2026-11-13T17:11:08.955963+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Amazon Trainium 定制芯片宣称跨代约 40% 性价比优势,部分替代通用 GPU",
+          "article_title": "ASIC ambition",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 17:00:43 +0000",
+          "added_at": "2026-11-13T17:11:08.955963+00:00"
+        }
+      ]
+    },
+    {
+      "source": "samsung electronics",
+      "target": "modine manufacturing",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "据 Bloomberg 报道 Samsung 正就收购 Modine 进行早期谈判,未保证成交,Modine 市值由 56 亿升至 72.8 亿美元",
+          "article_title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 16:23:26 +0000",
+          "added_at": "2026-11-13T17:11:09.426836+00:00"
+        }
+      ]
+    },
+    {
+      "source": "samsung electronics",
+      "target": "fläktgroup",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Samsung 今年 5 月以 16.8 亿美元收购暖通空调公司 FläktGroup",
+          "article_title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 16:23:26 +0000",
+          "added_at": "2026-11-13T17:11:09.426836+00:00"
+        }
+      ]
+    },
+    {
+      "source": "modine manufacturing",
+      "target": "airedale",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Modine 于 2005 年收购冷却公司 Airedale",
+          "article_title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 13 Nov 2026 16:23:26 +0000",
+          "added_at": "2026-11-13T17:11:09.426836+00:00"
+        }
+      ]
+    },
+    {
+      "source": "capnamic",
+      "target": "neuralsat",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Capnamic 联合领投 NeuralSat 290 万欧元 pre-seed 融资",
+          "article_title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+          "article_url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 16:45:11 +0000",
+          "added_at": "2026-11-13T17:11:09.897564+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bayern kapital",
+      "target": "neuralsat",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Bayern Kapital 联合领投 NeuralSat 290 万欧元 pre-seed 融资",
+          "article_title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+          "article_url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 16:45:11 +0000",
+          "added_at": "2026-11-13T17:11:09.897564+00:00"
+        }
+      ]
+    },
+    {
+      "source": "neuralsat",
+      "target": "kepler communications",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者都在做太空数据中继与在轨计算网络,Kepler 1 月已推出商业中继服务",
+          "article_title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+          "article_url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 16:45:11 +0000",
+          "added_at": "2026-11-13T17:11:09.897564+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ionq",
+      "target": "skyloom",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "IonQ 于 2026 年初收购 Skyloom,后者已在低轨部署 84 个光学终端",
+          "article_title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+          "article_url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 16:45:11 +0000",
+          "added_at": "2026-11-13T17:11:09.897564+00:00"
+        }
+      ]
+    },
+    {
+      "source": "starcloud",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Starcloud 2025 年底在轨测试 Nvidia H100,现与 Nvidia 合作开发航天级芯片",
+          "article_title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+          "article_url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 16:45:11 +0000",
+          "added_at": "2026-11-13T17:11:09.897564+00:00"
         }
       ]
     }
@@ -22070,6 +22444,51 @@
       "source_name": "SiliconANGLE",
       "published": "Fri, 13 Nov 2026 16:03:38 +0000",
       "added_at": "2026-11-13T16:11:04.254860+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "OpenAI GPT-6 Cyber 单次扫描以约 121 万美元 API 费用为 948 个 Linux 内核提权漏洞生成利用,单个成本约 1279 美元;漏洞挖掘瓶颈从稀缺安全研究员转为推理算力,利好推理基础设施与提供受限安全模型的前沿厂商;性能数据为 OpenAI 自测,未经独立验证",
+      "article_title": "OpenAI’s Security-Tuned Version of GPT-6 Astra Closed Root-Level Linux Holes for $1,280 Each",
+      "article_url": "https://www.deeplearning.ai/the-batch/gpt-6-cyber-patches-more-security-flaws-for-less-cost/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-13T08:00:00.000-08:00",
+      "added_at": "2026-11-13T17:11:08.492595+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "推理负载驱动定制芯片浪潮(OpenAI-Broadcom Jalapeño、Amazon 定制芯片年化 250 亿美元、Etched/Olix 大额融资),瓶颈在先进制程产能、HBM 与 2.5 年设计周期;TSMC 代工、Broadcom/Marvell 定制设计服务与内存厂是确定受益层,Nvidia 推理份额长期或被分流",
+      "article_title": "ASIC ambition",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 17:00:43 +0000",
+      "added_at": "2026-11-13T17:11:09.192746+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Samsung 被报道洽购 Modine(继 5 月 16.8 亿美元收购 FläktGroup 后),Modine 数据中心销售同比增 95% 但受产能与成本挤压;产业资本把数据中心散热视为稀缺战略资产,利好 Vertiv、Schneider、Trane 等冷却与液冷部件层;仅为早期谈判报道",
+      "article_title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 13 Nov 2026 16:23:26 +0000",
+      "added_at": "2026-11-13T17:11:09.662021+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "NeuralSat 获 320 万美元 pre-seed 建 72 星数据中继与在轨处理网络,与 Kepler、IonQ 旗下 Skyloom 竞逐'网络优先'太空算力路线;星间光通信终端是确定受益层,但公司极早期,演示节点 2027 年 10 月才发射",
+      "article_title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+      "article_url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 13 Nov 2026 16:45:11 +0000",
+      "added_at": "2026-11-13T17:11:10.135698+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "在轨实时处理对地观测与信号情报数据本质是功耗和重量受限的边缘推理,NeuralSat、Starcloud(与 Nvidia 合作航天级芯片)等推动低功耗航天级推理芯片需求;尚处早期",
+      "article_title": "NeuralSat raises $3.2M to bring high-speed data connectivity and compute to space",
+      "article_url": "https://siliconangle.com/2026/11/13/neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 13 Nov 2026 16:45:11 +0000",
+      "added_at": "2026-11-13T17:11:10.370551+00:00"
     }
   ]
 }
