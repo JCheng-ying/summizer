@@ -246,9 +246,9 @@
         "GPU / AI compute",
         "AI chips / GPUs"
       ],
-      "mentions": 42,
+      "mentions": 43,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-13T23:09:29.373228+00:00",
+      "last_seen": "2026-11-14T17:09:45.112284+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -1764,7 +1764,8 @@
       "sectors": [
         "memory / semiconductors",
         "memory / foundry",
-        "memory / semiconductors / HVAC"
+        "memory / semiconductors / HVAC",
+        "memory chips"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1773,9 +1774,9 @@
       ],
       "hot": "hot",
       "ticker": "005930.KS",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-13T17:11:09.426836+00:00"
+      "last_seen": "2026-11-14T17:09:45.112284+00:00"
     },
     "alphabet": {
       "name": "Alphabet Inc.",
@@ -5883,16 +5884,17 @@
       "name": "SK Hynix",
       "type": "company",
       "sectors": [
-        "memory / HBM"
+        "memory / HBM",
+        "memory chips / HBM"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:06:07.837516+00:00",
-      "last_seen": "2026-11-09T06:06:07.837516+00:00"
+      "last_seen": "2026-11-14T17:09:45.112284+00:00"
     },
     "equinix": {
       "name": "Equinix",
@@ -8818,6 +8820,34 @@
       "mentions": 1,
       "first_seen": "2026-11-14T11:09:37.684630+00:00",
       "last_seen": "2026-11-14T11:09:37.684630+00:00"
+    },
+    "south korea science ministry": {
+      "name": "South Korea Science Ministry",
+      "type": "institution",
+      "sectors": [
+        "government"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T17:09:45.112284+00:00",
+      "last_seen": "2026-11-14T17:09:45.112284+00:00"
+    },
+    "taipei city government": {
+      "name": "Taipei City Government",
+      "type": "institution",
+      "sectors": [
+        "government"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T17:09:45.112284+00:00",
+      "last_seen": "2026-11-14T17:09:45.112284+00:00"
     }
   },
   "edges": [
@@ -20500,6 +20530,66 @@
           "added_at": "2026-11-14T11:09:37.684630+00:00"
         }
       ]
+    },
+    {
+      "source": "nvidia",
+      "target": "south korea science ministry",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "黄仁勋离职后,韩国科学部称 Nvidia 重申向韩国供应 26 万颗先进 GPU 并继续联合 AI 项目",
+          "article_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "article_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 16:34:15 +0000",
+          "added_at": "2026-11-14T17:09:45.112284+00:00"
+        }
+      ]
+    },
+    {
+      "source": "samsung electronics",
+      "target": "nvidia",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "三星电子为 Nvidia AI 处理器供应存储芯片",
+          "article_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "article_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 16:34:15 +0000",
+          "added_at": "2026-11-14T17:09:45.112284+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sk hynix",
+      "target": "nvidia",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "SK 海力士为 Nvidia AI 处理器供应存储芯片",
+          "article_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "article_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 16:34:15 +0000",
+          "added_at": "2026-11-14T17:09:45.112284+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "taipei city government",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "台北市政府称 Nvidia 在当地规划的海外总部在领导层变动后仍按计划推进,公司迄今履行了合同义务",
+          "article_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+          "article_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 16:34:15 +0000",
+          "added_at": "2026-11-14T17:09:45.112284+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -24066,6 +24156,15 @@
       "source_name": "DataCenterDynamics",
       "published": "Sat, 14 Nov 2026 11:00:55 +0000",
       "added_at": "2026-11-14T11:09:38.223544+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "黄仁勋离职后韩国(26 万颗 GPU)、台北(海外总部)等确认 Nvidia 承诺不变,需求端与存储供应链未松动;但新加坡 Megaspeed 调查点名 Supermicro、中国 30 多亿美元受限芯片项目悬而未决,合规端风险扩大至服务器层",
+      "article_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "article_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source_name": "TechCrunch - AI",
+      "published": "Sat, 14 Nov 2026 16:34:15 +0000",
+      "added_at": "2026-11-14T17:09:45.349074+00:00"
     }
   ]
 }
