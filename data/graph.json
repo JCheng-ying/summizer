@@ -7027,9 +7027,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-11T06:19:53.680951+00:00",
-      "last_seen": "2026-11-11T06:19:53.680951+00:00"
+      "last_seen": "2026-11-14T07:09:38.755264+00:00"
     },
     "eon": {
       "name": "E.ON",
@@ -8730,6 +8730,50 @@
       "mentions": 1,
       "first_seen": "2026-11-14T05:09:59.696688+00:00",
       "last_seen": "2026-11-14T05:09:59.696688+00:00"
+    },
+    "national infrastructure fund infra": {
+      "name": "National Infrastructure Fund (Infra)",
+      "type": "institution",
+      "sectors": [
+        "Saudi state infrastructure fund"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T07:09:38.755264+00:00",
+      "last_seen": "2026-11-14T07:09:38.755264+00:00"
+    },
+    "public investment fund pif": {
+      "name": "Public Investment Fund (PIF)",
+      "type": "institution",
+      "sectors": [
+        "Saudi sovereign wealth fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T07:09:38.755264+00:00",
+      "last_seen": "2026-11-14T07:09:38.755264+00:00"
+    },
+    "saudi aramco": {
+      "name": "Saudi Aramco",
+      "type": "company",
+      "sectors": [
+        "oil & gas"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": "hot",
+      "ticker": "2222.SR",
+      "mentions": 1,
+      "first_seen": "2026-11-14T07:09:38.755264+00:00",
+      "last_seen": "2026-11-14T07:09:38.755264+00:00"
     }
   },
   "edges": [
@@ -20253,6 +20297,51 @@
           "added_at": "2026-11-14T05:09:59.696688+00:00"
         }
       ]
+    },
+    {
+      "source": "national infrastructure fund infra",
+      "target": "humain",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Infra 向 HUMAIN 提供合计 25 亿里亚尔(约 6.67 亿美元)融资:2.93 亿美元 GPU 融资(约 25MW)+ 3.73 亿美元变电站/输电/并网融资",
+          "article_title": "Humain raises $667m for AI buildout in Saudi Arabia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 07:00:48 +0000",
+          "added_at": "2026-11-14T07:09:38.755264+00:00"
+        }
+      ]
+    },
+    {
+      "source": "saudi aramco",
+      "target": "humain",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Aramco 本月收购 HUMAIN 49% 股权",
+          "article_title": "Humain raises $667m for AI buildout in Saudi Arabia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 07:00:48 +0000",
+          "added_at": "2026-11-14T07:09:38.755264+00:00"
+        }
+      ]
+    },
+    {
+      "source": "public investment fund pif",
+      "target": "humain",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "PIF 持有 HUMAIN 其余 51% 股权",
+          "article_title": "Humain raises $667m for AI buildout in Saudi Arabia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 07:00:48 +0000",
+          "added_at": "2026-11-14T07:09:38.755264+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -23783,6 +23872,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Sat, 14 Nov 2026 05:00:42 +0000",
       "added_at": "2026-11-14T05:09:59.956541+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "HUMAIN 获 2.93 亿美元 GPU 融资部署约 25MW 算力、目标 1GW,GPU 采购款直接利好 AI 算力基础设施层",
+      "article_title": "Humain raises $667m for AI buildout in Saudi Arabia",
+      "article_url": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sat, 14 Nov 2026 07:00:48 +0000",
+      "added_at": "2026-11-14T07:09:39.013489+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Infra 为 HUMAIN 提供 3.73 亿美元专项用于变电站、输电和并网,金额超过 GPU 融资,说明电力接入是 AI 扩张的先行瓶颈,利好电网设备与工程",
+      "article_title": "Humain raises $667m for AI buildout in Saudi Arabia",
+      "article_url": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sat, 14 Nov 2026 07:00:48 +0000",
+      "added_at": "2026-11-14T07:09:39.270702+00:00"
     }
   ]
 }
