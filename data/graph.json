@@ -8584,6 +8584,49 @@
       "mentions": 1,
       "first_seen": "2026-11-13T23:09:29.373228+00:00",
       "last_seen": "2026-11-13T23:09:29.373228+00:00"
+    },
+    "onyx security": {
+      "name": "Onyx Security",
+      "type": "company",
+      "sectors": [
+        "AI agent security / governance"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T00:09:37.686440+00:00",
+      "last_seen": "2026-11-14T00:09:37.686440+00:00"
+    },
+    "glean": {
+      "name": "Glean",
+      "type": "company",
+      "sectors": [
+        "enterprise AI platform / agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T00:09:37.686440+00:00",
+      "last_seen": "2026-11-14T00:09:37.686440+00:00"
+    },
+    "bessemer venture partners": {
+      "name": "Bessemer Venture Partners",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T00:09:37.686440+00:00",
+      "last_seen": "2026-11-14T00:09:37.686440+00:00"
     }
   },
   "edges": [
@@ -19972,6 +20015,36 @@
           "added_at": "2026-11-13T23:09:29.373228+00:00"
         }
       ]
+    },
+    {
+      "source": "onyx security",
+      "target": "glean",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Onyx 的安全 AI 控制平面与 Glean 平台集成，为 Glean 上的 Agent 提供盘点、风险分级、策略合规、运行时控制与集中审计。",
+          "article_title": "Exclusive: Onyx Security brings AI agent governance to Glean’s enterprise AI platform",
+          "article_url": "https://siliconangle.com/2026/11/13/exclusive-onyx-security-brings-ai-agent-governance-to-gleans-enterprise-ai-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 23:00:14 +0000",
+          "added_at": "2026-11-14T00:09:37.686440+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bessemer venture partners",
+      "target": "onyx security",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Bessemer 于 7 月领投 Onyx 1.13 亿美元 B 轮，Onyx 累计融资 1.53 亿美元。",
+          "article_title": "Exclusive: Onyx Security brings AI agent governance to Glean’s enterprise AI platform",
+          "article_url": "https://siliconangle.com/2026/11/13/exclusive-onyx-security-brings-ai-agent-governance-to-gleans-enterprise-ai-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 13 Nov 2026 23:00:14 +0000",
+          "added_at": "2026-11-14T00:09:37.686440+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -23466,6 +23539,24 @@
       "source_name": "TechCrunch - AI",
       "published": "Fri, 13 Nov 2026 22:43:00 +0000",
       "added_at": "2026-11-13T23:09:29.615213+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Microsoft Exchange Online 因网络扩容引入的认证/路由配置问题全球宕机，连带 Copilot 365 和 Teams 部分功能失效，提醒企业 AI Agent 的可用性受制于底层云服务可靠性；偏中性谨慎，同时强化可观测性与韧性这一层的预算理由。",
+      "article_title": "Massive Microsoft outage disrupts businesses, government agencies worldwide",
+      "article_url": "https://siliconangle.com/2026/11/13/massive-microsoft-outage-disrupts-businesses-government-agencies-worldwide/",
+      "source_name": "SiliconANGLE",
+      "published": "Sat, 14 Nov 2026 00:00:08 +0000",
+      "added_at": "2026-11-14T00:09:37.446723+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Onyx 与 Glean 集成 Agent 治理（厂商联合公告，效果未经独立验证），Onyx 成立半年多融资 1.53 亿美元，说明企业 Agent 部署推进中，权限/审计这一放行瓶颈开始获得资本投入，利好 AI 软件层的安全治理环节。",
+      "article_title": "Exclusive: Onyx Security brings AI agent governance to Glean’s enterprise AI platform",
+      "article_url": "https://siliconangle.com/2026/11/13/exclusive-onyx-security-brings-ai-agent-governance-to-gleans-enterprise-ai-platform/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 13 Nov 2026 23:00:14 +0000",
+      "added_at": "2026-11-14T00:09:37.927412+00:00"
     }
   ]
 }
