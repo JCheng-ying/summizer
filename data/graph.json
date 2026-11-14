@@ -1788,7 +1788,8 @@
         "cloud / AI",
         "cloud / TPU / AI models",
         "hyperscale cloud / AI",
-        "search / cloud / AI"
+        "search / cloud / AI",
+        "hyperscaler"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1799,9 +1800,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 31,
+      "mentions": 32,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T22:09:22.018399+00:00"
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -5287,9 +5288,9 @@
       "sector_tags": [],
       "hot": "hot",
       "ticker": "BX",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-06T07:01:18.116586+00:00",
-      "last_seen": "2026-11-13T13:10:36.928474+00:00"
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
     },
     "martin uav": {
       "name": "Martin UAV",
@@ -5744,9 +5745,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:06:05.430858+00:00",
-      "last_seen": "2026-11-09T06:06:05.430858+00:00"
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
     },
     "innovate uk": {
       "name": "Innovate UK",
@@ -7831,9 +7832,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-13T10:11:35.296951+00:00",
-      "last_seen": "2026-11-13T13:10:36.928474+00:00"
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
     },
     "european energy": {
       "name": "European Energy",
@@ -7859,9 +7860,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-13T10:11:35.296951+00:00",
-      "last_seen": "2026-11-13T13:10:36.928474+00:00"
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
     },
     "lumina cloudinfra": {
       "name": "Lumina CloudInfra",
@@ -7874,9 +7875,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T10:11:35.296951+00:00",
-      "last_seen": "2026-11-13T10:11:35.296951+00:00"
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
     },
     "sttgdc": {
       "name": "STTGDC",
@@ -8774,6 +8775,49 @@
       "mentions": 1,
       "first_seen": "2026-11-14T07:09:38.755264+00:00",
       "last_seen": "2026-11-14T07:09:38.755264+00:00"
+    },
+    "andhra pradesh government": {
+      "name": "Andhra Pradesh Government",
+      "type": "institution",
+      "sectors": [
+        "Indian state government"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T11:09:37.684630+00:00",
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
+    },
+    "adaniconnex": {
+      "name": "AdaniConneX",
+      "type": "company",
+      "sectors": [
+        "India data center operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T11:09:37.684630+00:00",
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
+    },
+    "sify": {
+      "name": "Sify Technologies",
+      "type": "company",
+      "sectors": [
+        "India data center operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T11:09:37.684630+00:00",
+      "last_seen": "2026-11-14T11:09:37.684630+00:00"
     }
   },
   "edges": [
@@ -19132,6 +19176,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Fri, 13 Nov 2026 09:58:23 +0000",
           "added_at": "2026-11-13T10:11:35.296951+00:00"
+        },
+        {
+          "description": "AirTrunk 今年收购印度运营商 Lumina CloudInfra,正式进入印度",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
         }
       ]
     },
@@ -19207,6 +19259,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Fri, 13 Nov 2026 12:25:08 +0000",
           "added_at": "2026-11-13T13:10:36.928474+00:00"
+        },
+        {
+          "description": "Blackstone 与 CPP 于 2024 年以 161 亿美元收购 AirTrunk",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
         }
       ]
     },
@@ -19222,6 +19282,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Fri, 13 Nov 2026 12:25:08 +0000",
           "added_at": "2026-11-13T13:10:36.928474+00:00"
+        },
+        {
+          "description": "CPP 与 Blackstone 于 2024 年以 161 亿美元收购 AirTrunk",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
         }
       ]
     },
@@ -20340,6 +20408,96 @@
           "source_name": "DataCenterDynamics",
           "published": "Sat, 14 Nov 2026 07:00:48 +0000",
           "added_at": "2026-11-14T07:09:38.755264+00:00"
+        }
+      ]
+    },
+    {
+      "source": "airtrunk",
+      "target": "andhra pradesh government",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AirTrunk 与安得拉邦首席部长签署 MoU,拟在 Anakapalli 建设 Rambilli 400MW 与 Tootipala 1.4GW 两个数据中心园区",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "lumina cloudinfra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Lumina CloudInfra 由 Blackstone 于 2022 年 11 月创立,规划印度 600MW 容量",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
+        }
+      ]
+    },
+    {
+      "source": "airtrunk",
+      "target": "adaniconnex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者都在维沙卡帕特南(Vizag)周边布局数据中心",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
+        }
+      ]
+    },
+    {
+      "source": "airtrunk",
+      "target": "alphabet",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Google 是 Vizag 周边已有的数据中心运营商之一,AirTrunk 新园区与其同处该区域",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
+        }
+      ]
+    },
+    {
+      "source": "airtrunk",
+      "target": "sify",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者都在 Vizag 周边布局数据中心",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
+        }
+      ]
+    },
+    {
+      "source": "airtrunk",
+      "target": "colt services",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Colt 是 Vizag 周边已有的数据中心运营商之一",
+          "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+          "added_at": "2026-11-14T11:09:37.684630+00:00"
         }
       ]
     }
@@ -23890,6 +24048,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Sat, 14 Nov 2026 07:00:48 +0000",
       "added_at": "2026-11-14T07:09:39.270702+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "AirTrunk 在安得拉邦签下 1.8GW 数据中心 MoU 却未披露电源方案,GW 级负载使印度发电、高压输变电和数据中心电力设备成为先于算力的瓶颈与受益层",
+      "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+      "added_at": "2026-11-14T11:09:37.949243+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Blackstone 系平台把印度规划从 Lumina 的 600MW 跃升到单份 MoU 1.8GW,Vizag 正形成区域 AI 数据中心集群,长期利好 GPU 等算力上游,但仅为 MoU、兑现较远",
+      "article_title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+      "article_url": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sat, 14 Nov 2026 11:00:55 +0000",
+      "added_at": "2026-11-14T11:09:38.223544+00:00"
     }
   ]
 }
