@@ -2720,16 +2720,18 @@
     "stanford university": {
       "name": "Stanford University",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "research university"
+      ],
       "sector_tags": [
         "AI板块",
         "机器人板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-09T21:12:08.362431+00:00",
-      "last_seen": "2026-10-15T05:35:20.148398+00:00"
+      "last_seen": "2026-11-14T05:09:59.228591+00:00"
     },
     "intology": {
       "name": "Intology",
@@ -6794,16 +6796,18 @@
       "type": "company",
       "sectors": [
         "telecommunications",
-        "telecom"
+        "telecom",
+        "telecom / data center operator"
       ],
       "sector_tags": [
-        "太空经济板块"
+        "太空经济板块",
+        "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-13T06:17:19.154358+00:00"
+      "last_seen": "2026-11-14T05:09:59.696688+00:00"
     },
     "swiss quantum": {
       "name": "Swiss Quantum Technology",
@@ -8627,6 +8631,105 @@
       "mentions": 1,
       "first_seen": "2026-11-14T00:09:37.686440+00:00",
       "last_seen": "2026-11-14T00:09:37.686440+00:00"
+    },
+    "ucla": {
+      "name": "UCLA",
+      "type": "institution",
+      "sectors": [
+        "research university"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T05:09:59.228591+00:00",
+      "last_seen": "2026-11-14T05:09:59.228591+00:00"
+    },
+    "slac national accelerator laboratory": {
+      "name": "SLAC National Accelerator Laboratory",
+      "type": "institution",
+      "sectors": [
+        "national lab / X-ray laser (LCLS-II)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T05:09:59.228591+00:00",
+      "last_seen": "2026-11-14T05:09:59.228591+00:00"
+    },
+    "imt engineering": {
+      "name": "IMT Engineering",
+      "type": "company",
+      "sectors": [
+        "land-based aquaculture system design"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T05:09:59.696688+00:00",
+      "last_seen": "2026-11-14T05:09:59.696688+00:00"
+    },
+    "hibiya general equipment": {
+      "name": "Hibiya General Equipment",
+      "type": "company",
+      "sectors": [
+        "waste heat recovery equipment"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T05:09:59.696688+00:00",
+      "last_seen": "2026-11-14T05:09:59.696688+00:00"
+    },
+    "ntt green food": {
+      "name": "NTT Green & Food",
+      "type": "company",
+      "sectors": [
+        "land-based aquaculture"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T05:09:59.696688+00:00",
+      "last_seen": "2026-11-14T05:09:59.696688+00:00"
+    },
+    "regional fish": {
+      "name": "Regional Fish",
+      "type": "company",
+      "sectors": [
+        "regional fisheries"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T05:09:59.696688+00:00",
+      "last_seen": "2026-11-14T05:09:59.696688+00:00"
+    },
+    "tokyo metropolitan government": {
+      "name": "Tokyo Metropolitan Government",
+      "type": "institution",
+      "sectors": [
+        "local government"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T05:09:59.696688+00:00",
+      "last_seen": "2026-11-14T05:09:59.696688+00:00"
     }
   },
   "edges": [
@@ -20045,6 +20148,111 @@
           "added_at": "2026-11-14T00:09:37.686440+00:00"
         }
       ]
+    },
+    {
+      "source": "stanford university",
+      "target": "slac national accelerator laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "共同开发用 LSTM 神经网络加速二阶非线性光学(χ2)频率转换仿真的模型,服务于 LCLS-II 激光系统",
+          "article_title": "AI supercharges laser physics with a stunning 250x speed boost",
+          "article_url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Fri, 13 Nov 2026 18:41:08 EST",
+          "added_at": "2026-11-14T05:09:59.228591+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ucla",
+      "target": "slac national accelerator laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "参与深度学习辅助的 χ2 非线性光学建模研究,单次仿真在 GPU 上降至毫秒级",
+          "article_title": "AI supercharges laser physics with a stunning 250x speed boost",
+          "article_url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Fri, 13 Nov 2026 18:41:08 EST",
+          "added_at": "2026-11-14T05:09:59.228591+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ntt docomo",
+      "target": "imt engineering",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "NTT Docomo Building 与 IMT Engineering 联合开展数据中心余热陆基养虾项目,持续至 2028 年 3 月",
+          "article_title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 05:00:42 +0000",
+          "added_at": "2026-11-14T05:09:59.696688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hibiya general equipment",
+      "target": "ntt docomo",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "负责该项目余热回收与供热设备的设计和施工",
+          "article_title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 05:00:42 +0000",
+          "added_at": "2026-11-14T05:09:59.696688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ntt green food",
+      "target": "ntt docomo",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "负责陆基养殖并评估用数据中心余热降低生产成本的效果",
+          "article_title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 05:00:42 +0000",
+          "added_at": "2026-11-14T05:09:59.696688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ntt green food",
+      "target": "regional fish",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "NTT Green & Food 于 2023 年与 Regional Fish 合作成立",
+          "article_title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 05:00:42 +0000",
+          "added_at": "2026-11-14T05:09:59.696688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tokyo metropolitan government",
+      "target": "ntt docomo",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "该项目属于东京都支持数据中心余热利用示范项目的计划",
+          "article_title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sat, 14 Nov 2026 05:00:42 +0000",
+          "added_at": "2026-11-14T05:09:59.696688+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -23557,6 +23765,24 @@
       "source_name": "SiliconANGLE",
       "published": "Fri, 13 Nov 2026 23:00:14 +0000",
       "added_at": "2026-11-14T00:09:37.927412+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 代理模型把激光仿真中占 95% 时间的求解步骤在 GPU 上降至毫秒级,AI for Science 持续消耗算力,温和利好算力基础设施层,非应用层利好",
+      "article_title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "article_url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Fri, 13 Nov 2026 18:41:08 EST",
+      "added_at": "2026-11-14T05:09:59.457401+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "数据中心余热养虾试点规模小,对能源板块是边际利好;余热可用性取决于液冷提高出水温度,受益层为液冷/热管理与热泵厂商",
+      "article_title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sat, 14 Nov 2026 05:00:42 +0000",
+      "added_at": "2026-11-14T05:09:59.956541+00:00"
     }
   ]
 }
