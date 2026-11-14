@@ -403,16 +403,17 @@
       "sectors": [
         "frontier AI models",
         "foundation models",
-        "frontier AI lab"
+        "frontier AI lab",
+        "foundation models / ChatGPT"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 20,
+      "mentions": 21,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -1790,7 +1791,8 @@
         "cloud / TPU / AI models",
         "hyperscale cloud / AI",
         "search / cloud / AI",
-        "hyperscaler"
+        "hyperscaler",
+        "AI platform / search"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1801,9 +1803,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 32,
+      "mentions": 33,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-14T11:09:37.684630+00:00"
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -8848,6 +8850,111 @@
       "mentions": 1,
       "first_seen": "2026-11-14T17:09:45.112284+00:00",
       "last_seen": "2026-11-14T17:09:45.112284+00:00"
+    },
+    "characterai": {
+      "name": "Character.ai",
+      "type": "company",
+      "sectors": [
+        "consumer AI chatbot"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T18:10:00.752904+00:00",
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+    },
+    "the walt disney": {
+      "name": "The Walt Disney Company",
+      "type": "company",
+      "sectors": [
+        "media & entertainment IP"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "DIS",
+      "mentions": 1,
+      "first_seen": "2026-11-14T18:10:00.752904+00:00",
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+    },
+    "humane": {
+      "name": "Humane",
+      "type": "company",
+      "sectors": [
+        "AI wearable hardware"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T18:10:00.752904+00:00",
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+    },
+    "hp": {
+      "name": "HP Inc.",
+      "type": "company",
+      "sectors": [
+        "PC & devices"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": "HPQ",
+      "mentions": 1,
+      "first_seen": "2026-11-14T18:10:00.752904+00:00",
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+    },
+    "relay": {
+      "name": "Relay",
+      "type": "company",
+      "sectors": [
+        "AI workflow automation"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T18:10:00.752904+00:00",
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+    },
+    "spotify": {
+      "name": "Spotify",
+      "type": "company",
+      "sectors": [
+        "audio streaming"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "SPOT",
+      "mentions": 1,
+      "first_seen": "2026-11-14T18:10:00.752904+00:00",
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+    },
+    "huxe": {
+      "name": "Huxe",
+      "type": "company",
+      "sectors": [
+        "AI audio app"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-14T18:10:00.752904+00:00",
+      "last_seen": "2026-11-14T18:10:00.752904+00:00"
     }
   },
   "edges": [
@@ -20590,6 +20697,81 @@
           "added_at": "2026-11-14T17:09:45.112284+00:00"
         }
       ]
+    },
+    {
+      "source": "alphabet",
+      "target": "characterai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google 据报道支付 27 亿美元获得 Character.ai 技术授权并把创始人带回 Google,2026 年初两家一起就多起诉讼达成和解",
+          "article_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "article_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+          "added_at": "2026-11-14T18:10:00.752904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "the walt disney",
+      "target": "characterai",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Character.ai 10 月申请破产后,Disney 作为首个竞购方出价 2,000 万美元获取其部分知识产权授权(此前曾因未授权使用角色发出停止侵权函)",
+          "article_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "article_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+          "added_at": "2026-11-14T18:10:00.752904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hp",
+      "target": "humane",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Humane 于 2025 年 2 月关闭 AI Pin 业务,大部分资产被 HP 以 1.16 亿美元收购",
+          "article_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "article_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+          "added_at": "2026-11-14T18:10:00.752904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "relay",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "OpenAI、Google 等大平台把工作流自动化直接内置进自家工具,导致 AI 自动化工具 Relay 于 2026 年 8 月关闭",
+          "article_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "article_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+          "added_at": "2026-11-14T18:10:00.752904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spotify",
+      "target": "huxe",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Spotify 等拥有庞大用户的平台推出类似 AI 音频功能,是 AI 播客式音频 App Huxe 于 2026 年 5 月关闭的原因之一",
+          "article_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "article_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+          "added_at": "2026-11-14T18:10:00.752904+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -24165,6 +24347,24 @@
       "source_name": "TechCrunch - AI",
       "published": "Sat, 14 Nov 2026 16:34:15 +0000",
       "added_at": "2026-11-14T17:09:45.349074+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 失败清单显示独立应用层普遍败于分发、推理成本和法律风险(Relay、Huxe、Ollie、Sora、Character.ai 破产),利空单点功能型应用公司;算力基础设施和拥有分发入口的平台中性偏利好",
+      "article_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "article_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source_name": "TechCrunch - AI",
+      "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "added_at": "2026-11-14T18:10:00.983393+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Humane AI Pin(资产被 HP 1.16 亿美元收购)和 Rabbit R1 的失败说明新形态 AI 专用硬件卡在续航、电池安全和集成生态,端侧芯片与已有手机/PC 平台路线更稳,Apple 新 Siri 本月推出待观察",
+      "article_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "article_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source_name": "TechCrunch - AI",
+      "published": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "added_at": "2026-11-14T18:10:01.219952+00:00"
     }
   ]
 }
