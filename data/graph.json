@@ -9076,6 +9076,53 @@
       "mentions": 1,
       "first_seen": "2026-11-15T11:09:42.651751+00:00",
       "last_seen": "2026-11-15T11:09:42.651751+00:00"
+    },
+    "skydio": {
+      "name": "Skydio",
+      "type": "company",
+      "sectors": [
+        "autonomous drones / public safety & inspection"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T21:09:38.992947+00:00",
+      "last_seen": "2026-11-15T21:09:38.992947+00:00"
+    },
+    "skydio f10 lightrunner": {
+      "name": "Skydio F10 Lightrunner",
+      "type": "product",
+      "sectors": [
+        "asymmetric fixed-wing autonomous camera drone"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T21:09:38.992947+00:00",
+      "last_seen": "2026-11-15T21:09:38.992947+00:00"
+    },
+    "skydio megadock": {
+      "name": "Skydio MegaDock",
+      "type": "product",
+      "sectors": [
+        "autonomous drone dock with robot-arm recovery"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T21:09:38.992947+00:00",
+      "last_seen": "2026-11-15T21:09:38.992947+00:00"
     }
   },
   "edges": [
@@ -21028,6 +21075,36 @@
           "added_at": "2026-11-15T11:09:42.651751+00:00"
         }
       ]
+    },
+    {
+      "source": "skydio",
+      "target": "skydio f10 lightrunner",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Skydio 推出翼尖装摄像头的不对称固定翼无人机 F10 Lightrunner,用 MPC 一套策略覆盖悬停到约 100 mph 全包线",
+          "article_title": "Why Skydio Built a Lopsided Drone",
+          "article_url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Sun, 15 Nov 2026 14:00:02 +0000",
+          "added_at": "2026-11-15T21:09:38.992947+00:00"
+        }
+      ]
+    },
+    {
+      "source": "skydio",
+      "target": "skydio megadock",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Skydio 的 MegaDock 用机械臂空中回收、充电和部署最多五架 F10,支持三架持续在空的自主轮换",
+          "article_title": "Why Skydio Built a Lopsided Drone",
+          "article_url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Sun, 15 Nov 2026 14:00:02 +0000",
+          "added_at": "2026-11-15T21:09:38.992947+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -24675,6 +24752,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Sun, 15 Nov 2026 11:00:47 +0000",
       "added_at": "2026-11-15T11:09:43.117719+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Skydio F10 + MegaDock 用机械臂空中回收和多机轮换实现无人值守持续覆盖,印证无人机竞争单位转向'机库+自主调度'系统;厂商自述指标未经独立验证,监管许可仍是瓶颈",
+      "article_title": "Why Skydio Built a Lopsided Drone",
+      "article_url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Sun, 15 Nov 2026 14:00:02 +0000",
+      "added_at": "2026-11-15T21:09:39.236022+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "F10 的模型预测控制与视觉避障需在机上实时运行,自主无人机机队对端侧算力和视觉模组构成需求;原文未披露芯片供应商,只能作为方向判断",
+      "article_title": "Why Skydio Built a Lopsided Drone",
+      "article_url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Sun, 15 Nov 2026 14:00:02 +0000",
+      "added_at": "2026-11-15T21:09:39.473316+00:00"
     }
   ]
 }
