@@ -2607,16 +2607,18 @@
       "name": "University of California, Berkeley",
       "type": "institution",
       "sectors": [
-        "robotics research"
+        "robotics research",
+        "academic research"
       ],
       "sector_tags": [
-        "机器人板块"
+        "机器人板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-09T05:41:42.904677+00:00",
-      "last_seen": "2026-11-10T05:12:43.687976+00:00"
+      "last_seen": "2026-11-15T05:09:36.977161+00:00"
     },
     "nasa": {
       "name": "NASA",
@@ -8955,6 +8957,36 @@
       "mentions": 1,
       "first_seen": "2026-11-14T18:10:00.752904+00:00",
       "last_seen": "2026-11-14T18:10:00.752904+00:00"
+    },
+    "dandelion health": {
+      "name": "Dandelion Health",
+      "type": "company",
+      "sectors": [
+        "clinical data platform"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T05:09:36.977161+00:00",
+      "last_seen": "2026-11-15T05:09:36.977161+00:00"
+    },
+    "nightingale open science": {
+      "name": "Nightingale Open Science",
+      "type": "institution",
+      "sectors": [
+        "open medical datasets"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T05:09:36.977161+00:00",
+      "last_seen": "2026-11-15T05:09:36.977161+00:00"
     }
   },
   "edges": [
@@ -20772,6 +20804,36 @@
           "added_at": "2026-11-14T18:10:00.752904+00:00"
         }
       ]
+    },
+    {
+      "source": "dandelion health",
+      "target": "university of california berkeley",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "UC Berkeley 的 Obermeyer 团队在心电图预测心源性猝死的 Nature 研究中,数据集整理用到了其参与创立的 Dandelion Health 的贡献",
+          "article_title": "AI discovers a hidden heart signal that could predict sudden death",
+          "article_url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Sat, 14 Nov 2026 20:05:10 EST",
+          "added_at": "2026-11-15T05:09:36.977161+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nightingale open science",
+      "target": "university of california berkeley",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Nightingale Open Science 为 UC Berkeley 心电图 AI 猝死预测研究的数据集整理提供了贡献",
+          "article_title": "AI discovers a hidden heart signal that could predict sudden death",
+          "article_url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+          "source_name": "ScienceDaily - Robotics",
+          "published": "Sat, 14 Nov 2026 20:05:10 EST",
+          "added_at": "2026-11-15T05:09:36.977161+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -24392,6 +24454,15 @@
       "source_name": "TechCrunch - AI",
       "published": "Sun, 15 Nov 2026 00:08:07 +0000",
       "added_at": "2026-11-15T00:09:19.897242+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "UC Berkeley 用 44 万份瑞典心电图训练的深度学习模型在 Nature 发表,圈出的高危组年猝死率 7%(传统射血分数标准为 4.6%),且只用现有心电图;说明临床 AI 的瓶颈是带结局标签的数据可及性(整理耗时约十年)而非算力,受益层是医疗数据平台及下游 ICD/可穿戴心电监测,对算力基础设施增量有限,仍处论文阶段。",
+      "article_title": "AI discovers a hidden heart signal that could predict sudden death",
+      "article_url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm",
+      "source_name": "ScienceDaily - Robotics",
+      "published": "Sat, 14 Nov 2026 20:05:10 EST",
+      "added_at": "2026-11-15T05:09:37.255092+00:00"
     }
   ]
 }
