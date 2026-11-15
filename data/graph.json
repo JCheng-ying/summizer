@@ -244,11 +244,12 @@
         "AI accelerators / GPUs",
         "AI GPUs",
         "GPU / AI compute",
-        "AI chips / GPUs"
+        "AI chips / GPUs",
+        "GPU / AI chips"
       ],
-      "mentions": 43,
+      "mentions": 44,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-14T17:09:45.112284+00:00",
+      "last_seen": "2026-11-15T11:09:42.651751+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -8987,6 +8988,94 @@
       "mentions": 1,
       "first_seen": "2026-11-15T05:09:36.977161+00:00",
       "last_seen": "2026-11-15T05:09:36.977161+00:00"
+    },
+    "airsys": {
+      "name": "Airsys",
+      "type": "company",
+      "sectors": [
+        "data center cooling / spray liquid cooling"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T11:09:42.651751+00:00",
+      "last_seen": "2026-11-15T11:09:42.651751+00:00"
+    },
+    "thermai": {
+      "name": "ThermAI",
+      "type": "company",
+      "sectors": [
+        "distributed GPU compute / digital boiler heat reuse"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T11:09:42.651751+00:00",
+      "last_seen": "2026-11-15T11:09:42.651751+00:00"
+    },
+    "augur vc": {
+      "name": "Augur VC",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T11:09:42.651751+00:00",
+      "last_seen": "2026-11-15T11:09:42.651751+00:00"
+    },
+    "2crsi": {
+      "name": "2CRSi",
+      "type": "company",
+      "sectors": [
+        "server manufacturing"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T11:09:42.651751+00:00",
+      "last_seen": "2026-11-15T11:09:42.651751+00:00"
+    },
+    "sunamp": {
+      "name": "Sunamp",
+      "type": "company",
+      "sectors": [
+        "thermal batteries / heat storage"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T11:09:42.651751+00:00",
+      "last_seen": "2026-11-15T11:09:42.651751+00:00"
+    },
+    "university of nottingham": {
+      "name": "University of Nottingham",
+      "type": "institution",
+      "sectors": [
+        "academic research / chemistry"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-15T11:09:42.651751+00:00",
+      "last_seen": "2026-11-15T11:09:42.651751+00:00"
     }
   },
   "edges": [
@@ -20834,6 +20923,111 @@
           "added_at": "2026-11-15T05:09:36.977161+00:00"
         }
       ]
+    },
+    {
+      "source": "airsys",
+      "target": "thermai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Airsys 领投 ThermAI 的 pre-seed 轮并担任技术合作方,是其首次进入余热循环利用领域",
+          "article_title": "Airsys invests in digital boiler startup ThermAI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+          "added_at": "2026-11-15T11:09:42.651751+00:00"
+        }
+      ]
+    },
+    {
+      "source": "augur vc",
+      "target": "thermai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Augur VC 参与 ThermAI 的 pre-seed 轮融资",
+          "article_title": "Airsys invests in digital boiler startup ThermAI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+          "added_at": "2026-11-15T11:09:42.651751+00:00"
+        }
+      ]
+    },
+    {
+      "source": "airsys",
+      "target": "thermai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "ThermAI 的 LiquidDock 机匣采用 Airsys 的 LiquidPack 喷淋冷却技术和换热器回收 GPU 余热",
+          "article_title": "Airsys invests in digital boiler startup ThermAI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+          "added_at": "2026-11-15T11:09:42.651751+00:00"
+        }
+      ]
+    },
+    {
+      "source": "2crsi",
+      "target": "thermai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "2CRSi 为 ThermAI 制造六卡 GPU 服务器节点",
+          "article_title": "Airsys invests in digital boiler startup ThermAI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+          "added_at": "2026-11-15T11:09:42.651751+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "thermai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "ThermAI 节点使用 Nvidia RTX PRO 6000 Blackwell Server Edition GPU",
+          "article_title": "Airsys invests in digital boiler startup ThermAI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+          "added_at": "2026-11-15T11:09:42.651751+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sunamp",
+      "target": "thermai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Sunamp 热电池在 ThermAI 系统中储存回收的余热,供住户按需使用",
+          "article_title": "Airsys invests in digital boiler startup ThermAI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+          "added_at": "2026-11-15T11:09:42.651751+00:00"
+        }
+      ]
+    },
+    {
+      "source": "university of nottingham",
+      "target": "thermai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "诺丁汉大学化学学院 Jonathan Hirst 教授签署意向书,作为算力试点客户运行药物发现和分子动力学任务",
+          "article_title": "Airsys invests in digital boiler startup ThermAI",
+          "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+          "added_at": "2026-11-15T11:09:42.651751+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -24463,6 +24657,24 @@
       "source_name": "ScienceDaily - Robotics",
       "published": "Sat, 14 Nov 2026 20:05:10 EST",
       "added_at": "2026-11-15T05:09:37.255092+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Airsys 领投 ThermAI 数字锅炉,液冷高温出水让 GPU 余热直接用于家庭供暖,边际利好液冷/热管理与储热换热这一层(公司自述,未经独立验证;pre-seed 规模很小)",
+      "article_title": "Airsys invests in digital boiler startup ThermAI",
+      "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+      "added_at": "2026-11-15T11:09:42.882665+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "ThermAI 把 GPU 节点分散到住户提供科研批处理算力,是 AI 基础设施'算力找电、热往哪排'线索的补充样本,量级很小,不改变集中式数据中心主线",
+      "article_title": "Airsys invests in digital boiler startup ThermAI",
+      "article_url": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sun, 15 Nov 2026 11:00:47 +0000",
+      "added_at": "2026-11-15T11:09:43.117719+00:00"
     }
   ]
 }
