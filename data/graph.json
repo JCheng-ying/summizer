@@ -247,9 +247,9 @@
         "AI chips / GPUs",
         "GPU / AI chips"
       ],
-      "mentions": 49,
+      "mentions": 52,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-16T17:10:41.196908+00:00",
+      "last_seen": "2026-11-16T18:11:40.272789+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -413,9 +413,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 22,
+      "mentions": 24,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T17:10:40.450981+00:00"
+      "last_seen": "2026-11-16T18:11:40.272789+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -430,7 +430,8 @@
         "e-commerce / cloud",
         "cloud / hyperscale data centers",
         "hyperscaler / Amazon Leo LEO constellation",
-        "cloud / AWS"
+        "cloud / AWS",
+        "cloud (AWS)"
       ],
       "sector_tags": [
         "AI板块",
@@ -440,9 +441,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 21,
+      "mentions": 22,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T15:11:59.855485+00:00"
+      "last_seen": "2026-11-16T18:11:41.269696+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -450,7 +451,8 @@
       "sectors": [
         "social media / AI",
         "social / AI / AR",
-        "social / AI"
+        "social / AI",
+        "AI / social"
       ],
       "sector_tags": [
         "AI板块",
@@ -458,9 +460,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T16:11:03.328916+00:00"
+      "last_seen": "2026-11-16T18:11:38.859664+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -557,9 +559,9 @@
       ],
       "hot": "hot",
       "ticker": "CRWV",
-      "mentions": 11,
+      "mentions": 12,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T11:12:03.664623+00:00"
+      "last_seen": "2026-11-16T18:11:38.859664+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -703,9 +705,9 @@
       ],
       "hot": "cold",
       "ticker": "NBIS",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:10.573039+00:00"
+      "last_seen": "2026-11-16T18:11:38.859664+00:00"
     },
     "langchain": {
       "name": "LangChain",
@@ -1148,9 +1150,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-16T11:12:03.186467+00:00"
+      "last_seen": "2026-11-16T18:11:37.662608+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -1254,9 +1256,9 @@
       ],
       "hot": "cold",
       "ticker": "PSQL",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-16T18:11:37.662608+00:00"
     },
     "xanadu quantum": {
       "name": "Xanadu Quantum Technologies",
@@ -1755,7 +1757,8 @@
         "CPUs / GPUs",
         "CPUs / GPUs / FPGAs",
         "semiconductors / GPUs",
-        "semiconductors"
+        "semiconductors",
+        "AI accelerators / CPUs"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1764,9 +1767,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 17,
+      "mentions": 18,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T11:12:03.664623+00:00"
+      "last_seen": "2026-11-16T18:11:40.272789+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -4981,16 +4984,17 @@
         "Japanese research institute",
         "research institute / HPC",
         "Japanese national research / supercomputing",
-        "national research lab"
+        "national research lab",
+        "research institute"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-06T07:01:15.798724+00:00",
-      "last_seen": "2026-11-16T11:12:02.486642+00:00"
+      "last_seen": "2026-11-16T18:11:37.662608+00:00"
     },
     "skywater": {
       "name": "SkyWater Technology",
@@ -5328,7 +5332,8 @@
       "sectors": [
         "private equity",
         "alternative asset management",
-        "private equity / infrastructure"
+        "private equity / infrastructure",
+        "alternative asset manager"
       ],
       "sector_tags": [
         "AI板块",
@@ -5336,9 +5341,9 @@
       ],
       "hot": "hot",
       "ticker": "BX",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-06T07:01:18.116586+00:00",
-      "last_seen": "2026-11-16T11:12:05.108252+00:00"
+      "last_seen": "2026-11-16T18:11:41.269696+00:00"
     },
     "martin uav": {
       "name": "Martin UAV",
@@ -7672,16 +7677,17 @@
       "name": "TensorWave",
       "type": "company",
       "sectors": [
-        "AI cloud / neocloud"
+        "AI cloud / neocloud",
+        "AMD-focused neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T10:11:33.161839+00:00",
-      "last_seen": "2026-11-13T10:11:33.161839+00:00"
+      "last_seen": "2026-11-16T18:11:40.272789+00:00"
     },
     "texas tech university system": {
       "name": "Texas Tech University System",
@@ -7884,7 +7890,8 @@
       "name": "AirTrunk",
       "type": "company",
       "sectors": [
-        "APAC hyperscale data centers"
+        "APAC hyperscale data centers",
+        "data center developer"
       ],
       "sector_tags": [
         "AI板块",
@@ -7892,9 +7899,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-13T10:11:35.296951+00:00",
-      "last_seen": "2026-11-14T11:09:37.684630+00:00"
+      "last_seen": "2026-11-16T18:11:41.269696+00:00"
     },
     "european energy": {
       "name": "European Energy",
@@ -9860,6 +9867,82 @@
       "mentions": 1,
       "first_seen": "2026-11-16T17:10:41.196908+00:00",
       "last_seen": "2026-11-16T17:10:41.196908+00:00"
+    },
+    "fermilab": {
+      "name": "Fermilab",
+      "type": "institution",
+      "sectors": [
+        "national lab / SQMS center"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T18:11:37.662608+00:00",
+      "last_seen": "2026-11-16T18:11:37.662608+00:00"
+    },
+    "firmus": {
+      "name": "Firmus",
+      "type": "company",
+      "sectors": [
+        "Australian neocloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T18:11:38.859664+00:00",
+      "last_seen": "2026-11-16T18:11:38.859664+00:00"
+    },
+    "tecfusions": {
+      "name": "TecFusions",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T18:11:40.272789+00:00",
+      "last_seen": "2026-11-16T18:11:40.272789+00:00"
+    },
+    "blackstone digital infrastructure trust": {
+      "name": "Blackstone Digital Infrastructure Trust",
+      "type": "company",
+      "sectors": [
+        "data center REIT"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "BXDC",
+      "mentions": 1,
+      "first_seen": "2026-11-16T18:11:41.269696+00:00",
+      "last_seen": "2026-11-16T18:11:41.269696+00:00"
+    },
+    "qts": {
+      "name": "QTS",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T18:11:41.269696+00:00",
+      "last_seen": "2026-11-16T18:11:41.269696+00:00"
     }
   },
   "edges": [
@@ -10642,6 +10725,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 11 Nov 2026 00:18:31 +0000",
           "added_at": "2026-11-11T06:19:50.951327+00:00"
+        },
+        {
+          "description": "AMD 称 Helios 相比 Vera Rubin NVL72 FP4 峰值高 15%、HBM 容量高 50%、每美元 token 最多高 30%(厂商自述)",
+          "article_title": "OpenAI signs on for 457MW AI capacity with TensorWave",
+          "article_url": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:21:19 +0000",
+          "added_at": "2026-11-16T18:11:40.272789+00:00"
         }
       ]
     },
@@ -18861,6 +18952,14 @@
           "source_name": "The Quantum Insider",
           "published": "Wed, 11 Nov 2026 14:03:23 +0000",
           "added_at": "2026-11-12T04:06:39.295430+00:00"
+        },
+        {
+          "description": "IBM、RIKEN 与 NVIDIA 用 SQD 方法和 ROQUO GPU 超算模拟 Fe4S4 铁硫簇,准确度较早先提升 79 倍(公司自述)",
+          "article_title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+          "article_url": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 16:24:01 +0000",
+          "added_at": "2026-11-16T18:11:37.662608+00:00"
         }
       ]
     },
@@ -22856,6 +22955,246 @@
           "source_name": "SiliconANGLE",
           "published": "Mon, 16 Nov 2026 16:41:45 +0000",
           "added_at": "2026-11-16T17:10:41.196908+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "fermilab",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "IBM 与 Fermilab 计划共建模块化量子计算协同设计平台,依托 SQMS 中心研究格点规范、中微子与核物理模拟",
+          "article_title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+          "article_url": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 16:24:01 +0000",
+          "added_at": "2026-11-16T18:11:37.662608+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "平台将 NVIDIA DGX B200 与 IBM 量子计算机(含 Nighthawk)同址部署;双方并与 Pasqal 推出开源 QRMI 接口接入 Slurm HRES",
+          "article_title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+          "article_url": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 16:24:01 +0000",
+          "added_at": "2026-11-16T18:11:37.662608+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "fermilab",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NVIDIA 参与 Fermilab 牵头的模块化量子-经典协同设计平台",
+          "article_title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+          "article_url": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 16:24:01 +0000",
+          "added_at": "2026-11-16T18:11:37.662608+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "ibm",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Pasqal 与 IBM、NVIDIA 及开源社区共同开发厂商中立的量子资源管理接口 QRMI",
+          "article_title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+          "article_url": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 16:24:01 +0000",
+          "added_at": "2026-11-16T18:11:37.662608+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firmus",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "据 AFR 报道,Firmus 寻求 Nvidia 等大客户预付款,预付最多覆盖其在建合同的 12.5%",
+          "article_title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:36:44 +0000",
+          "added_at": "2026-11-16T18:11:38.859664+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firmus",
+      "target": "openai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "OpenAI 是 Firmus 最大客户之一,Firmus 正寻求其预付款(据 AFR 报道)",
+          "article_title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:36:44 +0000",
+          "added_at": "2026-11-16T18:11:38.859664+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firmus",
+      "target": "meta platforms",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Meta 是 Firmus 最大客户之一,Firmus 正寻求其预付款(据 AFR 报道)",
+          "article_title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:36:44 +0000",
+          "added_at": "2026-11-16T18:11:38.859664+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firmus",
+      "target": "coreweave",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "同为 neocloud,在资本市场收紧时都转向客户预付款和合同抵押融资",
+          "article_title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:36:44 +0000",
+          "added_at": "2026-11-16T18:11:38.859664+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tensorwave",
+      "target": "openai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "六年期协议,TensorWave 为 OpenAI 提供 457MW 单租户 AMD MI455X Helios 容量,2027 年上半年起运营、2028 年初全部部署",
+          "article_title": "OpenAI signs on for 457MW AI capacity with TensorWave",
+          "article_url": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:21:19 +0000",
+          "added_at": "2026-11-16T18:11:40.272789+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "tensorwave",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "TensorWave 部署 AMD Helios 整机柜(MI455X、Venice Epyc、ROCm、Pensando)",
+          "article_title": "OpenAI signs on for 457MW AI capacity with TensorWave",
+          "article_url": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:21:19 +0000",
+          "added_at": "2026-11-16T18:11:40.272789+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "advanced micro devices",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "OpenAI 称 TensorWave 协议是推进此前已宣布的与 AMD 合作的一部分",
+          "article_title": "OpenAI signs on for 457MW AI capacity with TensorWave",
+          "article_url": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:21:19 +0000",
+          "added_at": "2026-11-16T18:11:40.272789+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tecfusions",
+      "target": "tensorwave",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "TensorWave 是 TecFusions 客户,1 月签下宾夕法尼亚和亚利桑那 20MW 容量协议",
+          "article_title": "OpenAI signs on for 457MW AI capacity with TensorWave",
+          "article_url": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:21:19 +0000",
+          "added_at": "2026-11-16T18:11:40.272789+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "blackstone digital infrastructure trust",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "BXDC 是 Blackstone 于 2026 年 5 月上市的数据中心 REIT,IPO 募资约 17.5 亿美元",
+          "article_title": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:07:37 +0000",
+          "added_at": "2026-11-16T18:11:41.269696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone digital infrastructure trust",
+      "target": "amazoncom",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "BXDC 以约 50 亿美元收购两家 AWS 合资公司 75% 股权(13 座 powered shell),资本化率 7%,AWS 保留 25% 并以三净租赁租回,初始租期 12 年、最长 32 年",
+          "article_title": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:07:37 +0000",
+          "added_at": "2026-11-16T18:11:41.269696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "qts",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Blackstone 旗下拥有数据中心开发商 QTS",
+          "article_title": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:07:37 +0000",
+          "added_at": "2026-11-16T18:11:41.269696+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "airtrunk",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Blackstone 旗下拥有数据中心开发商 AirTrunk",
+          "article_title": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 17:07:37 +0000",
+          "added_at": "2026-11-16T18:11:41.269696+00:00"
         }
       ]
     }
@@ -26919,6 +27258,78 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 16 Nov 2026 16:41:45 +0000",
       "added_at": "2026-11-16T17:10:41.448952+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "IBM 新闻稿(利益相关,数据未经独立验证):IBM/NVIDIA/Fermilab 共建模块化量子-经典平台,QRMI+Slurm HRES 让 QPU 成为超算普通可调度资源,降低超算中心接入门槛,利好已与超算中心绑定的量子硬件商;Fe4S4 模拟接近 DMRG 但未超越,仍属押注阶段",
+      "article_title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+      "article_url": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 16:24:01 +0000",
+      "added_at": "2026-11-16T18:11:37.896886+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "量子-经典混合任务需要 GPU 做采样后处理与解码,NVIDIA DGX 在 IBM/Fermilab 平台上获得新增需求,与 AMD 在 ORNL 平台形成对照;调度层开源,价值主要沉淀在 GPU 生态",
+      "article_title": "IBM, NVIDIA and Fermilab Plan Modular Quantum Computing Platform",
+      "article_url": "https://thequantuminsider.com/2026/11/16/ibm-nvidia-fermilab-modular-quantum-computing-platform/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 16:24:01 +0000",
+      "added_at": "2026-11-16T18:11:38.152751+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Firmus IPO 失败后转私募募 30 亿美元并求 Nvidia/OpenAI/Meta 预付,916MW 签约仅 46MW 上线;算力需求端未变,但 neocloud 资金成本上升、估值被重估,小型客户集中的 neocloud 先承压,对算力基建层中性、对 neocloud 层偏利空",
+      "article_title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 17:36:44 +0000",
+      "added_at": "2026-11-16T18:11:39.102769+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nvidia 发布面向 agent 驱动科学模拟的 Rubin HPC GPU(厂商发布,指标未验证),强调数据移动与计算均衡扩展,科研算力需求被 agent 循环放大,利好 Nvidia 及解决访存瓶颈的 HBM 供应商",
+      "article_title": "Nvidia unveils Rubin HPC GPU for agentic AI-powered science and engineering workloads",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-unveils-rubin-hpc-gpu-for-agentic-ai-powered-science-and-engineering-workloads/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 17:26:26 +0000",
+      "added_at": "2026-11-16T18:11:40.031500+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "OpenAI 与 TensorWave 签 457MW、六年期 AMD Helios 单租户容量,AMD 第二供应商故事首次落到数百兆瓦规模,利好 AMD 与 HBM 供应商;TensorWave 自身仍有建设融资风险",
+      "article_title": "OpenAI signs on for 457MW AI capacity with TensorWave",
+      "article_url": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 17:21:19 +0000",
+      "added_at": "2026-11-16T18:11:40.519902+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "457MW 需在 2027-2028 年分批通电,TensorWave 刚放弃 Fermi 园区转向能按期交付的地点,说明能按时供电的场地仍是最慢的一环,利好能交付电力的数据中心开发商",
+      "article_title": "OpenAI signs on for 457MW AI capacity with TensorWave",
+      "article_url": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 17:21:19 +0000",
+      "added_at": "2026-11-16T18:11:40.756891+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AWS 把 13 座新建 powered shell 以约 50 亿美元、7% 资本化率售后回租给 Blackstone 的 BXDC,超大规模云厂商把数据中心资本开支转为 REIT 资产,扩大 AI 基建融资池,利好算力扩张;BXDC 股价仍低于发行价",
+      "article_title": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+      "article_url": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 17:07:37 +0000",
+      "added_at": "2026-11-16T18:11:41.540473+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "powered shell 的价值很大程度来自已通电,长期资本愿意为已接入电力的设施支付 7% 资本化率,强化电力接入作为核心稀缺资产的逻辑",
+      "article_title": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+      "article_url": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 17:07:37 +0000",
+      "added_at": "2026-11-16T18:11:41.796995+00:00"
     }
   ]
 }
