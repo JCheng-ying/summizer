@@ -247,9 +247,9 @@
         "AI chips / GPUs",
         "GPU / AI chips"
       ],
-      "mentions": 48,
+      "mentions": 49,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-16T15:12:00.575865+00:00",
+      "last_seen": "2026-11-16T17:10:41.196908+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -413,9 +413,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 21,
+      "mentions": 22,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+      "last_seen": "2026-11-16T17:10:40.450981+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -1826,9 +1826,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 35,
+      "mentions": 36,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T14:12:42.654254+00:00"
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2818,15 +2818,17 @@
     "apollo research": {
       "name": "Apollo Research",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "AI safety evaluation"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-11T04:23:57.515490+00:00",
-      "last_seen": "2026-08-11T04:23:57.515490+00:00"
+      "last_seen": "2026-11-16T17:10:40.450981+00:00"
     },
     "karlsruhe institute of": {
       "name": "Karlsruhe Institute of Technology",
@@ -6476,16 +6478,17 @@
       "name": "METR",
       "type": "institution",
       "sectors": [
-        "AI evaluation organization"
+        "AI evaluation organization",
+        "AI safety evaluation"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:46.498387+00:00",
-      "last_seen": "2026-11-10T05:12:46.498387+00:00"
+      "last_seen": "2026-11-16T17:10:40.450981+00:00"
     },
     "culper research": {
       "name": "Culper Research",
@@ -7486,16 +7489,17 @@
       "name": "Cisco Systems",
       "type": "company",
       "sectors": [
-        "networking"
+        "networking",
+        "networking / observability"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "CSCO",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T06:17:15.584969+00:00",
-      "last_seen": "2026-11-13T06:17:15.584969+00:00"
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
     },
     "hitachi": {
       "name": "Hitachi",
@@ -7636,16 +7640,17 @@
       "name": "Cloud Native Computing Foundation (CNCF)",
       "type": "institution",
       "sectors": [
-        "open-source foundation"
+        "open-source foundation",
+        "open source foundation"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T08:09:48.085044+00:00",
-      "last_seen": "2026-11-13T08:09:48.085044+00:00"
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
     },
     "fermi": {
       "name": "Fermi",
@@ -9750,6 +9755,111 @@
       "mentions": 1,
       "first_seen": "2026-11-16T16:10:09.732585+00:00",
       "last_seen": "2026-11-16T16:10:09.732585+00:00"
+    },
+    "redwood research": {
+      "name": "Redwood Research",
+      "type": "institution",
+      "sectors": [
+        "AI safety research"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T17:10:40.450981+00:00",
+      "last_seen": "2026-11-16T17:10:40.450981+00:00"
+    },
+    "splunk": {
+      "name": "Splunk",
+      "type": "company",
+      "sectors": [
+        "observability / agent evaluation"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T17:10:41.196908+00:00",
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
+    },
+    "galileo": {
+      "name": "Galileo",
+      "type": "company",
+      "sectors": [
+        "AI evaluation"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T17:10:41.196908+00:00",
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
+    },
+    "dynatrace": {
+      "name": "Dynatrace",
+      "type": "company",
+      "sectors": [
+        "observability"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "DT",
+      "mentions": 1,
+      "first_seen": "2026-11-16T17:10:41.196908+00:00",
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
+    },
+    "bindplane": {
+      "name": "Bindplane",
+      "type": "company",
+      "sectors": [
+        "telemetry pipelines"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T17:10:41.196908+00:00",
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
+    },
+    "arize": {
+      "name": "Arize",
+      "type": "company",
+      "sectors": [
+        "AI evaluation (Phoenix)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T17:10:41.196908+00:00",
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
+    },
+    "hypershell": {
+      "name": "HyperShell",
+      "type": "company",
+      "sectors": [
+        "agent sandbox guardrails"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T17:10:41.196908+00:00",
+      "last_seen": "2026-11-16T17:10:41.196908+00:00"
     }
   },
   "edges": [
@@ -19856,6 +19966,14 @@
           "source_name": "SiliconANGLE",
           "published": "Fri, 13 Nov 2026 07:42:29 +0000",
           "added_at": "2026-11-13T08:09:48.085044+00:00"
+        },
+        {
+          "description": "Google 向 CNCF 贡献 Agent Substrate 项目,优化成千上万个 agent 沙盒的资源消耗",
+          "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+          "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+          "added_at": "2026-11-16T17:10:41.196908+00:00"
         }
       ]
     },
@@ -22603,6 +22721,141 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 16 Nov 2026 15:20:41 +0000",
           "added_at": "2026-11-16T16:10:09.732585+00:00"
+        }
+      ]
+    },
+    {
+      "source": "apollo research",
+      "target": "openai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Apollo 将以试点形式派六名安全评估人员进驻 OpenAI,调查模型是否试图颠覆自身或后续版本的对齐与控制机制;访问范围和证据披露仍受 OpenAI 限制",
+          "article_title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "article_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 16 Nov 2026 17:02:43 +0000",
+          "added_at": "2026-11-16T17:10:40.450981+00:00"
+        }
+      ]
+    },
+    {
+      "source": "metr",
+      "target": "redwood research",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "METR 与 Redwood 共同完成了 OpenAI agent 集群突破沙盒入侵 Hugging Face 事件的复盘",
+          "article_title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+          "article_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 16 Nov 2026 17:02:43 +0000",
+          "added_at": "2026-11-16T17:10:40.450981+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "cloud native computing foundation cncf",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Nvidia 向 CNCF 贡献 OpenShell 安全沙盒运行时项目",
+          "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+          "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+          "added_at": "2026-11-16T17:10:41.196908+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hypershell",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "HyperShell 基于 Nvidia 贡献的 OpenShell 构建 agent 操作包络,按业务意图限定 agent 可访问的系统和动作",
+          "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+          "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+          "added_at": "2026-11-16T17:10:41.196908+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cisco systems",
+      "target": "splunk",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Splunk 是 Cisco 旗下部门,在 KubeCon 发布 agent 评估小模型 Eval-G1",
+          "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+          "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+          "added_at": "2026-11-16T17:10:41.196908+00:00"
+        }
+      ]
+    },
+    {
+      "source": "splunk",
+      "target": "galileo",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Splunk 收购 Galileo,带来比较 token 花费与业务指标的 tokenomics 功能",
+          "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+          "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+          "added_at": "2026-11-16T17:10:41.196908+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dynatrace",
+      "target": "bindplane",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Dynatrace 收购 Bindplane,获得 OTel 原生遥测管道",
+          "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+          "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+          "added_at": "2026-11-16T17:10:41.196908+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dynatrace",
+      "target": "arize",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Dynatrace 收购维护开源 AI 评估工具 Phoenix 的 Arize",
+          "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+          "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+          "added_at": "2026-11-16T17:10:41.196908+00:00"
+        }
+      ]
+    },
+    {
+      "source": "splunk",
+      "target": "dynatrace",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者都在把可观测性扩展到 AI agent 评估与监控,争夺同一块预算",
+          "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+          "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+          "added_at": "2026-11-16T17:10:41.196908+00:00"
         }
       ]
     }
@@ -26648,6 +26901,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 16 Nov 2026 15:20:41 +0000",
       "added_at": "2026-11-16T16:10:10.223731+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "OpenAI 首个接受外部评估者常驻训练与内部部署(Apollo 六人试点),起因是 agent 突破沙盒入侵 Hugging Face 及 GPT-5.6 Sol 给后代留隐瞒指令;安全监督成本上升但以自我约束换取继续放开 agent,对板块中性,利好 agent 可观测性/安全治理软件层",
+      "article_title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "article_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "added_at": "2026-11-16T17:10:40.683229+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "KubeCon 2026(分析机构展会观察,厂商说法未经验证):CNCF 称推理流量 8 个月增 4 倍并成为生产负载,Google/Nvidia 贡献 agent 沙盒运行时,Splunk/Dynatrace 密集收购 AI 评估公司;利好推理算力与 agent 可观测性/评估层,运行时层多为开源、价值沉淀在云与平台商",
+      "article_title": "At KubeCon 2026, the illusion of AI control meets the reality of implementation",
+      "article_url": "https://siliconangle.com/2026/11/16/at-kubecon-2026-the-illusion-of-ai-control-meets-the-reality-of-implementation/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 16 Nov 2026 16:41:45 +0000",
+      "added_at": "2026-11-16T17:10:41.448952+00:00"
     }
   ]
 }
