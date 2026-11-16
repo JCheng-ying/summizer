@@ -386,7 +386,8 @@
       "sectors": [
         "cloud / AI",
         "cloud / software",
-        "hyperscale cloud"
+        "hyperscale cloud",
+        "cloud / hyperscaler"
       ],
       "sector_tags": [
         "AI板块",
@@ -394,9 +395,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 15,
+      "mentions": 16,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:16.091747+00:00"
+      "last_seen": "2026-11-16T16:10:09.732585+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -9734,6 +9735,21 @@
       "mentions": 1,
       "first_seen": "2026-11-16T15:11:59.855485+00:00",
       "last_seen": "2026-11-16T15:11:59.855485+00:00"
+    },
+    "monarch energy": {
+      "name": "Monarch Energy",
+      "type": "company",
+      "sectors": [
+        "data center site developer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T16:10:09.732585+00:00",
+      "last_seen": "2026-11-16T16:10:09.732585+00:00"
     }
   },
   "edges": [
@@ -22574,6 +22590,21 @@
           "added_at": "2026-11-16T15:11:59.855485+00:00"
         }
       ]
+    },
+    {
+      "source": "microsoft",
+      "target": "monarch energy",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Microsoft 正对 Monarch Energy 在伊利诺伊州罗克福德持有的 1,300 英亩、最高 1.4GW 数据中心地块做尽职调查,尚未提交方案、是否推进未定",
+          "article_title": "Microsoft looks to develop data center in Rockford, Illinois",
+          "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 15:20:41 +0000",
+          "added_at": "2026-11-16T16:10:09.732585+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -26581,6 +26612,42 @@
       "source_name": "TechCrunch - AI",
       "published": "Mon, 16 Nov 2026 15:02:34 +0000",
       "added_at": "2026-11-16T15:12:00.814753+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "律所署名观点文章(利益相关,推销仲裁服务):东南亚数据中心建设期 2-4 年、电网接入超 2 年,芯片约 5 年更新而融资按 15-20 年寿命测算,neocloud 需 50kW+ 液冷机柜,投资方/运营方/租户/EPC 之间的技术过时纠纷已出现,资产寿命短于融资假设,对 AI 基础设施估值中性偏谨慎",
+      "article_title": "Arbitrating data center disputes in Southeast Asia",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 15:30:41 +0000",
+      "added_at": "2026-11-16T16:10:09.250859+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "机柜密度从 8-20kW 升级到 50kW+ 液冷带来冷却与配电改造需求,不论纠纷谁胜,液冷、变压器、开关柜等电力与热管理设备都有升级订单,偏利好",
+      "article_title": "Arbitrating data center disputes in Southeast Asia",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 15:30:41 +0000",
+      "added_at": "2026-11-16T16:10:09.492034+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Microsoft 考察罗克福德最高 1.4GW 园区(仅尽调阶段),地块已获州级税收激励;吉瓦级负荷需新建输变电,电力设备商与'先拿电拿地再找用户'的电力型开发商受益,但需观察分区会议和正式方案",
+      "article_title": "Microsoft looks to develop data center in Rockford, Illinois",
+      "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 15:20:41 +0000",
+      "added_at": "2026-11-16T16:10:09.985867+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Microsoft 在伊利诺伊已有 17 个数据中心、继续寻找自建吉瓦级地块并主动对齐地方标准以规避社区阻力,AI 基础设施需求延续,对 GPU/网络/液冷是增量而非拐点",
+      "article_title": "Microsoft looks to develop data center in Rockford, Illinois",
+      "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 15:20:41 +0000",
+      "added_at": "2026-11-16T16:10:10.223731+00:00"
     }
   ]
 }
