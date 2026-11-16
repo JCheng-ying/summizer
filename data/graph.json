@@ -247,9 +247,9 @@
         "AI chips / GPUs",
         "GPU / AI chips"
       ],
-      "mentions": 46,
+      "mentions": 48,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-16T14:12:41.691201+00:00",
+      "last_seen": "2026-11-16T15:12:00.575865+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -428,7 +428,8 @@
         "cloud / satellite broadband",
         "e-commerce / cloud",
         "cloud / hyperscale data centers",
-        "hyperscaler / Amazon Leo LEO constellation"
+        "hyperscaler / Amazon Leo LEO constellation",
+        "cloud / AWS"
       ],
       "sector_tags": [
         "AI板块",
@@ -438,9 +439,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 20,
+      "mentions": 21,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T13:10:08.563022+00:00"
+      "last_seen": "2026-11-16T15:11:59.855485+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -538,9 +539,9 @@
       ],
       "hot": "hot",
       "ticker": "TSM",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+      "last_seen": "2026-11-16T15:11:59.119998+00:00"
     },
     "coreweave": {
       "name": "CoreWeave",
@@ -1343,15 +1344,17 @@
     "oxford quantum circuits oqc": {
       "name": "Oxford Quantum Circuits (OQC)",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "superconducting QPU"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-16T15:11:57.690584+00:00"
     },
     "quera computing": {
       "name": "QuEra Computing",
@@ -1474,15 +1477,17 @@
     "intuitive surgical": {
       "name": "Intuitive Surgical, Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "surgical robotics"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
       "ticker": "ISRG",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-11-16T15:11:57.199710+00:00"
     },
     "unitree": {
       "name": "Unitree Robotics",
@@ -1791,9 +1796,9 @@
       ],
       "hot": "hot",
       "ticker": "005930.KS",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-14T17:09:45.112284+00:00"
+      "last_seen": "2026-11-16T15:11:59.119998+00:00"
     },
     "alphabet": {
       "name": "Alphabet Inc.",
@@ -5895,7 +5900,8 @@
       "name": "ASML",
       "type": "company",
       "sectors": [
-        "lithography equipment"
+        "lithography equipment",
+        "EUV lithography"
       ],
       "sector_tags": [
         "AI板块",
@@ -5903,9 +5909,9 @@
       ],
       "hot": "hot",
       "ticker": "ASML",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-09T06:06:07.837516+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-16T15:11:59.119998+00:00"
     },
     "powerchip semiconductor manufacturing": {
       "name": "Powerchip Semiconductor Manufacturing Corporation",
@@ -6012,16 +6018,17 @@
         "IT / cloud services",
         "neocloud (Singapore)",
         "neocloud / GPU rental",
-        "GPU data center operator"
+        "GPU data center operator",
+        "Singapore AI infrastructure / cloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-13T19:09:50.917587+00:00"
+      "last_seen": "2026-11-16T15:12:00.575865+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -6874,16 +6881,18 @@
       "type": "institution",
       "sectors": [
         "government",
-        "federal government"
+        "federal government",
+        "federal agency / export controls"
       ],
       "sector_tags": [
-        "量子计算板块"
+        "量子计算板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-13T20:09:34.600622+00:00"
+      "last_seen": "2026-11-16T15:12:00.575865+00:00"
     },
     "applied digital": {
       "name": "Applied Digital",
@@ -9597,6 +9606,134 @@
       "mentions": 1,
       "first_seen": "2026-11-16T14:12:41.691201+00:00",
       "last_seen": "2026-11-16T14:12:41.691201+00:00"
+    },
+    "remedy": {
+      "name": "Remedy Robotics",
+      "type": "company",
+      "sectors": [
+        "telesurgery / robotic neurovascular catheter"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:57.199710+00:00",
+      "last_seen": "2026-11-16T15:11:57.199710+00:00"
+    },
+    "university of california": {
+      "name": "University of California",
+      "type": "institution",
+      "sectors": [
+        "university system / clinical research"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:57.199710+00:00",
+      "last_seen": "2026-11-16T15:11:57.199710+00:00"
+    },
+    "unity health toronto": {
+      "name": "Unity Health Toronto",
+      "type": "institution",
+      "sectors": [
+        "hospital network"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:57.199710+00:00",
+      "last_seen": "2026-11-16T15:11:57.199710+00:00"
+    },
+    "altera": {
+      "name": "Altera",
+      "type": "company",
+      "sectors": [
+        "FPGA / Direct RF quantum controllers"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:57.690584+00:00",
+      "last_seen": "2026-11-16T15:11:57.690584+00:00"
+    },
+    "nanya": {
+      "name": "Nanya Technology",
+      "type": "company",
+      "sectors": [
+        "DRAM"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "2408.TW",
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:59.119998+00:00",
+      "last_seen": "2026-11-16T15:11:59.119998+00:00"
+    },
+    "winbond electronics": {
+      "name": "Winbond Electronics",
+      "type": "company",
+      "sectors": [
+        "specialty DRAM / NOR Flash"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": "2344.TW",
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:59.119998+00:00",
+      "last_seen": "2026-11-16T15:11:59.119998+00:00"
+    },
+    "prologis": {
+      "name": "Prologis",
+      "type": "company",
+      "sectors": [
+        "industrial real estate / data center developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "PLD",
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:59.855485+00:00",
+      "last_seen": "2026-11-16T15:11:59.855485+00:00"
+    },
+    "city of trenton ohio": {
+      "name": "City of Trenton, Ohio",
+      "type": "institution",
+      "sectors": [
+        "municipal government"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:59.855485+00:00",
+      "last_seen": "2026-11-16T15:11:59.855485+00:00"
+    },
+    "conserve ohio": {
+      "name": "Conserve Ohio",
+      "type": "institution",
+      "sectors": [
+        "conservation advocacy group"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T15:11:59.855485+00:00",
+      "last_seen": "2026-11-16T15:11:59.855485+00:00"
     }
   },
   "edges": [
@@ -11060,6 +11197,14 @@
           "source_name": "NVIDIA Newsroom",
           "published": "2025-10-28",
           "added_at": "2026-08-06T04:45:56.401807+00:00"
+        },
+        {
+          "description": "OQC QPU 经 FPGA 与 NVQLink 接入 NVIDIA GPU 加速计算",
+          "article_title": "Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/16/altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 14:05:00 +0000",
+          "added_at": "2026-11-16T15:11:57.690584+00:00"
         }
       ]
     },
@@ -17659,6 +17804,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 18:40:30 +0000",
           "added_at": "2026-11-13T19:09:50.917587+00:00"
+        },
+        {
+          "description": "美国政府认为 Megaspeed 购买数千颗 Nvidia 芯片为中国企业提供算力以绕过出口管制,据报道考虑将其列入实体清单",
+          "article_title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+          "article_url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 16 Nov 2026 15:02:34 +0000",
+          "added_at": "2026-11-16T15:12:00.575865+00:00"
         }
       ]
     },
@@ -22241,6 +22394,186 @@
           "added_at": "2026-11-16T14:12:41.691201+00:00"
         }
       ]
+    },
+    {
+      "source": "university of california",
+      "target": "remedy",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "加州大学系统参与 Remedy 6200 万美元新融资,并将在一年内承接其临床研究",
+          "article_title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+          "article_url": "https://spectrum.ieee.org/telesurgery-stroke",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 16 Nov 2026 14:00:02 +0000",
+          "added_at": "2026-11-16T15:11:57.199710+00:00"
+        }
+      ]
+    },
+    {
+      "source": "remedy",
+      "target": "unity health toronto",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "2025 年 Unity Health Toronto 的神经外科团队用 N1 系统完成首批完全远程的机器人神经介入操作",
+          "article_title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+          "article_url": "https://spectrum.ieee.org/telesurgery-stroke",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 16 Nov 2026 14:00:02 +0000",
+          "added_at": "2026-11-16T15:11:57.199710+00:00"
+        }
+      ]
+    },
+    {
+      "source": "remedy",
+      "target": "intuitive surgical",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Intuitive 演示跨洲'远程协作'手术,Remedy 以卒中取栓切入远程手术,同为远程手术机器人赛道",
+          "article_title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+          "article_url": "https://spectrum.ieee.org/telesurgery-stroke",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Mon, 16 Nov 2026 14:00:02 +0000",
+          "added_at": "2026-11-16T15:11:57.199710+00:00"
+        }
+      ]
+    },
+    {
+      "source": "altera",
+      "target": "oxford quantum circuits oqc",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Altera 基于 Agilex 9 Direct RF FPGA 的量子系统控制器参考设计控制 OQC 新一代 QPU",
+          "article_title": "Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/16/altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 14:05:00 +0000",
+          "added_at": "2026-11-16T15:11:57.690584+00:00"
+        }
+      ]
+    },
+    {
+      "source": "altera",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "参考设计通过 NVIDIA NVQLink 连接 GPU,由 GPU 承担校准和 ML 读出分类,计划 2027 年 1 月发布",
+          "article_title": "Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/16/altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 14:05:00 +0000",
+          "added_at": "2026-11-16T15:11:57.690584+00:00"
+        }
+      ]
+    },
+    {
+      "source": "asml",
+      "target": "nanya",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "南亚计划向 ASML 采购 EUV,2027 年一季度部署于 Fab 5A,一期设备投资最高 105.3 亿美元",
+          "article_title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:29:20 +0000",
+          "added_at": "2026-11-16T15:11:59.119998+00:00"
+        }
+      ]
+    },
+    {
+      "source": "asml",
+      "target": "winbond electronics",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "华邦预计约两年后收到首台 ASML EUV,2030 年在高雄厂用于第二代 14nm DRAM",
+          "article_title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:29:20 +0000",
+          "added_at": "2026-11-16T15:11:59.119998+00:00"
+        }
+      ]
+    },
+    {
+      "source": "asml",
+      "target": "samsung electronics",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "三星承诺采用 ASML High-NA EUV,计划 2028 年起用于内存芯片",
+          "article_title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:29:20 +0000",
+          "added_at": "2026-11-16T15:11:59.119998+00:00"
+        }
+      ]
+    },
+    {
+      "source": "asml",
+      "target": "taiwan semiconductor manufacturing tsmc",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "台积电承诺采用 ASML High-NA EUV,2030 年起使用",
+          "article_title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:29:20 +0000",
+          "added_at": "2026-11-16T15:11:59.119998+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nanya",
+      "target": "winbond electronics",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两家台湾 DRAM 厂同时引入 EUV 扩产",
+          "article_title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:29:20 +0000",
+          "added_at": "2026-11-16T15:11:59.119998+00:00"
+        }
+      ]
+    },
+    {
+      "source": "prologis",
+      "target": "city of trenton ohio",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Prologis 2025 年 10 月以 770 万美元从 Trenton 市购入 141 英亩土地建数据中心;居民公投通过 25MW 禁令后,Prologis 于 11 月 12 日起诉该市以保护既有审批",
+          "article_title": "Prologis sues Ohio's Trenton city after residents vote against data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/prologis-sues-ohios-trenton-city-after-residents-vote-against-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:19:14 +0000",
+          "added_at": "2026-11-16T15:11:59.855485+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "prologis",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "据报道 Amazon 是 Prologis 在 Trenton 的 250MW Project Mila 园区客户",
+          "article_title": "Prologis sues Ohio's Trenton city after residents vote against data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/prologis-sues-ohios-trenton-city-after-residents-vote-against-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:19:14 +0000",
+          "added_at": "2026-11-16T15:11:59.855485+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -26185,6 +26518,69 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 16 Nov 2026 14:00:47 +0000",
       "added_at": "2026-11-16T14:12:42.903423+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Remedy Robotics 以卒中取栓为切入点推进远程手术,首批人体测试速度近标准两倍并获 6200 万美元融资;但瓶颈在网络延迟、医院配套和监管,远程试验要到 2027 年底,利好但非常早期,平台型手术机器人和血管介入机器人受益",
+      "article_title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+      "article_url": "https://spectrum.ieee.org/telesurgery-stroke",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 16 Nov 2026 14:00:02 +0000",
+      "added_at": "2026-11-16T15:11:57.444450+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Altera 新闻稿(利益相关,未经独立验证):FPGA 集成数模转换与频分复用压缩量子控制硬件,量子规模化瓶颈转向经典控制层,利好 FPGA/数据转换芯片与量子控制栈公司",
+      "article_title": "Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing",
+      "article_url": "https://thequantuminsider.com/2026/11/16/altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 14:05:00 +0000",
+      "added_at": "2026-11-16T15:11:57.948762+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "NVQLink 把量子校准与读出分类吸到 GPU 上,GPU 厂商在量子-经典混合系统中占据编排接口,对 AI 算力是小幅增量、主要是生态位置意义",
+      "article_title": "Altera, OQC and NVIDIA Link Quantum Processor to GPU Computing",
+      "article_url": "https://thequantuminsider.com/2026/11/16/altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 14:05:00 +0000",
+      "added_at": "2026-11-16T15:11:58.182088+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 把 DRAM 产能吸向 HBM,二线厂南亚/华邦引入 ASML EUV 扩产,2028 年后通用 DRAM 供给有所缓解;ASML 作为唯一 EUV 供应商及光罩、光刻胶、检测配套链直接受益,中性偏利好",
+      "article_title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 14:29:20 +0000",
+      "added_at": "2026-11-16T15:11:59.362860+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "华邦是利基/低功耗 DRAM 与 NOR Flash 重要供应商,若 2030 年 EUV 14nm DRAM 量产,边缘设备内存成本与功耗受益,但时间太远仅作长期观察",
+      "article_title": "Nanya and Winbond to purchase EUV tools from ASML to boost DRAM production in Taiwan",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nanya-and-winbond-to-purchase-euv-tools-from-asml-to-boost-dram-production-in-taiwan/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 14:29:20 +0000",
+      "added_at": "2026-11-16T15:11:59.613616+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Trenton 近 80% 居民公投禁止 25MW 以上数据中心,Prologis 起诉市政府保护已动工项目审批,Conserve Ohio 推动写入州宪法;已批项目也面临追溯风险,选址政治摩擦升级,偏空但集中于具体项目和州",
+      "article_title": "Prologis sues Ohio's Trenton city after residents vote against data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/prologis-sues-ohios-trenton-city-after-residents-vote-against-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 14:19:14 +0000",
+      "added_at": "2026-11-16T15:12:00.102133+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "商务部新规把出口管制从芯片流向扩展到算力最终用户,TPP 超 1200 万(约 750 颗 H100)的全球数据中心向中国等 D:5 国家提供算力需许可,并对马来西亚/新加坡/印尼/泰国/巴西新增许可;Nvidia 与东南亚 neocloud 承压,美国本土合规算力稀缺性上升,同时撤销 AI 扩散规则,整体中性偏空",
+      "article_title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "article_url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 16 Nov 2026 15:02:34 +0000",
+      "added_at": "2026-11-16T15:12:00.814753+00:00"
     }
   ]
 }
