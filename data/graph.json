@@ -427,7 +427,8 @@
         "hyperscale cloud",
         "cloud / satellite broadband",
         "e-commerce / cloud",
-        "cloud / hyperscale data centers"
+        "cloud / hyperscale data centers",
+        "hyperscaler / Amazon Leo LEO constellation"
       ],
       "sector_tags": [
         "AI板块",
@@ -437,9 +438,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 19,
+      "mentions": 20,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T09:09:43.785272+00:00"
+      "last_seen": "2026-11-16T13:10:08.563022+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -472,9 +473,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 35,
+      "mentions": 36,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T22:09:22.018399+00:00"
+      "last_seen": "2026-11-16T13:10:09.267246+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -727,7 +728,8 @@
         "launch / Starlink",
         "launch / satellites / compute",
         "launch / satellite / compute",
-        "launch / satellites / orbital compute"
+        "launch / satellites / orbital compute",
+        "launch provider / Starlink"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -735,9 +737,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 14,
+      "mentions": 15,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-13T06:17:11.328474+00:00"
+      "last_seen": "2026-11-16T13:10:08.563022+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -747,16 +749,17 @@
         "launch / lunar landers",
         "launch / lunar lander",
         "launch / engines",
-        "launch"
+        "launch",
+        "launch provider"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-16T11:12:05.828049+00:00"
+      "last_seen": "2026-11-16T13:10:08.563022+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -807,16 +810,17 @@
       "sectors": [
         "aerospace and defense",
         "aerospace & defense",
-        "defense / solid rocket boosters"
+        "defense / solid rocket boosters",
+        "solid rocket boosters / defense"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "NOC",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-16T11:12:05.828049+00:00"
+      "last_seen": "2026-11-16T13:10:08.563022+00:00"
     },
     "l3harris": {
       "name": "L3Harris Technologies",
@@ -837,16 +841,17 @@
       "sectors": [
         "launch services",
         "launch vehicles",
-        "launch"
+        "launch",
+        "launch provider"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-13T06:17:12.091710+00:00"
+      "last_seen": "2026-11-16T13:10:08.563022+00:00"
     },
     "ast spacemobile": {
       "name": "AST SpaceMobile",
@@ -9411,6 +9416,36 @@
       "mentions": 1,
       "first_seen": "2026-11-16T12:09:37.105953+00:00",
       "last_seen": "2026-11-16T12:09:37.105953+00:00"
+    },
+    "arianespace": {
+      "name": "Arianespace",
+      "type": "company",
+      "sectors": [
+        "launch provider"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T13:10:08.563022+00:00",
+      "last_seen": "2026-11-16T13:10:08.563022+00:00"
+    },
+    "palo alto networks": {
+      "name": "Palo Alto Networks",
+      "type": "company",
+      "sectors": [
+        "cybersecurity / cloud security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "PANW",
+      "mentions": 1,
+      "first_seen": "2026-11-16T13:10:09.267246+00:00",
+      "last_seen": "2026-11-16T13:10:09.267246+00:00"
     }
   },
   "edges": [
@@ -10385,6 +10420,14 @@
           "source_name": "NASASpaceFlight.com",
           "published": "Thu, 12 Nov 2026 17:44:44 +0000",
           "added_at": "2026-11-13T06:17:12.091710+00:00"
+        },
+        {
+          "description": "Northrop Grumman 是 Vulcan 固体助推器供应商,2 月喷管异常后与 ULA、太空军联合调查;据报道本次异常发生在芯级而非固体助推器",
+          "article_title": "Amazon loses 40 satellites after ULA rocket launch anomaly",
+          "article_url": "https://www.datacenterdynamics.com/en/news/amazon-loses-40-satellites-after-ula-rocket-launch-anomaly/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 12:25:58 +0000",
+          "added_at": "2026-11-16T13:10:08.563022+00:00"
         }
       ]
     },
@@ -21754,6 +21797,81 @@
           "added_at": "2026-11-16T12:09:37.105953+00:00"
         }
       ]
+    },
+    {
+      "source": "united launch alliance ula",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "ULA Vulcan 执行 Amazon Leo LV-01(38 次发射合作的首发)时芯级异常,40 颗卫星全部损失,是 ULA 成立以来首次完全失败",
+          "article_title": "Amazon loses 40 satellites after ULA rocket launch anomaly",
+          "article_url": "https://www.datacenterdynamics.com/en/news/amazon-loses-40-satellites-after-ula-rocket-launch-anomaly/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 12:25:58 +0000",
+          "added_at": "2026-11-16T13:10:08.563022+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arianespace",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Arianespace 为 Amazon Leo 提供发射,下一次 LE-04 最早 11 月 23 日从库鲁发射 36 颗卫星",
+          "article_title": "Amazon loses 40 satellites after ULA rocket launch anomaly",
+          "article_url": "https://www.datacenterdynamics.com/en/news/amazon-loses-40-satellites-after-ula-rocket-launch-anomaly/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 12:25:58 +0000",
+          "added_at": "2026-11-16T13:10:08.563022+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blue origin",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Amazon Leo 与 Blue Origin 签有发射合同",
+          "article_title": "Amazon loses 40 satellites after ULA rocket launch anomaly",
+          "article_url": "https://www.datacenterdynamics.com/en/news/amazon-loses-40-satellites-after-ula-rocket-launch-anomaly/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 12:25:58 +0000",
+          "added_at": "2026-11-16T13:10:08.563022+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Amazon Leo 与 SpaceX 签有发射合同",
+          "article_title": "Amazon loses 40 satellites after ULA rocket launch anomaly",
+          "article_url": "https://www.datacenterdynamics.com/en/news/amazon-loses-40-satellites-after-ula-rocket-launch-anomaly/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 12:25:58 +0000",
+          "added_at": "2026-11-16T13:10:08.563022+00:00"
+        }
+      ]
+    },
+    {
+      "source": "palo alto networks",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Palo Alto Networks 是 Anthropic Project Glasswing 首批合作方,4 月提前获得 Claude Mythos Preview 访问权;其云安全报告将前沿模型自主挖洞威胁称为 Mythos-grade",
+          "article_title": "Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud",
+          "article_url": "https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 13:00:12 +0000",
+          "added_at": "2026-11-16T13:10:09.267246+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -25572,6 +25690,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 16 Nov 2026 11:36:01 +0000",
       "added_at": "2026-11-16T12:09:37.585978+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "利空:ULA Vulcan 首次完全失败,损失 40 颗 Amazon Leo 卫星,原本承担近半第一代星座的主力火箭大概率再次停飞,非 SpaceX 可靠运力更稀缺,Amazon Leo 追赶 Starlink 时间表后移;Arianespace/Blue Origin 运力议价能力上升",
+      "article_title": "Amazon loses 40 satellites after ULA rocket launch anomaly",
+      "article_url": "https://www.datacenterdynamics.com/en/news/amazon-loses-40-satellites-after-ula-rocket-launch-anomaly/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 12:25:58 +0000",
+      "added_at": "2026-11-16T13:10:08.798281+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Palo Alto 自家调查(利益相关,未经独立验证):99% 组织在开发流水线用 Agent、53% 的 Agent 活动挂在开发者身份下、40% 无法还原 Agent 操作;Agent 落地瓶颈在可追溯/可撤权/可审计,利好非人类身份管理与统一云安全平台层",
+      "article_title": "Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud",
+      "article_url": "https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 16 Nov 2026 13:00:12 +0000",
+      "added_at": "2026-11-16T13:10:09.500943+00:00"
     }
   ]
 }
