@@ -2661,9 +2661,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 10,
+      "mentions": 11,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-11-11T06:19:42.356600+00:00"
+      "last_seen": "2026-11-16T20:10:10.600253+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -4474,16 +4474,18 @@
     "space nuclear power": {
       "name": "Space Nuclear Power Corporation",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "space fission power"
+      ],
       "sector_tags": [
         "太空经济板块",
         "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-02T01:41:33.092411+00:00"
+      "last_seen": "2026-11-16T20:10:10.600253+00:00"
     },
     "darpa": {
       "name": "DARPA",
@@ -4499,22 +4501,24 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-13T20:09:34.600622+00:00"
+      "last_seen": "2026-11-16T20:10:10.600253+00:00"
     },
     "los alamos national laboratory": {
       "name": "Los Alamos National Laboratory",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "national laboratory"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-02T01:41:33.092411+00:00"
+      "last_seen": "2026-11-16T20:10:10.600253+00:00"
     },
     "sparxity": {
       "name": "Sparxity",
@@ -14951,6 +14955,14 @@
           "source_name": "SpaceNews",
           "published": "Wed, 21 Oct 2026 14:29:57 +0000",
           "added_at": "2026-11-02T01:41:33.092411+00:00"
+        },
+        {
+          "description": "SpaceNukes 持有洛斯阿拉莫斯国家实验室的反应堆技术许可,并将与其在 DARPA Fat Cat 项目下共同设计、建造并地面测试主动控制的 Kilopower 反应堆",
+          "article_title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+          "article_url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+          "source_name": "SpaceNews",
+          "published": "Mon, 16 Nov 2026 20:00:00 +0000",
+          "added_at": "2026-11-16T20:10:10.600253+00:00"
         }
       ]
     },
@@ -23342,6 +23354,36 @@
           "added_at": "2026-11-16T19:10:33.495315+00:00"
         }
       ]
+    },
+    {
+      "source": "darpa",
+      "target": "space nuclear power",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "DARPA 在 Fast Capacitance(Fat Cat)项目下与 SpaceNukes 签订协议,地面测试主动控制的 Kilopower 反应堆",
+          "article_title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+          "article_url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+          "source_name": "SpaceNews",
+          "published": "Mon, 16 Nov 2026 20:00:00 +0000",
+          "added_at": "2026-11-16T20:10:10.600253+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nasa",
+      "target": "space nuclear power",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SpaceNukes 自称与战争部和 NASA 的合同与协议合计超过 5000 万美元(公司新闻稿口径)",
+          "article_title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+          "article_url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+          "source_name": "SpaceNews",
+          "published": "Mon, 16 Nov 2026 20:00:00 +0000",
+          "added_at": "2026-11-16T20:10:10.600253+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -27520,6 +27562,33 @@
       "source_name": "TechCrunch - AI",
       "published": "Mon, 16 Nov 2026 18:11:10 +0000",
       "added_at": "2026-11-16T19:10:33.975706+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "SpaceNukes(公司新闻稿,利益相关,未经独立验证)开设难熔合金增材制造工厂,下一代高温反应堆的瓶颈转向材料,利好航天级难熔金属与增材制造供应链",
+      "article_title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+      "article_url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+      "source_name": "SpaceNews",
+      "published": "Mon, 16 Nov 2026 20:00:00 +0000",
+      "added_at": "2026-11-16T20:10:10.836534+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "SpaceNukes(公司新闻稿,利益相关)推进高温太空裂变电源,强化小型核电源在太空和偏远场景的路线,但离商业规模尚远,属间接利好",
+      "article_title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+      "article_url": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+      "source_name": "SpaceNews",
+      "published": "Mon, 16 Nov 2026 20:00:00 +0000",
+      "added_at": "2026-11-16T20:10:11.072878+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "加州总检察长以公共妨害和不正当竞争起诉 OpenAI 的 agent 失控事件,抬高 agent 测试与部署的法律和合规成本,对模型层和 agent 应用层偏利空,利好 agent 安全与可观测性层",
+      "article_title": "California state AG sues OpenAI over rogue agent incidents",
+      "article_url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 16 Nov 2026 20:07:13 +0000",
+      "added_at": "2026-11-16T20:10:11.753466+00:00"
     }
   ]
 }
