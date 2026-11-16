@@ -554,9 +554,9 @@
       ],
       "hot": "hot",
       "ticker": "CRWV",
-      "mentions": 10,
+      "mentions": 11,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T23:09:29.373228+00:00"
+      "last_seen": "2026-11-16T11:12:03.664623+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -746,16 +746,17 @@
         "orbital launch vehicles (New Glenn)",
         "launch / lunar landers",
         "launch / lunar lander",
-        "launch / engines"
+        "launch / engines",
+        "launch"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-13T06:17:12.091710+00:00"
+      "last_seen": "2026-11-16T11:12:05.828049+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -813,9 +814,9 @@
       ],
       "hot": "hot",
       "ticker": "NOC",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-13T06:17:12.091710+00:00"
+      "last_seen": "2026-11-16T11:12:05.828049+00:00"
     },
     "l3harris": {
       "name": "L3Harris Technologies",
@@ -852,16 +853,17 @@
       "type": "company",
       "sectors": [
         "satellite broadband",
-        "direct-to-device satellites"
+        "direct-to-device satellites",
+        "satellite direct-to-device"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "ASTS",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-13T06:17:12.592990+00:00"
+      "last_seen": "2026-11-16T11:12:05.828049+00:00"
     },
     "iridium communications": {
       "name": "Iridium Communications",
@@ -975,9 +977,9 @@
       ],
       "hot": "cold",
       "ticker": "FLY",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-13T06:17:12.592990+00:00"
+      "last_seen": "2026-11-16T11:12:05.828049+00:00"
     },
     "voyager": {
       "name": "Voyager Technologies",
@@ -1128,7 +1130,8 @@
         "quantum computing",
         "quantum computing / enterprise IT",
         "superconducting quantum computing",
-        "quantum / enterprise IT"
+        "quantum / enterprise IT",
+        "quantum computing / IT"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1136,9 +1139,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T06:17:13.844681+00:00"
+      "last_seen": "2026-11-16T11:12:03.186467+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -1699,7 +1702,8 @@
       "type": "company",
       "sectors": [
         "consumer electronics",
-        "consumer devices / health platform"
+        "consumer devices / health platform",
+        "consumer hardware / silicon"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1707,9 +1711,9 @@
       ],
       "hot": "hot",
       "ticker": "AAPL",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-16T02:09:44.437956+00:00"
+      "last_seen": "2026-11-16T11:12:04.379452+00:00"
     },
     "arm plc": {
       "name": "Arm Holdings plc",
@@ -1737,7 +1741,8 @@
         "GPUs / CPUs",
         "CPUs / GPUs",
         "CPUs / GPUs / FPGAs",
-        "semiconductors / GPUs"
+        "semiconductors / GPUs",
+        "semiconductors"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1746,9 +1751,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 16,
+      "mentions": 17,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T10:11:33.161839+00:00"
+      "last_seen": "2026-11-16T11:12:03.664623+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -3017,16 +3022,18 @@
       "name": "Mitsubishi Electric Corp.",
       "type": "company",
       "sectors": [
-        "electronics / satellites"
+        "electronics / satellites",
+        "industrial electronics"
       ],
       "sector_tags": [
-        "太空经济板块"
+        "太空经济板块",
+        "量子计算板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-15T05:55:30.112336+00:00",
-      "last_seen": "2026-11-13T06:17:19.154358+00:00"
+      "last_seen": "2026-11-16T11:12:02.486642+00:00"
     },
     "us space force": {
       "name": "U.S. Space Force",
@@ -4387,11 +4394,11 @@
         "能源板块",
         "机器人板块"
       ],
-      "hot": null,
+      "hot": "hot",
       "ticker": "9434.T",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-16T11:12:02.486642+00:00"
     },
     "nscale": {
       "name": "Nscale",
@@ -4950,16 +4957,17 @@
       "sectors": [
         "Japanese research institute",
         "research institute / HPC",
-        "Japanese national research / supercomputing"
+        "Japanese national research / supercomputing",
+        "national research lab"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-06T07:01:15.798724+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-16T11:12:02.486642+00:00"
     },
     "skywater": {
       "name": "SkyWater Technology",
@@ -5294,14 +5302,18 @@
       "type": "company",
       "sectors": [
         "private equity",
-        "alternative asset management"
+        "alternative asset management",
+        "private equity / infrastructure"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
       "hot": "hot",
       "ticker": "BX",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-06T07:01:18.116586+00:00",
-      "last_seen": "2026-11-14T11:09:37.684630+00:00"
+      "last_seen": "2026-11-16T11:12:05.108252+00:00"
     },
     "martin uav": {
       "name": "Martin UAV",
@@ -7123,14 +7135,15 @@
       "name": "NEDO",
       "type": "institution",
       "sectors": [
-        "Japanese government R&D funding"
+        "Japanese government R&D funding",
+        "Japanese R&D funding agency"
       ],
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-12T04:06:40.629138+00:00",
-      "last_seen": "2026-11-12T04:06:40.629138+00:00"
+      "last_seen": "2026-11-16T11:12:02.486642+00:00"
     },
     "iren": {
       "name": "IREN",
@@ -9252,6 +9265,137 @@
       "mentions": 1,
       "first_seen": "2026-11-16T09:09:43.785272+00:00",
       "last_seen": "2026-11-16T09:09:43.785272+00:00"
+    },
+    "jij": {
+      "name": "JIJ",
+      "type": "company",
+      "sectors": [
+        "quantum optimization software"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:02.486642+00:00",
+      "last_seen": "2026-11-16T11:12:02.486642+00:00"
+    },
+    "moth quantum": {
+      "name": "Moth Quantum",
+      "type": "company",
+      "sectors": [
+        "quantum software"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:03.186467+00:00",
+      "last_seen": "2026-11-16T11:12:03.186467+00:00"
+    },
+    "core scientific": {
+      "name": "Core Scientific",
+      "type": "company",
+      "sectors": [
+        "AI colocation / former bitcoin miner"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "CORZ",
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:03.664623+00:00",
+      "last_seen": "2026-11-16T11:12:03.664623+00:00"
+    },
+    "polaris ds": {
+      "name": "Polaris DS",
+      "type": "company",
+      "sectors": [
+        "former crypto mining site"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:03.664623+00:00",
+      "last_seen": "2026-11-16T11:12:03.664623+00:00"
+    },
+    "mount thor": {
+      "name": "Mount Thor",
+      "type": "company",
+      "sectors": [
+        "Apple-silicon AI cloud"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:04.379452+00:00",
+      "last_seen": "2026-11-16T11:12:04.379452+00:00"
+    },
+    "crv": {
+      "name": "CRV",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:04.379452+00:00",
+      "last_seen": "2026-11-16T11:12:04.379452+00:00"
+    },
+    "conviction": {
+      "name": "Conviction",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:04.379452+00:00",
+      "last_seen": "2026-11-16T11:12:04.379452+00:00"
+    },
+    "box2bit": {
+      "name": "Box2Bit",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:05.108252+00:00",
+      "last_seen": "2026-11-16T11:12:05.108252+00:00"
+    },
+    "capital energy": {
+      "name": "Capital Energy",
+      "type": "company",
+      "sectors": [
+        "renewable energy developer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T11:12:05.108252+00:00",
+      "last_seen": "2026-11-16T11:12:05.108252+00:00"
     }
   },
   "edges": [
@@ -18327,6 +18471,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 11 Nov 2026 12:36:10 +0000",
           "added_at": "2026-11-12T04:06:40.629138+00:00"
+        },
+        {
+          "description": "JHPC-quantum 为 NEDO 委托的量子-超算混合平台研发项目",
+          "article_title": "JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/16/jij-mitsubishi-electric-jhpc-quantum-thermal-fluid-analysis/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 10:01:37 +0000",
+          "added_at": "2026-11-16T11:12:02.486642+00:00"
         }
       ]
     },
@@ -18830,6 +18982,14 @@
           "source_name": "SpaceNews",
           "published": "Fri, 13 Nov 2026 01:15:21 +0000",
           "added_at": "2026-11-13T06:17:12.592990+00:00"
+        },
+        {
+          "description": "AST 向 Firefly 支付 8 亿美元前期对价(4 亿现金加 1,000-1,400 万股),另付 2.5 亿美元发动机和 2.5 亿美元工程支持费,用 Miranda/Vira 发动机打造 Blacklift",
+          "article_title": "AST SpaceMobile to build its own 20-ton “Blacklift” rockets with Firefly Aerospace engines",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ast-spacemobile-to-build-its-own-20-ton-blacklift-rockets-with-firefly-aerospace-engines/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 10:40:48 +0000",
+          "added_at": "2026-11-16T11:12:05.828049+00:00"
         }
       ]
     },
@@ -21367,6 +21527,201 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 16 Nov 2026 08:20:26 +0000",
           "added_at": "2026-11-16T09:09:43.785272+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mitsubishi electric",
+      "target": "jij",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "三菱电机与 JIJ 联合提案入选 JHPC-quantum 测试用户计划,评估量子-经典混合线性求解器在热流体分析中的性能",
+          "article_title": "JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/16/jij-mitsubishi-electric-jhpc-quantum-thermal-fluid-analysis/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 10:01:37 +0000",
+          "added_at": "2026-11-16T11:12:02.486642+00:00"
+        }
+      ]
+    },
+    {
+      "source": "riken",
+      "target": "softbank",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "RIKEN 与 SoftBank Corp. 共同推进 JHPC-quantum 项目,开发连接量子计算机与 HPC 的系统软件",
+          "article_title": "JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/16/jij-mitsubishi-electric-jhpc-quantum-thermal-fluid-analysis/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 10:01:37 +0000",
+          "added_at": "2026-11-16T11:12:02.486642+00:00"
+        }
+      ]
+    },
+    {
+      "source": "moth quantum",
+      "target": "ibm",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Moth Quantum 在 IBM Nighthawk r2 与 Heron r3 处理器上验证 Tessa 数据装载方法,在 120 比特上装入并读回 1,568 个数值",
+          "article_title": "From Cat Pictures to DNA, Moth Quantum Reports Progress on Getting Everyday Data Into Quantum Computers",
+          "article_url": "https://thequantuminsider.com/2026/11/16/from-cat-pictures-to-dna-moth-quantum-reports-progress-on-getting-everyday-data-into-quantum-computers/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 09:35:53 +0000",
+          "added_at": "2026-11-16T11:12:03.186467+00:00"
+        }
+      ]
+    },
+    {
+      "source": "core scientific",
+      "target": "coreweave",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Core Scientific 向 CoreWeave 签约 590MW 高密度托管容量,分布于五个园区,预计 2027 年初全部交付",
+          "article_title": "Core Scientific to exit Bitcoin mining by end of 2026 as it grows AI colo business",
+          "article_url": "https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 11:00:54 +0000",
+          "added_at": "2026-11-16T11:12:03.664623+00:00"
+        }
+      ]
+    },
+    {
+      "source": "core scientific",
+      "target": "advanced micro devices",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Core Scientific 在与 AMD 的合作框架下签约 530MW,包括 AMD 直租和一家 AMD 支持的 neocloud 的租约,2028 年底完成",
+          "article_title": "Core Scientific to exit Bitcoin mining by end of 2026 as it grows AI colo business",
+          "article_url": "https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 11:00:54 +0000",
+          "added_at": "2026-11-16T11:12:03.664623+00:00"
+        }
+      ]
+    },
+    {
+      "source": "core scientific",
+      "target": "polaris ds",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Core Scientific 以约 4.44 亿美元收购 Polaris DS,获得 Muskogee 园区旁约 440MW 并网电力",
+          "article_title": "Core Scientific to exit Bitcoin mining by end of 2026 as it grows AI colo business",
+          "article_url": "https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 11:00:54 +0000",
+          "added_at": "2026-11-16T11:12:03.664623+00:00"
+        }
+      ]
+    },
+    {
+      "source": "crv",
+      "target": "mount thor",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "CRV 与 Conviction 联合领投 Mount Thor A 轮,累计融资 4,500 万美元",
+          "article_title": "Mount Thor raises $45m to fund new AI cloud offering Apple chips and software",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mount-thor-raises-45m-to-fund-new-ai-cloud-offering-apple-chips-and-software/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 10:45:25 +0000",
+          "added_at": "2026-11-16T11:12:04.379452+00:00"
+        }
+      ]
+    },
+    {
+      "source": "conviction",
+      "target": "mount thor",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Conviction 与 CRV 联合领投 Mount Thor A 轮",
+          "article_title": "Mount Thor raises $45m to fund new AI cloud offering Apple chips and software",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mount-thor-raises-45m-to-fund-new-ai-cloud-offering-apple-chips-and-software/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 10:45:25 +0000",
+          "added_at": "2026-11-16T11:12:04.379452+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mount thor",
+      "target": "apple",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Mount Thor 采购 Apple 硬件,在数据中心提供裸金属 Mac 与虚拟机,面向 Agent 和推理工作负载",
+          "article_title": "Mount Thor raises $45m to fund new AI cloud offering Apple chips and software",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mount-thor-raises-45m-to-fund-new-ai-cloud-offering-apple-chips-and-software/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 10:45:25 +0000",
+          "added_at": "2026-11-16T11:12:04.379452+00:00"
+        }
+      ]
+    },
+    {
+      "source": "capital energy",
+      "target": "box2bit",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Box2Bit 是 Capital Energy 旗下的数据中心开发子公司",
+          "article_title": "Box2Bit transfers 150MW grid connection to Blackstone and exits Épila",
+          "article_url": "https://www.datacenterdynamics.com/en/news/box2bit-sells-150-mw-to-blackstone-and-lets-epila-take-the-lead-in-aragon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 10:43:44 +0000",
+          "added_at": "2026-11-16T11:12:05.108252+00:00"
+        }
+      ]
+    },
+    {
+      "source": "box2bit",
+      "target": "blackstone",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Box2Bit 退出 Épila 的 Epilon 项目,把 150MW 电网接入容量转让给 Blackstone,并入其 Calatorao 园区",
+          "article_title": "Box2Bit transfers 150MW grid connection to Blackstone and exits Épila",
+          "article_url": "https://www.datacenterdynamics.com/en/news/box2bit-sells-150-mw-to-blackstone-and-lets-epila-take-the-lead-in-aragon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 10:43:44 +0000",
+          "added_at": "2026-11-16T11:12:05.108252+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firefly aerospace",
+      "target": "northrop grumman",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Firefly 的 Miranda 发动机被排入 Northrop Grumman 的 Antares 330 火箭",
+          "article_title": "AST SpaceMobile to build its own 20-ton “Blacklift” rockets with Firefly Aerospace engines",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ast-spacemobile-to-build-its-own-20-ton-blacklift-rockets-with-firefly-aerospace-engines/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 10:40:48 +0000",
+          "added_at": "2026-11-16T11:12:05.828049+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ast spacemobile",
+      "target": "blue origin",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "今年 4 月 New Glenn 部分失败导致 AST 损失 7 颗 BlueBird 卫星",
+          "article_title": "AST SpaceMobile to build its own 20-ton “Blacklift” rockets with Firefly Aerospace engines",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ast-spacemobile-to-build-its-own-20-ton-blacklift-rockets-with-firefly-aerospace-engines/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 10:40:48 +0000",
+          "added_at": "2026-11-16T11:12:05.828049+00:00"
         }
       ]
     }
@@ -25088,6 +25443,87 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 16 Nov 2026 08:20:26 +0000",
       "added_at": "2026-11-16T09:09:44.279508+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "JIJ 与三菱电机以热流体线性求解入选 JHPC-quantum 测试用户计划,日本量子-HPC 平台开始引入具体工业用户和问题,但目前只是评估项目,利好平台与系统软件层,仍需观望",
+      "article_title": "JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing",
+      "article_url": "https://thequantuminsider.com/2026/11/16/jij-mitsubishi-electric-jhpc-quantum-thermal-fluid-analysis/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 10:01:37 +0000",
+      "added_at": "2026-11-16T11:12:02.718168+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Moth Quantum 的 Tessa 方法顺着 IBM 芯片拓扑并行装载经典数据,缓解量子机器学习的数据装载瓶颈,利好硬件云平台和贴近硬件的量子软件层(公司口径,未经独立验证)",
+      "article_title": "From Cat Pictures to DNA, Moth Quantum Reports Progress on Getting Everyday Data Into Quantum Computers",
+      "article_url": "https://thequantuminsider.com/2026/11/16/from-cat-pictures-to-dna-moth-quantum-reports-progress-on-getting-everyday-data-into-quantum-computers/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 09:35:53 +0000",
+      "added_at": "2026-11-16T11:12:03.427075+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Core Scientific 年底前退出比特币挖矿,托管收入占比 92.5%,向 CoreWeave 和 AMD 生态合计签约 1.1GW,说明带电产能是 AI 算力扩张的硬约束,算力供给方锁定电力利好 AI 基础设施",
+      "article_title": "Core Scientific to exit Bitcoin mining by end of 2026 as it grows AI colo business",
+      "article_url": "https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 11:00:54 +0000",
+      "added_at": "2026-11-16T11:12:03.906063+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Core Scientific 以 4.44 亿美元收购 Polaris DS 实质上是买 440MW 并网电力,并网容量成为 AI 数据中心最稀缺资产,利好配电、变电和电源设备环节",
+      "article_title": "Core Scientific to exit Bitcoin mining by end of 2026 as it grows AI colo business",
+      "article_url": "https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 11:00:54 +0000",
+      "added_at": "2026-11-16T11:12:04.141931+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Mount Thor 融资 4,500 万美元把 macOS 和 Apple 芯片搬进数据中心,给 computer use 类 Agent 提供完整操作系统环境,利好 Agent 运行环境需求(性能与成本说法未经独立验证)",
+      "article_title": "Mount Thor raises $45m to fund new AI cloud offering Apple chips and software",
+      "article_url": "https://www.datacenterdynamics.com/en/news/mount-thor-raises-45m-to-fund-new-ai-cloud-offering-apple-chips-and-software/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 10:45:25 +0000",
+      "added_at": "2026-11-16T11:12:04.618183+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "为终端设计的低功耗 Apple 芯片被拿去做云端推理和 Agent 托管,侧面验证 Apple 硬件在推理侧的需求,利好 Apple 自研 AI 服务器方向,但规模尚未披露,只能观望",
+      "article_title": "Mount Thor raises $45m to fund new AI cloud offering Apple chips and software",
+      "article_url": "https://www.datacenterdynamics.com/en/news/mount-thor-raises-45m-to-fund-new-ai-cloud-offering-apple-chips-and-software/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 10:45:25 +0000",
+      "added_at": "2026-11-16T11:12:04.862901+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Box2Bit 把 150MW 电网接入权单独转让给 Blackstone,三个阿拉贡园区全部因接入受阻落空,接入权已成为独立可交易资产,利好持有输配电资产和变电设备的一方",
+      "article_title": "Box2Bit transfers 150MW grid connection to Blackstone and exits Épila",
+      "article_url": "https://www.datacenterdynamics.com/en/news/box2bit-sells-150-mw-to-blackstone-and-lets-epila-take-the-lead-in-aragon/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 10:43:44 +0000",
+      "added_at": "2026-11-16T11:12:05.347995+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "西班牙 AI 数据中心门槛从资本转向电网接入,Blackstone 将 Calatorao 园区投资加到 130 亿欧元以上,资本雄厚、手握接入权的大型基础设施方受益,轻资产开发商利空",
+      "article_title": "Box2Bit transfers 150MW grid connection to Blackstone and exits Épila",
+      "article_url": "https://www.datacenterdynamics.com/en/news/box2bit-sells-150-mw-to-blackstone-and-lets-epila-take-the-lead-in-aragon/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 10:43:44 +0000",
+      "added_at": "2026-11-16T11:12:05.588862+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "AST 以 13 亿美元级别的 Firefly 发动机交易自建 Blacklift,Falcon 9 退役与 New Glenn 失利凸显发射班次瓶颈,利好发动机供应商和成熟发射运营商,AST 自身承担最高风险",
+      "article_title": "AST SpaceMobile to build its own 20-ton “Blacklift” rockets with Firefly Aerospace engines",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ast-spacemobile-to-build-its-own-20-ton-blacklift-rockets-with-firefly-aerospace-engines/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 10:40:48 +0000",
+      "added_at": "2026-11-16T11:12:06.072349+00:00"
     }
   ]
 }
