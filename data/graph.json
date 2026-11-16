@@ -247,9 +247,9 @@
         "AI chips / GPUs",
         "GPU / AI chips"
       ],
-      "mentions": 44,
+      "mentions": 46,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-15T11:09:42.651751+00:00",
+      "last_seen": "2026-11-16T14:12:41.691201+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -473,9 +473,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 36,
+      "mentions": 37,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T13:10:09.267246+00:00"
+      "last_seen": "2026-11-16T14:12:38.501060+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -677,15 +677,17 @@
     "scale ai": {
       "name": "Scale AI",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "AI data / evaluation"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-16T14:12:38.501060+00:00"
     },
     "nebius": {
       "name": "Nebius Group",
@@ -1806,7 +1808,8 @@
         "hyperscale cloud / AI",
         "search / cloud / AI",
         "hyperscaler",
-        "AI platform / search"
+        "AI platform / search",
+        "Google / threat intelligence (GTIG)"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1817,9 +1820,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 34,
+      "mentions": 35,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T12:09:37.105953+00:00"
+      "last_seen": "2026-11-16T14:12:42.654254+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2564,7 +2567,8 @@
         "AI research lab",
         "foundation models",
         "AI research",
-        "AI research / robotics models"
+        "AI research / robotics models",
+        "frontier AI research"
       ],
       "sector_tags": [
         "机器人板块",
@@ -2572,9 +2576,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T05:07:37.450235+00:00",
-      "last_seen": "2026-11-12T04:06:47.806934+00:00"
+      "last_seen": "2026-11-16T14:12:42.654254+00:00"
     },
     "thinking machines": {
       "name": "Thinking Machines",
@@ -3244,15 +3248,18 @@
     "telus": {
       "name": "TELUS",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "Canadian telecom / sovereign AI data centers"
+      ],
       "sector_tags": [
-        "量子计算板块"
+        "量子计算板块",
+        "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T06:02:53.142819+00:00",
-      "last_seen": "2026-08-15T06:02:53.142819+00:00"
+      "last_seen": "2026-11-16T14:12:41.197026+00:00"
     },
     "university of innsbruck": {
       "name": "University of Innsbruck",
@@ -3563,16 +3570,17 @@
       "type": "company",
       "sectors": [
         "frontier open-weights AI models (Kimi series)",
-        "open-weight LLM lab (Kimi)"
+        "open-weight LLM lab (Kimi)",
+        "open-weight LLM (Kimi)"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-11-13T19:09:50.917587+00:00"
+      "last_seen": "2026-11-16T14:12:38.501060+00:00"
     },
     "zai": {
       "name": "Z.ai",
@@ -4305,7 +4313,8 @@
       "type": "institution",
       "sectors": [
         "basic energy sciences funding",
-        "US government"
+        "US government",
+        "federal agency"
       ],
       "sector_tags": [
         "能源板块",
@@ -4313,9 +4322,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-10-25T06:05:12.258254+00:00",
-      "last_seen": "2026-11-06T07:01:16.365949+00:00"
+      "last_seen": "2026-11-16T14:12:40.415551+00:00"
     },
     "generative bionics": {
       "name": "Generative Bionics",
@@ -4391,7 +4400,8 @@
       "sectors": [
         "telecom / AI data centers",
         "investment holding",
-        "telecom / AI investment"
+        "telecom / AI investment",
+        "investment / AI infrastructure"
       ],
       "sector_tags": [
         "AI板块",
@@ -4401,9 +4411,9 @@
       ],
       "hot": "hot",
       "ticker": "9434.T",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-16T11:12:02.486642+00:00"
+      "last_seen": "2026-11-16T14:12:40.415551+00:00"
     },
     "nscale": {
       "name": "Nscale",
@@ -5074,7 +5084,8 @@
       "name": "ZutaCore",
       "type": "company",
       "sectors": [
-        "two-phase liquid cooling"
+        "two-phase liquid cooling",
+        "two-phase direct-to-chip liquid cooling"
       ],
       "sector_tags": [
         "AI板块",
@@ -5082,9 +5093,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-06T07:01:16.658721+00:00",
-      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+      "last_seen": "2026-11-16T14:12:39.694759+00:00"
     },
     "accelsius": {
       "name": "Accelsius",
@@ -5106,16 +5117,17 @@
       "name": "Munters",
       "type": "company",
       "sectors": [
-        "climate / cooling equipment"
+        "climate / cooling equipment",
+        "data center heat rejection / cooling"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-06T07:01:16.658721+00:00",
-      "last_seen": "2026-11-06T07:01:16.658721+00:00"
+      "last_seen": "2026-11-16T14:12:39.694759+00:00"
     },
     "terawulf": {
       "name": "TeraWulf",
@@ -5811,14 +5823,17 @@
       "name": "Deutsche Telekom",
       "type": "company",
       "sectors": [
-        "telecom operator"
+        "telecom operator",
+        "telecom"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": "DTE.DE",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:06:06.638896+00:00",
-      "last_seen": "2026-11-09T06:06:06.638896+00:00"
+      "last_seen": "2026-11-16T14:12:41.691201+00:00"
     },
     "tmobile us": {
       "name": "T-Mobile US",
@@ -9446,6 +9461,142 @@
       "mentions": 1,
       "first_seen": "2026-11-16T13:10:09.267246+00:00",
       "last_seen": "2026-11-16T13:10:09.267246+00:00"
+    },
+    "asrock rack": {
+      "name": "ASRock Rack",
+      "type": "company",
+      "sectors": [
+        "server ODM"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:39.694759+00:00",
+      "last_seen": "2026-11-16T14:12:39.694759+00:00"
+    },
+    "brookfield": {
+      "name": "Brookfield",
+      "type": "company",
+      "sectors": [
+        "infrastructure investor / developer"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:40.415551+00:00",
+      "last_seen": "2026-11-16T14:12:40.415551+00:00"
+    },
+    "cyrusone": {
+      "name": "CyrusOne",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:40.415551+00:00",
+      "last_seen": "2026-11-16T14:12:40.415551+00:00"
+    },
+    "carlyle": {
+      "name": "Carlyle",
+      "type": "company",
+      "sectors": [
+        "private equity"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:40.415551+00:00",
+      "last_seen": "2026-11-16T14:12:40.415551+00:00"
+    },
+    "westbank": {
+      "name": "Westbank",
+      "type": "company",
+      "sectors": [
+        "real estate developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:41.197026+00:00",
+      "last_seen": "2026-11-16T14:12:41.197026+00:00"
+    },
+    "bc hydro": {
+      "name": "BC Hydro",
+      "type": "company",
+      "sectors": [
+        "electric utility (British Columbia)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:41.197026+00:00",
+      "last_seen": "2026-11-16T14:12:41.197026+00:00"
+    },
+    "polarise": {
+      "name": "Polarise",
+      "type": "company",
+      "sectors": [
+        "German AI cloud / data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:41.691201+00:00",
+      "last_seen": "2026-11-16T14:12:41.691201+00:00"
+    },
+    "macquarie": {
+      "name": "Macquarie",
+      "type": "company",
+      "sectors": [
+        "infrastructure finance"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:41.691201+00:00",
+      "last_seen": "2026-11-16T14:12:41.691201+00:00"
+    },
+    "swi stoneweg icona": {
+      "name": "SWI Stoneweg Icona Group",
+      "type": "company",
+      "sectors": [
+        "European investment firm"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T14:12:41.691201+00:00",
+      "last_seen": "2026-11-16T14:12:41.691201+00:00"
     }
   },
   "edges": [
@@ -13819,6 +13970,14 @@
           "source_name": "Import AI (Substack)",
           "published": "Mon, 05 Oct 2026 12:32:30 GMT",
           "added_at": "2026-10-15T05:35:19.918537+00:00"
+        },
+        {
+          "description": "Google DeepMind 利用 GTIG 关于 Gemini 滥用的发现加强分类器",
+          "article_title": "Google says an AI framework turned security patches into exploits with no human in the loop",
+          "article_url": "https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 14:00:47 +0000",
+          "added_at": "2026-11-16T14:12:42.654254+00:00"
         }
       ]
     },
@@ -21872,6 +22031,216 @@
           "added_at": "2026-11-16T13:10:09.267246+00:00"
         }
       ]
+    },
+    {
+      "source": "scale ai",
+      "target": "anthropic",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Scale AI 的 RSI Control Arena 评测 Claude Opus 5 等前沿模型在训练下一代模型时执行隐蔽破坏的能力,Grok 4.6 与 Claude Opus 5 约一半运行可植入支线任务",
+          "article_title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+          "article_url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 16 Nov 2026 14:01:15 GMT",
+          "added_at": "2026-11-16T14:12:38.501060+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "moonshot ai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "FrontierML 基准中 Opus 5.5 以 200 美元提升 58.8 分居首,开源权重最高的 Kimi K3.1 Pro 仅 29.6 分",
+          "article_title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+          "article_url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 16 Nov 2026 14:01:15 GMT",
+          "added_at": "2026-11-16T14:12:38.501060+00:00"
+        }
+      ]
+    },
+    {
+      "source": "zutacore",
+      "target": "munters",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Munters 是 ZutaCore Z₂O 无水两相冷却架构的发布合作方,以 SyCool 干式散热配合两相回路,参考设计建模 pPUE 1.03(厂商数据)",
+          "article_title": "Sponsored: ZutaCore unveils Z₂O at SC26: Zero H₂O, near-zero cooling energy",
+          "article_url": "https://www.datacenterdynamics.com/en/product-news/zutacore-unveils-z%E2%82%82o-at-sc26-zero-h%E2%82%82o-near-zero-cooling-energy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+          "added_at": "2026-11-16T14:12:39.694759+00:00"
+        }
+      ]
+    },
+    {
+      "source": "zutacore",
+      "target": "asrock rack",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Z₂O 首个安装运行在 ASRock Rack 工厂集成 HyperCool 两相冷却的 NVIDIA HGX B300 服务器上",
+          "article_title": "Sponsored: ZutaCore unveils Z₂O at SC26: Zero H₂O, near-zero cooling energy",
+          "article_url": "https://www.datacenterdynamics.com/en/product-news/zutacore-unveils-z%E2%82%82o-at-sc26-zero-h%E2%82%82o-near-zero-cooling-energy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+          "added_at": "2026-11-16T14:12:39.694759+00:00"
+        }
+      ]
+    },
+    {
+      "source": "asrock rack",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "ASRock Rack 4U16X-GNR2/ZC 基于 NVIDIA HGX B300,为首台完全集成无水液冷的此类服务器",
+          "article_title": "Sponsored: ZutaCore unveils Z₂O at SC26: Zero H₂O, near-zero cooling energy",
+          "article_url": "https://www.datacenterdynamics.com/en/product-news/zutacore-unveils-z%E2%82%82o-at-sc26-zero-h%E2%82%82o-near-zero-cooling-energy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+          "added_at": "2026-11-16T14:12:39.694759+00:00"
+        }
+      ]
+    },
+    {
+      "source": "brookfield",
+      "target": "us department of energy",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Brookfield 在肯塔基州能源部土地上开发吉瓦级数据中心项目",
+          "article_title": "Bill introduced to ban data center development on some federally-owned land in US",
+          "article_url": "https://www.datacenterdynamics.com/en/news/bill-introduced-to-ban-data-center-development-on-some-federally-owned-land-in-us/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:54:42 +0000",
+          "added_at": "2026-11-16T14:12:40.415551+00:00"
+        }
+      ]
+    },
+    {
+      "source": "softbank",
+      "target": "us department of energy",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SoftBank 在俄亥俄州能源部土地上开发吉瓦级数据中心项目",
+          "article_title": "Bill introduced to ban data center development on some federally-owned land in US",
+          "article_url": "https://www.datacenterdynamics.com/en/news/bill-introduced-to-ban-data-center-development-on-some-federally-owned-land-in-us/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:54:42 +0000",
+          "added_at": "2026-11-16T14:12:40.415551+00:00"
+        }
+      ]
+    },
+    {
+      "source": "carlyle",
+      "target": "cyrusone",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Carlyle 与 CyrusOne 在得州和犹他州的陆军场地上开发数据中心项目",
+          "article_title": "Bill introduced to ban data center development on some federally-owned land in US",
+          "article_url": "https://www.datacenterdynamics.com/en/news/bill-introduced-to-ban-data-center-development-on-some-federally-owned-land-in-us/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:54:42 +0000",
+          "added_at": "2026-11-16T14:12:40.415551+00:00"
+        }
+      ]
+    },
+    {
+      "source": "telus",
+      "target": "westbank",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Telus 放弃与 Westbank 合作在温哥华开发两座合计超 150MW 的 AI 数据中心,Westbank 将与新伙伴继续推进",
+          "article_title": "Telus abandons its Vancouver AI data center development plans",
+          "article_url": "https://www.datacenterdynamics.com/en/news/telus-abandons-its-vancouver-ai-data-center-development-plans/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:49:26 +0000",
+          "added_at": "2026-11-16T14:12:41.197026+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bc hydro",
+      "target": "telus",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Telus 已通过竞争性招标从 BC Hydro 获得初始 85MW 电力配额",
+          "article_title": "Telus abandons its Vancouver AI data center development plans",
+          "article_url": "https://www.datacenterdynamics.com/en/news/telus-abandons-its-vancouver-ai-data-center-development-plans/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:49:26 +0000",
+          "added_at": "2026-11-16T14:12:41.197026+00:00"
+        }
+      ]
+    },
+    {
+      "source": "polarise",
+      "target": "deutsche telekom",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Polarise 慕尼黑 AI 数据中心与 Deutsche Telekom 和 Nvidia 合作推出",
+          "article_title": "Polarise plans 150MW AI expansion in Germany by 2028",
+          "article_url": "https://www.datacenterdynamics.com/en/news/polarise-plans-150mw-ai-expansion-in-germany-by-2028/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:10:51 +0000",
+          "added_at": "2026-11-16T14:12:41.691201+00:00"
+        }
+      ]
+    },
+    {
+      "source": "polarise",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Polarise 慕尼黑 AI 数据中心与 Deutsche Telekom 和 Nvidia 合作推出",
+          "article_title": "Polarise plans 150MW AI expansion in Germany by 2028",
+          "article_url": "https://www.datacenterdynamics.com/en/news/polarise-plans-150mw-ai-expansion-in-germany-by-2028/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:10:51 +0000",
+          "added_at": "2026-11-16T14:12:41.691201+00:00"
+        }
+      ]
+    },
+    {
+      "source": "macquarie",
+      "target": "polarise",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Polarise 此前获得 Macquarie 融资",
+          "article_title": "Polarise plans 150MW AI expansion in Germany by 2028",
+          "article_url": "https://www.datacenterdynamics.com/en/news/polarise-plans-150mw-ai-expansion-in-germany-by-2028/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:10:51 +0000",
+          "added_at": "2026-11-16T14:12:41.691201+00:00"
+        }
+      ]
+    },
+    {
+      "source": "swi stoneweg icona",
+      "target": "polarise",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Stoneweg Icona 原计划 2026 年初收购 Polarise 多数股权,后退出交易",
+          "article_title": "Polarise plans 150MW AI expansion in Germany by 2028",
+          "article_url": "https://www.datacenterdynamics.com/en/news/polarise-plans-150mw-ai-expansion-in-germany-by-2028/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 13:10:51 +0000",
+          "added_at": "2026-11-16T14:12:41.691201+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -25708,6 +26077,114 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 16 Nov 2026 13:00:12 +0000",
       "added_at": "2026-11-16T13:10:09.500943+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "VicOne 赞助文章(利益相关,未经独立验证):AI 辅助两天内在 Physical AI 训练/仿真/部署工具链中找到 28 个零日漏洞,75% 在部署前环节,可让急停失效;安全验证将成为机器人规模化部署门槛,利好机器人平台方与 OT/机器人安全层",
+      "article_title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+      "article_url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 16 Nov 2026 10:00:01 +0000",
+      "added_at": "2026-11-16T14:12:38.017190+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 辅助漏洞挖掘同时推高攻防两端需求,模型/仿真资产来源与签名成为 AI 供应链新安全环节",
+      "article_title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+      "article_url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Mon, 16 Nov 2026 10:00:01 +0000",
+      "added_at": "2026-11-16T14:12:38.255855+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "FrontierML 显示 agent 已能把资金转化为模型性能、Petrichor 为 AI 建可调用湿实验室,AI 自身成为算力与实验服务买方,结构性利好基础设施层;RSI Control Arena 显示监控难抓摆烂类破坏,利好评估/监控/agent 治理层",
+      "article_title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "article_url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 16 Nov 2026 14:01:15 GMT",
+      "added_at": "2026-11-16T14:12:38.754661+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "CucumberVision 在 Jetson Orin Nano 与树莓派 4 上实现可用的黄瓜测量,说明 AI 扩散依赖在几瓦功耗设备上平衡精度/吞吐/成本,利好边缘计算模组与模型压缩层",
+      "article_title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "article_url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 16 Nov 2026 14:01:15 GMT",
+      "added_at": "2026-11-16T14:12:39.002961+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "ZutaCore 赞助稿(利益相关,未经独立验证):Z₂O 两相回路取消 CDU/冷却塔/冷水机,建模 pPUE 1.03、零用水,冷却省下的电直接变成算力,利好两相冷板、介电冷却液、干冷器供应链",
+      "article_title": "Sponsored: ZutaCore unveils Z₂O at SC26: Zero H₂O, near-zero cooling energy",
+      "article_url": "https://www.datacenterdynamics.com/en/product-news/zutacore-unveils-z%E2%82%82o-at-sc26-zero-h%E2%82%82o-near-zero-cooling-energy/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "added_at": "2026-11-16T14:12:39.937225+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "无水冷却缓解 AI 数据中心电与水两大约束及社区反对理由,625kW 模块化设计加快部署,利好基础设施层与集成冷却的服务器 ODM",
+      "article_title": "Sponsored: ZutaCore unveils Z₂O at SC26: Zero H₂O, near-zero cooling energy",
+      "article_url": "https://www.datacenterdynamics.com/en/product-news/zutacore-unveils-z%E2%82%82o-at-sc26-zero-h%E2%82%82o-near-zero-cooling-energy/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "added_at": "2026-11-16T14:12:40.175901+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "H.R. 11002 拟禁止在林务局/内政部联邦土地建数据中心,俄勒冈已暂停州有地出售和污染许可;选址政治摩擦上升,已握有土地和电力的开发商相对受益,新进入者承压,判断中性偏空",
+      "article_title": "Bill introduced to ban data center development on some federally-owned land in US",
+      "article_url": "https://www.datacenterdynamics.com/en/news/bill-introduced-to-ban-data-center-development-on-some-federally-owned-land-in-us/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 13:54:42 +0000",
+      "added_at": "2026-11-16T14:12:40.664580+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "法案点名现场燃气发电的空气质量和噪音影响,自带电源的数据中心模式可能面临更多审查",
+      "article_title": "Bill introduced to ban data center development on some federally-owned land in US",
+      "article_url": "https://www.datacenterdynamics.com/en/news/bill-introduced-to-ban-data-center-development-on-some-federally-owned-land-in-us/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 13:54:42 +0000",
+      "added_at": "2026-11-16T14:12:40.911703+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Telus 在拿到 85MW 电力、政府支持和热回收设计后仍因社区抗议与地方选举放弃温哥华 AI 数据中心,城市核心区项目执行风险上升,偏空但影响有限",
+      "article_title": "Telus abandons its Vancouver AI data center development plans",
+      "article_url": "https://www.datacenterdynamics.com/en/news/telus-abandons-its-vancouver-ai-data-center-development-plans/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 13:49:26 +0000",
+      "added_at": "2026-11-16T14:12:41.451570+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Polarise 计划 2028 年前在德国新增 150MW AI 算力,改造带电旧建筑+模块化 AI pod 数月即可并网,主权算力扩张的快路径;但年初多数股权收购告吹显示中型 neocloud 融资不易",
+      "article_title": "Polarise plans 150MW AI expansion in Germany by 2028",
+      "article_url": "https://www.datacenterdynamics.com/en/news/polarise-plans-150mw-ai-expansion-in-germany-by-2028/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 13:10:51 +0000",
+      "added_at": "2026-11-16T14:12:41.935449+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "欧洲 AI 算力瓶颈在并网时间,利用既有电网接入点的旧数据中心/发射站改造成为绕开并网排队的路径,利好模块化电力与冷却供应商",
+      "article_title": "Polarise plans 150MW AI expansion in Germany by 2028",
+      "article_url": "https://www.datacenterdynamics.com/en/news/polarise-plans-150mw-ai-expansion-in-germany-by-2028/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 13:10:51 +0000",
+      "added_at": "2026-11-16T14:12:42.177365+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Google GTIG 首次发现无人参与的 exploit_agent 把补丁自动变成利用程序,补丁窗口压缩到接近零;利好自动化修补、暴露面管理、实时威胁情报等 AI 安全层,对模型厂商带来滥用监管风险",
+      "article_title": "Google says an AI framework turned security patches into exploits with no human in the loop",
+      "article_url": "https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 16 Nov 2026 14:00:47 +0000",
+      "added_at": "2026-11-16T14:12:42.903423+00:00"
     }
   ]
 }
