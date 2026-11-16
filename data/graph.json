@@ -1812,9 +1812,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 33,
+      "mentions": 34,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+      "last_seen": "2026-11-16T12:09:37.105953+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -9396,6 +9396,21 @@
       "mentions": 1,
       "first_seen": "2026-11-16T11:12:05.108252+00:00",
       "last_seen": "2026-11-16T11:12:05.108252+00:00"
+    },
+    "engie": {
+      "name": "Engie",
+      "type": "company",
+      "sectors": [
+        "utility / energy management"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T12:09:37.105953+00:00",
+      "last_seen": "2026-11-16T12:09:37.105953+00:00"
     }
   },
   "edges": [
@@ -21724,6 +21739,21 @@
           "added_at": "2026-11-16T11:12:05.828049+00:00"
         }
       ]
+    },
+    {
+      "source": "engie",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Engie 与 Google 签署 MoU,若 Châteauroux 500MW 数据中心项目落地,Engie 将成为首选能源供应商和能源管理伙伴,提供多技术清洁能源组合与电网侧/用户侧储能;双方在德国已有延长至 2030 年的 24/7 无碳能源协议",
+          "article_title": "Engie could supply power to planned Google data center in Châteauroux, France",
+          "article_url": "https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 11:36:01 +0000",
+          "added_at": "2026-11-16T12:09:37.105953+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -25524,6 +25554,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 16 Nov 2026 10:40:48 +0000",
       "added_at": "2026-11-16T11:12:06.072349+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Google 在法国 500MW 数据中心尚在公众咨询阶段就与 Engie 签 MoU,绑定多技术清洁电源、电网侧与用户侧储能和区域供热,电网容量与社会许可是瓶颈,利好综合能源公司与储能环节(仅为有条件 MoU,无具体规模)",
+      "article_title": "Engie could supply power to planned Google data center in Châteauroux, France",
+      "article_url": "https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 11:36:01 +0000",
+      "added_at": "2026-11-16T12:09:37.346850+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Google 在法国规划首个自建数据中心(最多 500MW),能源方案前置成为项目条件,利好数据中心电源与散热设备层;但项目尚未获批,算力增量为时尚早",
+      "article_title": "Engie could supply power to planned Google data center in Châteauroux, France",
+      "article_url": "https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 11:36:01 +0000",
+      "added_at": "2026-11-16T12:09:37.585978+00:00"
     }
   ]
 }

@@ -1,0 +1,14 @@
+# Engie could supply power to planned Google data center in Châteauroux, France
+https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/
+
+这篇新闻篇幅不长，但它反映的是欧洲 AI 数据中心建设方式正在发生的一个变化：超大规模云厂商在项目还没拿到许可、还处在公众咨询阶段的时候，就先把能源公司拉进来，让"电从哪里来、怎么接进电网、会不会推高当地居民电费"这些问题和数据中心本身一起被论证。如果这种做法成为常态，那么数据中心项目的前置条件就不再只是土地和资金，而是一整套能源方案。
+
+文章指出，法国能源公司 Engie 与 Google 签署了一份谅解备忘录（MoU），如果 Google 在 Châteauroux 附近规划的数据中心项目最终落地，Engie 将成为 Google 的首选能源供应商和能源管理合作伙伴。Google 计划使用的是 Châteauroux 东南方向的 Ozans 商业园区，DCD 此前报道过 Google 将为这块地支付 5,850 万欧元（约 6,800 万美元），场地最多可承载 500MW 的数据中心，这也会是 Google 在法国的第一个自建数据中心。需要注意的是，这份协议是有条件的：项目目前仍在由法国国家公共辩论委员会（CNDP）主导的公众咨询流程中，MoU 里 Engie 的第一个角色，是把自己的技术和能源专业能力带进项目可行性的讨论，参与公众咨询，而不是马上开始供电。
+
+文章提到，如果项目推进，双方合作会落在三个层面。第一是增加电网容量，方式是开发一个"平衡的、大规模、多技术路线"的清洁能源组合，也就是说不是单签一个风电或光伏 PPA，而是多种电源搭配。第二是电网接入和灵活性，具体包括电网侧（utility-scale）和用户侧（behind-the-meter）的电池储能系统（BESS），让数据中心这种全天候高功率负载在电网里不那么"刚性"。第三是对当地社区的补偿，双方承诺研究如何压低当地居民的电费，比如投资区域供热（district heating）系统。Engie 负责供应与能源管理的执行副总裁 Edouard Neviaski 的表态也是这个思路：数据中心正在成为能源系统的重要组成部分，其发展必须与新增可再生能源、灵活性以及与本地基础设施和社区的紧密结合同步进行。文章还提到，Google 和 Engie 并不是第一次合作，双方从 2021 年起就在德国签有 24/7 无碳能源供应协议，覆盖 Google 在德国的数据中心运营，最近已延长到 2030 年。
+
+个人看法：先找瓶颈。这个项目卡住的地方并不是资金，Google 买地的 5,850 万欧元对它来说微不足道；真正的瓶颈有两个：一是 500MW 级别的电网容量和接入，二是社会许可（公众咨询能否通过）。这和之前写过的几篇是同一条线索——[Europe’s AI ambitions are hitting a power bottleneck](2026-11-01-europe-s-ai-ambitions-are-hitting-a-power-bottleneck.md) 讲的是欧洲整体的电力瓶颈，[Norway halts grid connection applications for new data centers](2026-11-09-norway-halts-grid-connection-applications-for-new-data-centers.md) 是挪威直接暂停受理新数据中心的并网申请，而今天早些时候的 [Box2Bit 把 150MW 并网容量转让给 Blackstone](2026-11-16-box2bit-transfers-150mw-grid-connection-to-blackstone-and-exits-pila.md) 则说明在西班牙，并网权本身已经成了可以单独交易的资产。Google 在 Châteauroux 的做法可以看作对这两个瓶颈的同时回应：用 Engie 的多技术电源组合和储能去解决容量与灵活性问题，用区域供热、压低居民电费去换取社区支持。另外，这也呼应了 [Three data center developments in Australia change course after community backlash](2026-11-13-three-data-center-developments-in-australia-change-course-after-community-backla.md) 和美国那几篇关于数据中心反对声浪的文章：社区反对已经从"可能的风险"变成了项目设计阶段就要算进去的成本。
+
+从投资角度看，受益的层次会是：第一层是能拿出"综合能源方案"的公用事业和能源公司，Engie 在这里不是单纯卖电，而是卖电源组合加能源管理，这种角色在欧洲的同类还有 EDF、Iberdrola、RWE 这类同时拥有发电资产和储能、电网服务能力的公司，利好能源板块；第二层是电池储能，文章明确点了电网侧和用户侧两种 BESS，这会带动储能系统集成商和电芯供应商，比如 Fluence、Tesla Energy 这类储能业务，以及配套的变流器和电力电子厂商，同样是能源板块里最直接解决"灵活性"瓶颈的那一层；第三层是数据中心本身的电源与散热设备，Schneider、Vertiv 等仍然是项目真正落地后的确定性受益方，这一层挂在 AI 板块的基础设施逻辑上。至于 AI 板块的算力本身，500MW 对 Google 的 TPU 扩张是有意义的增量，结合之前 [Google 在怀俄明 Cheyenne 的 170 亿美元园区](2026-11-08-google-announces-17bn-data-center-campus-in-cheyenne-wyoming.md)，可以看出 Google 在美欧同时铺产能，但法国这个项目连许可都还没拿到，现在把它算进算力增量为时尚早。
+
+还需要说明的是，这是一份 MoU，而且是以项目通过公众咨询为前提的 MoU，现在没有任何装机规模、电价或投资金额。值得关注的后续信号是 CNDP 公众咨询的结论，以及 Engie 和 Google 是否会公布具体的储能装机和清洁能源采购规模——如果双方最终把用户侧储能和区域供热真正写进项目方案，这可能会成为欧洲后续大型数据中心审批时被参照的一种模式。
