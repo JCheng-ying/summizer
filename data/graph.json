@@ -3028,15 +3028,17 @@
     "us space force": {
       "name": "U.S. Space Force",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "military space"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:55:30.112336+00:00",
-      "last_seen": "2026-08-15T05:55:30.112336+00:00"
+      "last_seen": "2026-11-16T00:09:40.825140+00:00"
     },
     "kratos defense and security": {
       "name": "Kratos Defense and Security",
@@ -9123,6 +9125,87 @@
       "mentions": 1,
       "first_seen": "2026-11-15T21:09:38.992947+00:00",
       "last_seen": "2026-11-15T21:09:38.992947+00:00"
+    },
+    "bharat semi": {
+      "name": "Bharat Semi",
+      "type": "company",
+      "sectors": [
+        "AI-enabled programmable image sensors (fabless)"
+      ],
+      "sector_tags": [
+        "edge AI板块",
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T00:09:40.825140+00:00",
+      "last_seen": "2026-11-16T00:09:40.825140+00:00"
+    },
+    "general atomics": {
+      "name": "General Atomics",
+      "type": "company",
+      "sectors": [
+        "defense technology"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T00:09:40.825140+00:00",
+      "last_seen": "2026-11-16T00:09:40.825140+00:00"
+    },
+    "kaynes semicon": {
+      "name": "Kaynes Semicon",
+      "type": "company",
+      "sectors": [
+        "semiconductor assembly / OSAT (India)"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T00:09:40.825140+00:00",
+      "last_seen": "2026-11-16T00:09:40.825140+00:00"
+    },
+    "info edge": {
+      "name": "Info Edge",
+      "type": "company",
+      "sectors": [
+        "investment group (India)"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T00:09:40.825140+00:00",
+      "last_seen": "2026-11-16T00:09:40.825140+00:00"
+    },
+    "south park commons": {
+      "name": "South Park Commons",
+      "type": "institution",
+      "sectors": [
+        "venture fund / founder community"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T00:09:40.825140+00:00",
+      "last_seen": "2026-11-16T00:09:40.825140+00:00"
+    },
+    "indus bridge ventures": {
+      "name": "Indus Bridge Ventures",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T00:09:40.825140+00:00",
+      "last_seen": "2026-11-16T00:09:40.825140+00:00"
     }
   },
   "edges": [
@@ -21105,6 +21188,96 @@
           "added_at": "2026-11-15T21:09:38.992947+00:00"
         }
       ]
+    },
+    {
+      "source": "info edge",
+      "target": "bharat semi",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Info Edge Group 共同领投 Bharat Semi 2400 万美元全股权种子轮",
+          "article_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "article_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+          "added_at": "2026-11-16T00:09:40.825140+00:00"
+        }
+      ]
+    },
+    {
+      "source": "south park commons",
+      "target": "bharat semi",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "South Park Commons 共同领投 Bharat Semi 2400 万美元种子轮",
+          "article_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "article_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+          "added_at": "2026-11-16T00:09:40.825140+00:00"
+        }
+      ]
+    },
+    {
+      "source": "indus bridge ventures",
+      "target": "bharat semi",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Indus Bridge Ventures 共同领投 Bharat Semi 2400 万美元种子轮",
+          "article_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "article_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+          "added_at": "2026-11-16T00:09:40.825140+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bharat semi",
+      "target": "general atomics",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Bharat Semi 称已获得 General Atomics 的 design win(传感器仍在开发,2027 年目标量产)",
+          "article_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "article_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+          "added_at": "2026-11-16T00:09:40.825140+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bharat semi",
+      "target": "kaynes semicon",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Bharat Semi 称已获得 Kaynes Semicon 的 design win",
+          "article_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "article_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+          "added_at": "2026-11-16T00:09:40.825140+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bharat semi",
+      "target": "us space force",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "2024 年宣布与美国太空军技术合作的印度晶圆厂项目,仍在开发中,与传感器业务分开",
+          "article_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "article_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "source_name": "TechCrunch - AI",
+          "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+          "added_at": "2026-11-16T00:09:40.825140+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -24770,6 +24943,24 @@
       "source_name": "IEEE Spectrum - Robotics",
       "published": "Sun, 15 Nov 2026 14:00:02 +0000",
       "added_at": "2026-11-15T21:09:39.473316+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Bharat Semi 把图像采集、ISP 和 AI 推理集成到单颗传感器,公司称系统成本可降 70%(未经独立验证),代表 AI 推理继续下沉到传感器层的方向",
+      "article_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "article_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source_name": "TechCrunch - AI",
+      "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "added_at": "2026-11-16T00:09:41.093871+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "更便宜、低功耗的传感器内视觉 AI 可降低工业自动化和无人机的感知成本,但 Bharat Semi 尚无收入、2027 年才量产",
+      "article_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "article_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source_name": "TechCrunch - AI",
+      "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "added_at": "2026-11-16T00:09:41.360043+00:00"
     }
   ]
 }
