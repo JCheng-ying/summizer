@@ -1697,16 +1697,18 @@
       "name": "Apple Inc.",
       "type": "company",
       "sectors": [
-        "consumer electronics"
+        "consumer electronics",
+        "consumer devices / health platform"
       ],
       "sector_tags": [
-        "edge AI板块"
+        "edge AI板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": "AAPL",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+      "last_seen": "2026-11-16T02:09:44.437956+00:00"
     },
     "arm plc": {
       "name": "Arm Holdings plc",
@@ -9206,6 +9208,21 @@
       "mentions": 1,
       "first_seen": "2026-11-16T00:09:40.825140+00:00",
       "last_seen": "2026-11-16T00:09:40.825140+00:00"
+    },
+    "openevidence": {
+      "name": "OpenEvidence",
+      "type": "company",
+      "sectors": [
+        "clinical AI / medical evidence search"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T02:09:44.437956+00:00",
+      "last_seen": "2026-11-16T02:09:44.437956+00:00"
     }
   },
   "edges": [
@@ -21278,6 +21295,21 @@
           "added_at": "2026-11-16T00:09:40.825140+00:00"
         }
       ]
+    },
+    {
+      "source": "apple",
+      "target": "openevidence",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Apple 与 OpenEvidence 合作推出健康 AI 研究 App,最多招募 20 万名美国用户、为期超过 12 个月,回答以医学期刊等临床资料为依据",
+          "article_title": "Apple launches new app to study how people use AI for health",
+          "article_url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 16 Nov 2026 01:30:00 +0000",
+          "added_at": "2026-11-16T02:09:44.437956+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -24961,6 +24993,24 @@
       "source_name": "TechCrunch - AI",
       "published": "Sun, 15 Nov 2026 23:30:00 +0000",
       "added_at": "2026-11-16T00:09:41.360043+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Apple 与 OpenEvidence 合作研究以临床文献为依据的健康问答,利好能提供可追溯、有出处答案的垂直医疗 AI 层,而非算力层",
+      "article_title": "Apple launches new app to study how people use AI for health",
+      "article_url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 16 Nov 2026 01:30:00 +0000",
+      "added_at": "2026-11-16T02:09:44.774942+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "健康 AI 个性化依赖 iPhone/Apple Watch 经 HealthKit 采集的心率、睡眠等数据,强化个人设备作为健康数据入口的地位(推理在云端,利好设备+数据层而非端侧芯片)",
+      "article_title": "Apple launches new app to study how people use AI for health",
+      "article_url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 16 Nov 2026 01:30:00 +0000",
+      "added_at": "2026-11-16T02:09:45.165568+00:00"
     }
   ]
 }
