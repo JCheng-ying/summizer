@@ -247,9 +247,9 @@
         "AI chips / GPUs",
         "GPU / AI chips"
       ],
-      "mentions": 52,
+      "mentions": 54,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-16T18:11:40.272789+00:00",
+      "last_seen": "2026-11-16T19:10:33.495315+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -413,9 +413,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 24,
+      "mentions": 25,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T18:11:40.272789+00:00"
+      "last_seen": "2026-11-16T19:10:33.495315+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -7585,16 +7585,18 @@
       "name": "NTT, Inc.",
       "type": "company",
       "sectors": [
-        "telecom"
+        "telecom",
+        "telecom conglomerate"
       ],
       "sector_tags": [
-        "太空经济板块"
+        "太空经济板块",
+        "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T06:17:19.154358+00:00",
-      "last_seen": "2026-11-13T06:17:19.154358+00:00"
+      "last_seen": "2026-11-16T19:10:33.018104+00:00"
     },
     "development bank of japan": {
       "name": "Development Bank of Japan",
@@ -9943,6 +9945,66 @@
       "mentions": 1,
       "first_seen": "2026-11-16T18:11:41.269696+00:00",
       "last_seen": "2026-11-16T18:11:41.269696+00:00"
+    },
+    "aqsolotl": {
+      "name": "AQSolotl",
+      "type": "company",
+      "sectors": [
+        "quantum control systems"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T19:10:32.284085+00:00",
+      "last_seen": "2026-11-16T19:10:32.284085+00:00"
+    },
+    "saltgrain": {
+      "name": "Saltgrain",
+      "type": "company",
+      "sectors": [
+        "data-centric security / post-quantum encryption"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T19:10:33.018104+00:00",
+      "last_seen": "2026-11-16T19:10:33.018104+00:00"
+    },
+    "ntt research": {
+      "name": "NTT Research",
+      "type": "institution",
+      "sectors": [
+        "NTT Silicon Valley research arm"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T19:10:33.018104+00:00",
+      "last_seen": "2026-11-16T19:10:33.018104+00:00"
+    },
+    "carnegie mellon university": {
+      "name": "Carnegie Mellon University",
+      "type": "institution",
+      "sectors": [
+        "university"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T19:10:33.018104+00:00",
+      "last_seen": "2026-11-16T19:10:33.018104+00:00"
     }
   },
   "edges": [
@@ -10095,6 +10157,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 12:28:23 +0000",
           "added_at": "2026-11-13T13:10:38.094303+00:00"
+        },
+        {
+          "description": "Nvidia 同意为 OpenAI 俄亥俄州数据中心项目提供最高 1,050 亿美元担保,文章称两者关系已演变为可能的循环融资",
+          "article_title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+          "article_url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 16 Nov 2026 18:11:10 +0000",
+          "added_at": "2026-11-16T19:10:33.495315+00:00"
         }
       ]
     },
@@ -23197,6 +23267,81 @@
           "added_at": "2026-11-16T18:11:41.269696+00:00"
         }
       ]
+    },
+    {
+      "source": "aqsolotl",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AQSolotl 将 NVIDIA NVQLink 集成进 Chronos-Q 量子控制平台,连接 DGX Spark 测得最小往返延迟 6.94 微秒(公司自测,无 QPU 参与)",
+          "article_title": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test",
+          "article_url": "https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 18:02:01 +0000",
+          "added_at": "2026-11-16T19:10:32.284085+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ntt research",
+      "target": "saltgrain",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Saltgrain 孵化于 NTT Research 的 Scale Academy,大宇宙后量子属性基加密方案将集成进 Saltgrain 平台",
+          "article_title": "Saltgrain and NTT Research Develop Large-Universe Post-Quantum Encryption",
+          "article_url": "https://thequantuminsider.com/2026/11/16/saltgrain-ntt-research-post-quantum-attribute-based-encryption/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 17:33:34 +0000",
+          "added_at": "2026-11-16T19:10:33.018104+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ntt",
+      "target": "ntt research",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "NTT Research 是 NTT, Inc. 在硅谷的研究部门",
+          "article_title": "Saltgrain and NTT Research Develop Large-Universe Post-Quantum Encryption",
+          "article_url": "https://thequantuminsider.com/2026/11/16/saltgrain-ntt-research-post-quantum-attribute-based-encryption/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 17:33:34 +0000",
+          "added_at": "2026-11-16T19:10:33.018104+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ntt research",
+      "target": "carnegie mellon university",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NTT Research CIS 实验室与 CMU 研究人员合作完成基于 LWE 的大宇宙(多授权方)属性基加密论文,发表于 ACM CCS 2026",
+          "article_title": "Saltgrain and NTT Research Develop Large-Universe Post-Quantum Encryption",
+          "article_url": "https://thequantuminsider.com/2026/11/16/saltgrain-ntt-research-post-quantum-attribute-based-encryption/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 16 Nov 2026 17:33:34 +0000",
+          "added_at": "2026-11-16T19:10:33.018104+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "OpenAI 与 Nvidia 十年来从芯片供应商-客户关系发展至今;Altman 称不担心'Nvidia 银行'枯竭",
+          "article_title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+          "article_url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 16 Nov 2026 18:11:10 +0000",
+          "added_at": "2026-11-16T19:10:33.495315+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -27330,6 +27475,51 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 16 Nov 2026 17:07:37 +0000",
       "added_at": "2026-11-16T18:11:41.796995+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "AQSolotl 新闻稿(利益相关,未经独立验证):Chronos-Q 经 NVQLink 连 DGX Spark 往返延迟 6.94-9.01 微秒,但 GPU 端只做加法、无 QPU 参与,只是 GPU 进入实时校准回路的基线;利好率先做低延迟 GPU 链路的控制电子学厂商,仍待接入真实 QPU 验证",
+      "article_title": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test",
+      "article_url": "https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 18:02:01 +0000",
+      "added_at": "2026-11-16T19:10:32.524249+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "NVQLink 开始渗透到小型量子控制栈厂商,量子校准成为 GPU 的一个很小的新场景,对 Nvidia 生态位置意义大于营收意义",
+      "article_title": "AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test",
+      "article_url": "https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 18:02:01 +0000",
+      "added_at": "2026-11-16T19:10:32.772553+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Saltgrain/NTT Research 新闻稿(利益相关,研究基准非产品承诺):基于 LWE 的大宇宙后量子属性基加密笔记本上毫秒级解密,叠加 EO 14412 的 2030/2031 联邦期限,PQC 迁移有了确定时间表;属量子计算的防御面,主要利好安全/密钥管理厂商,对量子硬件只是间接叙事支撑,弱信号",
+      "article_title": "Saltgrain and NTT Research Develop Large-Universe Post-Quantum Encryption",
+      "article_url": "https://thequantuminsider.com/2026/11/16/saltgrain-ntt-research-post-quantum-attribute-based-encryption/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 16 Nov 2026 17:33:34 +0000",
+      "added_at": "2026-11-16T19:10:33.258648+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Altman 称黄仁勋离开后行业'会没事',需求与收入增长强劲且 Nvidia 担保仍可信;但他是循环融资最大受益方之一,真正的不确定性在新管理层是否继续以同等规模提供客户担保,对依赖 Nvidia 背书融资的 neocloud 偏利空、对算力需求端中性",
+      "article_title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "article_url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 16 Nov 2026 18:11:10 +0000",
+      "added_at": "2026-11-16T19:10:33.735536+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Altman 同场谈到数据中心遭遇地方阻力,呼应 Prologis 起诉俄亥俄 Trenton 一案:资金到位后土地和社区许可仍限制建设节奏,能按时交付电力的场地继续稀缺",
+      "article_title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "article_url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 16 Nov 2026 18:11:10 +0000",
+      "added_at": "2026-11-16T19:10:33.975706+00:00"
     }
   ]
 }
