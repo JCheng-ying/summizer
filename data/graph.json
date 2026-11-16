@@ -426,7 +426,8 @@
         "cloud / e-commerce",
         "hyperscale cloud",
         "cloud / satellite broadband",
-        "e-commerce / cloud"
+        "e-commerce / cloud",
+        "cloud / hyperscale data centers"
       ],
       "sector_tags": [
         "AI板块",
@@ -436,9 +437,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 18,
+      "mentions": 19,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+      "last_seen": "2026-11-16T09:09:43.785272+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -9223,6 +9224,34 @@
       "mentions": 1,
       "first_seen": "2026-11-16T02:09:44.437956+00:00",
       "last_seen": "2026-11-16T02:09:44.437956+00:00"
+    },
+    "nipsco": {
+      "name": "NIPSCO",
+      "type": "company",
+      "sectors": [
+        "regulated electric utility (Northern Indiana)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T09:09:43.785272+00:00",
+      "last_seen": "2026-11-16T09:09:43.785272+00:00"
+    },
+    "ryan construction": {
+      "name": "Ryan Construction",
+      "type": "company",
+      "sectors": [
+        "construction contractor"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-16T09:09:43.785272+00:00",
+      "last_seen": "2026-11-16T09:09:43.785272+00:00"
     }
   },
   "edges": [
@@ -21310,6 +21339,36 @@
           "added_at": "2026-11-16T02:09:44.437956+00:00"
         }
       ]
+    },
+    {
+      "source": "nipsco",
+      "target": "amazoncom",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NIPSCO 将印第安纳 Wheatfield 304 英亩土地出售给 AWS 建设 70 亿美元的 Project Rise 数据中心,园区距其 Schahfer 发电站仅半英里",
+          "article_title": "AWS breaks ground on $7bn data center in Indiana",
+          "article_url": "https://www.datacenterdynamics.com/en/news/aws-breaks-ground-on-7bn-data-center-in-indiana/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 08:20:26 +0000",
+          "added_at": "2026-11-16T09:09:43.785272+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ryan construction",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Ryan Construction 承建 AWS 在印第安纳 Wheatfield 的 Project Rise 数据中心园区",
+          "article_title": "AWS breaks ground on $7bn data center in Indiana",
+          "article_url": "https://www.datacenterdynamics.com/en/news/aws-breaks-ground-on-7bn-data-center-in-indiana/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 16 Nov 2026 08:20:26 +0000",
+          "added_at": "2026-11-16T09:09:43.785272+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -25011,6 +25070,24 @@
       "source_name": "TechCrunch - AI",
       "published": "Mon, 16 Nov 2026 01:30:00 +0000",
       "added_at": "2026-11-16T02:09:45.165568+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "AWS 在印第安纳 Wheatfield 开工 70 亿美元数据中心,土地直接购自电力公司 NIPSCO 并紧邻其发电站;数据中心选址向'能通电且被允许'的地区集中,受监管电力公司的资产基数和电力/散热设备需求直接受益",
+      "article_title": "AWS breaks ground on $7bn data center in Indiana",
+      "article_url": "https://www.datacenterdynamics.com/en/news/aws-breaks-ground-on-7bn-data-center-in-indiana/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 08:20:26 +0000",
+      "added_at": "2026-11-16T09:09:44.033637+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AWS 在印第安纳推进 2.4GW 容量扩张、并在 Loudoun 暂停投票前于北弗吉尼亚买地超 1.7 亿美元,说明超大规模云厂商仍处产能约束而非需求约束,算力基础设施层长期需求确定,但存量许可地块正变成稀缺资产",
+      "article_title": "AWS breaks ground on $7bn data center in Indiana",
+      "article_url": "https://www.datacenterdynamics.com/en/news/aws-breaks-ground-on-7bn-data-center-in-indiana/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 16 Nov 2026 08:20:26 +0000",
+      "added_at": "2026-11-16T09:09:44.279508+00:00"
     }
   ]
 }
