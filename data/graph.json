@@ -247,9 +247,9 @@
         "AI chips / GPUs",
         "GPU / AI chips"
       ],
-      "mentions": 54,
+      "mentions": 56,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-16T19:10:33.495315+00:00",
+      "last_seen": "2026-11-17T13:11:17.639073+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -477,9 +477,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 37,
+      "mentions": 38,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T14:12:38.501060+00:00"
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -6033,16 +6033,17 @@
         "neocloud (Singapore)",
         "neocloud / GPU rental",
         "GPU data center operator",
-        "Singapore AI infrastructure / cloud"
+        "Singapore AI infrastructure / cloud",
+        "GPU cloud / chip reseller (Singapore)"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-16T15:12:00.575865+00:00"
+      "last_seen": "2026-11-17T13:11:15.970027+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -8492,12 +8493,14 @@
       "sectors": [
         "Singapore sovereign wealth fund"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T21:09:37.045387+00:00",
-      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
     },
     "dfj growth": {
       "name": "DFJ Growth",
@@ -9511,7 +9514,8 @@
       "name": "Brookfield",
       "type": "company",
       "sectors": [
-        "infrastructure investor / developer"
+        "infrastructure investor / developer",
+        "infrastructure asset manager"
       ],
       "sector_tags": [
         "能源板块",
@@ -9519,9 +9523,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T14:12:40.415551+00:00",
-      "last_seen": "2026-11-16T14:12:40.415551+00:00"
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
     },
     "cyrusone": {
       "name": "CyrusOne",
@@ -9602,16 +9606,17 @@
       "name": "Macquarie",
       "type": "company",
       "sectors": [
-        "infrastructure finance"
+        "infrastructure finance",
+        "asset management / infrastructure"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T14:12:41.691201+00:00",
-      "last_seen": "2026-11-16T14:12:41.691201+00:00"
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
     },
     "swi stoneweg icona": {
       "name": "SWI Stoneweg Icona Group",
@@ -10437,6 +10442,202 @@
       "mentions": 1,
       "first_seen": "2026-11-17T12:10:23.028154+00:00",
       "last_seen": "2026-11-17T12:10:23.028154+00:00"
+    },
+    "century longteng": {
+      "name": "Century Longteng",
+      "type": "company",
+      "sectors": [
+        "data center builder in China"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:15.970027+00:00",
+      "last_seen": "2026-11-17T13:11:15.970027+00:00"
+    },
+    "huawei": {
+      "name": "Huawei",
+      "type": "company",
+      "sectors": [
+        "telecom equipment / AI chips (Ascend)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 2,
+      "first_seen": "2026-11-17T13:11:15.970027+00:00",
+      "last_seen": "2026-11-17T13:11:17.639073+00:00"
+    },
+    "pure dc": {
+      "name": "Pure DC",
+      "type": "company",
+      "sectors": [
+        "data center developer (Europe/Asia/Middle East, >1GW)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:16.688688+00:00",
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+    },
+    "oaktree capital management": {
+      "name": "Oaktree Capital Management",
+      "type": "company",
+      "sectors": [
+        "private equity / credit investor"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:16.688688+00:00",
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+    },
+    "copenhagen infrastructure partners": {
+      "name": "Copenhagen Infrastructure Partners",
+      "type": "company",
+      "sectors": [
+        "infrastructure investment fund"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:16.688688+00:00",
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+    },
+    "saudi telecom": {
+      "name": "Saudi Telecom Company",
+      "type": "company",
+      "sectors": [
+        "Saudi state-owned telecom & data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:16.688688+00:00",
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+    },
+    "data4": {
+      "name": "Data4",
+      "type": "company",
+      "sectors": [
+        "European data center operator (~1.5GW)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:16.688688+00:00",
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+    },
+    "hellenic innovation infrastructure fund": {
+      "name": "Hellenic Innovation & Infrastructure Fund",
+      "type": "institution",
+      "sectors": [
+        "Greek sovereign investment platform"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:16.688688+00:00",
+      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+    },
+    "lineshine": {
+      "name": "LineShine",
+      "type": "product",
+      "sectors": [
+        "exascale supercomputer (Top500 #1, 2.198 EF HPL)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:17.639073+00:00",
+      "last_seen": "2026-11-17T13:11:17.639073+00:00"
+    },
+    "national supercomputing centre shenzhen": {
+      "name": "National Supercomputing Centre Shenzhen",
+      "type": "institution",
+      "sectors": [
+        "national supercomputing center"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:17.639073+00:00",
+      "last_seen": "2026-11-17T13:11:17.639073+00:00"
+    },
+    "kitsi supercomputing center": {
+      "name": "KITSI Supercomputing Center",
+      "type": "institution",
+      "sectors": [
+        "Korean supercomputing center (Hangang system)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:17.639073+00:00",
+      "last_seen": "2026-11-17T13:11:17.639073+00:00"
+    },
+    "sizable energy": {
+      "name": "Sizable Energy",
+      "type": "company",
+      "sectors": [
+        "offshore pumped-hydro long-duration energy storage"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:18.587623+00:00",
+      "last_seen": "2026-11-17T13:11:18.587623+00:00"
+    },
+    "university mediterranea of reggio calabria": {
+      "name": "University Mediterranea of Reggio Calabria",
+      "type": "institution",
+      "sectors": [
+        "university / NOEL ocean engineering lab"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T13:11:18.587623+00:00",
+      "last_seen": "2026-11-17T13:11:18.587623+00:00"
     }
   },
   "edges": [
@@ -18539,6 +18740,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Mon, 16 Nov 2026 15:02:34 +0000",
           "added_at": "2026-11-16T15:12:00.575865+00:00"
+        },
+        {
+          "description": "Megaspeed 购买 Nvidia GPU,美国自 2024 年起调查其芯片是否经新加坡规避出口管制流入中国,Megaspeed 否认",
+          "article_title": "Jensen Huang plots return as Nvidia CEO, as doubt raised on whether Alice Huang was a Chinese spy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/jensen-huang-plots-return-as-nvidia-ceo-as-doubt-raised-on-whether-alice-huang-was-a-chinese-spy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:35:38 +0000",
+          "added_at": "2026-11-17T13:11:15.970027+00:00"
         }
       ]
     },
@@ -24247,6 +24456,216 @@
           "added_at": "2026-11-17T12:10:23.028154+00:00"
         }
       ]
+    },
+    {
+      "source": "century longteng",
+      "target": "huawei",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Century Longteng 与华为等公司在中国合作建设数据中心(Alice Huang 丈夫 Kang Wei 曾参与该公司)",
+          "article_title": "Jensen Huang plots return as Nvidia CEO, as doubt raised on whether Alice Huang was a Chinese spy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/jensen-huang-plots-return-as-nvidia-ceo-as-doubt-raised-on-whether-alice-huang-was-a-chinese-spy/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:35:38 +0000",
+          "added_at": "2026-11-17T13:11:15.970027+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oaktree capital management",
+      "target": "pure dc",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Oaktree 持有 Pure DC,正以约 80 亿美元估值引入少数股东为扩张融资",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gic",
+      "target": "pure dc",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "GIC 联合 CIP 竞购 Pure DC 少数股权(Bloomberg 报道,未确认)",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "saudi telecom",
+      "target": "pure dc",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Saudi Telecom 竞购 Pure DC 少数股权(Bloomberg 报道,未确认)",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gic",
+      "target": "copenhagen infrastructure partners",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两者联合竞购 Pure DC 少数股权",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gic",
+      "target": "saudi telecom",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两方竞购同一笔 Pure DC 少数股权",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gic",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "8 月 GIC 与 Macquarie 和 Anthropic 达成战略合作,为其开发、运营并租赁大规模数据中心",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "macquarie",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "8 月 Macquarie 与 GIC 和 Anthropic 达成数据中心开发租赁战略合作",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "brookfield",
+      "target": "data4",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Data4 自 2023 年 4 月起由 Brookfield 持有",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hellenic innovation infrastructure fund",
+      "target": "data4",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "HIIF 取得 Data4 Greece 23% 少数股权,对应雅典 90MW ATH1 园区",
+          "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+          "added_at": "2026-11-17T13:11:16.688688+00:00"
+        }
+      ]
+    },
+    {
+      "source": "national supercomputing centre shenzhen",
+      "target": "lineshine",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "LineShine 部署在深圳国家超算中心,连续两期 Top500 第一",
+          "article_title": "China's LineShine retains supercomputing crown as both Top500 and Green500 lists remain largely unchanged",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chinas-lineshine-retains-supercomputing-crown-as-both-top500-and-green500-lists-remain-largely-unchanged/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:30:44 +0000",
+          "added_at": "2026-11-17T13:11:17.639073+00:00"
+        }
+      ]
+    },
+    {
+      "source": "huawei",
+      "target": "national supercomputing centre shenzhen",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "LineShine 所用 304 核 Armv9 LX2 处理器看起来由华为与国家超算中心联合设计",
+          "article_title": "China's LineShine retains supercomputing crown as both Top500 and Green500 lists remain largely unchanged",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chinas-lineshine-retains-supercomputing-crown-as-both-top500-and-green500-lists-remain-largely-unchanged/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:30:44 +0000",
+          "added_at": "2026-11-17T13:11:17.639073+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "kitsi supercomputing center",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "KITSI 新系统 Hangang(Top500 第 12)采用 Nvidia Grace CPU 与 GH200",
+          "article_title": "China's LineShine retains supercomputing crown as both Top500 and Green500 lists remain largely unchanged",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chinas-lineshine-retains-supercomputing-crown-as-both-top500-and-green500-lists-remain-largely-unchanged/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:30:44 +0000",
+          "added_at": "2026-11-17T13:11:17.639073+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sizable energy",
+      "target": "university mediterranea of reggio calabria",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "在该校天然海洋工程实验室 NOEL 完成 50 米直径子系统原型的准工业级测试",
+          "article_title": "Italian startup targets data centers with offshore energy storage",
+          "article_url": "https://www.datacenterdynamics.com/en/news/italian-startup-targets-data-centers-with-offshore-energy-storage/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 12:27:18 +0000",
+          "added_at": "2026-11-17T13:11:18.587623+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -28605,6 +29024,69 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 17 Nov 2026 11:25:35 +0000",
       "added_at": "2026-11-17T12:10:23.511102+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nvidia 风波从 CEO 去留转向出口管制合规:财长 Bessent 质疑其对华销售文化,董事会拒绝黄仁勋回归并成立国家安全与出口管制监督委员会;瓶颈是监管信任而非需求,Nvidia 东南亚销售确定性下降,利好出口合规/追溯服务和 AMD、定制 ASIC、华为昇腾等替代算力;情报判断与签名数均未证实",
+      "article_title": "Jensen Huang plots return as Nvidia CEO, as doubt raised on whether Alice Huang was a Chinese spy",
+      "article_url": "https://www.datacenterdynamics.com/en/news/jensen-huang-plots-return-as-nvidia-ceo-as-doubt-raised-on-whether-alice-huang-was-a-chinese-spy/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 12:35:38 +0000",
+      "added_at": "2026-11-17T13:11:16.207608+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "GIC+CIP 与 Saudi Telecom 竞购 Pure DC 少数股权,Oaktree 要价约 80 亿美元估值、年内融资超 60 亿美元,Data4 希腊子公司也引入主权基金;主权资本以长期资金+确定性需求进入数据中心开发,为上市运营商提供估值锚;估值为 Bloomberg 消息源,未确认",
+      "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+      "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+      "added_at": "2026-11-17T13:11:16.932506+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Pure DC 计划把 1GW 容量扩大三倍,主权资本加速数据中心扩张,电网接入、变电设备、现场发电和配电冷却需求同步放大,电力设备商是确定性更高的受益层",
+      "article_title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+      "article_url": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 12:33:30 +0000",
+      "added_at": "2026-11-17T13:11:17.169479+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Top500 前十不变、新系统仅 27 台创历史新低,中国全自研 LineShine 连续两期第一;说明 HPC 层面管制未能阻止中国,但 AI 训练的瓶颈仍在加速器与先进制程;公共超算被私有 AI 集群挤出,下一代国家级 AI+HPC 混合系统招标利好加速器厂商与系统集成商",
+      "article_title": "China's LineShine retains supercomputing crown as both Top500 and Green500 lists remain largely unchanged",
+      "article_url": "https://www.datacenterdynamics.com/en/news/chinas-lineshine-retains-supercomputing-crown-as-both-top500-and-green500-lists-remain-largely-unchanged/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 12:30:44 +0000",
+      "added_at": "2026-11-17T13:11:17.881725+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Green500 前十几乎被欧洲系统包揽,能效正在成为超算和 AI 集群采购指标,利好液冷与电源管理这一与算力绑定最紧的能源环节",
+      "article_title": "China's LineShine retains supercomputing crown as both Top500 and Green500 lists remain largely unchanged",
+      "article_url": "https://www.datacenterdynamics.com/en/news/chinas-lineshine-retains-supercomputing-crown-as-both-top500-and-green500-lists-remain-largely-unchanged/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 12:30:44 +0000",
+      "added_at": "2026-11-17T13:11:18.120413+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Sizable Energy 用海水静压与重力做海上抽水蓄能,瞄准数据中心长时储能这一可再生能源供电的时间匹配瓶颈,计划 2027 上半年在那不勒斯数据中心示范;成本与 10GWh 项目储备均为公司自述、未经独立验证,短期利好仍在已商业化的电池储能与抽蓄设备商",
+      "article_title": "Italian startup targets data centers with offshore energy storage",
+      "article_url": "https://www.datacenterdynamics.com/en/news/italian-startup-targets-data-centers-with-offshore-energy-storage/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 12:27:18 +0000",
+      "added_at": "2026-11-17T13:11:18.841004+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "长时储能若跑通可帮助数据中心在电网约束下获得可再生电力,对数据中心运营商是远期变量,目前仅为早期示范",
+      "article_title": "Italian startup targets data centers with offshore energy storage",
+      "article_url": "https://www.datacenterdynamics.com/en/news/italian-startup-targets-data-centers-with-offshore-energy-storage/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 12:27:18 +0000",
+      "added_at": "2026-11-17T13:11:19.080289+00:00"
     }
   ]
 }
