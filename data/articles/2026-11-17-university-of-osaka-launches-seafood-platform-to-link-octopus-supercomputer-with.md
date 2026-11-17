@@ -1,0 +1,10 @@
+# University of Osaka launches SEAFOOD platform to link Octopus supercomputer with quantum processors
+https://www.datacenterdynamics.com/en/news/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer-with-quantum-processors/
+
+这条新闻篇幅不长,但它是最近一连串"量子-超算混合"新闻里很典型的一块拼图:量子计算机的第一个现实落脚点,很可能不是独立运行的"量子电脑",而是作为加速器挂在现有超算中心旁边,和 CPU/GPU 一起分担任务。今天同一批里 [DOE 征集低温与量子超算测试平台意见](2026-11-17-doe-seeks-input-on-cryogenic-and-quantum-supercomputing-testbeds.md)、昨天 [IBM、Nvidia 和 Fermilab 的模块化量子计算平台](2026-11-16-ibm-nvidia-and-fermilab-plan-modular-quantum-computing-platform.md)、[Altera、OQC 和 Nvidia 把量子处理器接到 GPU 计算上](2026-11-16-altera-oqc-and-nvidia-link-quantum-processor-to-gpu-computing.md),讲的都是同一个方向,而大阪大学这条是日本学术体系里的版本。
+
+文章指出,大阪大学的研究人员开发了一套名为 SEAFOOD 的混合计算基础设施,把学校的 OCTOPUS 超级计算机和日本自主研制的超导量子处理器连接起来,预计 2026 年 12 月投入运行。量子处理器由 RIKEN 量子计算中心提供,但文章没有给出处理器的具体参数。大学方面称,这是日本第一个由独立学术机构把国产量子计算机和超算整合起来的案例。SEAFOOD 把工作负载划分到三层堆栈里,让每种处理器去承担最适合其硬件设计的那部分计算。节奏上,2027 年先给校内最多十个研究团队试用,之后再通过日本的 JHPC-quantum 计划向外部开放——JHPC-quantum 本身就是一个专门推动量子处理器与经典 HPC 整合的研究项目,和[昨天 Jij 与三菱电机入选 JHPC-quantum 项目](2026-11-16-jij-and-mitsubishi-electric-selected-for-jhpc-quantum-program-to-evaluate-hybrid.md)那篇是同一个国家计划。资金层面,项目得到 JST Moonshot Goal 6、MEXT Q-LEAP、JST COI-NEXT、CSTI SIP 以及 NEDO 后 5G 量子-超算混合平台计划等多条国家资助渠道支持。
+
+经典侧的 OCTOPUS 由 NEC 开发,理论算力 2.293 petaflops,大约 140 个 NEC LX201Ein-1 计算节点,每个节点两颗第六代 Intel Xeon 可扩展处理器加大容量存储,NEC 称其性能约为该中心上一代系统的 1.5 倍。按今天的标准,这是一台规模相当小、而且是纯 CPU 的超算,这一点本身值得注意:说明这类混合平台眼下的目标还不是"算力最大化",而是先把软件栈、任务调度和用户流程跑通。
+
+个人看法:如果把"量子-超算混合"拆开看,它其实包含三个部分:第一是量子处理器本身;第二是经典计算侧,也就是超算或 GPU 集群;第三是把两者粘在一起的中间层,包括低延迟互联、任务划分和调度软件、以及面向用户的编程框架。当下这条产业链真正卡住的瓶颈并不是第二层(经典算力很充足),而是第一层的可用性和第三层的软件成熟度——SEAFOOD 的"三层堆栈"划分和 2027 年的十个团队试用,本质上都是在解决第三层的问题。所以从量子计算板块看,受益的层次会是:第一层是能稳定交付并接入超算中心的量子硬件方,这里是 RIKEN 体系和与之合作的日本厂商;第二层是混合调度与编程框架,这在国际上是 Nvidia CUDA-Q/NVQLink 这一类生态在抢位,在日本则是 JHPC-quantum 体系里的软件公司;第三层才是传统超算整机商如 NEC、富士通,它们更多是"顺带参与"而不是核心受益者。这件事对 AI 板块的拉动很有限,我不把它挂到 AI 板块上。整体上它是国家资金持续投入量子-HPC 整合的又一个信号,对量子计算板块偏正面,但学术平台的商业转化很慢,还是观望。值得关注的是 2027 年试用之后,有没有公开的、在混合平台上真正跑赢纯经典方案的具体应用案例。

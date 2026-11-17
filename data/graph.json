@@ -397,9 +397,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 17,
+      "mentions": 18,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T15:11:13.726976+00:00"
+      "last_seen": "2026-11-17T17:11:17.535512+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -433,19 +433,21 @@
         "cloud / hyperscale data centers",
         "hyperscaler / Amazon Leo LEO constellation",
         "cloud / AWS",
-        "cloud (AWS)"
+        "cloud (AWS)",
+        "cloud / hyperscaler"
       ],
       "sector_tags": [
         "AI板块",
         "机器人板块",
         "量子计算板块",
-        "太空经济板块"
+        "太空经济板块",
+        "能源板块"
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 22,
+      "mentions": 23,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T18:11:41.269696+00:00"
+      "last_seen": "2026-11-17T17:11:17.049588+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -1217,9 +1219,9 @@
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T06:17:15.080267+00:00"
+      "last_seen": "2026-11-17T17:11:16.555720+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -5010,9 +5012,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-06T07:01:15.798724+00:00",
-      "last_seen": "2026-11-16T18:11:37.662608+00:00"
+      "last_seen": "2026-11-17T17:11:16.555720+00:00"
     },
     "skywater": {
       "name": "SkyWater Technology",
@@ -5459,7 +5461,8 @@
       "name": "Runway",
       "type": "company",
       "sectors": [
-        "world models / video generation"
+        "world models / video generation",
+        "generative video AI"
       ],
       "sector_tags": [
         "AI板块",
@@ -5467,9 +5470,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:05:59.960286+00:00",
-      "last_seen": "2026-11-09T06:05:59.960286+00:00"
+      "last_seen": "2026-11-17T17:11:17.535512+00:00"
     },
     "rivian": {
       "name": "Rivian",
@@ -8720,12 +8723,14 @@
       "sectors": [
         "venture capital"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-14T00:09:37.686440+00:00",
-      "last_seen": "2026-11-14T00:09:37.686440+00:00"
+      "last_seen": "2026-11-17T17:11:17.535512+00:00"
     },
     "ucla": {
       "name": "UCLA",
@@ -9418,12 +9423,14 @@
       "sectors": [
         "venture capital"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T11:12:04.379452+00:00",
-      "last_seen": "2026-11-16T11:12:04.379452+00:00"
+      "last_seen": "2026-11-17T17:11:17.535512+00:00"
     },
     "conviction": {
       "name": "Conviction",
@@ -10311,16 +10318,17 @@
       "name": "NEC",
       "type": "company",
       "sectors": [
-        "QKD equipment / network infrastructure"
+        "QKD equipment / network infrastructure",
+        "IT / supercomputer systems"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": "6701.T",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T10:10:23.929985+00:00",
-      "last_seen": "2026-11-17T10:10:23.929985+00:00"
+      "last_seen": "2026-11-17T17:11:16.555720+00:00"
     },
     "ibm japan": {
       "name": "IBM Japan",
@@ -11338,6 +11346,156 @@
       "mentions": 1,
       "first_seen": "2026-11-17T16:10:37.707122+00:00",
       "last_seen": "2026-11-17T16:10:37.707122+00:00"
+    },
+    "saxon q": {
+      "name": "SAXON Q",
+      "type": "company",
+      "sectors": [
+        "NV-center room-temperature quantum computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:16.067970+00:00",
+      "last_seen": "2026-11-17T17:11:16.067970+00:00"
+    },
+    "quantum watchdog": {
+      "name": "Quantum Watchdog",
+      "type": "product",
+      "sectors": [
+        "quantum computer hardware failure monitoring"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:16.067970+00:00",
+      "last_seen": "2026-11-17T17:11:16.067970+00:00"
+    },
+    "university of osaka": {
+      "name": "University of Osaka",
+      "type": "institution",
+      "sectors": [
+        "academic HPC / quantum-HPC hybrid"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:16.555720+00:00",
+      "last_seen": "2026-11-17T17:11:16.555720+00:00"
+    },
+    "jsw energy": {
+      "name": "JSW Energy",
+      "type": "company",
+      "sectors": [
+        "Indian power generation / renewables"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:17.049588+00:00",
+      "last_seen": "2026-11-17T17:11:17.049588+00:00"
+    },
+    "cleanmax": {
+      "name": "CleanMax",
+      "type": "company",
+      "sectors": [
+        "Indian corporate renewable energy"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:17.049588+00:00",
+      "last_seen": "2026-11-17T17:11:17.049588+00:00"
+    },
+    "blupine energy": {
+      "name": "BluPine Energy",
+      "type": "company",
+      "sectors": [
+        "Indian renewable energy developer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:17.049588+00:00",
+      "last_seen": "2026-11-17T17:11:17.049588+00:00"
+    },
+    "lancedb": {
+      "name": "LanceDB",
+      "type": "company",
+      "sectors": [
+        "multimodal AI data lakehouse"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:17.535512+00:00",
+      "last_seen": "2026-11-17T17:11:17.535512+00:00"
+    },
+    "innovation endeavors": {
+      "name": "Innovation Endeavors",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:17.535512+00:00",
+      "last_seen": "2026-11-17T17:11:17.535512+00:00"
+    },
+    "y combinator": {
+      "name": "Y Combinator",
+      "type": "company",
+      "sectors": [
+        "startup accelerator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:17.535512+00:00",
+      "last_seen": "2026-11-17T17:11:17.535512+00:00"
+    },
+    "netflix": {
+      "name": "Netflix",
+      "type": "company",
+      "sectors": [
+        "streaming media"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "NFLX",
+      "mentions": 1,
+      "first_seen": "2026-11-17T17:11:17.535512+00:00",
+      "last_seen": "2026-11-17T17:11:17.535512+00:00"
     }
   },
   "edges": [
@@ -26236,6 +26394,216 @@
           "added_at": "2026-11-17T16:10:37.707122+00:00"
         }
       ]
+    },
+    {
+      "source": "saxon q",
+      "target": "quantum watchdog",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "SAXON Q 发布并持有专利的量子计算机硬件故障监测系统,2027 年初可部署,并向硬件厂商和 OEM 提供授权",
+          "article_title": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
+          "article_url": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 15:40:15 +0000",
+          "added_at": "2026-11-17T17:11:16.067970+00:00"
+        }
+      ]
+    },
+    {
+      "source": "riken",
+      "target": "university of osaka",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "RIKEN 量子计算中心为大阪大学 SEAFOOD 混合平台提供日本国产超导量子处理器",
+          "article_title": "University of Osaka launches SEAFOOD platform to link Octopus supercomputer with quantum processors",
+          "article_url": "https://www.datacenterdynamics.com/en/news/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer-with-quantum-processors/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 17:00:47 +0000",
+          "added_at": "2026-11-17T17:11:16.555720+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nec",
+      "target": "university of osaka",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "NEC 为大阪大学 D3 中心开发 OCTOPUS 超算(2.293 petaflops),作为 SEAFOOD 平台的经典计算侧",
+          "article_title": "University of Osaka launches SEAFOOD platform to link Octopus supercomputer with quantum processors",
+          "article_url": "https://www.datacenterdynamics.com/en/news/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer-with-quantum-processors/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 17:00:47 +0000",
+          "added_at": "2026-11-17T17:11:16.555720+00:00"
+        }
+      ]
+    },
+    {
+      "source": "intel",
+      "target": "nec",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "OCTOPUS 的约 140 个 NEC 计算节点各搭载两颗第六代 Intel Xeon 可扩展处理器",
+          "article_title": "University of Osaka launches SEAFOOD platform to link Octopus supercomputer with quantum processors",
+          "article_url": "https://www.datacenterdynamics.com/en/news/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer-with-quantum-processors/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 17:00:47 +0000",
+          "added_at": "2026-11-17T17:11:16.555720+00:00"
+        }
+      ]
+    },
+    {
+      "source": "jsw energy",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "去年与 Amazon 签署 180MW 印度可再生能源购电协议",
+          "article_title": "Amazon to invest $7bn into Indian renewable projects by 2030",
+          "article_url": "https://www.datacenterdynamics.com/en/news/amazon-to-invest-7bn-into-indian-renewable-projects-by-2030/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 16:50:37 +0000",
+          "added_at": "2026-11-17T17:11:17.049588+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cleanmax",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "去年与 Amazon 签署印度陆上风电购电协议(与 BluPine 合计 199MW)",
+          "article_title": "Amazon to invest $7bn into Indian renewable projects by 2030",
+          "article_url": "https://www.datacenterdynamics.com/en/news/amazon-to-invest-7bn-into-indian-renewable-projects-by-2030/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 16:50:37 +0000",
+          "added_at": "2026-11-17T17:11:17.049588+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blupine energy",
+      "target": "amazoncom",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "去年与 Amazon 签署印度陆上风电购电协议(与 CleanMax 合计 199MW)",
+          "article_title": "Amazon to invest $7bn into Indian renewable projects by 2030",
+          "article_url": "https://www.datacenterdynamics.com/en/news/amazon-to-invest-7bn-into-indian-renewable-projects-by-2030/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 16:50:37 +0000",
+          "added_at": "2026-11-17T17:11:17.049588+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bessemer venture partners",
+      "target": "lancedb",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "联合领投 LanceDB 5,750 万美元 B 轮",
+          "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+          "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+          "added_at": "2026-11-17T17:11:17.535512+00:00"
+        }
+      ]
+    },
+    {
+      "source": "innovation endeavors",
+      "target": "lancedb",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "联合领投 LanceDB 5,750 万美元 B 轮",
+          "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+          "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+          "added_at": "2026-11-17T17:11:17.535512+00:00"
+        }
+      ]
+    },
+    {
+      "source": "crv",
+      "target": "lancedb",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参投 LanceDB B 轮",
+          "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+          "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+          "added_at": "2026-11-17T17:11:17.535512+00:00"
+        }
+      ]
+    },
+    {
+      "source": "y combinator",
+      "target": "lancedb",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参投 LanceDB B 轮",
+          "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+          "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+          "added_at": "2026-11-17T17:11:17.535512+00:00"
+        }
+      ]
+    },
+    {
+      "source": "runway",
+      "target": "lancedb",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "2024 年起使用 Lance 格式,现为 LanceDB 企业版客户,用于视频模型训练数据管理",
+          "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+          "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+          "added_at": "2026-11-17T17:11:17.535512+00:00"
+        }
+      ]
+    },
+    {
+      "source": "netflix",
+      "target": "lancedb",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "基于 LanceDB 技术构建用于内容创作的媒体数据湖",
+          "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+          "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+          "added_at": "2026-11-17T17:11:17.535512+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "lancedb",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "将 LanceDB 平台作为数据层,用于数百亿行图像和代码数据的模型训练",
+          "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+          "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+          "added_at": "2026-11-17T17:11:17.535512+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -30828,6 +31196,51 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 17 Nov 2026 15:21:18 +0000",
       "added_at": "2026-11-17T16:10:38.907369+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "SAXON Q 新闻稿(利益相关,未经独立验证)推出量子计算机硬件故障看门狗,点出量子计算走向工业与防务时的功能安全认证瓶颈,偏长期温和正面",
+      "article_title": "SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail",
+      "article_url": "https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 15:40:15 +0000",
+      "added_at": "2026-11-17T17:11:16.312026+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "大阪大学 SEAFOOD 平台把 RIKEN 超导量子处理器与 OCTOPUS 超算整合,12 月上线并经 JHPC-quantum 开放,国家资金持续投入量子-HPC 混合,偏正面但商业转化慢",
+      "article_title": "University of Osaka launches SEAFOOD platform to link Octopus supercomputer with quantum processors",
+      "article_url": "https://www.datacenterdynamics.com/en/news/university-of-osaka-launches-seafood-platform-to-link-octopus-supercomputer-with-quantum-processors/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 17:00:47 +0000",
+      "added_at": "2026-11-17T17:11:16.803939+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Amazon 计划到 2030 年在印度投资 70 亿美元可再生能源并新签 934MW 风光 PPA,数据中心扩张推高排放,超大规模厂商长期承购持续拉动新兴市场风光装机",
+      "article_title": "Amazon to invest $7bn into Indian renewable projects by 2030",
+      "article_url": "https://www.datacenterdynamics.com/en/news/amazon-to-invest-7bn-into-indian-renewable-projects-by-2030/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 16:50:37 +0000",
+      "added_at": "2026-11-17T17:11:17.295881+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "LanceDB 获 5,750 万美元 B 轮,多模态训练数据层提升 GPU 数据供给效率与利用率,训练瓶颈从算力前移到数据搬运整理",
+      "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+      "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+      "added_at": "2026-11-17T17:11:17.779110+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "LanceDB 明确把机器人第一视角与传感器数据列为重点新负载,多模态数据工具成熟会降低机器人基础模型训练门槛,属间接利好",
+      "article_title": "LanceDB raises $57.5M to accelerate AI model training with multimodal data platform",
+      "article_url": "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 16:30:34 +0000",
+      "added_at": "2026-11-17T17:11:18.021954+00:00"
     }
   ]
 }
