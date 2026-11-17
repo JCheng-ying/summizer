@@ -10213,6 +10213,77 @@
       "mentions": 1,
       "first_seen": "2026-11-17T00:10:19.451376+00:00",
       "last_seen": "2026-11-17T00:10:19.451376+00:00"
+    },
+    "cosmo bee": {
+      "name": "Cosmo Bee",
+      "type": "company",
+      "sectors": [
+        "satellite electric propulsion (Hall thrusters)"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T08:11:06.955753+00:00",
+      "last_seen": "2026-11-17T08:11:06.955753+00:00"
+    },
+    "dorbit": {
+      "name": "D-Orbit",
+      "type": "company",
+      "sectors": [
+        "orbital transfer vehicle / in-orbit demonstration"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T08:11:06.955753+00:00",
+      "last_seen": "2026-11-17T08:11:06.955753+00:00"
+    },
+    "kaist": {
+      "name": "KAIST",
+      "type": "institution",
+      "sectors": [
+        "research university"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T08:11:06.955753+00:00",
+      "last_seen": "2026-11-17T08:11:06.955753+00:00"
+    },
+    "pretxt ai": {
+      "name": "Pretxt AI",
+      "type": "company",
+      "sectors": [
+        "AI agent runtime supervision"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T08:11:08.160120+00:00",
+      "last_seen": "2026-11-17T08:11:08.160120+00:00"
+    },
+    "deciens capital": {
+      "name": "Deciens Capital",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T08:11:08.160120+00:00",
+      "last_seen": "2026-11-17T08:11:08.160120+00:00"
     }
   },
   "edges": [
@@ -23828,6 +23899,51 @@
           "added_at": "2026-11-17T00:10:19.451376+00:00"
         }
       ]
+    },
+    {
+      "source": "dorbit",
+      "target": "cosmo bee",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "D-Orbit 通过服务协议于 2027 年 10 月在 ION 飞行器上为 Cosmo Bee 的 Honeybee 霍尔推力器提供在轨飞行测试",
+          "article_title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+          "article_url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+          "source_name": "SpaceNews",
+          "published": "Tue, 17 Nov 2026 08:00:00 +0000",
+          "added_at": "2026-11-17T08:11:06.955753+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cosmo bee",
+      "target": "kaist",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Cosmo Bee 于 2023 年 7 月从 KAIST Wonho Choe 教授团队自 2003 年以来的电推进研究中拆分成立",
+          "article_title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+          "article_url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+          "source_name": "SpaceNews",
+          "published": "Tue, 17 Nov 2026 08:00:00 +0000",
+          "added_at": "2026-11-17T08:11:06.955753+00:00"
+        }
+      ]
+    },
+    {
+      "source": "deciens capital",
+      "target": "pretxt ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Deciens Capital 领投 Pretxt AI 500 万美元种子轮,Howdy Partners 等跟投",
+          "article_title": "With $5M in funding, Pretxt launches runtime oversight layer to supervise AI agents in real time",
+          "article_url": "https://siliconangle.com/2026/11/17/with-5m-in-funding-pretxt-launches-runtime-oversight-layer-to-supervise-ai-agents-in-real-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 08:00:53 +0000",
+          "added_at": "2026-11-17T08:11:08.160120+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -28087,6 +28203,42 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 16 Nov 2026 23:45:51 +0000",
       "added_at": "2026-11-17T00:10:19.698340+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Cosmo Bee 借 D-Orbit 在轨验证霍尔推力器,说明 LEO 星座扩张带动电推进需求,飞行履历是新零部件的瓶颈,在轨验证/搭载服务方受益;公司新闻稿,性能未经验证,2027 年才测试,只能观望",
+      "article_title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+      "article_url": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+      "source_name": "SpaceNews",
+      "published": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "added_at": "2026-11-17T08:11:07.191776+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "赞助内容:大负荷电费中峰值相关的容量/输电费用涨得比电价快,表前并网排队长,表后储能错峰经济性提升,利好储能硬件、电力电子与调度软件;厂商测算未经独立验证,依赖 PJM 规则",
+      "article_title": "Sponsored: Ascend Analytics launches behind-the-meter asset valuation for data center and large industrial loads",
+      "article_url": "https://www.datacenterdynamics.com/en/product-news/ascend-analytics-launches-behind-the-meter-asset-valuation-for-data-center-and-large-industrial-loads/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "added_at": "2026-11-17T08:11:07.671315+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 数据中心正是推高峰值负荷和并网压力的大负荷,表后储能可绕开并网排队、缩短上线时间,间接缓解 AI 算力扩张的电力约束",
+      "article_title": "Sponsored: Ascend Analytics launches behind-the-meter asset valuation for data center and large industrial loads",
+      "article_url": "https://www.datacenterdynamics.com/en/product-news/ascend-analytics-launches-behind-the-meter-asset-valuation-for-data-center-and-large-industrial-loads/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "added_at": "2026-11-17T08:11:07.915604+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Pretxt 获 500 万美元种子轮做 agent 运行时监督,监督与合规工具降低企业在强监管场景部署 agent 的信任门槛,利好 agent 平台调用量扩大;独立小公司护城河不明,性能数据为厂商自述",
+      "article_title": "With $5M in funding, Pretxt launches runtime oversight layer to supervise AI agents in real time",
+      "article_url": "https://siliconangle.com/2026/11/17/with-5m-in-funding-pretxt-launches-runtime-oversight-layer-to-supervise-ai-agents-in-real-time/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 08:00:53 +0000",
+      "added_at": "2026-11-17T08:11:08.403380+00:00"
     }
   ]
 }
