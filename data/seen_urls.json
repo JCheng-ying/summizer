@@ -4630,5 +4630,21 @@
   "https://siliconangle.com/2026/11/17/data-intelligence-lifts-enterprise-ai-factory-accuracy-dellatsc26/": {
     "title": "Dell puts a single gateway between enterprise AI agents and the data they crave",
     "seen_at": "2026-11-17T20:10:44.152962+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/17/iqm-halocene-quantum-systems-upgrade-programme/": {
+    "title": "IQM Introduces Upgrade Programme for Halocene Quantum Systems",
+    "seen_at": "2026-11-17T21:11:20.552108+00:00"
+  },
+  "https://siliconangle.com/2026/11/17/hammerspace-enters-the-hardware-market-with-new-storage-and-intelligence-capabilities/": {
+    "title": "Hammerspace enters the hardware market with new storage and intelligence capabilities",
+    "seen_at": "2026-11-17T21:11:21.302161+00:00"
+  },
+  "https://siliconangle.com/2026/11/17/nvidia-at-sc26-agents-are-the-new-scientists-and-they-need-a-lab/": {
+    "title": "Nvidia at SC26: Agents are the new scientists, and they need a lab",
+    "seen_at": "2026-11-17T21:11:21.789289+00:00"
+  },
+  "https://siliconangle.com/2026/11/17/autonomous-orchestration-helps-kubernetes-keep-up-ai-agents-kubeconna/": {
+    "title": "Idle, then spiking: Why AI agents are breaking Kubernetes resource planning",
+    "seen_at": "2026-11-17T21:11:22.745317+00:00"
   }
 }
