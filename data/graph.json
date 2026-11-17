@@ -10314,6 +10314,37 @@
       "mentions": 1,
       "first_seen": "2026-11-17T10:10:23.929985+00:00",
       "last_seen": "2026-11-17T10:10:23.929985+00:00"
+    },
+    "falcon systems": {
+      "name": "Falcon Systems",
+      "type": "company",
+      "sectors": [
+        "MDI-QKD quantum secure network equipment"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T11:09:44.960216+00:00",
+      "last_seen": "2026-11-17T11:09:44.960216+00:00"
+    },
+    "forschungszentrum jülich": {
+      "name": "Forschungszentrum Jülich",
+      "type": "institution",
+      "sectors": [
+        "interdisciplinary research center / power system communications"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T11:09:44.960216+00:00",
+      "last_seen": "2026-11-17T11:09:44.960216+00:00"
     }
   },
   "edges": [
@@ -24004,6 +24035,21 @@
           "added_at": "2026-11-17T10:10:23.929985+00:00"
         }
       ]
+    },
+    {
+      "source": "falcon systems",
+      "target": "forschungszentrum jülich",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "于利希研究中心是 Falcon 5000 系列 MDI-QKD 的首发客户,用于研究把 QKD 集成进电力系统通信网络",
+          "article_title": "Falcon Systems Launches Falcon 5000 Series for Quantum Secure Networks",
+          "article_url": "https://thequantuminsider.com/2026/11/17/falcon-systems-launches-falcon-5000-series-quantum-secure-networks/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 10:07:23 +0000",
+          "added_at": "2026-11-17T11:09:44.960216+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -28317,6 +28363,24 @@
       "source_name": "The Quantum Insider",
       "published": "Tue, 17 Nov 2026 08:44:11 +0000",
       "added_at": "2026-11-17T10:10:24.182931+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Falcon Systems 发布 MDI-QKD 5000 系列,共享枢纽拓扑降低成对光纤需求、加冗余与防篡改满足关键基础设施采购门槛,QKD 走向标准化网络设备;利好 QKD 设备商、运营商量子安全专线和密钥管理层;厂商新闻稿,无性能指标与订单金额,未经独立验证",
+      "article_title": "Falcon Systems Launches Falcon 5000 Series for Quantum Secure Networks",
+      "article_url": "https://thequantuminsider.com/2026/11/17/falcon-systems-launches-falcon-5000-series-quantum-secure-networks/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 10:07:23 +0000",
+      "added_at": "2026-11-17T11:09:45.197385+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Falcon 5000 首发客户于利希研究中心研究把 QKD 接入电力系统通信网络,电网数字化扩大攻击面、通信安全成电网升级成本项;仅为科研采购、厂商新闻稿,对能源板块实际拉动很弱,只是方向信号",
+      "article_title": "Falcon Systems Launches Falcon 5000 Series for Quantum Secure Networks",
+      "article_url": "https://thequantuminsider.com/2026/11/17/falcon-systems-launches-falcon-5000-series-quantum-secure-networks/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 10:07:23 +0000",
+      "added_at": "2026-11-17T11:09:45.447173+00:00"
     }
   ]
 }
