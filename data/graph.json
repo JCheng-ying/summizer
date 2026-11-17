@@ -245,11 +245,12 @@
         "AI GPUs",
         "GPU / AI compute",
         "AI chips / GPUs",
-        "GPU / AI chips"
+        "GPU / AI chips",
+        "GPUs / accelerated computing"
       ],
-      "mentions": 56,
+      "mentions": 57,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-17T13:11:17.639073+00:00",
+      "last_seen": "2026-11-17T16:10:36.970756+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -1833,9 +1834,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 38,
+      "mentions": 39,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+      "last_seen": "2026-11-17T16:10:37.707122+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -6023,7 +6024,8 @@
       "sectors": [
         "AI data center development",
         "AI cloud / data centers",
-        "AI data center / neocloud"
+        "AI data center / neocloud",
+        "AI data centers"
       ],
       "sector_tags": [
         "AI板块",
@@ -6031,9 +6033,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-09T06:06:09.263035+00:00",
-      "last_seen": "2026-11-13T23:09:29.373228+00:00"
+      "last_seen": "2026-11-17T16:10:37.707122+00:00"
     },
     "megaspeed": {
       "name": "Megaspeed",
@@ -11245,6 +11247,97 @@
       "mentions": 1,
       "first_seen": "2026-11-17T15:11:14.452924+00:00",
       "last_seen": "2026-11-17T15:11:14.452924+00:00"
+    },
+    "qudora": {
+      "name": "QUDORA Technologies",
+      "type": "company",
+      "sectors": [
+        "trapped-ion quantum computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T16:10:36.970756+00:00",
+      "last_seen": "2026-11-17T16:10:36.970756+00:00"
+    },
+    "cudaq": {
+      "name": "CUDA-Q",
+      "type": "product",
+      "sectors": [
+        "hybrid quantum-classical programming platform"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T16:10:36.970756+00:00",
+      "last_seen": "2026-11-17T16:10:36.970756+00:00"
+    },
+    "qamelion": {
+      "name": "Qamelion",
+      "type": "product",
+      "sectors": [
+        "quantum emulator with noise modeling"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T16:10:36.970756+00:00",
+      "last_seen": "2026-11-17T16:10:36.970756+00:00"
+    },
+    "intersect power": {
+      "name": "Intersect Power",
+      "type": "company",
+      "sectors": [
+        "clean energy / data center developer"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T16:10:37.707122+00:00",
+      "last_seen": "2026-11-17T16:10:37.707122+00:00"
+    },
+    "heron power": {
+      "name": "Heron Power",
+      "type": "company",
+      "sectors": [
+        "solid-state medium-voltage transformers"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T16:10:37.707122+00:00",
+      "last_seen": "2026-11-17T16:10:37.707122+00:00"
+    },
+    "vantage data centers": {
+      "name": "Vantage Data Centers",
+      "type": "company",
+      "sectors": [
+        "hyperscale data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T16:10:37.707122+00:00",
+      "last_seen": "2026-11-17T16:10:37.707122+00:00"
     }
   },
   "edges": [
@@ -26038,6 +26131,111 @@
           "added_at": "2026-11-17T15:11:14.452924+00:00"
         }
       ]
+    },
+    {
+      "source": "nvidia",
+      "target": "cudaq",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "CUDA-Q 是 NVIDIA 的量子-经典混合编程平台",
+          "article_title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
+          "article_url": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 15:02:20 +0000",
+          "added_at": "2026-11-17T16:10:36.970756+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qudora",
+      "target": "cudaq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "QUDORA 将 CUDA-Q 集成进其 SDK,开发者可在 Qamelion 上运行混合程序",
+          "article_title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
+          "article_url": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 15:02:20 +0000",
+          "added_at": "2026-11-17T16:10:36.970756+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qudora",
+      "target": "qamelion",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Qamelion 是 QUDORA 按其离子阱硬件噪声建模的量子模拟器",
+          "article_title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
+          "article_url": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 15:02:20 +0000",
+          "added_at": "2026-11-17T16:10:36.970756+00:00"
+        }
+      ]
+    },
+    {
+      "source": "intersect power",
+      "target": "heron power",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Intersect 预留 1.5GW Heron Link 固态变压器产能,2028 年起交付",
+          "article_title": "Intersect signs 1.5GW transformer supply deal with Heron Power",
+          "article_url": "https://www.datacenterdynamics.com/en/news/intersect-signs-15gw-transformer-supply-deal-with-heron-power/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:26:51 +0000",
+          "added_at": "2026-11-17T16:10:37.707122+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "intersect power",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Alphabet 以据报道 47.5 亿美元收购 Intersect,今年 3 月交割",
+          "article_title": "Intersect signs 1.5GW transformer supply deal with Heron Power",
+          "article_url": "https://www.datacenterdynamics.com/en/news/intersect-signs-15gw-transformer-supply-deal-with-heron-power/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:26:51 +0000",
+          "added_at": "2026-11-17T16:10:37.707122+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vantage data centers",
+      "target": "heron power",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Vantage 将在其 hyperscale 组合部署超过 1GW Heron 变压器",
+          "article_title": "Intersect signs 1.5GW transformer supply deal with Heron Power",
+          "article_url": "https://www.datacenterdynamics.com/en/news/intersect-signs-15gw-transformer-supply-deal-with-heron-power/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:26:51 +0000",
+          "added_at": "2026-11-17T16:10:37.707122+00:00"
+        }
+      ]
+    },
+    {
+      "source": "crusoe",
+      "target": "heron power",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Crusoe 与 Heron 签意向书,为德州 Stargate 园区提供功率转换技术",
+          "article_title": "Intersect signs 1.5GW transformer supply deal with Heron Power",
+          "article_url": "https://www.datacenterdynamics.com/en/news/intersect-signs-15gw-transformer-supply-deal-with-heron-power/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:26:51 +0000",
+          "added_at": "2026-11-17T16:10:37.707122+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -30576,6 +30774,60 @@
       "source_name": "TechCrunch - AI",
       "published": "Tue, 17 Nov 2026 14:50:58 +0000",
       "added_at": "2026-11-17T15:11:14.698500+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "QUDORA(新闻稿,利益相关)把 CUDA-Q 接入 SDK、用模拟器先培养开发者,属于生态层弱信号,硬件尚未交付、性能未经独立验证",
+      "article_title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
+      "article_url": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 15:02:20 +0000",
+      "added_at": "2026-11-17T16:10:37.208471+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "又一家量子硬件公司默认接入 CUDA-Q,量子模拟与混合计算的经典侧继续跑在 NVIDIA GPU 上,加固 NVIDIA 在量子领域的卡位",
+      "article_title": "QUDORA Integrates NVIDIA CUDA-Q into Its Quantum Software Development Kit",
+      "article_url": "https://thequantuminsider.com/2026/11/17/qudora-integrates-nvidia-cuda-q-quantum-software-development-kit/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 15:02:20 +0000",
+      "added_at": "2026-11-17T16:10:37.457385+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Alphabet 旗下 Intersect 预留 1.5GW 固态变压器产能,电力转换设备成为被提前锁定的瓶颈,利好变压器、SiC 功率半导体与储能(Heron 2027 年底才量产)",
+      "article_title": "Intersect signs 1.5GW transformer supply deal with Heron Power",
+      "article_url": "https://www.datacenterdynamics.com/en/news/intersect-signs-15gw-transformer-supply-deal-with-heron-power/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 15:26:51 +0000",
+      "added_at": "2026-11-17T16:10:37.958533+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "hyperscaler 向电力供应链上游整合以加快 speed to power,缓解数据中心扩张的物理约束,属间接利好",
+      "article_title": "Intersect signs 1.5GW transformer supply deal with Heron Power",
+      "article_url": "https://www.datacenterdynamics.com/en/news/intersect-signs-15gw-transformer-supply-deal-with-heron-power/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 15:26:51 +0000",
+      "added_at": "2026-11-17T16:10:38.205895+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "欧洲托管去化首次超过供给、选址向电力充足的米兰迁移,爱尔兰要求新数据中心自带全额现场发电与储能,利好现场发电与储能设备",
+      "article_title": "CBRE: Milan set to overtake Dublin as fifth-largest data center market in Europe by 2028",
+      "article_url": "https://www.datacenterdynamics.com/en/news/cbre-milan-set-to-overtake-dublin-as-fifth-largest-data-center-market-in-europe-by-2028/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 15:21:18 +0000",
+      "added_at": "2026-11-17T16:10:38.670033+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 基础设施需求推动欧洲空置率降至 10.3%,供需偏紧支撑托管价格,但电网接入仍是扩张瓶颈",
+      "article_title": "CBRE: Milan set to overtake Dublin as fifth-largest data center market in Europe by 2028",
+      "article_url": "https://www.datacenterdynamics.com/en/news/cbre-milan-set-to-overtake-dublin-as-fifth-largest-data-center-market-in-europe-by-2028/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 15:21:18 +0000",
+      "added_at": "2026-11-17T16:10:38.907369+00:00"
     }
   ]
 }
