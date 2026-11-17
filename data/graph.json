@@ -413,9 +413,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 25,
+      "mentions": 26,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T19:10:33.495315+00:00"
+      "last_seen": "2026-11-17T14:12:05.837864+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -1906,15 +1906,18 @@
     "simaai": {
       "name": "SiMa.ai, Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "physical AI edge SoC (Modalix MLSoC) + Palette software"
+      ],
       "sector_tags": [
-        "edge AI板块"
+        "edge AI板块",
+        "机器人板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-08-06T04:58:40.050696+00:00"
+      "last_seen": "2026-11-17T14:12:05.837864+00:00"
     },
     "axelera ai bv": {
       "name": "Axelera AI B.V.",
@@ -6716,9 +6719,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-11T06:19:42.857993+00:00",
-      "last_seen": "2026-11-11T06:19:42.857993+00:00"
+      "last_seen": "2026-11-17T14:12:02.702650+00:00"
     },
     "photondelta": {
       "name": "PhotonDelta",
@@ -10638,6 +10641,293 @@
       "mentions": 1,
       "first_seen": "2026-11-17T13:11:18.587623+00:00",
       "last_seen": "2026-11-17T13:11:18.587623+00:00"
+    },
+    "telia": {
+      "name": "Telia",
+      "type": "company",
+      "sectors": [
+        "Nordic/Baltic telecom operator"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:01.977494+00:00",
+      "last_seen": "2026-11-17T14:12:01.977494+00:00"
+    },
+    "nokia": {
+      "name": "Nokia",
+      "type": "company",
+      "sectors": [
+        "telecom equipment / 5G base stations"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": "NOK",
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:01.977494+00:00",
+      "last_seen": "2026-11-17T14:12:01.977494+00:00"
+    },
+    "qmill": {
+      "name": "QMill",
+      "type": "company",
+      "sectors": [
+        "quantum algorithms / quantum-powered key exchange (Finland)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:01.977494+00:00",
+      "last_seen": "2026-11-17T14:12:01.977494+00:00"
+    },
+    "artilux": {
+      "name": "Artilux",
+      "type": "company",
+      "sectors": [
+        "GeSi photodetectors / CMOS-compatible sensing (Taiwan)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:02.702650+00:00",
+      "last_seen": "2026-11-17T14:12:02.702650+00:00"
+    },
+    "brillink": {
+      "name": "Brillink",
+      "type": "company",
+      "sectors": [
+        "photonic packaging & testing (Artilux affiliate)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:02.702650+00:00",
+      "last_seen": "2026-11-17T14:12:02.702650+00:00"
+    },
+    "netherlands enterprise agency rvo": {
+      "name": "Netherlands Enterprise Agency (RVO)",
+      "type": "institution",
+      "sectors": [
+        "Dutch government innovation funding agency"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:02.702650+00:00",
+      "last_seen": "2026-11-17T14:12:02.702650+00:00"
+    },
+    "taiwan industrial development administration": {
+      "name": "Taiwan Industrial Development Administration",
+      "type": "institution",
+      "sectors": [
+        "Taiwan industrial policy agency"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:02.702650+00:00",
+      "last_seen": "2026-11-17T14:12:02.702650+00:00"
+    },
+    "qluster": {
+      "name": "Qluster",
+      "type": "company",
+      "sectors": [
+        "continuous-variable photonic quantum computing (Paris)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:03.245205+00:00",
+      "last_seen": "2026-11-17T14:12:03.245205+00:00"
+    },
+    "quantonation": {
+      "name": "Quantonation",
+      "type": "company",
+      "sectors": [
+        "quantum/deep-physics venture fund"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:03.245205+00:00",
+      "last_seen": "2026-11-17T14:12:03.245205+00:00"
+    },
+    "bpifrance": {
+      "name": "Bpifrance",
+      "type": "institution",
+      "sectors": [
+        "French public investment bank"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:03.245205+00:00",
+      "last_seen": "2026-11-17T14:12:03.245205+00:00"
+    },
+    "quantum launchpad": {
+      "name": "Quantum Launchpad",
+      "type": "institution",
+      "sectors": [
+        "quantum startup incubator"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:03.245205+00:00",
+      "last_seen": "2026-11-17T14:12:03.245205+00:00"
+    },
+    "laboratoire kastler brossel": {
+      "name": "Laboratoire Kastler Brossel",
+      "type": "institution",
+      "sectors": [
+        "quantum optics research lab"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:03.245205+00:00",
+      "last_seen": "2026-11-17T14:12:03.245205+00:00"
+    },
+    "planckian": {
+      "name": "Planckian",
+      "type": "company",
+      "sectors": [
+        "superconducting quantum processors with shared control lines"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:03.725041+00:00",
+      "last_seen": "2026-11-17T14:12:03.725041+00:00"
+    },
+    "european innovation council": {
+      "name": "European Innovation Council",
+      "type": "institution",
+      "sectors": [
+        "EU innovation funding body / EIC Fund"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:03.725041+00:00",
+      "last_seen": "2026-11-17T14:12:03.725041+00:00"
+    },
+    "robert bosch gmbh": {
+      "name": "Robert Bosch GmbH",
+      "type": "company",
+      "sectors": [
+        "auto Tier 1 / industrial technology"
+      ],
+      "sector_tags": [
+        "edge AI板块",
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:05.837864+00:00",
+      "last_seen": "2026-11-17T14:12:05.837864+00:00"
+    },
+    "emerson electric": {
+      "name": "Emerson Electric",
+      "type": "company",
+      "sectors": [
+        "industrial automation"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": "EMR",
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:05.837864+00:00",
+      "last_seen": "2026-11-17T14:12:05.837864+00:00"
+    },
+    "synopsys": {
+      "name": "Synopsys",
+      "type": "company",
+      "sectors": [
+        "EDA / semiconductor IP"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": "SNPS",
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:05.837864+00:00",
+      "last_seen": "2026-11-17T14:12:05.837864+00:00"
+    },
+    "fidelity management research": {
+      "name": "Fidelity Management & Research",
+      "type": "company",
+      "sectors": [
+        "asset manager"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:05.837864+00:00",
+      "last_seen": "2026-11-17T14:12:05.837864+00:00"
+    },
+    "amplify partners": {
+      "name": "Amplify Partners",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T14:12:05.837864+00:00",
+      "last_seen": "2026-11-17T14:12:05.837864+00:00"
     }
   },
   "edges": [
@@ -24666,6 +24956,291 @@
           "added_at": "2026-11-17T13:11:18.587623+00:00"
         }
       ]
+    },
+    {
+      "source": "qmill",
+      "target": "nokia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "QMill 的量子驱动密钥交换与可验证量子随机数方案集成进 Nokia 5G 基站软件完成 PoC",
+          "article_title": "Telia, Nokia And QMill Demonstrate Quantum-Powered Encryption in a 5G Network",
+          "article_url": "https://thequantuminsider.com/2026/11/17/telia-nokia-and-qmill-demonstrate-quantum-powered-encryption-in-a-5g-network/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:50:29 +0000",
+          "added_at": "2026-11-17T14:12:01.977494+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qmill",
+      "target": "telia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "在 Telia Finland 5G 创新环境中演示量子驱动加密;双方 2026 年 5 月曾发布量子增强消息加密方法",
+          "article_title": "Telia, Nokia And QMill Demonstrate Quantum-Powered Encryption in a 5G Network",
+          "article_url": "https://thequantuminsider.com/2026/11/17/telia-nokia-and-qmill-demonstrate-quantum-powered-encryption-in-a-5g-network/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:50:29 +0000",
+          "added_at": "2026-11-17T14:12:01.977494+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nokia",
+      "target": "telia",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Nokia 5G 基站软件在 Telia Finland 的 5G 网络中用于本次 PoC",
+          "article_title": "Telia, Nokia And QMill Demonstrate Quantum-Powered Encryption in a 5G Network",
+          "article_url": "https://thequantuminsider.com/2026/11/17/telia-nokia-and-qmill-demonstrate-quantum-powered-encryption-in-a-5g-network/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:50:29 +0000",
+          "added_at": "2026-11-17T14:12:01.977494+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quix quantum",
+      "target": "artilux",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "QSPAD 项目(2027–2029):Artilux 的 GeSi 单光子雪崩二极管阵列与 QuiX 氮化硅光子芯片共集成,实现近室温单光子探测",
+          "article_title": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
+          "article_url": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:42:28 +0000",
+          "added_at": "2026-11-17T14:12:02.702650+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quix quantum",
+      "target": "brillink",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Brillink 负责 QSPAD 项目的光子集成封装与测试",
+          "article_title": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
+          "article_url": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:42:28 +0000",
+          "added_at": "2026-11-17T14:12:02.702650+00:00"
+        }
+      ]
+    },
+    {
+      "source": "artilux",
+      "target": "brillink",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Brillink 为 Artilux 的关联公司",
+          "article_title": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
+          "article_url": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:42:28 +0000",
+          "added_at": "2026-11-17T14:12:02.702650+00:00"
+        }
+      ]
+    },
+    {
+      "source": "netherlands enterprise agency rvo",
+      "target": "quix quantum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "通过 TechBridge Taiwan 2026 光子集成电路计划资助 QSPAD 项目",
+          "article_title": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
+          "article_url": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:42:28 +0000",
+          "added_at": "2026-11-17T14:12:02.702650+00:00"
+        }
+      ]
+    },
+    {
+      "source": "taiwan industrial development administration",
+      "target": "artilux",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "与 RVO 联合的 TechBridge Taiwan 计划资助 QSPAD 台湾方",
+          "article_title": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
+          "article_url": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:42:28 +0000",
+          "added_at": "2026-11-17T14:12:02.702650+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantonation",
+      "target": "qluster",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Qluster 470 万欧元 pre-seed 轮",
+          "article_title": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
+          "article_url": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:38:47 +0000",
+          "added_at": "2026-11-17T14:12:03.245205+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bpifrance",
+      "target": "qluster",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "支持 Qluster 470 万欧元 pre-seed 轮",
+          "article_title": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
+          "article_url": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:38:47 +0000",
+          "added_at": "2026-11-17T14:12:03.245205+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantum launchpad",
+      "target": "qluster",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "支持 pre-seed 轮,并自公司成立起提供孵化支持",
+          "article_title": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
+          "article_url": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:38:47 +0000",
+          "added_at": "2026-11-17T14:12:03.245205+00:00"
+        }
+      ]
+    },
+    {
+      "source": "laboratoire kastler brossel",
+      "target": "qluster",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Qluster 为该实验室衍生公司,核心专利微型光子源源自实验室研究",
+          "article_title": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
+          "article_url": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:38:47 +0000",
+          "added_at": "2026-11-17T14:12:03.245205+00:00"
+        }
+      ]
+    },
+    {
+      "source": "european innovation council",
+      "target": "planckian",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "EIC Accelerator:250 万欧元赠款 + EIC 基金计划 750 万欧元股权投资(随 A 轮、需尽调)",
+          "article_title": "Planckian Selected for €10 Million in EIC Support for Quantum Hardware",
+          "article_url": "https://thequantuminsider.com/2026/11/17/planckian-selected-for-e10-million-in-eic-support-for-quantum-hardware/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 12:31:04 +0000",
+          "added_at": "2026-11-17T14:12:03.725041+00:00"
+        }
+      ]
+    },
+    {
+      "source": "robert bosch gmbh",
+      "target": "simaai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "文章列为 SiMa.ai 的知名客户/合作伙伴",
+          "article_title": "SiMa.ai’s Palette 3.0 runs many AI models on one chip and lifts throughput up to 3.5 times",
+          "article_url": "https://siliconangle.com/2026/11/17/sima-ais-palette-3-0-runs-many-ai-models-on-one-chip-and-lifts-throughput-up-to-3-5-times/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 14:00:15 +0000",
+          "added_at": "2026-11-17T14:12:05.837864+00:00"
+        }
+      ]
+    },
+    {
+      "source": "emerson electric",
+      "target": "simaai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "文章列为 SiMa.ai 的知名客户/合作伙伴",
+          "article_title": "SiMa.ai’s Palette 3.0 runs many AI models on one chip and lifts throughput up to 3.5 times",
+          "article_url": "https://siliconangle.com/2026/11/17/sima-ais-palette-3-0-runs-many-ai-models-on-one-chip-and-lifts-throughput-up-to-3-5-times/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 14:00:15 +0000",
+          "added_at": "2026-11-17T14:12:05.837864+00:00"
+        }
+      ]
+    },
+    {
+      "source": "synopsys",
+      "target": "simaai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "文章列为 SiMa.ai 的知名客户/合作伙伴",
+          "article_title": "SiMa.ai’s Palette 3.0 runs many AI models on one chip and lifts throughput up to 3.5 times",
+          "article_url": "https://siliconangle.com/2026/11/17/sima-ais-palette-3-0-runs-many-ai-models-on-one-chip-and-lifts-throughput-up-to-3-5-times/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 14:00:15 +0000",
+          "added_at": "2026-11-17T14:12:05.837864+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fidelity management research",
+      "target": "simaai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "9 月共同领投 SiMa.ai 1.5 亿美元 C 轮(估值 14.5 亿美元)",
+          "article_title": "SiMa.ai’s Palette 3.0 runs many AI models on one chip and lifts throughput up to 3.5 times",
+          "article_url": "https://siliconangle.com/2026/11/17/sima-ais-palette-3-0-runs-many-ai-models-on-one-chip-and-lifts-throughput-up-to-3-5-times/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 14:00:15 +0000",
+          "added_at": "2026-11-17T14:12:05.837864+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amplify partners",
+      "target": "simaai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "9 月共同领投 SiMa.ai 1.5 亿美元 C 轮",
+          "article_title": "SiMa.ai’s Palette 3.0 runs many AI models on one chip and lifts throughput up to 3.5 times",
+          "article_url": "https://siliconangle.com/2026/11/17/sima-ais-palette-3-0-runs-many-ai-models-on-one-chip-and-lifts-throughput-up-to-3-5-times/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 14:00:15 +0000",
+          "added_at": "2026-11-17T14:12:05.837864+00:00"
+        }
+      ]
+    },
+    {
+      "source": "simaai",
+      "target": "openai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Palette 3.0 支持 OpenAI 开源 MoE 模型 GPT-OSS-20B 在 16GB Modalix 模组上运行(技术支持,非商业合作)",
+          "article_title": "SiMa.ai’s Palette 3.0 runs many AI models on one chip and lifts throughput up to 3.5 times",
+          "article_url": "https://siliconangle.com/2026/11/17/sima-ais-palette-3-0-runs-many-ai-models-on-one-chip-and-lifts-throughput-up-to-3-5-times/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 14:00:15 +0000",
+          "added_at": "2026-11-17T14:12:05.837864+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -29087,6 +29662,60 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 17 Nov 2026 12:27:18 +0000",
       "added_at": "2026-11-17T13:11:19.080289+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Telia/Nokia/QMill 在 5G 基站演示 ML-KEM + 量子驱动密钥交换 + 可验证量子随机数,为 NISQ 量子云找到按调用收费的潜在用途,利好电信设备商的量子安全差异化;新算法 90 天从概念到 PoC、无公开安全分析,三方新闻稿自述,信号偏弱",
+      "article_title": "Telia, Nokia And QMill Demonstrate Quantum-Powered Encryption in a 5G Network",
+      "article_url": "https://thequantuminsider.com/2026/11/17/telia-nokia-and-qmill-demonstrate-quantum-powered-encryption-in-a-5g-network/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 12:50:29 +0000",
+      "added_at": "2026-11-17T14:12:02.216369+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "QuiX 与 Artilux/Brillink 的 QSPAD 项目要用 CMOS 兼容 GeSi SPAD 替代需 2.5K 低温的超导纳米线探测器,针对光量子去低温化瓶颈,利好锗硅光电器件与台湾先进封装测试层;项目 2027 年才启动,效率/暗计数目标未披露,为公司自述",
+      "article_title": "QuiX Quantum and Partners Develop Near-Room-Temperature Detectors for Photonic Quantum",
+      "article_url": "https://thequantuminsider.com/2026/11/17/quix-quantum-taiwanese-partners-photonic-detector-project/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 12:42:28 +0000",
+      "added_at": "2026-11-17T14:12:02.947255+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Qluster 获 Quantonation 领投、Bpifrance 支持的 470 万欧元 pre-seed,做连续变量光量子与架构优先设计,目标 2036 年容错;信号在于欧洲公共资本+专业基金持续押注光子路线,对光子供应链利好间接,公司本身距瓶颈突破尚远",
+      "article_title": "Qluster Raises €4.7 Million to Develop a New Generation of Quantum Computers",
+      "article_url": "https://thequantuminsider.com/2026/11/17/qluster-raises-e4-7-million-to-develop-a-new-generation-of-quantum-computers/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 12:38:47 +0000",
+      "added_at": "2026-11-17T14:12:03.486478+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Planckian 获 EIC 1000 万欧元(250 万赠款+750 万股权)做多量子比特共享控制线的超导处理器,直指超导扩展的布线与制冷空间瓶颈;利好制冷机单台价值量,对控制电子学通道数可能是利空;架构效果无量化数据,为公司自述",
+      "article_title": "Planckian Selected for €10 Million in EIC Support for Quantum Hardware",
+      "article_url": "https://thequantuminsider.com/2026/11/17/planckian-selected-for-e10-million-in-eic-support-for-quantum-hardware/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 12:31:04 +0000",
+      "added_at": "2026-11-17T14:12:03.967931+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "SiMa.ai Palette 3.0 在 Modalix 单芯片上并发多模型、跑 GPT-OSS-20B MoE,并用投机解码称 LLM 吞吐最高 3.5 倍,端侧差异化转向编译器与运行时;利好软硬一体的端侧 AI 芯片与 Synopsys 等 EDA/IP 层;性能为公司自述、竞品对比未公开",
+      "article_title": "SiMa.ai’s Palette 3.0 runs many AI models on one chip and lifts throughput up to 3.5 times",
+      "article_url": "https://siliconangle.com/2026/11/17/sima-ais-palette-3-0-runs-many-ai-models-on-one-chip-and-lifts-throughput-up-to-3-5-times/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 14:00:15 +0000",
+      "added_at": "2026-11-17T14:12:06.087482+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "无人机和机器人是 Palette 3.0 首要场景,端侧本地运行 VLM、传感器融合与数字孪生闭环降低自主系统集成验证成本,利好 Bosch、Emerson 等工业落地出口;仍需看到量产订单",
+      "article_title": "SiMa.ai’s Palette 3.0 runs many AI models on one chip and lifts throughput up to 3.5 times",
+      "article_url": "https://siliconangle.com/2026/11/17/sima-ais-palette-3-0-runs-many-ai-models-on-one-chip-and-lifts-throughput-up-to-3-5-times/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 14:00:15 +0000",
+      "added_at": "2026-11-17T14:12:06.336163+00:00"
     }
   ]
 }
