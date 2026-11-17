@@ -249,9 +249,9 @@
         "GPUs / accelerated computing",
         "GPU"
       ],
-      "mentions": 60,
+      "mentions": 62,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00",
+      "last_seen": "2026-11-17T23:11:59.327750+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -398,9 +398,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 20,
+      "mentions": 21,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T20:10:43.635133+00:00"
+      "last_seen": "2026-11-17T23:11:59.327750+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -416,9 +416,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 30,
+      "mentions": 31,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T20:10:43.635133+00:00"
+      "last_seen": "2026-11-17T23:11:59.826200+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -446,9 +446,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 23,
+      "mentions": 24,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T17:11:17.049588+00:00"
+      "last_seen": "2026-11-17T23:11:59.327750+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -483,9 +483,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 41,
+      "mentions": 43,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T20:10:43.635133+00:00"
+      "last_seen": "2026-11-17T23:11:59.826200+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -502,9 +502,9 @@
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T18:11:19.020102+00:00"
+      "last_seen": "2026-11-17T23:11:59.327750+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
@@ -549,9 +549,9 @@
       ],
       "hot": "hot",
       "ticker": "TSM",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T15:11:59.119998+00:00"
+      "last_seen": "2026-11-17T23:11:59.327750+00:00"
     },
     "coreweave": {
       "name": "CoreWeave",
@@ -778,15 +778,17 @@
     "rocket lab": {
       "name": "Rocket Lab",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "launch services / spacecraft manufacturing"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "RKLB",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-17T23:11:57.629500+00:00"
     },
     "boeing": {
       "name": "Boeing",
@@ -1781,9 +1783,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 20,
+      "mentions": 21,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T19:10:21.279361+00:00"
+      "last_seen": "2026-11-17T23:11:59.327750+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1844,9 +1846,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 42,
+      "mentions": 43,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T20:10:43.635133+00:00"
+      "last_seen": "2026-11-17T23:11:59.327750+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -1887,9 +1889,9 @@
       ],
       "hot": "hot",
       "ticker": "MU",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-13T06:17:15.080267+00:00"
+      "last_seen": "2026-11-17T23:11:59.327750+00:00"
     },
     "ambarella": {
       "name": "Ambarella, Inc.",
@@ -2682,9 +2684,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 11,
+      "mentions": 12,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-11-16T20:10:10.600253+00:00"
+      "last_seen": "2026-11-17T23:11:57.629500+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -2717,16 +2719,17 @@
       "type": "company",
       "sectors": [
         "open model hub",
-        "open-source AI platform"
+        "open-source AI platform",
+        "open-source AI model platform"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-09T05:41:43.395872+00:00",
-      "last_seen": "2026-11-13T23:09:29.373228+00:00"
+      "last_seen": "2026-11-17T23:11:58.365535+00:00"
     },
     "servicenow": {
       "name": "ServiceNow",
@@ -11670,16 +11673,17 @@
       "name": "OpenRouter",
       "type": "company",
       "sectors": [
-        "AI model router"
+        "AI model router",
+        "model routing / inference marketplace"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T19:10:21.770682+00:00",
-      "last_seen": "2026-11-17T19:10:21.770682+00:00"
+      "last_seen": "2026-11-17T23:11:58.365535+00:00"
     },
     "sqwish": {
       "name": "Sqwish",
@@ -11947,6 +11951,52 @@
       "mentions": 1,
       "first_seen": "2026-11-17T21:11:21.777206+00:00",
       "last_seen": "2026-11-17T21:11:21.777206+00:00"
+    },
+    "motiv space systems": {
+      "name": "Motiv Space Systems",
+      "type": "company",
+      "sectors": [
+        "space robotics"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T23:11:57.629500+00:00",
+      "last_seen": "2026-11-17T23:11:57.629500+00:00"
+    },
+    "iqps": {
+      "name": "iQPS",
+      "type": "company",
+      "sectors": [
+        "SAR satellite imaging"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T23:11:57.629500+00:00",
+      "last_seen": "2026-11-17T23:11:57.629500+00:00"
+    },
+    "basis": {
+      "name": "Basis",
+      "type": "company",
+      "sectors": [
+        "accounting AI"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T23:11:59.826200+00:00",
+      "last_seen": "2026-11-17T23:11:59.826200+00:00"
     }
   },
   "edges": [
@@ -12267,6 +12317,14 @@
           "source_name": "SiliconANGLE",
           "published": "Fri, 30 Oct 2026 00:25:20 +0000",
           "added_at": "2026-11-02T01:41:23.331321+00:00"
+        },
+        {
+          "description": "Amazon 通过可转换本票在 IPO 后持有 Anthropic 14.7% 无投票权股份,若全部转换可达 23.8%",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -12305,6 +12363,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 10 Nov 2026 14:01:39 +0000",
           "added_at": "2026-11-11T06:19:48.192568+00:00"
+        },
+        {
+          "description": "Google 通过本票转换和 IPO 私募将持有 Anthropic 13.7% 无投票权股份,私募认购 100 亿美元",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -12328,6 +12394,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 10 Nov 2026 14:01:39 +0000",
           "added_at": "2026-11-11T06:19:48.192568+00:00"
+        },
+        {
+          "description": "Microsoft 参与 Anthropic IPO 中 260 亿美元无投票权股票私募",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -12367,6 +12441,14 @@
           "source_name": "SiliconANGLE",
           "published": "Thu, 12 Nov 2026 14:55:04 +0000",
           "added_at": "2026-11-13T06:17:09.837038+00:00"
+        },
+        {
+          "description": "英伟达在 Anthropic IPO 私募中认购 100 亿美元无投票权股票",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -12816,6 +12898,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 11 Nov 2026 16:14:44 +0000",
           "added_at": "2026-11-12T04:06:43.035329+00:00"
+        },
+        {
+          "description": "OpenAI 称 GPT-6.2 Astra 在 Agents' Last Exam 上比 Claude Fable 5.2 高 5.5 分,成本仅 5%(厂商自测)",
+          "article_title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+          "article_url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 22:39:29 +0000",
+          "added_at": "2026-11-17T23:11:59.826200+00:00"
         }
       ]
     },
@@ -16099,6 +16189,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 22:43:00 +0000",
           "added_at": "2026-11-13T23:09:29.373228+00:00"
+        },
+        {
+          "description": "英伟达 9 月同意以 129 亿美元收购 Hugging Face,临时 CEO Kress 在财报会上表示交易仍按计划推进",
+          "article_title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+          "article_url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 23:04:35 +0000",
+          "added_at": "2026-11-17T23:11:58.365535+00:00"
         }
       ]
     },
@@ -19899,6 +19997,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 11 Nov 2026 12:19:07 +0000",
           "added_at": "2026-11-12T04:06:41.415270+00:00"
+        },
+        {
+          "description": "Anthropic 承诺未来十年在 AWS 云服务上支出超过 1000 亿美元",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -20660,6 +20766,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 10 Nov 2026 14:01:39 +0000",
           "added_at": "2026-11-11T06:19:48.192568+00:00"
+        },
+        {
+          "description": "AMD 参与 Anthropic IPO 中 260 亿美元无投票权股票私募",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -20675,6 +20789,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 10 Nov 2026 14:01:39 +0000",
           "added_at": "2026-11-11T06:19:48.192568+00:00"
+        },
+        {
+          "description": "Broadcom 参与 Anthropic IPO 中 260 亿美元无投票权股票私募",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -20690,6 +20812,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 10 Nov 2026 14:01:39 +0000",
           "added_at": "2026-11-11T06:19:48.192568+00:00"
+        },
+        {
+          "description": "Micron 参与 Anthropic IPO 中 260 亿美元无投票权股票私募",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -20705,6 +20835,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 10 Nov 2026 14:01:39 +0000",
           "added_at": "2026-11-11T06:19:48.192568+00:00"
+        },
+        {
+          "description": "TSMC Partners 参与 Anthropic IPO 中 260 亿美元无投票权股票私募",
+          "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+          "added_at": "2026-11-17T23:11:59.327750+00:00"
         }
       ]
     },
@@ -27765,6 +27903,66 @@
           "added_at": "2026-11-17T21:11:21.777206+00:00"
         }
       ]
+    },
+    {
+      "source": "rocket lab",
+      "target": "motiv space systems",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Rocket Lab 于 2026 年 5 月收购机器人公司 Motiv Space Systems,扩展在轨服务能力",
+          "article_title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Tue, 17 Nov 2026 22:24:58 +0000",
+          "added_at": "2026-11-17T23:11:57.629500+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rocket lab",
+      "target": "nasa",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Rocket Lab Robotics 与 NASA 合作开发可在航天器表面行走、执行在轨维修的机械臂,计划 2027 年底随 NASA FFR 演示任务发射",
+          "article_title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Tue, 17 Nov 2026 22:24:58 +0000",
+          "added_at": "2026-11-17T23:11:57.629500+00:00"
+        }
+      ]
+    },
+    {
+      "source": "iqps",
+      "target": "rocket lab",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Electron 第 100 次任务把 iQPS 的 YAMATSUMI-II 合成孔径雷达卫星送入近地轨道",
+          "article_title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Tue, 17 Nov 2026 22:24:58 +0000",
+          "added_at": "2026-11-17T23:11:57.629500+00:00"
+        }
+      ]
+    },
+    {
+      "source": "basis",
+      "target": "openai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "会计 AI 初创公司 Basis 作为 GPT-6.2 Astra 早期测试方,称长周期会计工作平均用时下降 50%",
+          "article_title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+          "article_url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 22:39:29 +0000",
+          "added_at": "2026-11-17T23:11:59.826200+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -32573,6 +32771,78 @@
       "source_name": "TechCrunch - AI",
       "published": "Tue, 17 Nov 2026 21:48:07 +0000",
       "added_at": "2026-11-17T22:09:39.525649+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Electron 完成第100次任务、积压订单达35.7亿美元且Neutron已订16次任务,瓶颈在Neutron工程交付,Rocket Lab及商业SAR遥感/小卫星星座受益,首飞不早于2027年需跟踪测试节点",
+      "article_title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Tue, 17 Nov 2026 22:24:58 +0000",
+      "added_at": "2026-11-17T23:11:57.864560+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Rocket Lab 收购 Motiv 后与 NASA 开发在轨维修机械臂,2027年底随FFR任务演示ORU安装,在轨服务机器人方向有了具体验证节点,但仍属早期技术演示",
+      "article_title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Tue, 17 Nov 2026 22:24:58 +0000",
+      "added_at": "2026-11-17T23:11:58.107686+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英伟达临时CEO重申开源模型战略,Hugging Face 129亿美元收购按计划推进,OpenRouter token量同比35倍显示开放模型推理需求快速增长,利好GPU与推理云,收购审批与治理是风险",
+      "article_title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+      "article_url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 17 Nov 2026 23:04:35 +0000",
+      "added_at": "2026-11-17T23:11:58.616432+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英伟达董事会明确不让黄仁勋复职,消除回归不确定性、降低监管尾部风险,偏中性;瓶颈在监管信任与永久CEO人选,需求端暂未受影响,供应链订单节奏为关键",
+      "article_title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "article_url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 17 Nov 2026 22:42:27 +0000",
+      "added_at": "2026-11-17T23:11:59.082686+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Amazon(14.7%,可至23.8%)与Google(13.7%)合计持有Anthropic近30%,加上AWS超千亿美元十年算力承诺,云厂商与私募名单中的芯片/存储供应商是循环结构中最直接的受益层",
+      "article_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "article_url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 17 Nov 2026 22:29:05 +0000",
+      "added_at": "2026-11-17T23:11:59.580124+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "GPT-6.2 Astra 以不到前代三分之一成本超越前代(厂商自测),单位任务成本下降利好推理算力与垂直行业agent应用;模型略去障碍的对齐问题凸显agent审计层需求,模型公司利润率承压",
+      "article_title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+      "article_url": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 22:39:29 +0000",
+      "added_at": "2026-11-17T23:12:00.074245+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Dell(赞助访谈,数据未经验证)发布直接液冷存储节点与软件定义存储,agent小I/O负载利好企业级NVMe SSD与液冷基础设施,整机厂竞争激烈",
+      "article_title": "Dell bets liquid-cooled, software-defined storage can keep AI factories fed",
+      "article_url": "https://siliconangle.com/2026/11/17/poweredge-nodes-turn-software-defined-storage-ai-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 22:36:27 +0000",
+      "added_at": "2026-11-17T23:12:00.555324+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "AI工厂规划100%液冷、液冷延伸到存储,高密度散热瓶颈带动液冷CDU、冷板等能效基础设施需求(厂商自述,未经独立验证)",
+      "article_title": "Dell bets liquid-cooled, software-defined storage can keep AI factories fed",
+      "article_url": "https://siliconangle.com/2026/11/17/poweredge-nodes-turn-software-defined-storage-ai-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 22:36:27 +0000",
+      "added_at": "2026-11-17T23:12:00.797189+00:00"
     }
   ]
 }
