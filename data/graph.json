@@ -2593,16 +2593,17 @@
       "name": "Thinking Machines",
       "type": "company",
       "sectors": [
-        "frontier AI models"
+        "frontier AI models",
+        "AI lab / fine-tuning"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T06:04:43.700727+00:00",
-      "last_seen": "2026-11-09T06:06:12.402871+00:00"
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
     },
     "safe superintelligence": {
       "name": "Safe Superintelligence Inc",
@@ -6596,9 +6597,9 @@
       ],
       "hot": null,
       "ticker": "SNOW",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:47.511744+00:00",
-      "last_seen": "2026-11-10T05:12:47.511744+00:00"
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
     },
     "nominal": {
       "name": "Nominal",
@@ -7506,9 +7507,9 @@
       ],
       "hot": "hot",
       "ticker": "CSCO",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-13T06:17:15.584969+00:00",
-      "last_seen": "2026-11-16T17:10:41.196908+00:00"
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
     },
     "hitachi": {
       "name": "Hitachi",
@@ -10063,6 +10064,155 @@
       "mentions": 1,
       "first_seen": "2026-11-16T22:10:32.137346+00:00",
       "last_seen": "2026-11-16T22:10:32.137346+00:00"
+    },
+    "corma": {
+      "name": "Corma",
+      "type": "company",
+      "sectors": [
+        "cybersecurity foundation models"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:18.947671+00:00",
+      "last_seen": "2026-11-17T00:10:18.947671+00:00"
+    },
+    "nea": {
+      "name": "NEA",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 2,
+      "first_seen": "2026-11-17T00:10:18.947671+00:00",
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+    },
+    "khosla ventures": {
+      "name": "Khosla Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:18.947671+00:00",
+      "last_seen": "2026-11-17T00:10:18.947671+00:00"
+    },
+    "coatue": {
+      "name": "Coatue",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:18.947671+00:00",
+      "last_seen": "2026-11-17T00:10:18.947671+00:00"
+    },
+    "sequoia capital": {
+      "name": "Sequoia Capital",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:18.947671+00:00",
+      "last_seen": "2026-11-17T00:10:18.947671+00:00"
+    },
+    "noeri": {
+      "name": "Noeri",
+      "type": "company",
+      "sectors": [
+        "self-improving enterprise AI / agent orchestration"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:19.451376+00:00",
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+    },
+    "menlo ventures": {
+      "name": "Menlo Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:19.451376+00:00",
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+    },
+    "madrona ventures": {
+      "name": "Madrona Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:19.451376+00:00",
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+    },
+    "kindred ventures": {
+      "name": "Kindred Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:19.451376+00:00",
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+    },
+    "wing venture capital": {
+      "name": "Wing Venture Capital",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:19.451376+00:00",
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+    },
+    "applied compute": {
+      "name": "Applied Compute",
+      "type": "company",
+      "sectors": [
+        "enterprise model fine-tuning"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T00:10:19.451376+00:00",
+      "last_seen": "2026-11-17T00:10:19.451376+00:00"
     }
   },
   "edges": [
@@ -23483,6 +23633,201 @@
           "added_at": "2026-11-16T22:10:32.137346+00:00"
         }
       ]
+    },
+    {
+      "source": "nea",
+      "target": "corma",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "NEA 领投 Corma 1.25 亿美元 A 轮,估值 10 亿美元",
+          "article_title": "Corma raises $125M to train cybersecurity-optimized foundation models",
+          "article_url": "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:48:10 +0000",
+          "added_at": "2026-11-17T00:10:18.947671+00:00"
+        }
+      ]
+    },
+    {
+      "source": "khosla ventures",
+      "target": "corma",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Khosla Ventures 作为老股东跟投 Corma A 轮",
+          "article_title": "Corma raises $125M to train cybersecurity-optimized foundation models",
+          "article_url": "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:48:10 +0000",
+          "added_at": "2026-11-17T00:10:18.947671+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coatue",
+      "target": "corma",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Coatue 作为老股东跟投 Corma A 轮",
+          "article_title": "Corma raises $125M to train cybersecurity-optimized foundation models",
+          "article_url": "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:48:10 +0000",
+          "added_at": "2026-11-17T00:10:18.947671+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sequoia capital",
+      "target": "corma",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Sequoia Capital 作为老股东跟投 Corma A 轮",
+          "article_title": "Corma raises $125M to train cybersecurity-optimized foundation models",
+          "article_url": "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:48:10 +0000",
+          "added_at": "2026-11-17T00:10:18.947671+00:00"
+        }
+      ]
+    },
+    {
+      "source": "menlo ventures",
+      "target": "noeri",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Menlo Ventures 领投 Noeri 1.1 亿美元首轮融资",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
+    },
+    {
+      "source": "madrona ventures",
+      "target": "noeri",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Madrona Ventures 参投 Noeri",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kindred ventures",
+      "target": "noeri",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Kindred Ventures 参投 Noeri",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
+    },
+    {
+      "source": "wing venture capital",
+      "target": "noeri",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Wing Venture Capital 参投 Noeri",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nea",
+      "target": "noeri",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "NEA 参投 Noeri",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
+    },
+    {
+      "source": "snowflake",
+      "target": "noeri",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Snowflake 参投 Noeri 1.1 亿美元融资",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cisco systems",
+      "target": "noeri",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Cisco Ventures 参投 Noeri 1.1 亿美元融资",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
+    },
+    {
+      "source": "noeri",
+      "target": "thinking machines",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者都主张多模型未来,Thinking Machines 以 Tinker 微调云服务切入,Noeri 以自我改进的编排系统切入",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
+    },
+    {
+      "source": "noeri",
+      "target": "applied compute",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Applied Compute 派工程师驻场帮客户微调 AI 系统,与 Noeri 争夺企业定制化 AI 需求",
+          "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+          "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+          "added_at": "2026-11-17T00:10:19.451376+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -27724,6 +28069,24 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 16 Nov 2026 21:21:09 +0000",
       "added_at": "2026-11-16T22:10:33.589077+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Corma 以 10 亿美元估值融资 1.25 亿美元做网络安全专用基础模型(测试与基准均为公司自报,未经独立验证),说明攻强守弱下垂直防御模型获资本追捧,资金主要用于扩充算力,利好算力与安全数据层",
+      "article_title": "Corma raises $125M to train cybersecurity-optimized foundation models",
+      "article_url": "https://siliconangle.com/2026/11/16/corma-raises-125m-to-train-cybersecurity-optimized-foundation-models/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 16 Nov 2026 23:48:10 +0000",
+      "added_at": "2026-11-17T00:10:19.203150+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Noeri 获 1.1 亿美元押注小模型自蒸馏与 agent 编排的自我改进企业 AI,瓶颈是前沿模型推理成本与锁定风险;利好算力、企业数据平台与开源模型生态,对按 token 收费的前沿 API 有温和定价压力,目前尚无公开客户数据",
+      "article_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+      "article_url": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 16 Nov 2026 23:45:51 +0000",
+      "added_at": "2026-11-17T00:10:19.698340+00:00"
     }
   ]
 }
