@@ -387,7 +387,8 @@
         "cloud / AI",
         "cloud / software",
         "hyperscale cloud",
-        "cloud / hyperscaler"
+        "cloud / hyperscaler",
+        "hyperscaler"
       ],
       "sector_tags": [
         "AI板块",
@@ -395,9 +396,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 16,
+      "mentions": 17,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T16:10:09.732585+00:00"
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -452,7 +453,8 @@
         "social media / AI",
         "social / AI / AR",
         "social / AI",
-        "AI / social"
+        "AI / social",
+        "hyperscaler"
       ],
       "sector_tags": [
         "AI板块",
@@ -460,9 +462,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T18:11:38.859664+00:00"
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -1768,9 +1770,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 18,
+      "mentions": 19,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T18:11:40.272789+00:00"
+      "last_seen": "2026-11-17T15:11:12.258072+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1826,13 +1828,14 @@
         "AI板块",
         "量子计算板块",
         "太空经济板块",
-        "机器人板块"
+        "机器人板块",
+        "能源板块"
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 36,
+      "mentions": 38,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T17:10:41.196908+00:00"
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2347,15 +2350,17 @@
     "fervo energy": {
       "name": "Fervo Energy",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "enhanced geothermal"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "cold",
       "ticker": "FRVO",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
     },
     "standard power": {
       "name": "Standard Power",
@@ -2589,9 +2594,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T05:07:37.450235+00:00",
-      "last_seen": "2026-11-16T14:12:42.654254+00:00"
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
     },
     "thinking machines": {
       "name": "Thinking Machines",
@@ -4330,17 +4335,19 @@
       "sectors": [
         "basic energy sciences funding",
         "US government",
-        "federal agency"
+        "federal agency",
+        "government / energy research"
       ],
       "sector_tags": [
         "能源板块",
-        "量子计算板块"
+        "量子计算板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-10-25T06:05:12.258254+00:00",
-      "last_seen": "2026-11-16T14:12:40.415551+00:00"
+      "last_seen": "2026-11-17T15:11:12.258072+00:00"
     },
     "generative bionics": {
       "name": "Generative Bionics",
@@ -4437,7 +4444,8 @@
       "sectors": [
         "AI neocloud",
         "neocloud",
-        "AI cloud / neocloud"
+        "AI cloud / neocloud",
+        "AI cloud / data centers"
       ],
       "sector_tags": [
         "AI板块",
@@ -4445,9 +4453,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-13T11:09:39.674798+00:00"
+      "last_seen": "2026-11-17T15:11:12.987413+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -5057,7 +5065,8 @@
         "DOE national lab / HPC",
         "DOE national lab",
         "US DOE national lab",
-        "national laboratory / HPC"
+        "national laboratory / HPC",
+        "national lab / supercomputing"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -5065,9 +5074,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-06T07:01:16.365949+00:00",
-      "last_seen": "2026-11-12T04:06:39.295430+00:00"
+      "last_seen": "2026-11-17T15:11:12.258072+00:00"
     },
     "chemours": {
       "name": "Chemours",
@@ -6485,9 +6494,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:46.233917+00:00",
-      "last_seen": "2026-11-10T05:12:46.233917+00:00"
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
     },
     "metr": {
       "name": "METR",
@@ -6803,7 +6812,8 @@
       "name": "EuroHPC Joint Undertaking",
       "type": "institution",
       "sectors": [
-        "EU supercomputing programme"
+        "EU supercomputing programme",
+        "EU HPC funding body"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -6811,9 +6821,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-11T06:19:44.111949+00:00",
-      "last_seen": "2026-11-11T06:19:44.111949+00:00"
+      "last_seen": "2026-11-17T15:11:12.987413+00:00"
     },
     "special competitive studies project": {
       "name": "Special Competitive Studies Project",
@@ -7234,9 +7244,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-12T04:06:43.553496+00:00",
-      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
     },
     "founders fund": {
       "name": "Founders Fund",
@@ -7269,16 +7279,17 @@
       "type": "company",
       "sectors": [
         "Alphabet growth fund",
-        "growth fund (Alphabet)"
+        "growth fund (Alphabet)",
+        "growth equity"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-12T04:06:43.553496+00:00",
-      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
     },
     "uk sovereign ai fund": {
       "name": "UK Sovereign AI Fund",
@@ -10137,9 +10148,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T00:10:18.947671+00:00",
-      "last_seen": "2026-11-17T00:10:18.947671+00:00"
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
     },
     "noeri": {
       "name": "Noeri",
@@ -10646,31 +10657,35 @@
       "name": "Telia",
       "type": "company",
       "sectors": [
-        "Nordic/Baltic telecom operator"
+        "Nordic/Baltic telecom operator",
+        "telecom operator"
       ],
       "sector_tags": [
-        "量子计算板块"
+        "量子计算板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T14:12:01.977494+00:00",
-      "last_seen": "2026-11-17T14:12:01.977494+00:00"
+      "last_seen": "2026-11-17T15:11:12.987413+00:00"
     },
     "nokia": {
       "name": "Nokia",
       "type": "company",
       "sectors": [
-        "telecom equipment / 5G base stations"
+        "telecom equipment / 5G base stations",
+        "network infrastructure"
       ],
       "sector_tags": [
-        "量子计算板块"
+        "量子计算板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": "NOK",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T14:12:01.977494+00:00",
-      "last_seen": "2026-11-17T14:12:01.977494+00:00"
+      "last_seen": "2026-11-17T15:11:12.987413+00:00"
     },
     "qmill": {
       "name": "QMill",
@@ -10928,6 +10943,308 @@
       "mentions": 1,
       "first_seen": "2026-11-17T14:12:05.837864+00:00",
       "last_seen": "2026-11-17T14:12:05.837864+00:00"
+    },
+    "hewlett packard enterprise": {
+      "name": "Hewlett Packard Enterprise",
+      "type": "company",
+      "sectors": [
+        "HPC servers / system integration"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "HPE",
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:12.258072+00:00",
+      "last_seen": "2026-11-17T15:11:12.258072+00:00"
+    },
+    "lux": {
+      "name": "Lux",
+      "type": "product",
+      "sectors": [
+        "AI/HPC supercomputer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:12.258072+00:00",
+      "last_seen": "2026-11-17T15:11:12.258072+00:00"
+    },
+    "genesis mission": {
+      "name": "Genesis Mission",
+      "type": "institution",
+      "sectors": [
+        "DOE AI-for-science initiative"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:12.258072+00:00",
+      "last_seen": "2026-11-17T15:11:12.258072+00:00"
+    },
+    "skeleton": {
+      "name": "Skeleton Technologies",
+      "type": "company",
+      "sectors": [
+        "ultracapacitors / high-power energy storage"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:12.987413+00:00",
+      "last_seen": "2026-11-17T15:11:12.987413+00:00"
+    },
+    "verda": {
+      "name": "Verda",
+      "type": "company",
+      "sectors": [
+        "AI cloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:12.987413+00:00",
+      "last_seen": "2026-11-17T15:11:12.987413+00:00"
+    },
+    "ai gigafactory northern": {
+      "name": "AI Gigafactory Northern",
+      "type": "institution",
+      "sectors": [
+        "AI gigafactory consortium"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:12.987413+00:00",
+      "last_seen": "2026-11-17T15:11:12.987413+00:00"
+    },
+    "quaise energy": {
+      "name": "Quaise Energy",
+      "type": "company",
+      "sectors": [
+        "superhot geothermal / millimeter-wave drilling"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:13.726976+00:00",
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
+    },
+    "ormat": {
+      "name": "Ormat Technologies",
+      "type": "company",
+      "sectors": [
+        "geothermal power"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "ORA",
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:13.726976+00:00",
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
+    },
+    "baseload capital": {
+      "name": "Baseload Capital",
+      "type": "company",
+      "sectors": [
+        "geothermal investment/development"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:13.726976+00:00",
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
+    },
+    "sage geosystems": {
+      "name": "Sage Geosystems",
+      "type": "company",
+      "sectors": [
+        "enhanced geothermal"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:13.726976+00:00",
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
+    },
+    "xgs energy": {
+      "name": "XGS Energy",
+      "type": "company",
+      "sectors": [
+        "enhanced geothermal"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:13.726976+00:00",
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
+    },
+    "contact energy": {
+      "name": "Contact Energy",
+      "type": "company",
+      "sectors": [
+        "utility / geothermal"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:13.726976+00:00",
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
+    },
+    "g42": {
+      "name": "G42",
+      "type": "company",
+      "sectors": [
+        "AI / data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:13.726976+00:00",
+      "last_seen": "2026-11-17T15:11:13.726976+00:00"
+    },
+    "isomorphic labs": {
+      "name": "Isomorphic Labs",
+      "type": "company",
+      "sectors": [
+        "AI drug discovery"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:14.452924+00:00",
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+    },
+    "greenoaks": {
+      "name": "Greenoaks",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:14.452924+00:00",
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+    },
+    "gv": {
+      "name": "GV",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:14.452924+00:00",
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+    },
+    "mgx": {
+      "name": "MGX",
+      "type": "company",
+      "sectors": [
+        "AI investment fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:14.452924+00:00",
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+    },
+    "temasek": {
+      "name": "Temasek",
+      "type": "company",
+      "sectors": [
+        "sovereign investment"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:14.452924+00:00",
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+    },
+    "eli lilly": {
+      "name": "Eli Lilly",
+      "type": "company",
+      "sectors": [
+        "pharma"
+      ],
+      "sector_tags": [],
+      "hot": "hot",
+      "ticker": "LLY",
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:14.452924+00:00",
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+    },
+    "novartis": {
+      "name": "Novartis",
+      "type": "company",
+      "sectors": [
+        "pharma"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "NVS",
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:14.452924+00:00",
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+    },
+    "johnson johnson": {
+      "name": "Johnson & Johnson",
+      "type": "company",
+      "sectors": [
+        "pharma"
+      ],
+      "sector_tags": [],
+      "hot": "hot",
+      "ticker": "JNJ",
+      "mentions": 1,
+      "first_seen": "2026-11-17T15:11:14.452924+00:00",
+      "last_seen": "2026-11-17T15:11:14.452924+00:00"
     }
   },
   "edges": [
@@ -25241,6 +25558,486 @@
           "added_at": "2026-11-17T14:12:05.837864+00:00"
         }
       ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "us department of energy",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AMD 与 DOE 以公私合营方式共同投资 Lux 超算",
+          "article_title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:01:01 +0000",
+          "added_at": "2026-11-17T15:11:12.258072+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "lux",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Lux 采用 AMD Instinct MI355X GPU 和 Epyc CPU",
+          "article_title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:01:01 +0000",
+          "added_at": "2026-11-17T15:11:12.258072+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hewlett packard enterprise",
+      "target": "lux",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Lux 基于 HPE ProLiant Compute XD685 服务器",
+          "article_title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:01:01 +0000",
+          "added_at": "2026-11-17T15:11:12.258072+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oak ridge national laboratory",
+      "target": "lux",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Lux 部署在 ORNL 的 OLCF,一半节点小时对外付费开放",
+          "article_title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:01:01 +0000",
+          "added_at": "2026-11-17T15:11:12.258072+00:00"
+        }
+      ]
+    },
+    {
+      "source": "lux",
+      "target": "genesis mission",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Lux 是 DOE Genesis Mission 的首个大型算力新增,一半算力专供该计划",
+          "article_title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:01:01 +0000",
+          "added_at": "2026-11-17T15:11:12.258072+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of energy",
+      "target": "genesis mission",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Genesis Mission 由 DOE 主导",
+          "article_title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 15:01:01 +0000",
+          "added_at": "2026-11-17T15:11:12.258072+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nokia",
+      "target": "ai gigafactory northern",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Nokia 作为联合体成员提供连接与网络基础设施",
+          "article_title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:40:36 +0000",
+          "added_at": "2026-11-17T15:11:12.987413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nscale",
+      "target": "ai gigafactory northern",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Nscale 作为联合体成员提供云平台与 AI 基础设施经验",
+          "article_title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:40:36 +0000",
+          "added_at": "2026-11-17T15:11:12.987413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "skeleton",
+      "target": "ai gigafactory northern",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Skeleton 作为联合体成员提供高功率系统",
+          "article_title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:40:36 +0000",
+          "added_at": "2026-11-17T15:11:12.987413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "telia",
+      "target": "ai gigafactory northern",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Telia 及 Telia Cygate 提供连接、数据传输、运维与云方案",
+          "article_title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:40:36 +0000",
+          "added_at": "2026-11-17T15:11:12.987413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "verda",
+      "target": "ai gigafactory northern",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Verda 作为联合体成员提供 AI 云能力",
+          "article_title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:40:36 +0000",
+          "added_at": "2026-11-17T15:11:12.987413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ai gigafactory northern",
+      "target": "eurohpc joint undertaking",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "联合体计划参与 EuroHPC 的 AI Gigafactory 招标",
+          "article_title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:40:36 +0000",
+          "added_at": "2026-11-17T15:11:12.987413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "quaise energy",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Google 与 Quaise 签 50MW 地热 PPA,2030 年起为 The Dalles 数据中心供电",
+          "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+          "added_at": "2026-11-17T15:11:13.726976+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "fervo energy",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Google 今年与 Fervo 在犹他签 396MW EGS PPA",
+          "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+          "added_at": "2026-11-17T15:11:13.726976+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "ormat",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Google 今年与 Ormat 在内华达签 150MW 常规地热 PPA",
+          "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+          "added_at": "2026-11-17T15:11:13.726976+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "baseload capital",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Google 在台湾与 Baseload Capital 签 10MW 地热 PPA",
+          "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+          "added_at": "2026-11-17T15:11:13.726976+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meta platforms",
+      "target": "sage geosystems",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Meta 与 Sage 签 150MW EGS 电力协议",
+          "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+          "added_at": "2026-11-17T15:11:13.726976+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meta platforms",
+      "target": "xgs energy",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Meta 与 XGS 签 150MW 新墨西哥 EGS 电力协议",
+          "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+          "added_at": "2026-11-17T15:11:13.726976+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "contact energy",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Microsoft 2023 年与 Contact Energy 签 51MW 十年期 PPA",
+          "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+          "added_at": "2026-11-17T15:11:13.726976+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "g42",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Microsoft 与 G42 在肯尼亚合建纯地热供电数据中心",
+          "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+          "added_at": "2026-11-17T15:11:13.726976+00:00"
+        }
+      ]
+    },
+    {
+      "source": "google deepmind",
+      "target": "isomorphic labs",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Isomorphic Labs 2021 年从 DeepMind 拆分,引擎建立在 AlphaFold 之上",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "greenoaks",
+      "target": "isomorphic labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "联合领投 50 亿美元 C 轮",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sequoia capital",
+      "target": "isomorphic labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "联合领投 50 亿美元 C 轮",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "andreessen horowitz",
+      "target": "isomorphic labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "作为新投资方参与 C 轮",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gv",
+      "target": "isomorphic labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Alphabet 旗下 GV 作为老股东跟投 C 轮",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "capitalg",
+      "target": "isomorphic labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Alphabet 旗下 CapitalG 作为老股东跟投 C 轮",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thrive capital",
+      "target": "isomorphic labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "老股东跟投 C 轮",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mgx",
+      "target": "isomorphic labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "老股东跟投 C 轮",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "temasek",
+      "target": "isomorphic labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "老股东跟投 C 轮",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "isomorphic labs",
+      "target": "eli lilly",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AI 药物发现合作",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "isomorphic labs",
+      "target": "novartis",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AI 药物发现合作",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
+    },
+    {
+      "source": "isomorphic labs",
+      "target": "johnson johnson",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AI 药物发现合作",
+          "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+          "added_at": "2026-11-17T15:11:14.452924+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -29716,6 +30513,69 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 17 Nov 2026 14:00:15 +0000",
       "added_at": "2026-11-17T14:12:06.336163+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "ORNL 的 Lux 超算由 AMD 与 DOE 公私合营共投、一半算力对外收费,科研场景成为独立于企业 AI 落地的算力需求来源,利好 AMD、HBM、存储与 HPE 等 AI 基础设施层",
+      "article_title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 15:01:01 +0000",
+      "added_at": "2026-11-17T15:11:12.497508+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Lux 服务的 Genesis Mission 把能源和材料列为重点科研方向,间接支撑能源技术研发",
+      "article_title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 15:01:01 +0000",
+      "added_at": "2026-11-17T15:11:12.741817+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nokia、Nscale、Telia 等组成 AIGF Northern 联合体竞标 EuroHPC AI Gigafactory,欧洲主权算力带来新增 GPU 与网络需求(尚处投标阶段)",
+      "article_title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 14:40:36 +0000",
+      "added_at": "2026-11-17T15:11:13.238874+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "联合体纳入高功率储能厂商 Skeleton,AI 负载功率波动把高功率储能与配电设备推到前台,北欧低价可再生电力成为选址核心",
+      "article_title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 14:40:36 +0000",
+      "added_at": "2026-11-17T15:11:13.483317+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Google 与 Quaise 签 50MW 超热地热 PPA,hyperscaler 为新型无碳基荷电源提供首批订单,利好地热开发商与油服钻井技术链(2030 年才供电)",
+      "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+      "added_at": "2026-11-17T15:11:13.969554+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "hyperscaler 多线锁定地热等基荷电力,缓解数据中心扩张的电力约束,间接支撑 AI 基础设施扩张",
+      "article_title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 14:31:32 +0000",
+      "added_at": "2026-11-17T15:11:14.207990+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Isomorphic Labs 半年内两轮共融 71 亿美元推进候选药进临床,AI for Science/制药成为独立于企业办公 AI 落地的高价值算力需求,但临床验证尚未开始",
+      "article_title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "article_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 17 Nov 2026 14:50:58 +0000",
+      "added_at": "2026-11-17T15:11:14.698500+00:00"
     }
   ]
 }
