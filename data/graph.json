@@ -415,9 +415,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 26,
+      "mentions": 27,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T14:12:05.837864+00:00"
+      "last_seen": "2026-11-17T18:11:18.536127+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -482,9 +482,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 38,
+      "mentions": 39,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+      "last_seen": "2026-11-17T18:11:18.536127+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -493,16 +493,17 @@
         "semiconductors / networking",
         "custom AI chips / networking",
         "networking / custom ASIC",
-        "custom ASIC / networking silicon"
+        "custom ASIC / networking silicon",
+        "networking silicon"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+      "last_seen": "2026-11-17T18:11:19.020102+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
@@ -1836,9 +1837,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 39,
+      "mentions": 41,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T16:10:37.707122+00:00"
+      "last_seen": "2026-11-17T18:11:18.536127+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -3529,7 +3530,8 @@
       "type": "company",
       "sectors": [
         "frontier AI models (Grok series)",
-        "AI compute / cloud"
+        "AI compute / cloud",
+        "frontier AI lab"
       ],
       "sector_tags": [
         "AI板块",
@@ -3537,9 +3539,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-23T05:51:54.682460+00:00",
-      "last_seen": "2026-11-09T06:06:05.924462+00:00"
+      "last_seen": "2026-11-17T18:11:18.536127+00:00"
     },
     "cursor": {
       "name": "Cursor",
@@ -5430,16 +5432,18 @@
       "type": "company",
       "sectors": [
         "AI networking / Ethernet switching",
-        "networking"
+        "networking",
+        "data center / AI networking"
       ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "edge AI板块"
       ],
       "hot": "hot",
       "ticker": "ANET",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-06T07:01:18.955321+00:00",
-      "last_seen": "2026-11-13T06:17:15.584969+00:00"
+      "last_seen": "2026-11-17T18:11:19.020102+00:00"
     },
     "world labs": {
       "name": "World Labs",
@@ -9507,16 +9511,17 @@
       "name": "Palo Alto Networks",
       "type": "company",
       "sectors": [
-        "cybersecurity / cloud security"
+        "cybersecurity / cloud security",
+        "network security"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "PANW",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T13:10:09.267246+00:00",
-      "last_seen": "2026-11-16T13:10:09.267246+00:00"
+      "last_seen": "2026-11-17T18:11:19.020102+00:00"
     },
     "asrock rack": {
       "name": "ASRock Rack",
@@ -11496,6 +11501,127 @@
       "mentions": 1,
       "first_seen": "2026-11-17T17:11:17.535512+00:00",
       "last_seen": "2026-11-17T17:11:17.535512+00:00"
+    },
+    "enlight renewable energy": {
+      "name": "Enlight Renewable Energy",
+      "type": "company",
+      "sectors": [
+        "renewable energy developer / IPP"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "ENLT",
+      "mentions": 1,
+      "first_seen": "2026-11-17T18:11:17.313897+00:00",
+      "last_seen": "2026-11-17T18:11:17.313897+00:00"
+    },
+    "shemen yielding real estate": {
+      "name": "Shemen Yielding Real Estate",
+      "type": "company",
+      "sectors": [
+        "Israeli industrial real estate"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T18:11:17.313897+00:00",
+      "last_seen": "2026-11-17T18:11:17.313897+00:00"
+    },
+    "vattenfall": {
+      "name": "Vattenfall",
+      "type": "company",
+      "sectors": [
+        "state-owned utility / energy trading"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T18:11:18.047543+00:00",
+      "last_seen": "2026-11-17T18:11:18.047543+00:00"
+    },
+    "kraken": {
+      "name": "Kraken",
+      "type": "company",
+      "sectors": [
+        "AI utility operating system / VPP platform"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T18:11:18.047543+00:00",
+      "last_seen": "2026-11-17T18:11:18.047543+00:00"
+    },
+    "octopus energy": {
+      "name": "Octopus Energy",
+      "type": "company",
+      "sectors": [
+        "UK energy retailer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T18:11:18.047543+00:00",
+      "last_seen": "2026-11-17T18:11:18.047543+00:00"
+    },
+    "schneider electric": {
+      "name": "Schneider Electric",
+      "type": "company",
+      "sectors": [
+        "electrical equipment / grid automation"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "SU.PA",
+      "mentions": 1,
+      "first_seen": "2026-11-17T18:11:18.047543+00:00",
+      "last_seen": "2026-11-17T18:11:18.047543+00:00"
+    },
+    "vals": {
+      "name": "Vals",
+      "type": "company",
+      "sectors": [
+        "AI model evaluation / red-teaming"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T18:11:18.536127+00:00",
+      "last_seen": "2026-11-17T18:11:18.536127+00:00"
+    },
+    "us department of defense": {
+      "name": "U.S. Department of Defense",
+      "type": "institution",
+      "sectors": [
+        "defense"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T18:11:18.536127+00:00",
+      "last_seen": "2026-11-17T18:11:18.536127+00:00"
     }
   },
   "edges": [
@@ -26604,6 +26730,171 @@
           "added_at": "2026-11-17T17:11:17.535512+00:00"
         }
       ]
+    },
+    {
+      "source": "enlight renewable energy",
+      "target": "shemen yielding real estate",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "签署战略合作协议,拟成立 50:50 合资公司在海法 Hof Shemen 开发 150MW 数据中心园区,Enlight 牵头开发建设运营",
+          "article_title": "150MW data center project planned in Haifa, Israel",
+          "article_url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 17:21:56 +0000",
+          "added_at": "2026-11-17T18:11:17.313897+00:00"
+        }
+      ]
+    },
+    {
+      "source": "enlight renewable energy",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "此前与 Google 签署购电协议(PPA)向其供电",
+          "article_title": "150MW data center project planned in Haifa, Israel",
+          "article_url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 17:21:56 +0000",
+          "added_at": "2026-11-17T18:11:17.313897+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kraken",
+      "target": "vattenfall",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "为 Vattenfall 在德国的电网级储能、风电、光伏及共址资产提供云原生控制层,作为虚拟电厂运营,目标共建数吉瓦组合",
+          "article_title": "Swedish energy giant Vattenfall selects Kraken to manage battery and renewable assets in Germany",
+          "article_url": "https://www.datacenterdynamics.com/en/news/swedish-energy-giant-vattenfall-selects-kraken-to-manage-battery-and-renewable-assets-in-germany/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 17:20:31 +0000",
+          "added_at": "2026-11-17T18:11:18.047543+00:00"
+        }
+      ]
+    },
+    {
+      "source": "octopus energy",
+      "target": "kraken",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "2015 年创立 Kraken,2025 年 9 月分拆后仍持股 13.7%",
+          "article_title": "Swedish energy giant Vattenfall selects Kraken to manage battery and renewable assets in Germany",
+          "article_url": "https://www.datacenterdynamics.com/en/news/swedish-energy-giant-vattenfall-selects-kraken-to-manage-battery-and-renewable-assets-in-germany/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 17:20:31 +0000",
+          "added_at": "2026-11-17T18:11:18.047543+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kraken",
+      "target": "schneider electric",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "今年 6 月合作开发帮助配电网运营商监测电网、预测拥堵并实时转移负荷的工具",
+          "article_title": "Swedish energy giant Vattenfall selects Kraken to manage battery and renewable assets in Germany",
+          "article_url": "https://www.datacenterdynamics.com/en/news/swedish-energy-giant-vattenfall-selects-kraken-to-manage-battery-and-renewable-assets-in-germany/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 17:20:31 +0000",
+          "added_at": "2026-11-17T18:11:18.047543+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vals",
+      "target": "anthropic",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Vals 发布前沿模型军事目标识别越狱测评,Anthropic 表示感谢其报告与合作并承认结果不可接受",
+          "article_title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+          "article_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 17:20:41 +0000",
+          "added_at": "2026-11-17T18:11:18.536127+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "us department of defense",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "文章称 OpenAI 目前持有生效的五角大楼合同",
+          "article_title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+          "article_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 17:20:41 +0000",
+          "added_at": "2026-11-17T18:11:18.536127+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacexai",
+      "target": "us department of defense",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "文章称 SpaceXAI 目前持有生效的五角大楼合同",
+          "article_title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+          "article_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 17:20:41 +0000",
+          "added_at": "2026-11-17T18:11:18.536127+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "us department of defense",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "文章称 Google 目前持有生效的五角大楼合同",
+          "article_title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+          "article_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 17:20:41 +0000",
+          "added_at": "2026-11-17T18:11:18.536127+00:00"
+        }
+      ]
+    },
+    {
+      "source": "broadcom",
+      "target": "arista networks",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Arista Etherlink R4 路由平台全部基于 Broadcom Jericho 与 Qumran 芯片",
+          "article_title": "Arista takes aim at the next AI network battleground: distributed inference",
+          "article_url": "https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 17:57:16 +0000",
+          "added_at": "2026-11-17T18:11:19.020102+00:00"
+        }
+      ]
+    },
+    {
+      "source": "palo alto networks",
+      "target": "arista networks",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Arista 表示无意取代防火墙,预期 Palo Alto Networks 继续部署在其分布式推理路由器之后",
+          "article_title": "Arista takes aim at the next AI network battleground: distributed inference",
+          "article_url": "https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 17:57:16 +0000",
+          "added_at": "2026-11-17T18:11:19.020102+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -31241,6 +31532,60 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 17 Nov 2026 16:30:34 +0000",
       "added_at": "2026-11-17T17:11:18.021954+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "可再生能源开发商 Enlight 牵头在海法开发 150MW 数据中心,并网能力成为数据中心核心稀缺资源,拥有发电组合与开发能力的独立发电商向下游延伸受益",
+      "article_title": "150MW data center project planned in Haifa, Israel",
+      "article_url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 17:21:56 +0000",
+      "added_at": "2026-11-17T18:11:17.549599+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "以色列海法 150MW 数据中心园区规划(仅协议与并网申请阶段),AI 算力需求继续带动新增数据中心容量,对算力层属间接利好",
+      "article_title": "150MW data center project planned in Haifa, Israel",
+      "article_url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-project-planned-in-haifa-israel/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 17:21:56 +0000",
+      "added_at": "2026-11-17T18:11:17.798085+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Vattenfall 选用 Kraken 统一调度德国储能与风光资产(700MW+ 储能管线),储能硬件加调度交易软件提升新能源资产收益率,利好储能与电网灵活性层",
+      "article_title": "Swedish energy giant Vattenfall selects Kraken to manage battery and renewable assets in Germany",
+      "article_url": "https://www.datacenterdynamics.com/en/news/swedish-energy-giant-vattenfall-selects-kraken-to-manage-battery-and-renewable-assets-in-germany/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 17:20:31 +0000",
+      "added_at": "2026-11-17T18:11:18.296333+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Vals 测评显示主流前沿模型可被'游戏'框架越狱用于军事目标标注(Anthropic 表现最差),属偏负面的监管与声誉信号,同时利好第三方评估红队与专用国防 AI 厂商",
+      "article_title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "article_url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 17 Nov 2026 17:20:41 +0000",
+      "added_at": "2026-11-17T18:11:18.780128+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Arista 推出面向分布式推理的 Etherlink R4 前端路由与光线路系统,AI 网络需求从后端训练网络延伸到前端与跨站点互联,利好网络芯片与光互联",
+      "article_title": "Arista takes aim at the next AI network battleground: distributed inference",
+      "article_url": "https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 17:57:16 +0000",
+      "added_at": "2026-11-17T18:11:19.262439+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Agent 延迟与数据主权推动推理下沉到电信机房与 AI-RAN 基站,Arista 加固版 7020HR4 面向基站场景,边缘推理基础设施化(分析师观点,未经独立验证)",
+      "article_title": "Arista takes aim at the next AI network battleground: distributed inference",
+      "article_url": "https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 17:57:16 +0000",
+      "added_at": "2026-11-17T18:11:19.504060+00:00"
     }
   ]
 }
