@@ -1091,7 +1091,8 @@
       "name": "IonQ",
       "type": "company",
       "sectors": [
-        "trapped-ion quantum computing"
+        "trapped-ion quantum computing",
+        "trapped-ion quantum computing, quantum networking & QKD"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1099,9 +1100,9 @@
       ],
       "hot": "hot",
       "ticker": "IONQ",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T17:11:09.897564+00:00"
+      "last_seen": "2026-11-17T12:10:22.559762+00:00"
     },
     "rigetti computing": {
       "name": "Rigetti Computing",
@@ -10345,6 +10346,97 @@
       "mentions": 1,
       "first_seen": "2026-11-17T11:09:44.960216+00:00",
       "last_seen": "2026-11-17T11:09:44.960216+00:00"
+    },
+    "idemia secure transactions": {
+      "name": "IDEMIA Secure Transactions",
+      "type": "company",
+      "sectors": [
+        "payment / connectivity / cybersecurity, HSM & key management"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T12:10:22.559762+00:00",
+      "last_seen": "2026-11-17T12:10:22.559762+00:00"
+    },
+    "vodacom": {
+      "name": "Vodacom",
+      "type": "company",
+      "sectors": [
+        "African telecom operator (Vodafone subsidiary)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T12:10:23.028154+00:00",
+      "last_seen": "2026-11-17T12:10:23.028154+00:00"
+    },
+    "vodafone": {
+      "name": "Vodafone",
+      "type": "company",
+      "sectors": [
+        "telecom operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "VOD",
+      "mentions": 1,
+      "first_seen": "2026-11-17T12:10:23.028154+00:00",
+      "last_seen": "2026-11-17T12:10:23.028154+00:00"
+    },
+    "elsewedy electric": {
+      "name": "Elsewedy Electric",
+      "type": "company",
+      "sectors": [
+        "cables, power equipment & large-scale energy project execution"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T12:10:23.028154+00:00",
+      "last_seen": "2026-11-17T12:10:23.028154+00:00"
+    },
+    "cassava": {
+      "name": "Cassava Technologies",
+      "type": "company",
+      "sectors": [
+        "pan-African digital infrastructure / data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T12:10:23.028154+00:00",
+      "last_seen": "2026-11-17T12:10:23.028154+00:00"
+    },
+    "africa data centres egypt": {
+      "name": "Africa Data Centres Egypt",
+      "type": "company",
+      "sectors": [
+        "data center joint venture in Egypt"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T12:10:23.028154+00:00",
+      "last_seen": "2026-11-17T12:10:23.028154+00:00"
     }
   },
   "edges": [
@@ -24050,6 +24142,111 @@
           "added_at": "2026-11-17T11:09:44.960216+00:00"
         }
       ]
+    },
+    {
+      "source": "idemia secure transactions",
+      "target": "ionq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方完成 IonQ QKD 系统与 IDEMIA Sphere 网络安全平台的互操作性验证,把量子生成的密钥纳入企业 HSM/PQC 密钥治理体系",
+          "article_title": "IDEMIA and IonQ Validate QKD Interoperability for Enterprise Security",
+          "article_url": "https://thequantuminsider.com/2026/11/17/idemia-ionq-validate-qkd-interoperability-enterprise-security/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 10:18:05 +0000",
+          "added_at": "2026-11-17T12:10:22.559762+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vodafone",
+      "target": "vodacom",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Vodacom 是 Vodafone 的非洲子公司",
+          "article_title": "Vodafone joint venture to develop two major data center projects in Egypt",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 11:25:35 +0000",
+          "added_at": "2026-11-17T12:10:23.028154+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vodacom",
+      "target": "africa data centres egypt",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Vodacom 通过合资开发 ADC Egypt,首期 20MW、可扩展至 200MW,总投资约 10 亿美元",
+          "article_title": "Vodafone joint venture to develop two major data center projects in Egypt",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 11:25:35 +0000",
+          "added_at": "2026-11-17T12:10:23.028154+00:00"
+        }
+      ]
+    },
+    {
+      "source": "elsewedy electric",
+      "target": "africa data centres egypt",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Elsewedy Electric 作为合资方,负责能源与大型项目执行能力",
+          "article_title": "Vodafone joint venture to develop two major data center projects in Egypt",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 11:25:35 +0000",
+          "added_at": "2026-11-17T12:10:23.028154+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cassava",
+      "target": "africa data centres egypt",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Cassava Technologies 作为合资方提供数据中心与技术能力",
+          "article_title": "Vodafone joint venture to develop two major data center projects in Egypt",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 11:25:35 +0000",
+          "added_at": "2026-11-17T12:10:23.028154+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vodacom",
+      "target": "elsewedy electric",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方与 Cassava 合资建设埃及最大数据中心及首座 AI 专用数据中心",
+          "article_title": "Vodafone joint venture to develop two major data center projects in Egypt",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 11:25:35 +0000",
+          "added_at": "2026-11-17T12:10:23.028154+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vodacom",
+      "target": "cassava",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方与 Elsewedy Electric 合资建设 ADC Egypt",
+          "article_title": "Vodafone joint venture to develop two major data center projects in Egypt",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 17 Nov 2026 11:25:35 +0000",
+          "added_at": "2026-11-17T12:10:23.028154+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -28381,6 +28578,33 @@
       "source_name": "The Quantum Insider",
       "published": "Tue, 17 Nov 2026 10:07:23 +0000",
       "added_at": "2026-11-17T11:09:45.447173+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "IDEMIA 与 IonQ 验证 QKD 接入企业 HSM/PQC 密钥治理体系,量子安全竞争点转向'能否接入现有合规与密钥管理';利好 HSM/密钥管理层,其次 PQC 迁移软件与 QKD 硬件;厂商联合新闻稿、无性能数据和客户合同,未经独立验证",
+      "article_title": "IDEMIA and IonQ Validate QKD Interoperability for Enterprise Security",
+      "article_url": "https://thequantuminsider.com/2026/11/17/idemia-ionq-validate-qkd-interoperability-enterprise-security/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 10:18:05 +0000",
+      "added_at": "2026-11-17T12:10:22.794118+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Vodacom 联合 Elsewedy Electric、Cassava 建埃及最大数据中心(20MW 起步、可扩至 200MW、总投资约 10 亿美元),电力工程公司直接进入合资,新兴市场数据中心的第一道瓶颈是电力与工程执行,利好电力设备与工程、配电冷却",
+      "article_title": "Vodafone joint venture to develop two major data center projects in Egypt",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 11:25:35 +0000",
+      "added_at": "2026-11-17T12:10:23.268412+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "ADC Egypt 计划建埃及首座 AI 专用数据中心,托管模式下 GPU 需求取决于云厂商租户;容量与时间表未披露,对 AI 板块只是早期方向信号",
+      "article_title": "Vodafone joint venture to develop two major data center projects in Egypt",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 17 Nov 2026 11:25:35 +0000",
+      "added_at": "2026-11-17T12:10:23.511102+00:00"
     }
   ]
 }
