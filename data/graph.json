@@ -1150,9 +1150,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-16T18:11:37.662608+00:00"
+      "last_seen": "2026-11-17T10:10:23.929985+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -10284,6 +10284,36 @@
       "mentions": 1,
       "first_seen": "2026-11-17T08:11:08.160120+00:00",
       "last_seen": "2026-11-17T08:11:08.160120+00:00"
+    },
+    "nec": {
+      "name": "NEC",
+      "type": "company",
+      "sectors": [
+        "QKD equipment / network infrastructure"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": "6701.T",
+      "mentions": 1,
+      "first_seen": "2026-11-17T10:10:23.929985+00:00",
+      "last_seen": "2026-11-17T10:10:23.929985+00:00"
+    },
+    "ibm japan": {
+      "name": "IBM Japan",
+      "type": "company",
+      "sectors": [
+        "quantum-safe cryptography / IT services"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T10:10:23.929985+00:00",
+      "last_seen": "2026-11-17T10:10:23.929985+00:00"
     }
   },
   "edges": [
@@ -23944,6 +23974,36 @@
           "added_at": "2026-11-17T08:11:08.160120+00:00"
         }
       ]
+    },
+    {
+      "source": "nec",
+      "target": "ibm japan",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "NEC 的 QKD 设备通过 ETSI GS QKD 014 接口接入 IBM Quantum Safe Proxy,完成日本首次 QKD 与 PQC 融合的 TLS 通信演示,计划探索银行系统落地",
+          "article_title": "NEC and IBM Japan Demonstrate Integrated QKD and PQC Communications",
+          "article_url": "https://thequantuminsider.com/2026/11/17/nec-ibm-japan-integrated-qkd-pqc-communications/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 08:44:11 +0000",
+          "added_at": "2026-11-17T10:10:23.929985+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "ibm japan",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "IBM Japan 是 IBM 的日本子公司,演示使用定制版 IBM Quantum Safe Proxy",
+          "article_title": "NEC and IBM Japan Demonstrate Integrated QKD and PQC Communications",
+          "article_url": "https://thequantuminsider.com/2026/11/17/nec-ibm-japan-integrated-qkd-pqc-communications/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 08:44:11 +0000",
+          "added_at": "2026-11-17T10:10:23.929985+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -28239,6 +28299,24 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 17 Nov 2026 08:00:53 +0000",
       "added_at": "2026-11-17T08:11:08.403380+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "DOE 就低温与量子-HPC 集成测试平台发 RFI,点出稀释制冷可扩展性、量子-经典低延迟连接和调度软件三大瓶颈,若后续转为招标利好 Bluefors、Oxford Instruments 等低温设备商及低温电子/互连;仅为征求意见、未承诺资金,只能观望",
+      "article_title": "DOE Seeks Input on Cryogenic and Quantum Supercomputing Testbeds",
+      "article_url": "https://thequantuminsider.com/2026/11/17/doe-seeks-input-on-cryogenic-and-quantum-supercomputing-testbeds/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 09:10:14 +0000",
+      "added_at": "2026-11-17T10:10:23.229195+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "NEC 与 IBM 日本演示 QKD+PQC 混合 TLS,经代理层免改应用;量子安全迁移瓶颈在迁移成本而非算法,利好代理/密钥管理中间层与 QKD 硬件在金融高价值链路的需求;厂商新闻稿,无性能与客户合同数据",
+      "article_title": "NEC and IBM Japan Demonstrate Integrated QKD and PQC Communications",
+      "article_url": "https://thequantuminsider.com/2026/11/17/nec-ibm-japan-integrated-qkd-pqc-communications/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 08:44:11 +0000",
+      "added_at": "2026-11-17T10:10:24.182931+00:00"
     }
   ]
 }
