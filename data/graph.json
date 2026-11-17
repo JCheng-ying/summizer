@@ -397,9 +397,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 18,
+      "mentions": 19,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T17:11:17.535512+00:00"
+      "last_seen": "2026-11-17T19:10:21.770682+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -415,9 +415,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 27,
+      "mentions": 28,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T18:11:18.536127+00:00"
+      "last_seen": "2026-11-17T19:10:21.770682+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -1765,7 +1765,8 @@
         "CPUs / GPUs / FPGAs",
         "semiconductors / GPUs",
         "semiconductors",
-        "AI accelerators / CPUs"
+        "AI accelerators / CPUs",
+        "GPU / CPU"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1774,9 +1775,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 19,
+      "mentions": 20,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T15:11:12.258072+00:00"
+      "last_seen": "2026-11-17T19:10:21.279361+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -6249,7 +6250,8 @@
       "name": "Q.ANT",
       "type": "company",
       "sectors": [
-        "photonic computing"
+        "photonic computing",
+        "photonic computing / NPU"
       ],
       "sector_tags": [
         "AI板块",
@@ -6257,24 +6259,25 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:44.450063+00:00",
-      "last_seen": "2026-11-10T05:12:44.450063+00:00"
+      "last_seen": "2026-11-17T19:10:21.279361+00:00"
     },
     "ionos": {
       "name": "IONOS",
       "type": "company",
       "sectors": [
-        "European cloud hosting"
+        "European cloud hosting",
+        "European cloud provider"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:44.450063+00:00",
-      "last_seen": "2026-11-10T05:12:44.450063+00:00"
+      "last_seen": "2026-11-17T19:10:21.279361+00:00"
     },
     "leibniz supercomputing centre": {
       "name": "Leibniz Supercomputing Centre",
@@ -11622,6 +11625,66 @@
       "mentions": 1,
       "first_seen": "2026-11-17T18:11:18.536127+00:00",
       "last_seen": "2026-11-17T18:11:18.536127+00:00"
+    },
+    "typesafe": {
+      "name": "TypeSafe",
+      "type": "company",
+      "sectors": [
+        "decision models (Jev)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T19:10:21.770682+00:00",
+      "last_seen": "2026-11-17T19:10:21.770682+00:00"
+    },
+    "vercel": {
+      "name": "Vercel",
+      "type": "company",
+      "sectors": [
+        "developer platform / AI model router"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T19:10:21.770682+00:00",
+      "last_seen": "2026-11-17T19:10:21.770682+00:00"
+    },
+    "openrouter": {
+      "name": "OpenRouter",
+      "type": "company",
+      "sectors": [
+        "AI model router"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T19:10:21.770682+00:00",
+      "last_seen": "2026-11-17T19:10:21.770682+00:00"
+    },
+    "sqwish": {
+      "name": "Sqwish",
+      "type": "company",
+      "sectors": [
+        "decision models / post-training"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-17T19:10:21.770682+00:00",
+      "last_seen": "2026-11-17T19:10:21.770682+00:00"
     }
   },
   "edges": [
@@ -19164,6 +19227,14 @@
           "source_name": "The Quantum Insider",
           "published": "Mon, 09 Nov 2026 16:19:31 +0000",
           "added_at": "2026-11-10T05:12:44.450063+00:00"
+        },
+        {
+          "description": "文章提及与 IONOS 的光子计算试点让开发者可访问真实硬件",
+          "article_title": "Q.ANT Demonstrates Hybrid Photonic-GPU System for Language Models",
+          "article_url": "https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 17:47:39 +0000",
+          "added_at": "2026-11-17T19:10:21.279361+00:00"
         }
       ]
     },
@@ -26895,6 +26966,81 @@
           "added_at": "2026-11-17T18:11:19.020102+00:00"
         }
       ]
+    },
+    {
+      "source": "qant",
+      "target": "advanced micro devices",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SC26 上 Q.ANT 将 NPU Gen 2+ 光子处理器与一块 AMD GPU 组成混合系统运行大语言模型,用光学 DFT 替换一个注意力层",
+          "article_title": "Q.ANT Demonstrates Hybrid Photonic-GPU System for Language Models",
+          "article_url": "https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 17 Nov 2026 17:47:39 +0000",
+          "added_at": "2026-11-17T19:10:21.279361+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openrouter",
+      "target": "typesafe",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "OpenRouter 上周处理了超过 15 亿次对 TypeSafe Jev 模型的调用",
+          "article_title": "As decision model use skyrockets, is customization the next frontier?",
+          "article_url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+          "added_at": "2026-11-17T19:10:21.770682+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "typesafe",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Microsoft 在 Azure 上大规模推出自有决策模型 Microsoft-Decision-1.1,与领先的 Jev 竞争",
+          "article_title": "As decision model use skyrockets, is customization the next frontier?",
+          "article_url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+          "added_at": "2026-11-17T19:10:21.770682+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sqwish",
+      "target": "typesafe",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Sqwish 推出决策模型 kettei fat 并以客户数据持续后训练作为差异化,与 Jev 竞争",
+          "article_title": "As decision model use skyrockets, is customization the next frontier?",
+          "article_url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+          "added_at": "2026-11-17T19:10:21.770682+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sqwish",
+      "target": "openai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Sqwish 联合创始人称决策模型(System One)对 OpenAI 只是副业,初创公司视之为机会",
+          "article_title": "As decision model use skyrockets, is customization the next frontier?",
+          "article_url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+          "added_at": "2026-11-17T19:10:21.770682+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -31586,6 +31732,24 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 17 Nov 2026 17:57:16 +0000",
       "added_at": "2026-11-17T18:11:19.504060+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Q.ANT 演示光子 NPU Gen 2+ 与 AMD GPU 混合运行 LLM、以光学 DFT 替换注意力层(公司新闻稿,无具体性能数据,未经独立验证),光子作为 GPU 协处理器而非替代,算力层确定性不变,光子集成电路制造链间接受益;商用系统 2027H2",
+      "article_title": "Q.ANT Demonstrates Hybrid Photonic-GPU System for Language Models",
+      "article_url": "https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 17 Nov 2026 17:47:39 +0000",
+      "added_at": "2026-11-17T19:10:21.521732+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "决策模型一个月内拿下 Vercel 路由超四分之一请求,调用量暴涨利好推理算力与云平台,护城河在客户数据与后训练校准;同时分流前沿模型的按 token 收入,对模型层估值偏利空",
+      "article_title": "As decision model use skyrockets, is customization the next frontier?",
+      "article_url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+      "added_at": "2026-11-17T19:10:22.017577+00:00"
     }
   ]
 }
