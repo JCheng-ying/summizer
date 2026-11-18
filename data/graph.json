@@ -252,9 +252,9 @@
         "GPU",
         "AI chips / corporate venture investing"
       ],
-      "mentions": 67,
+      "mentions": 68,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-18T11:09:51.670268+00:00",
+      "last_seen": "2026-11-18T13:11:52.988191+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -420,9 +420,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 33,
+      "mentions": 34,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T02:10:31.035863+00:00"
+      "last_seen": "2026-11-18T13:11:52.988191+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -620,15 +620,18 @@
     "sambanova systems": {
       "name": "SambaNova Systems",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "AI inference chips"
+      ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "edge AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-08-06T04:43:25.270278+00:00"
+      "last_seen": "2026-11-18T13:11:54.168942+00:00"
     },
     "groq": {
       "name": "Groq",
@@ -1145,9 +1148,9 @@
       ],
       "hot": "hot",
       "ticker": "QBTS",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-11T06:19:45.925248+00:00"
+      "last_seen": "2026-11-18T13:11:52.489182+00:00"
     },
     "ibm": {
       "name": "IBM",
@@ -1230,9 +1233,9 @@
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-17T17:11:16.555720+00:00"
+      "last_seen": "2026-11-18T13:11:54.168942+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -1788,9 +1791,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 23,
+      "mentions": 24,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T11:09:51.670268+00:00"
+      "last_seen": "2026-11-18T13:11:50.835921+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1840,7 +1843,8 @@
         "search / cloud / AI",
         "hyperscaler",
         "AI platform / search",
-        "Google / threat intelligence (GTIG)"
+        "Google / threat intelligence (GTIG)",
+        "search / cloud"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1852,9 +1856,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 43,
+      "mentions": 44,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T23:11:59.327750+00:00"
+      "last_seen": "2026-11-18T13:11:52.489182+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2691,9 +2695,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 12,
+      "mentions": 13,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-11-17T23:11:57.629500+00:00"
+      "last_seen": "2026-11-18T13:11:52.489182+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -4368,9 +4372,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-10-25T06:05:12.258254+00:00",
-      "last_seen": "2026-11-18T10:10:38.760250+00:00"
+      "last_seen": "2026-11-18T13:11:52.489182+00:00"
     },
     "generative bionics": {
       "name": "Generative Bionics",
@@ -4457,9 +4461,9 @@
       ],
       "hot": "hot",
       "ticker": "9434.T",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-16T14:12:40.415551+00:00"
+      "last_seen": "2026-11-18T13:11:52.489182+00:00"
     },
     "nscale": {
       "name": "Nscale",
@@ -9404,7 +9408,8 @@
       "name": "Core Scientific",
       "type": "company",
       "sectors": [
-        "AI colocation / former bitcoin miner"
+        "AI colocation / former bitcoin miner",
+        "AI colocation / data centers"
       ],
       "sector_tags": [
         "AI板块",
@@ -9412,9 +9417,9 @@
       ],
       "hot": null,
       "ticker": "CORZ",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T11:12:03.664623+00:00",
-      "last_seen": "2026-11-16T11:12:03.664623+00:00"
+      "last_seen": "2026-11-18T13:11:50.835921+00:00"
     },
     "polaris ds": {
       "name": "Polaris DS",
@@ -9577,9 +9582,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-16T14:12:40.415551+00:00",
-      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+      "last_seen": "2026-11-18T13:11:52.489182+00:00"
     },
     "cyrusone": {
       "name": "CyrusOne",
@@ -11955,16 +11960,17 @@
       "name": "Alice & Bob",
       "type": "company",
       "sectors": [
-        "cat-qubit quantum"
+        "cat-qubit quantum",
+        "cat-qubit fault-tolerant quantum computing"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T21:11:21.777206+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-18T13:11:49.640058+00:00"
     },
     "motiv space systems": {
       "name": "Motiv Space Systems",
@@ -12369,6 +12375,37 @@
       "mentions": 1,
       "first_seen": "2026-11-18T12:10:15.580904+00:00",
       "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "proqcima": {
+      "name": "PROQCIMA",
+      "type": "institution",
+      "sectors": [
+        "French national quantum computing program"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T13:11:49.640058+00:00",
+      "last_seen": "2026-11-18T13:11:49.640058+00:00"
+    },
+    "giga energy": {
+      "name": "Giga Energy",
+      "type": "company",
+      "sectors": [
+        "modular AI data center manufacturer / developer"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T13:11:50.835921+00:00",
+      "last_seen": "2026-11-18T13:11:50.835921+00:00"
     }
   },
   "edges": [
@@ -25155,6 +25192,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 16 Nov 2026 13:54:42 +0000",
           "added_at": "2026-11-16T14:12:40.415551+00:00"
+        },
+        {
+          "description": "在肯塔基能源部土地上开发吉瓦级数据中心项目",
+          "article_title": "NASA considers opening up Ames Research Center land for private data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nasa-considers-opening-up-ames-research-center-land-for-private-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 12:28:46 +0000",
+          "added_at": "2026-11-18T13:11:52.489182+00:00"
         }
       ]
     },
@@ -25170,6 +25215,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 16 Nov 2026 13:54:42 +0000",
           "added_at": "2026-11-16T14:12:40.415551+00:00"
+        },
+        {
+          "description": "在俄亥俄能源部土地上开发吉瓦级数据中心项目",
+          "article_title": "NASA considers opening up Ames Research Center land for private data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nasa-considers-opening-up-ames-research-center-land-for-private-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 12:28:46 +0000",
+          "added_at": "2026-11-18T13:11:52.489182+00:00"
         }
       ]
     },
@@ -28885,6 +28938,96 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 18 Nov 2026 11:30:00 +0000",
           "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alice bob",
+      "target": "proqcima",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "在法国 PROQCIMA 项目下搭建并运行三台独立 QPU,演示逻辑比特的各个构件",
+          "article_title": "Alice & Bob’s Updated Roadmap Targets 200 Logical Qubits From 3,600 Physical Qubits by 2030",
+          "article_url": "https://thequantuminsider.com/2026/11/18/alice-bobs-updated-roadmap-targets-200-logical-qubits-from-3600-physical-qubits-by-2030/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 12:03:29 +0000",
+          "added_at": "2026-11-18T13:11:49.640058+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "core scientific",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "AMD 将在得州 Hunt County 向 Core Scientific 租用 110MW,属于更大租赁协议的一部分",
+          "article_title": "Giga Energy secures $1bn lease for 60MW data center in Hunt County, Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/giga-energy-secures-1bn-lease-for-60mw-data-center-in-hunt-county-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 12:42:36 +0000",
+          "added_at": "2026-11-18T13:11:50.835921+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "nasa",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "谷歌 2008 年与 NASA Ames 签 40 年协议使用 42.2 英亩土地建办公室",
+          "article_title": "NASA considers opening up Ames Research Center land for private data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nasa-considers-opening-up-ames-research-center-land-for-private-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 12:28:46 +0000",
+          "added_at": "2026-11-18T13:11:52.489182+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dwave quantum",
+      "target": "nasa",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NASA Ames 研究中心测试过 D-Wave 的量子计算机",
+          "article_title": "NASA considers opening up Ames Research Center land for private data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nasa-considers-opening-up-ames-research-center-land-for-private-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 12:28:46 +0000",
+          "added_at": "2026-11-18T13:11:52.489182+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "openai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "为 OpenAI 俄亥俄 PORTS-Pike 园区提供 1050 亿美元贷款担保,换取园区独家使用英伟达设备;Kress 澄清担保需客户先筹到建设资金并装好英伟达产品才生效",
+          "article_title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+          "article_url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 13:00:00 +0000",
+          "added_at": "2026-11-18T13:11:52.988191+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sambanova systems",
+      "target": "intel",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SC26 上展示 Intel D-Series GPU 做预填充、SambaRack SN50 做解码的风冷异构推理方案",
+          "article_title": "Stalled data center buildouts send inference chips hunting for space in telco and colo sites",
+          "article_url": "https://siliconangle.com/2026/11/18/ai-data-centers-delays-push-inference-chips-existing-sites-sc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 12:13:22 +0000",
+          "added_at": "2026-11-18T13:11:54.168942+00:00"
         }
       ]
     }
@@ -33929,6 +34072,69 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 11:32:01 +0000",
       "added_at": "2026-11-18T12:10:17.039942+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Alice & Bob(公司新闻稿,未经独立验证)把 2030 年目标翻倍为 3600 个物理猫比特做 200 个逻辑比特,猫比特在硬件层压制比特翻转错误、降低纠错开销,模块化低温互联绕开单台制冷机上限;但逻辑错误率仍只是'接近阈值',属路线图层面利好",
+      "article_title": "Alice & Bob’s Updated Roadmap Targets 200 Logical Qubits From 3,600 Physical Qubits by 2030",
+      "article_url": "https://thequantuminsider.com/2026/11/18/alice-bobs-updated-roadmap-targets-200-logical-qubits-from-3600-physical-qubits-by-2030/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:03:29 +0000",
+      "added_at": "2026-11-18T13:11:49.898059+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Giga Energy 破土四个月即签下未具名 AI 云服务商 60MW、10 亿美元租约,2027 年春交付,说明数据中心就绪是当前瓶颈、交付速度有溢价;客户大概率是 neocloud,信用质量受英伟达收紧担保影响",
+      "article_title": "Giga Energy secures $1bn lease for 60MW data center in Hunt County, Texas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/giga-energy-secures-1bn-lease-for-60mw-data-center-in-hunt-county-texas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 12:42:36 +0000",
+      "added_at": "2026-11-18T13:11:51.086472+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Giga Energy 以电气设备制造起家(自称交付超 7GW 电气基础设施),工厂预制模式压缩施工周期,利好预制化电力和冷却模块层(Vertiv、Schneider、Eaton 一类);产能数据为公司自述",
+      "article_title": "Giga Energy secures $1bn lease for 60MW data center in Hunt County, Texas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/giga-energy-secures-1bn-lease-for-60mw-data-center-in-hunt-county-texas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 12:42:36 +0000",
+      "added_at": "2026-11-18T13:11:51.327571+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "NASA 考虑通过增强使用租赁把硅谷 Ames 研究中心土地开放给超大规模数据中心,联邦土地供给从能源部、国防部扩到 NASA;但仍处评估阶段且湾区电力是真正瓶颈,判断偏中性",
+      "article_title": "NASA considers opening up Ames Research Center land for private data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nasa-considers-opening-up-ames-research-center-land-for-private-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 12:28:46 +0000",
+      "added_at": "2026-11-18T13:11:52.739636+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Kress 澄清英伟达贷款担保只在客户筹到建设资金并装好英伟达产品后生效,建设期风险由开发商自担,并将更严格挑选融资对象;利好已握有土地电力的开发商和建设期贷款方,利空靠英伟达信用背书的早期 neocloud,整体偏中性",
+      "article_title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+      "article_url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 13:00:00 +0000",
+      "added_at": "2026-11-18T13:11:53.242994+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "SambaNova(赞助访谈,未经独立验证)称新 GPU 机柜需 120-250kW/柜且电力冷却设备交期 18-24 个月,风冷解码芯片 SN50 搭配 Intel 无 HBM 预填充 GPU 的异构推理可塞进老机房,利好推理专用芯片和预填充/解码分离架构",
+      "article_title": "Stalled data center buildouts send inference chips hunting for space in telco and colo sites",
+      "article_url": "https://siliconangle.com/2026/11/18/ai-data-centers-delays-push-inference-chips-existing-sites-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 12:13:22 +0000",
+      "added_at": "2026-11-18T13:11:54.418692+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "新机房建设滞后推动推理下沉到电信和托管存量机房,风冷低密度推理系统让局端机房重新有价值,与英伟达改造 Brightspeed 局端机房是同一趋势",
+      "article_title": "Stalled data center buildouts send inference chips hunting for space in telco and colo sites",
+      "article_url": "https://siliconangle.com/2026/11/18/ai-data-centers-delays-push-inference-chips-existing-sites-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 12:13:22 +0000",
+      "added_at": "2026-11-18T13:11:54.659381+00:00"
     }
   ]
 }
