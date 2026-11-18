@@ -249,9 +249,9 @@
         "GPUs / accelerated computing",
         "GPU"
       ],
-      "mentions": 62,
+      "mentions": 64,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-17T23:11:59.327750+00:00",
+      "last_seen": "2026-11-18T00:10:57.074285+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -416,9 +416,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 31,
+      "mentions": 32,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T23:11:59.826200+00:00"
+      "last_seen": "2026-11-18T00:10:56.323597+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -483,9 +483,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 43,
+      "mentions": 44,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T23:11:59.826200+00:00"
+      "last_seen": "2026-11-18T00:10:56.323597+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -11775,16 +11775,17 @@
       "name": "Dell Technologies Inc.",
       "type": "company",
       "sectors": [
-        "servers / AI factory / storage"
+        "servers / AI factory / storage",
+        "servers / AI factory"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-18T00:10:57.074285+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -25508,6 +25509,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Mon, 16 Nov 2026 18:11:10 +0000",
           "added_at": "2026-11-16T19:10:33.495315+00:00"
+        },
+        {
+          "description": "Kress 称 OpenAI、Anthropic 等前沿实验室今年预计占英伟达数据中心收入约 15%,越来越多自建数据中心",
+          "article_title": "Business as usual for Nvidia as it beats expectations in first earnings call after Jensen Huang’s resignation",
+          "article_url": "https://siliconangle.com/2026/11/17/business-as-usual-for-nvidia-as-it-beats-expectations-in-its-first-earnings-call-after-jensen-huangs-resignation/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 23:49:29 +0000",
+          "added_at": "2026-11-18T00:10:56.323597+00:00"
         }
       ]
     },
@@ -27661,6 +27670,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 17 Nov 2026 20:27:24 +0000",
           "added_at": "2026-11-17T21:11:21.777206+00:00"
+        },
+        {
+          "description": "Dell(赞助访谈)称企业在其 AI Factory 上本地部署 Nvidia Nemotron 等开源权重模型以应对 token 成本和数据主权问题",
+          "article_title": "Token sticker shock pushes enterprises from frontier labs toward open-weight AI factories",
+          "article_url": "https://siliconangle.com/2026/11/17/gpus-alone-won-t-carry-enterprise-ai-pilots-production-dellatsc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 23:27:01 +0000",
+          "added_at": "2026-11-18T00:10:57.074285+00:00"
         }
       ]
     },
@@ -27961,6 +27978,21 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 17 Nov 2026 22:39:29 +0000",
           "added_at": "2026-11-17T23:11:59.826200+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Kress 称前沿实验室今年约占数据中心收入 15%,并披露 Anthropic 10 月底年化收入达 1810 亿美元",
+          "article_title": "Business as usual for Nvidia as it beats expectations in first earnings call after Jensen Huang’s resignation",
+          "article_url": "https://siliconangle.com/2026/11/17/business-as-usual-for-nvidia-as-it-beats-expectations-in-its-first-earnings-call-after-jensen-huangs-resignation/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 17 Nov 2026 23:49:29 +0000",
+          "added_at": "2026-11-18T00:10:56.323597+00:00"
         }
       ]
     }
@@ -32843,6 +32875,42 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 17 Nov 2026 22:36:27 +0000",
       "added_at": "2026-11-17T23:12:00.797189+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英伟达停售对华H200并成立出口管制委员会,新规禁止服务中国客户的海外数据中心采购,Jefferies估明年数据中心收入或减440-620亿美元;短期需求积压可吸收,中国本土AI芯片是结构性受益方",
+      "article_title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "article_url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 17 Nov 2026 23:37:48 +0000",
+      "added_at": "2026-11-18T00:10:55.842558+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英伟达收入1158亿美元同比+103%、全年指引上调至75%,前沿实验室占数据中心收入约15%;瓶颈转向数据中心就绪与客户融资,对neocloud超320亿美元有条件承诺提示融资风险",
+      "article_title": "Business as usual for Nvidia as it beats expectations in first earnings call after Jensen Huang’s resignation",
+      "article_url": "https://siliconangle.com/2026/11/17/business-as-usual-for-nvidia-as-it-beats-expectations-in-its-first-earnings-call-after-jensen-huangs-resignation/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 23:49:29 +0000",
+      "added_at": "2026-11-18T00:10:56.581311+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "英伟达指引明确把数据中心就绪列为约束,并帮助neocloud和前沿实验室获取土地与电力,电网接入和现场发电仍是GPU出货前置条件,利好电力设备与现场电源",
+      "article_title": "Business as usual for Nvidia as it beats expectations in first earnings call after Jensen Huang’s resignation",
+      "article_url": "https://siliconangle.com/2026/11/17/business-as-usual-for-nvidia-as-it-beats-expectations-in-its-first-earnings-call-after-jensen-huangs-resignation/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 23:49:29 +0000",
+      "added_at": "2026-11-18T00:10:56.831250+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Dell赞助访谈(数据未经验证)称企业token支出达每人每月1-2万美元,叠加数据主权推动转向本地开源权重模型,利好GPU与企业级整机私有化交付,前沿实验室企业API定价承压",
+      "article_title": "Token sticker shock pushes enterprises from frontier labs toward open-weight AI factories",
+      "article_url": "https://siliconangle.com/2026/11/17/gpus-alone-won-t-carry-enterprise-ai-pilots-production-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 17 Nov 2026 23:27:01 +0000",
+      "added_at": "2026-11-18T00:10:57.320303+00:00"
     }
   ]
 }
