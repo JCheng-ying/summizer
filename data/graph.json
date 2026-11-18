@@ -252,9 +252,9 @@
         "GPU",
         "AI chips / corporate venture investing"
       ],
-      "mentions": 66,
+      "mentions": 67,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T11:09:51.670268+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -1778,7 +1778,8 @@
         "semiconductors / GPUs",
         "semiconductors",
         "AI accelerators / CPUs",
-        "GPU / CPU"
+        "GPU / CPU",
+        "AI accelerators"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1787,9 +1788,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 22,
+      "mentions": 23,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+      "last_seen": "2026-11-18T11:09:51.670268+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -11787,16 +11788,17 @@
       "type": "company",
       "sectors": [
         "servers / AI factory / storage",
-        "servers / AI factory"
+        "servers / AI factory",
+        "AI servers / AI factory infrastructure"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-18T00:10:57.074285+00:00"
+      "last_seen": "2026-11-18T11:09:51.670268+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -27969,6 +27971,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 17 Nov 2026 23:27:01 +0000",
           "added_at": "2026-11-18T00:10:57.074285+00:00"
+        },
+        {
+          "description": "Dell Fabric Manager 把与 Nvidia 共同验证的网络参考设计转为可部署蓝图,OpenManage Rack Scale 以 NVL72 这类机柜为管理单元(Dell 赞助访谈)",
+          "article_title": "Scripts can’t run AI factories: Dell moves cluster management from the server to the rack",
+          "article_url": "https://siliconangle.com/2026/11/18/supercomputing-needs-rack-scale-management-dell-says-dellatsc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 10:46:31 +0000",
+          "added_at": "2026-11-18T11:09:51.670268+00:00"
         }
       ]
     },
@@ -28599,6 +28609,21 @@
           "source_name": "The Quantum Insider",
           "published": "Wed, 18 Nov 2026 08:36:11 +0000",
           "added_at": "2026-11-18T10:10:39.464757+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dell",
+      "target": "advanced micro devices",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Dell Fabric Manager 同样支持与 AMD 共同验证的网络参考设计,跨不同网络操作系统和芯片部署(Dell 赞助访谈)",
+          "article_title": "Scripts can’t run AI factories: Dell moves cluster management from the server to the rack",
+          "article_url": "https://siliconangle.com/2026/11/18/supercomputing-needs-rack-scale-management-dell-says-dellatsc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 10:46:31 +0000",
+          "added_at": "2026-11-18T11:09:51.670268+00:00"
         }
       ]
     }
@@ -33580,6 +33605,24 @@
       "source_name": "The Quantum Insider",
       "published": "Wed, 18 Nov 2026 08:36:11 +0000",
       "added_at": "2026-11-18T10:10:39.713979+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Dell(赞助访谈,数据未经独立验证)称 AI 集群瓶颈从采购转向运维,推出管理 10 万设备的机柜级 OpenManage Rack Scale 和 Fabric Manager,称 Agentic AI 带宽增长达九到十倍;利好算力、交换机/光模块等网络层及集群运维软件层",
+      "article_title": "Scripts can’t run AI factories: Dell moves cluster management from the server to the rack",
+      "article_url": "https://siliconangle.com/2026/11/18/supercomputing-needs-rack-scale-management-dell-says-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 10:46:31 +0000",
+      "added_at": "2026-11-18T11:09:51.911043+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Dell 赞助访谈指出 NVL72 机柜集成电源架和冷却液分配单元,一次冷却泄漏可损失数百万美元设备,机柜级监测需求上升,利好兼做电源与液冷热管理的 Vertiv、Schneider 等,属弱信号",
+      "article_title": "Scripts can’t run AI factories: Dell moves cluster management from the server to the rack",
+      "article_url": "https://siliconangle.com/2026/11/18/supercomputing-needs-rack-scale-management-dell-says-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 10:46:31 +0000",
+      "added_at": "2026-11-18T11:09:52.154893+00:00"
     }
   ]
 }
