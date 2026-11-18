@@ -252,9 +252,9 @@
         "GPU",
         "AI chips / corporate venture investing"
       ],
-      "mentions": 68,
+      "mentions": 69,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-18T13:11:52.988191+00:00",
+      "last_seen": "2026-11-18T16:11:37.528779+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -439,7 +439,8 @@
         "hyperscaler / Amazon Leo LEO constellation",
         "cloud / AWS",
         "cloud (AWS)",
-        "cloud / hyperscaler"
+        "cloud / hyperscaler",
+        "hyperscaler"
       ],
       "sector_tags": [
         "AI板块",
@@ -450,9 +451,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 25,
+      "mentions": 26,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T14:10:57.201174+00:00"
+      "last_seen": "2026-11-18T16:11:39.204972+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -470,9 +471,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 11,
+      "mentions": 12,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T21:11:21.290033+00:00"
+      "last_seen": "2026-11-18T16:11:39.204972+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -1161,7 +1162,8 @@
         "superconducting quantum computing",
         "quantum / enterprise IT",
         "quantum computing / IT",
-        "quantum / computing"
+        "quantum / computing",
+        "IT / quantum"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1169,9 +1171,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 10,
+      "mentions": 11,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-18T16:11:37.528779+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -1262,9 +1264,9 @@
       ],
       "hot": "cold",
       "ticker": "IQMX",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-18T16:11:37.032653+00:00"
     },
     "pasqal": {
       "name": "Pasqal",
@@ -1856,9 +1858,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 44,
+      "mentions": 46,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T13:11:52.489182+00:00"
+      "last_seen": "2026-11-18T16:11:39.204972+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2293,15 +2295,18 @@
     "coolit systems": {
       "name": "CoolIT Systems",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "direct-to-chip liquid cooling"
+      ],
       "sector_tags": [
-        "能源板块"
+        "能源板块",
+        "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-18T16:11:40.652756+00:00"
     },
     "jetcool": {
       "name": "JetCool Technologies",
@@ -6055,7 +6060,8 @@
         "AI cloud / data centers",
         "AI data center / neocloud",
         "AI data centers",
-        "neocloud"
+        "neocloud",
+        "AI data center developer"
       ],
       "sector_tags": [
         "AI板块",
@@ -6063,9 +6069,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-09T06:06:09.263035+00:00",
-      "last_seen": "2026-11-18T02:10:31.035863+00:00"
+      "last_seen": "2026-11-18T16:11:39.204972+00:00"
     },
     "megaspeed": {
       "name": "Megaspeed",
@@ -8046,9 +8052,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T11:09:40.396868+00:00",
-      "last_seen": "2026-11-13T11:09:40.396868+00:00"
+      "last_seen": "2026-11-18T16:11:40.652756+00:00"
     },
     "singtel": {
       "name": "Singtel",
@@ -10014,9 +10020,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T18:11:41.269696+00:00",
-      "last_seen": "2026-11-16T18:11:41.269696+00:00"
+      "last_seen": "2026-11-18T16:11:39.204972+00:00"
     },
     "aqsolotl": {
       "name": "AQSolotl",
@@ -11375,16 +11381,17 @@
       "name": "Vantage Data Centers",
       "type": "company",
       "sectors": [
-        "hyperscale data centers"
+        "hyperscale data centers",
+        "data center developer"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T16:10:37.707122+00:00",
-      "last_seen": "2026-11-17T16:10:37.707122+00:00"
+      "last_seen": "2026-11-18T16:11:39.204972+00:00"
     },
     "saxon q": {
       "name": "SAXON Q",
@@ -12605,6 +12612,183 @@
       "mentions": 1,
       "first_seen": "2026-11-18T15:11:10.700482+00:00",
       "last_seen": "2026-11-18T15:11:10.700482+00:00"
+    },
+    "china electronics cetc": {
+      "name": "China Electronics Technology Group Corporation (CETC)",
+      "type": "company",
+      "sectors": [
+        "Chinese state-owned electronics / quantum hardware"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:36.546370+00:00",
+      "last_seen": "2026-11-18T16:11:36.546370+00:00"
+    },
+    "brazil ministry of science and innovation": {
+      "name": "Brazil Ministry of Science, Technology and Innovation",
+      "type": "institution",
+      "sectors": [
+        "national science ministry"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:36.546370+00:00",
+      "last_seen": "2026-11-18T16:11:36.546370+00:00"
+    },
+    "tübitak": {
+      "name": "TÜBİTAK",
+      "type": "institution",
+      "sectors": [
+        "Turkish national research council"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:37.032653+00:00",
+      "last_seen": "2026-11-18T16:11:37.032653+00:00"
+    },
+    "argentum ai": {
+      "name": "Argentum AI",
+      "type": "company",
+      "sectors": [
+        "AI cloud / neocloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:37.528779+00:00",
+      "last_seen": "2026-11-18T16:11:37.528779+00:00"
+    },
+    "kyndryl": {
+      "name": "Kyndryl",
+      "type": "company",
+      "sectors": [
+        "IT infrastructure services / data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "KD",
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:37.528779+00:00",
+      "last_seen": "2026-11-18T16:11:37.528779+00:00"
+    },
+    "elementl power": {
+      "name": "Elementl Power",
+      "type": "company",
+      "sectors": [
+        "nuclear project developer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:38.235482+00:00",
+      "last_seen": "2026-11-18T16:11:38.235482+00:00"
+    },
+    "energy impact partners": {
+      "name": "Energy Impact Partners",
+      "type": "company",
+      "sectors": [
+        "energy transition investment firm"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:38.235482+00:00",
+      "last_seen": "2026-11-18T16:11:38.235482+00:00"
+    },
+    "cleanview": {
+      "name": "Cleanview",
+      "type": "company",
+      "sectors": [
+        "energy / data center construction data tracker"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:39.204972+00:00",
+      "last_seen": "2026-11-18T16:11:39.204972+00:00"
+    },
+    "ecolab": {
+      "name": "Ecolab",
+      "type": "company",
+      "sectors": [
+        "water treatment / data center liquid cooling"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "ECL",
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:40.652756+00:00",
+      "last_seen": "2026-11-18T16:11:40.652756+00:00"
+    },
+    "siemens": {
+      "name": "Siemens",
+      "type": "company",
+      "sectors": [
+        "power distribution / automation"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:40.652756+00:00",
+      "last_seen": "2026-11-18T16:11:40.652756+00:00"
+    },
+    "alfa laval": {
+      "name": "Alfa Laval",
+      "type": "company",
+      "sectors": [
+        "heat exchangers / flow components"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:40.652756+00:00",
+      "last_seen": "2026-11-18T16:11:40.652756+00:00"
+    },
+    "dassault systèmes": {
+      "name": "Dassault Systèmes",
+      "type": "company",
+      "sectors": [
+        "simulation / digital twin software"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T16:11:40.652756+00:00",
+      "last_seen": "2026-11-18T16:11:40.652756+00:00"
     }
   },
   "edges": [
@@ -21550,6 +21734,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 11 Nov 2026 01:01:35 +0000",
           "added_at": "2026-11-11T06:19:50.194926+00:00"
+        },
+        {
+          "description": "Cleanview 数据:过去 12 个月美国数据中心新开工 Amazon 4.6GW、Google 4.1GW、Meta 3.9GW 位列前三",
+          "article_title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+          "article_url": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:40:23 +0000",
+          "added_at": "2026-11-18T16:11:39.204972+00:00"
         }
       ]
     },
@@ -29379,6 +29571,231 @@
           "added_at": "2026-11-18T15:11:10.700482+00:00"
         }
       ]
+    },
+    {
+      "source": "china electronics cetc",
+      "target": "brazil ministry of science and innovation",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "CETC 向巴西提供两台量子计算机(约 1420 万美元),中国专家指导 15 名巴西研究人员在帕拉伊巴州 Ciquanta 中心组装,含技术转移,2027 年 1 月开始测试",
+          "article_title": "Brazil Receives Parts for Two Quantum Computers in Partnership With China",
+          "article_url": "https://thequantuminsider.com/2026/11/18/brazil-receives-parts-for-two-quantum-computers-in-partnership-with-china/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 14:24:48 +0000",
+          "added_at": "2026-11-18T16:11:36.546370+00:00"
+        }
+      ]
+    },
+    {
+      "source": "iqm quantum computers",
+      "target": "tübitak",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "IQM 为 TÜBİTAK 部署 54 比特 Radiance R3(ARF Quantum),2027 年集成并接入其 HPC 环境,TÜBİTAK 完全拥有硬件、数据和 IP",
+          "article_title": "IQM and Turkey's TÜBİTAK sign deal for 54-qubit quantum computer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/iqm-and-turkeys-t%C3%BCbitak-sign-deal-for-54-qubit-quantum-computer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 16:02:50 +0000",
+          "added_at": "2026-11-18T16:11:37.032653+00:00"
+        }
+      ]
+    },
+    {
+      "source": "argentum ai",
+      "target": "kyndryl",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Argentum 与 Kyndryl 签 20 年 6.3 亿美元协议,租用博尔德数据中心 10MW 部署 Nvidia B300",
+          "article_title": "Argentum AI and Kyndryl ink $630m AI infrastructure deal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/argentum-ai-and-kyndryl-ink-630m-ai-infrastructure-deal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 16:00:36 +0000",
+          "added_at": "2026-11-18T16:11:37.528779+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "argentum ai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Argentum 在 Kyndryl 博尔德机房部署 Nvidia B300 GPU",
+          "article_title": "Argentum AI and Kyndryl ink $630m AI infrastructure deal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/argentum-ai-and-kyndryl-ink-630m-ai-infrastructure-deal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 16:00:36 +0000",
+          "added_at": "2026-11-18T16:11:37.528779+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "kyndryl",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Kyndryl 于 2021 年 11 月从 IBM 拆分,博尔德数据中心最初由 IBM 建设",
+          "article_title": "Argentum AI and Kyndryl ink $630m AI infrastructure deal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/argentum-ai-and-kyndryl-ink-630m-ai-infrastructure-deal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 16:00:36 +0000",
+          "added_at": "2026-11-18T16:11:37.528779+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "elementl power",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google Cloud 用 Gemini for Business 和 BigQuery 为 Elementl 构建核电选址/许可工具套件 Elementl Lattice(含选址工具 Atlas)",
+          "article_title": "Elementl Power partners with Google Cloud on AI suite to speed up nuclear siting and licensing",
+          "article_url": "https://www.datacenterdynamics.com/en/news/elementl-power-partners-with-google-cloud-on-ai-suite-to-speed-up-nuclear-siting-and-licensing/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:46:13 +0000",
+          "added_at": "2026-11-18T16:11:38.235482+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "elementl power",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Google 去年 5 月为 Elementl 三个各至少 600MW 的美国核电项目投入早期开发资金,并拥有投运后的购电选择权",
+          "article_title": "Elementl Power partners with Google Cloud on AI suite to speed up nuclear siting and licensing",
+          "article_url": "https://www.datacenterdynamics.com/en/news/elementl-power-partners-with-google-cloud-on-ai-suite-to-speed-up-nuclear-siting-and-licensing/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:46:13 +0000",
+          "added_at": "2026-11-18T16:11:38.235482+00:00"
+        }
+      ]
+    },
+    {
+      "source": "energy impact partners",
+      "target": "elementl power",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Elementl 由管理资产超 40 亿美元的 Energy Impact Partners 支持",
+          "article_title": "Elementl Power partners with Google Cloud on AI suite to speed up nuclear siting and licensing",
+          "article_url": "https://www.datacenterdynamics.com/en/news/elementl-power-partners-with-google-cloud-on-ai-suite-to-speed-up-nuclear-siting-and-licensing/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:46:13 +0000",
+          "added_at": "2026-11-18T16:11:38.235482+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "meta platforms",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Cleanview 数据:Google 4.1GW、Meta 3.9GW 新开工,超大规模云厂商主导美国数据中心建设",
+          "article_title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+          "article_url": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:40:23 +0000",
+          "added_at": "2026-11-18T16:11:39.204972+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vantage data centers",
+      "target": "qts",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Cleanview 数据:超大规模厂商之外 Vantage 2.8GW、QTS 2.1GW、Crusoe 1.8GW 新开工",
+          "article_title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+          "article_url": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:40:23 +0000",
+          "added_at": "2026-11-18T16:11:39.204972+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ecolab",
+      "target": "coolit systems",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Ecolab 今年从 KKR 手中收购 CoolIT,本周发布 CoolIT CHx 3000 CDU(3MW,单台冷却 18 柜 x 190kW,厂商自述)",
+          "article_title": "CoolIT & Ecolab launch 3MW CDU",
+          "article_url": "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:12:28 +0000",
+          "added_at": "2026-11-18T16:11:40.652756+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kkr",
+      "target": "coolit systems",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "KKR 将 CoolIT 出售给 Ecolab",
+          "article_title": "CoolIT & Ecolab launch 3MW CDU",
+          "article_url": "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:12:28 +0000",
+          "added_at": "2026-11-18T16:11:40.652756+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ecolab",
+      "target": "siemens",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Ecolab 与 Siemens 合作,结合液冷/CDU 与 Siemens 配电、自动化和数字孪生能力",
+          "article_title": "CoolIT & Ecolab launch 3MW CDU",
+          "article_url": "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:12:28 +0000",
+          "added_at": "2026-11-18T16:11:40.652756+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alfa laval",
+      "target": "ecolab",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Alfa Laval 为 CHx 3000 CDU 提供换热器和流体部件",
+          "article_title": "CoolIT & Ecolab launch 3MW CDU",
+          "article_url": "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:12:28 +0000",
+          "added_at": "2026-11-18T16:11:40.652756+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dassault systèmes",
+      "target": "ecolab",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Ecolab 的虚拟孪生技术与 Dassault Systèmes 合作开发,模拟 AI 数据中心冷却系统",
+          "article_title": "CoolIT & Ecolab launch 3MW CDU",
+          "article_url": "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:12:28 +0000",
+          "added_at": "2026-11-18T16:11:40.652756+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -34574,6 +34991,87 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 14:28:21 +0000",
       "added_at": "2026-11-18T15:11:11.440021+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "巴西以技术转移方式从 CETC 采购两台量子计算机,国家级主权采购成为量子硬件主要需求;瓶颈在人才、低温系统和稀缺氦-3,利好能拿下主权订单的整机厂和稀释制冷/低温供应链,同时中国厂商出海加剧中间地带竞争",
+      "article_title": "Brazil Receives Parts for Two Quantum Computers in Partnership With China",
+      "article_url": "https://thequantuminsider.com/2026/11/18/brazil-receives-parts-for-two-quantum-computers-in-partnership-with-china/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 14:24:48 +0000",
+      "added_at": "2026-11-18T16:11:36.785942+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "IQM 拿下土耳其 TÜBİTAK 54 比特 Radiance R3 订单,强调完全所有权、本地数据/IP 和可升级;国家科研机构是当前最现实买家,利好标准化整机+HPC 集成+升级路径的厂商,但 2027 年集成后才确认收入",
+      "article_title": "IQM and Turkey's TÜBİTAK sign deal for 54-qubit quantum computer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/iqm-and-turkeys-t%C3%BCbitak-sign-deal-for-54-qubit-quantum-computer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 16:02:50 +0000",
+      "added_at": "2026-11-18T16:11:37.281124+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Argentum 以 20 年 6.3 亿美元租 Kyndryl 老机房 10MW 装 B300,已通电机房成为稀缺资产;利好 GPU 和手握存量机房的业主及老机房液冷配电改造,但 neocloud 中间层存在租约与 GPU 折旧期限错配和信用风险(公司自述数字未经验证)",
+      "article_title": "Argentum AI and Kyndryl ink $630m AI infrastructure deal",
+      "article_url": "https://www.datacenterdynamics.com/en/news/argentum-ai-and-kyndryl-ink-630m-ai-infrastructure-deal/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 16:00:36 +0000",
+      "added_at": "2026-11-18T16:11:37.769890+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Google Cloud 为 Elementl 开发核电选址/许可 AI 工具,同时是其三个 600MW+ 项目的早期出资人和潜在购电方;核电瓶颈在许可、核级供应链和融资,利好获科技巨头资金的核电开发商及燃料/核级部件供应方,AI 只能压缩选址前期阶段",
+      "article_title": "Elementl Power partners with Google Cloud on AI suite to speed up nuclear siting and licensing",
+      "article_url": "https://www.datacenterdynamics.com/en/news/elementl-power-partners-with-google-cloud-on-ai-suite-to-speed-up-nuclear-siting-and-licensing/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 15:46:13 +0000",
+      "added_at": "2026-11-18T16:11:38.479079+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 用于加速核电前期选址,是企业场景落地案例,更重要的是服务于给 AI 数据中心供电,间接支撑算力基础设施长期扩张;但选址提速数字为合作方自述",
+      "article_title": "Elementl Power partners with Google Cloud on AI suite to speed up nuclear siting and licensing",
+      "article_url": "https://www.datacenterdynamics.com/en/news/elementl-power-partners-with-google-cloud-on-ai-suite-to-speed-up-nuclear-siting-and-licensing/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 15:46:13 +0000",
+      "added_at": "2026-11-18T16:11:38.723507+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Cleanview:美国 Q3 新开工 8.4GW 环比下降,但全年 38GW 为去年两倍、10 月反弹 4.6GW,在建 58GW 接近现有运营 65GW;更像节奏波动,GPU/网络仍确定受益,需跟踪非超大规模开发商份额是否收缩",
+      "article_title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+      "article_url": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 15:40:23 +0000",
+      "added_at": "2026-11-18T16:11:39.451268+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "在建 58GW 接近现有运营 65GW,瓶颈从建不建转向建好后有没有电,利好燃气轮机、变压器/开关设备、并网和储能等能在两三年内交付电力的环节",
+      "article_title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+      "article_url": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 15:40:23 +0000",
+      "added_at": "2026-11-18T16:11:39.691461+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Ecolab/CoolIT 推 3MW CDU 支持 190kW 单柜 Vera Rubin 直接芯片液冷(厂商发布,未经独立验证);液冷是 GPU 机柜上线前置条件,利好大容量 CDU/冷板厂商,化工、水处理、电子巨头正切入液冷赛道",
+      "article_title": "CoolIT & Ecolab launch 3MW CDU",
+      "article_url": "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 15:12:28 +0000",
+      "added_at": "2026-11-18T16:11:40.909693+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "45°C 温水运行和冷却液监测降低数据中心耗水和制冷能耗,缓解电力/水资源对选址的约束;Siemens 配电合作也受益(厂商自述)",
+      "article_title": "CoolIT & Ecolab launch 3MW CDU",
+      "article_url": "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 15:12:28 +0000",
+      "added_at": "2026-11-18T16:11:41.184748+00:00"
     }
   ]
 }
