@@ -441,7 +441,8 @@
         "cloud / AWS",
         "cloud (AWS)",
         "cloud / hyperscaler",
-        "hyperscaler"
+        "hyperscaler",
+        "cloud / Amazon Braket"
       ],
       "sector_tags": [
         "AI板块",
@@ -452,9 +453,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 26,
+      "mentions": 27,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T16:11:39.204972+00:00"
+      "last_seen": "2026-11-18T18:10:40.409878+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -1395,9 +1396,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-11T06:19:43.358890+00:00"
+      "last_seen": "2026-11-18T18:10:40.409878+00:00"
     },
     "quantum circuits": {
       "name": "Quantum Circuits, Inc.",
@@ -12839,6 +12840,50 @@
       "mentions": 1,
       "first_seen": "2026-11-18T17:10:44.547365+00:00",
       "last_seen": "2026-11-18T17:10:44.547365+00:00"
+    },
+    "lawrence berkeley national laboratory": {
+      "name": "Lawrence Berkeley National Laboratory",
+      "type": "institution",
+      "sectors": [
+        "DOE national lab / NERSC supercomputing"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T18:10:40.409878+00:00",
+      "last_seen": "2026-11-18T18:10:40.409878+00:00"
+    },
+    "bradesco": {
+      "name": "Bradesco",
+      "type": "company",
+      "sectors": [
+        "Brazilian bank"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T18:10:40.899239+00:00",
+      "last_seen": "2026-11-18T18:10:40.899239+00:00"
+    },
+    "evolutionq": {
+      "name": "evolutionQ",
+      "type": "company",
+      "sectors": [
+        "quantum-safe cybersecurity"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T18:10:40.899239+00:00",
+      "last_seen": "2026-11-18T18:10:40.899239+00:00"
     }
   },
   "edges": [
@@ -14595,6 +14640,14 @@
           "source_name": "The Quantum Insider",
           "published": "Tue, 10 Nov 2026 18:10:47 +0000",
           "added_at": "2026-11-11T06:19:43.358890+00:00"
+        },
+        {
+          "description": "QuEra 的 Aquila 自 2022 年起上线 Amazon Braket,NERSC 经 Braket 访问;首台容错量子机 Libra 预计 2028 年上 Braket",
+          "article_title": "QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
+          "article_url": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 17:03:12 +0000",
+          "added_at": "2026-11-18T18:10:40.409878+00:00"
         }
       ]
     },
@@ -29914,6 +29967,36 @@
           "added_at": "2026-11-18T17:10:44.547365+00:00"
         }
       ]
+    },
+    {
+      "source": "quera computing",
+      "target": "lawrence berkeley national laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "QuEra 与伯克利实验室 NERSC 共同设计研究,用 Aquila 中性原子量子机加 Perlmutter 超算经典验证,在 Nature 发表最多 180 原子的预热动力学相变研究",
+          "article_title": "QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
+          "article_url": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 17:03:12 +0000",
+          "added_at": "2026-11-18T18:10:40.409878+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bradesco",
+      "target": "evolutionq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Bradesco 通过 inovabra 与 evolutionQ 在模拟环境测试量子通信软件,源自其 QSafe 计划,概念验证预计未来几个月进行",
+          "article_title": "Bradesco and evolutionQ Begin Quantum Communication Tests to Assess New Data Protection Models",
+          "article_url": "https://thequantuminsider.com/2026/11/18/bradesco-and-evolutionq-begin-quantum-communication-tests-to-assess-new-data-protection-models/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 16:21:01 +0000",
+          "added_at": "2026-11-18T18:10:40.899239+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -35244,6 +35327,33 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 17:06:36 +0000",
       "added_at": "2026-11-18T17:10:46.457300+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "QuEra 与伯克利实验室在 Nature 发表 180 原子模拟量子机发现新动力学相变,经典超算小尺度验证+量子机外推,证明前容错量子机已能产出可信科学(科学背书,离营收尚远)",
+      "article_title": "QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
+      "article_url": "https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 17:03:12 +0000",
+      "added_at": "2026-11-18T18:10:40.649230+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "巴西 Bradesco 与 evolutionQ 开始量子通信模拟测试,量子安全需求从运营商扩散到银行,近期受益的是密钥管理/密码敏捷性软件层(新闻稿,探索阶段,未披露金额)",
+      "article_title": "Bradesco and evolutionQ Begin Quantum Communication Tests to Assess New Data Protection Models",
+      "article_url": "https://thequantuminsider.com/2026/11/18/bradesco-and-evolutionq-begin-quantum-communication-tests-to-assess-new-data-protection-models/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 16:21:01 +0000",
+      "added_at": "2026-11-18T18:10:41.165359+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Citi、JPMorgan、BofA、PNC、Citizens 相继在条款中要求客户自担第三方 AI Agent 风险(含被黑),消费级 Agent 在金融变现场景遇制度性阻力,价值向身份授权基础设施和银行自建 Agent 转移,对独立 Agent 应用偏利空",
+      "article_title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "article_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 17:32:10 +0000",
+      "added_at": "2026-11-18T18:10:41.920506+00:00"
     }
   ]
 }
