@@ -391,7 +391,8 @@
         "cloud / software",
         "hyperscale cloud",
         "cloud / hyperscaler",
-        "hyperscaler"
+        "hyperscaler",
+        "enterprise software / cloud / AI agents"
       ],
       "sector_tags": [
         "AI板块",
@@ -399,9 +400,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 21,
+      "mentions": 22,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T23:11:59.327750+00:00"
+      "last_seen": "2026-11-18T06:09:54.956706+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -8643,16 +8644,17 @@
       "name": "Salesforce",
       "type": "company",
       "sectors": [
-        "enterprise software"
+        "enterprise software",
+        "CRM / enterprise AI agents"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "CRM",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T21:09:37.045387+00:00",
-      "last_seen": "2026-11-13T21:09:37.045387+00:00"
+      "last_seen": "2026-11-18T06:09:54.956706+00:00"
     },
     "mirendil": {
       "name": "Mirendil",
@@ -12116,6 +12118,36 @@
       "mentions": 1,
       "first_seen": "2026-11-18T02:10:31.786956+00:00",
       "last_seen": "2026-11-18T02:10:31.786956+00:00"
+    },
+    "microsoft 365 copilot": {
+      "name": "Microsoft 365 Copilot",
+      "type": "product",
+      "sectors": [
+        "enterprise AI assistant / autonomous agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T06:09:54.956706+00:00",
+      "last_seen": "2026-11-18T06:09:54.956706+00:00"
+    },
+    "copilotforce": {
+      "name": "Copilotforce",
+      "type": "product",
+      "sectors": [
+        "Copilot-Salesforce CRM integration"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T06:09:54.956706+00:00",
+      "last_seen": "2026-11-18T06:09:54.956706+00:00"
     }
   },
   "edges": [
@@ -28341,6 +28373,66 @@
           "added_at": "2026-11-18T02:10:31.786956+00:00"
         }
       ]
+    },
+    {
+      "source": "microsoft",
+      "target": "salesforce",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Ignite 2026 宣布合作推出 Copilotforce,通过 Microsoft Fabric 与 Salesforce Data 360 双向 Zero Copy 集成把 Salesforce 客户上下文带进 Copilot、Teams 和 Office",
+          "article_title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+          "article_url": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 05:13:06 +0000",
+          "added_at": "2026-11-18T06:09:54.956706+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "microsoft 365 copilot",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Microsoft 将 Copilot 重新定位为工作场所操作系统,推出 WorkIQ、Home、常驻自主 agent Autopilot 和 Copilot Code",
+          "article_title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+          "article_url": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 05:13:06 +0000",
+          "added_at": "2026-11-18T06:09:54.956706+00:00"
+        }
+      ]
+    },
+    {
+      "source": "copilotforce",
+      "target": "salesforce",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Copilotforce 提供 38 个预置技能,让 Copilot 调取 Salesforce 客户数据、生成会议跟进并更新 CRM 记录",
+          "article_title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+          "article_url": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 05:13:06 +0000",
+          "added_at": "2026-11-18T06:09:54.956706+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "copilotforce",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Microsoft 与 Salesforce 联合推出的 Copilot 集成产品",
+          "article_title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+          "article_url": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 05:13:06 +0000",
+          "added_at": "2026-11-18T06:09:54.956706+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -33293,6 +33385,15 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 01:29:33 +0000",
       "added_at": "2026-11-18T02:10:32.281891+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Microsoft 在 Ignite 2026 把 Copilot 升级为常驻自主 agent(Autopilot 拥有独立 Entra 身份)并用 Agent 365 按完成工作量衡量 ROI,补上企业 agent 的上下文、身份审计与 ROI 瓶颈;全天候推理调用利好云算力,握有数据与身份入口的平台(Microsoft、Salesforce)直接受益;内容来自厂商官方博客,未经独立验证",
+      "article_title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+      "article_url": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 05:13:06 +0000",
+      "added_at": "2026-11-18T06:09:55.203290+00:00"
     }
   ]
 }
