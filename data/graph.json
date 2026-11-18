@@ -6181,16 +6181,17 @@
       "type": "company",
       "sectors": [
         "data center networking chips",
-        "networking / custom silicon"
+        "networking / custom silicon",
+        "data center silicon / optical interconnect"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "MRVL",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-09T06:06:12.877653+00:00",
-      "last_seen": "2026-11-10T05:12:47.511744+00:00"
+      "last_seen": "2026-11-18T15:11:10.700482+00:00"
     },
     "lumentum": {
       "name": "Lumentum",
@@ -12559,6 +12560,51 @@
       "mentions": 1,
       "first_seen": "2026-11-18T14:10:57.201174+00:00",
       "last_seen": "2026-11-18T14:10:57.201174+00:00"
+    },
+    "ercot": {
+      "name": "ERCOT",
+      "type": "institution",
+      "sectors": [
+        "Texas grid operator"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T15:11:09.958945+00:00",
+      "last_seen": "2026-11-18T15:11:09.958945+00:00"
+    },
+    "public utility commission of texas": {
+      "name": "Public Utility Commission of Texas",
+      "type": "institution",
+      "sectors": [
+        "Texas utility regulator"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T15:11:09.958945+00:00",
+      "last_seen": "2026-11-18T15:11:09.958945+00:00"
+    },
+    "penguin solutions": {
+      "name": "Penguin Solutions",
+      "type": "company",
+      "sectors": [
+        "AI infrastructure systems / memory appliances"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "PENG",
+      "mentions": 1,
+      "first_seen": "2026-11-18T15:11:10.700482+00:00",
+      "last_seen": "2026-11-18T15:11:10.700482+00:00"
     }
   },
   "edges": [
@@ -29303,6 +29349,36 @@
           "added_at": "2026-11-18T14:10:57.201174+00:00"
         }
       ]
+    },
+    {
+      "source": "public utility commission of texas",
+      "target": "ercot",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "PUCT 与 ERCOT 受命共同收集数据中心是否自带电源/水源、社区影响和控制权等信息,465 个项目回复率 93%,正式报告 12 月提交",
+          "article_title": "Texas environmental regulator resumes data center permitting following ERCOT review",
+          "article_url": "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 15:03:38 +0000",
+          "added_at": "2026-11-18T15:11:09.958945+00:00"
+        }
+      ]
+    },
+    {
+      "source": "marvell",
+      "target": "penguin solutions",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Penguin 的 MemoryAI Photonic Appliance 通过 Marvell Photonic Fabric 把 16TB HBM+DDR5 内存池放到几十米外供多机架共享(赞助访谈,厂商自述)",
+          "article_title": "AI’s hidden energy tax: More than 80% of scale-up traffic is just memory moving around",
+          "article_url": "https://siliconangle.com/2026/11/18/memory-bottlenecks-ai-how-photonics-shared-pools-help-sc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 14:57:55 +0000",
+          "added_at": "2026-11-18T15:11:10.700482+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -34462,6 +34538,42 @@
       "source_name": "DataCenterDynamics",
       "published": "Wed, 18 Nov 2026 14:04:36 +0000",
       "added_at": "2026-11-18T14:10:57.687522+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "德州 TCEQ 在 ERCOT 完成数据中心影响摸底后恢复审批,监管关注点是自带电源、自带水和社区影响;ERCOT 在审并网 474GW 中约 90% 为数据中心,现场燃气发电、节水散热和储能/需求响应成为过审条件,直接受益",
+      "article_title": "Texas environmental regulator resumes data center permitting following ERCOT review",
+      "article_url": "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 15:03:38 +0000",
+      "added_at": "2026-11-18T15:11:10.195982+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "德州恢复数据中心许可审批(Starbase 240 亿美元燃气数据中心获空气许可)短期利好新增算力,但新州长 Hinojosa 曾主张暂停新建、Cameron 县否决税收减免,政策风险上升,整体偏中性",
+      "article_title": "Texas environmental regulator resumes data center permitting following ERCOT review",
+      "article_url": "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 15:03:38 +0000",
+      "added_at": "2026-11-18T15:11:10.446925+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Marvell/Penguin(赞助访谈,未经独立验证)称 scale-up 流量超 80% 是内存事务,光互联共享 HBM 内存池可把搬运能耗降到四分之一;推理和 Agent 让内存墙成为下一瓶颈,利好光互联芯片、HBM 厂商,系统集成层壁垒较低",
+      "article_title": "AI’s hidden energy tax: More than 80% of scale-up traffic is just memory moving around",
+      "article_url": "https://siliconangle.com/2026/11/18/memory-bottlenecks-ai-how-photonics-shared-pools-help-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 14:57:55 +0000",
+      "added_at": "2026-11-18T15:11:10.956078+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Quantinuum(赞助访谈,公司自述)称错误率两年降约 200 倍至每百万次操作五个错,已与两家云服务商签约,客户集中在制药/能源/化工/金融;瓶颈转向低开销做出足够多逻辑比特,利好纠错领先硬件和量子-GPU 混合调度层,个性化药物愿景需打折",
+      "article_title": "Quantum computing drops its decade-away tag as error rates fall 200-fold in two years",
+      "article_url": "https://siliconangle.com/2026/11/18/quantum-error-correction-ushers-data-center-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 14:28:21 +0000",
+      "added_at": "2026-11-18T15:11:11.440021+00:00"
     }
   ]
 }
