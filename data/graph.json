@@ -12914,6 +12914,39 @@
       "mentions": 1,
       "first_seen": "2026-11-18T21:09:48.683671+00:00",
       "last_seen": "2026-11-18T21:09:48.683671+00:00"
+    },
+    "flexell space": {
+      "name": "Flexell Space",
+      "type": "company",
+      "sectors": [
+        "space solar cells (CIGS / perovskite thin-film), spun out of Hanwha Systems"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T22:10:58.792291+00:00",
+      "last_seen": "2026-11-18T22:10:58.792291+00:00"
+    },
+    "alatyr": {
+      "name": "ALATYR",
+      "type": "company",
+      "sectors": [
+        "orbital data centers (CITADEL modular infrastructure, BYLD in-orbit robotics)"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "AI板块",
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T22:10:58.792291+00:00",
+      "last_seen": "2026-11-18T22:10:58.792291+00:00"
     }
   },
   "edges": [
@@ -30042,6 +30075,21 @@
           "added_at": "2026-11-18T21:09:48.683671+00:00"
         }
       ]
+    },
+    {
+      "source": "flexell space",
+      "target": "alatyr",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方签署 MoU,评估 Flexell 的 CIGS/钙钛矿轻质太阳能电池用于 ALATYR 轨道数据中心供电,先交换技术要求再分阶段评估兼容性(公司新闻稿,无金额和时间表)",
+          "article_title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+          "article_url": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+          "source_name": "SpaceNews",
+          "published": "Wed, 18 Nov 2026 22:02:00 +0000",
+          "added_at": "2026-11-18T22:10:58.792291+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -35417,6 +35465,51 @@
       "source_name": "SpaceNews",
       "published": "Wed, 18 Nov 2026 20:31:51 +0000",
       "added_at": "2026-11-18T21:09:48.926791+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "中性偏利好:轨道数据中心开始为长寿命平台寻找专用太空电源,Flexell Space 与 ALATYR 签 MoU 评估薄膜太阳能电池(公司新闻稿,利益相关,仅为评估性备忘录,无金额和时间表,未经独立验证)",
+      "article_title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+      "article_url": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+      "source_name": "SpaceNews",
+      "published": "Wed, 18 Nov 2026 22:02:00 +0000",
+      "added_at": "2026-11-18T22:10:59.033005+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "中性偏利好:太空数据中心把 AI 电力约束搬上轨道,CIGS/钙钛矿薄膜光伏若在太空验证轻质与抗衰减能力,将推动光伏降本路线(公司新闻稿,利益相关,无性能数据)",
+      "article_title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+      "article_url": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+      "source_name": "SpaceNews",
+      "published": "Wed, 18 Nov 2026 22:02:00 +0000",
+      "added_at": "2026-11-18T22:10:59.278843+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "中性:ALATYR 用 BYLD 机器人系统做在轨组装与模块更换,在轨服务是长寿命轨道平台的第二道瓶颈,但目前只是设计概念,尚无在轨演示(公司新闻稿,利益相关)",
+      "article_title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+      "article_url": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+      "source_name": "SpaceNews",
+      "published": "Wed, 18 Nov 2026 22:02:00 +0000",
+      "added_at": "2026-11-18T22:10:59.524976+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "利空(偏短期):英伟达推迟提交 10-Q,管理层称在评估是否因调查新增风险因素,叠加 SEC 调查报道,市场继续为治理与披露不确定性打折;算力供应链需求端不受直接影响",
+      "article_title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "article_url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 21:57:40 +0000",
+      "added_at": "2026-11-18T22:11:00.244178+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "双面信号:官方称近期 Microsoft、FAA 等大规模宕机源于 AI 发现海量漏洞后的仓促补丁而非攻击,证明前沿模型安全能力已真实改变运维节奏,瓶颈转向发布验证、测试与 AI 防御工具,同时给企业 IT 和关键基础设施带来新的系统性成本",
+      "article_title": "Recent spate of outages attributed to technical issues amid accelerated AI bug discovery",
+      "article_url": "https://siliconangle.com/2026/11/18/recent-spate-of-outages-attributed-to-technical-issues-amid-accelerated-ai-bug-discovery/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 21:38:19 +0000",
+      "added_at": "2026-11-18T22:11:01.169926+00:00"
     }
   ]
 }
