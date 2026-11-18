@@ -247,11 +247,12 @@
         "AI chips / GPUs",
         "GPU / AI chips",
         "GPUs / accelerated computing",
-        "GPU"
+        "GPU",
+        "AI chips / corporate venture investing"
       ],
-      "mentions": 64,
+      "mentions": 66,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-18T00:10:57.074285+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -416,9 +417,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 32,
+      "mentions": 33,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T00:10:56.323597+00:00"
+      "last_seen": "2026-11-18T02:10:31.035863+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -483,9 +484,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 44,
+      "mentions": 45,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T00:10:56.323597+00:00"
+      "last_seen": "2026-11-18T02:10:31.035863+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -1783,9 +1784,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 21,
+      "mentions": 22,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T23:11:59.327750+00:00"
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1807,7 +1808,8 @@
         "memory / semiconductors",
         "memory / foundry",
         "memory / semiconductors / HVAC",
-        "memory chips"
+        "memory chips",
+        "semiconductors / electronics"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1816,9 +1818,9 @@
       ],
       "hot": "hot",
       "ticker": "005930.KS",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-16T15:11:59.119998+00:00"
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
     },
     "alphabet": {
       "name": "Alphabet Inc.",
@@ -2616,16 +2618,17 @@
       "type": "company",
       "sectors": [
         "frontier AI models",
-        "AI lab / fine-tuning"
+        "AI lab / fine-tuning",
+        "AI research lab"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T06:04:43.700727+00:00",
-      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+      "last_seen": "2026-11-18T02:10:31.035863+00:00"
     },
     "safe superintelligence": {
       "name": "Safe Superintelligence Inc",
@@ -4468,9 +4471,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-17T15:11:12.987413+00:00"
+      "last_seen": "2026-11-18T02:10:31.035863+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -6042,7 +6045,8 @@
         "AI data center development",
         "AI cloud / data centers",
         "AI data center / neocloud",
-        "AI data centers"
+        "AI data centers",
+        "neocloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -6050,9 +6054,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-09T06:06:09.263035+00:00",
-      "last_seen": "2026-11-17T16:10:37.707122+00:00"
+      "last_seen": "2026-11-18T02:10:31.035863+00:00"
     },
     "megaspeed": {
       "name": "Megaspeed",
@@ -6448,16 +6452,17 @@
       "sectors": [
         "AI neocloud",
         "GPU cloud / neocloud",
-        "GPU cloud"
+        "GPU cloud",
+        "neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-10T05:12:45.984045+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-18T02:10:31.035863+00:00"
     },
     "orbital compute": {
       "name": "Orbital Compute",
@@ -8694,16 +8699,17 @@
       "name": "Reflection AI",
       "type": "company",
       "sectors": [
-        "open-source frontier models"
+        "open-source frontier models",
+        "open-weight AI lab"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T23:09:29.373228+00:00",
-      "last_seen": "2026-11-13T23:09:29.373228+00:00"
+      "last_seen": "2026-11-18T02:10:31.035863+00:00"
     },
     "onyx security": {
       "name": "Onyx Security",
@@ -10151,9 +10157,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T00:10:18.947671+00:00",
-      "last_seen": "2026-11-17T00:10:18.947671+00:00"
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
     },
     "coatue": {
       "name": "Coatue",
@@ -11998,6 +12004,118 @@
       "mentions": 1,
       "first_seen": "2026-11-17T23:11:59.826200+00:00",
       "last_seen": "2026-11-17T23:11:59.826200+00:00"
+    },
+    "genesis ai": {
+      "name": "Genesis AI",
+      "type": "company",
+      "sectors": [
+        "general-purpose wheeled robot with humanlike dexterous hands"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+    },
+    "eno": {
+      "name": "Eno",
+      "type": "product",
+      "sectors": [
+        "wheeled general-purpose robot"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+    },
+    "gene": {
+      "name": "GENE",
+      "type": "product",
+      "sectors": [
+        "robotics foundation model"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+    },
+    "premji invest": {
+      "name": "Premji Invest",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+    },
+    "eclipse": {
+      "name": "Eclipse",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+    },
+    "zoom communications": {
+      "name": "Zoom Communications",
+      "type": "company",
+      "sectors": [
+        "communications software"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+    },
+    "ericsson": {
+      "name": "Ericsson",
+      "type": "company",
+      "sectors": [
+        "telecom equipment"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+    },
+    "eric schmidt": {
+      "name": "Eric Schmidt",
+      "type": "person",
+      "sectors": [
+        "investor, former Google CEO"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T02:10:31.786956+00:00",
+      "last_seen": "2026-11-18T02:10:31.786956+00:00"
     }
   },
   "edges": [
@@ -12158,6 +12276,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Mon, 16 Nov 2026 18:11:10 +0000",
           "added_at": "2026-11-16T19:10:33.495315+00:00"
+        },
+        {
+          "description": "英伟达持有 OpenAI 股权,并为其俄亥俄州 5000 亿美元数据中心提供 1050 亿美元担保兜底",
+          "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+          "added_at": "2026-11-18T02:10:31.035863+00:00"
         }
       ]
     },
@@ -12450,6 +12576,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 22:29:05 +0000",
           "added_at": "2026-11-17T23:11:59.327750+00:00"
+        },
+        {
+          "description": "Anthropic 在英伟达价值 655 亿美元的私有股权组合中",
+          "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+          "added_at": "2026-11-18T02:10:31.035863+00:00"
         }
       ]
     },
@@ -16912,6 +17046,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Thu, 05 Nov 2026 15:29:27 +0000",
           "added_at": "2026-11-06T07:01:17.225697+00:00"
+        },
+        {
+          "description": "英伟达投资的 neocloud 之一",
+          "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+          "added_at": "2026-11-18T02:10:31.035863+00:00"
         }
       ]
     },
@@ -23596,6 +23738,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 22:43:00 +0000",
           "added_at": "2026-11-13T23:09:29.373228+00:00"
+        },
+        {
+          "description": "英伟达投资的 neocloud 之一",
+          "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+          "added_at": "2026-11-18T02:10:31.035863+00:00"
         }
       ]
     },
@@ -23626,6 +23776,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 22:43:00 +0000",
           "added_at": "2026-11-13T23:09:29.373228+00:00"
+        },
+        {
+          "description": "英伟达投资的 neocloud 之一",
+          "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+          "added_at": "2026-11-18T02:10:31.035863+00:00"
         }
       ]
     },
@@ -23656,6 +23814,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 22:43:00 +0000",
           "added_at": "2026-11-13T23:09:29.373228+00:00"
+        },
+        {
+          "description": "英伟达投资的新实验室之一",
+          "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+          "added_at": "2026-11-18T02:10:31.035863+00:00"
         }
       ]
     },
@@ -27993,6 +28159,186 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 17 Nov 2026 23:49:29 +0000",
           "added_at": "2026-11-18T00:10:56.323597+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "thinking machines",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "英伟达投资的新实验室之一",
+          "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+          "added_at": "2026-11-18T02:10:31.035863+00:00"
+        }
+      ]
+    },
+    {
+      "source": "premji invest",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "khosla ventures",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "eclipse",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "风投部门参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advanced micro devices",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "风投部门参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "samsung electronics",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "风投部门参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "zoom communications",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "风投部门参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ericsson",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "风投部门参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "eric schmidt",
+      "target": "genesis ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 Genesis AI 5 亿美元 A 轮融资(估值 35 亿美元)",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "genesis ai",
+      "target": "eno",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Genesis AI 开发的轮式通用机器人,手部 20 自由度、仿人手设计",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
+        }
+      ]
+    },
+    {
+      "source": "genesis ai",
+      "target": "gene",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Genesis AI 自研的机器人基础模型,驱动 Eno,可用人类手部示范数据训练",
+          "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+          "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+          "added_at": "2026-11-18T02:10:31.786956+00:00"
         }
       ]
     }
@@ -32911,6 +33257,42 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 17 Nov 2026 23:27:01 +0000",
       "added_at": "2026-11-18T00:10:57.320303+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英伟达私有股权增至 655 亿美元、担保 1180 亿美元,但 Kress 表示多余自由现金流将全部返还股东并严格评估未来投资,早期 neocloud 和开源实验室融资将收紧,利空早期 AI 基础设施创业估值,头部客户影响有限",
+      "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+      "added_at": "2026-11-18T02:10:31.291056+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "英伟达曾是机器人创业公司的信号型投资人,其收缩股权投资会削弱机器人初创公司的估值锚,轻度利空",
+      "article_title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "article_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 01:44:21 +0000",
+      "added_at": "2026-11-18T02:10:31.540630+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Genesis AI A 轮融资 5 亿美元,用仿人灵巧手直接吃人类示范数据解决训练数据瓶颈,利好灵巧手零部件(微型电机、减速器、触觉传感)和数据采集基础设施",
+      "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+      "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+      "added_at": "2026-11-18T02:10:32.036893+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "机器人基础模型 GENE 需持续扩充数据并训练,英伟达、AMD 同时入股,利好机器人基础模型的训练算力需求",
+      "article_title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
+      "article_url": "https://siliconangle.com/2026/11/17/general-purpose-robot-maker-genesis-ai-reels-in-500m-at-3-5b-valuation/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 01:29:33 +0000",
+      "added_at": "2026-11-18T02:10:32.281891+00:00"
     }
   ]
 }
