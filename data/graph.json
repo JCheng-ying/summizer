@@ -450,9 +450,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 24,
+      "mentions": 25,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T23:11:59.327750+00:00"
+      "last_seen": "2026-11-18T14:10:57.201174+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -12406,6 +12406,159 @@
       "mentions": 1,
       "first_seen": "2026-11-18T13:11:50.835921+00:00",
       "last_seen": "2026-11-18T13:11:50.835921+00:00"
+    },
+    "sealsq": {
+      "name": "SEALSQ",
+      "type": "company",
+      "sectors": [
+        "secure semiconductors / PKI / post-quantum hardware"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": "LAES",
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:55.683267+00:00",
+      "last_seen": "2026-11-18T14:10:55.683267+00:00"
+    },
+    "quintessencelabs": {
+      "name": "QuintessenceLabs",
+      "type": "company",
+      "sectors": [
+        "quantum cybersecurity / QRNG / key management"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:55.683267+00:00",
+      "last_seen": "2026-11-18T14:10:55.683267+00:00"
+    },
+    "luxquanta": {
+      "name": "Luxquanta",
+      "type": "company",
+      "sectors": [
+        "CV-QKD systems"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:56.438966+00:00",
+      "last_seen": "2026-11-18T14:10:56.438966+00:00"
+    },
+    "ciena": {
+      "name": "Ciena",
+      "type": "company",
+      "sectors": [
+        "optical networking"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "CIEN",
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:56.438966+00:00",
+      "last_seen": "2026-11-18T14:10:56.438966+00:00"
+    },
+    "university of the basque country ehu": {
+      "name": "University of the Basque Country (EHU)",
+      "type": "institution",
+      "sectors": [
+        "university / quantum-safe networking research"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:56.438966+00:00",
+      "last_seen": "2026-11-18T14:10:56.438966+00:00"
+    },
+    "surf": {
+      "name": "SURF",
+      "type": "institution",
+      "sectors": [
+        "Dutch research and education network"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:56.438966+00:00",
+      "last_seen": "2026-11-18T14:10:56.438966+00:00"
+    },
+    "géant": {
+      "name": "GÉANT",
+      "type": "institution",
+      "sectors": [
+        "European research and education network"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:56.438966+00:00",
+      "last_seen": "2026-11-18T14:10:56.438966+00:00"
+    },
+    "pcss": {
+      "name": "PCSS",
+      "type": "institution",
+      "sectors": [
+        "Polish supercomputing and networking center"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:56.438966+00:00",
+      "last_seen": "2026-11-18T14:10:56.438966+00:00"
+    },
+    "loudoun county": {
+      "name": "Loudoun County",
+      "type": "institution",
+      "sectors": [
+        "local government / data center hub"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:57.201174+00:00",
+      "last_seen": "2026-11-18T14:10:57.201174+00:00"
+    },
+    "crossroads campus": {
+      "name": "Crossroads Technology Campus",
+      "type": "product",
+      "sectors": [
+        "data center campus (Spotsylvania County, VA)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T14:10:57.201174+00:00",
+      "last_seen": "2026-11-18T14:10:57.201174+00:00"
     }
   },
   "edges": [
@@ -29030,6 +29183,126 @@
           "added_at": "2026-11-18T13:11:54.168942+00:00"
         }
       ]
+    },
+    {
+      "source": "sealsq",
+      "target": "quintessencelabs",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "签署不具约束力意向书,拟以现金加股票收购 QuintessenceLabs 100% 股权,60 天排他期,目标 2027 年上半年完成",
+          "article_title": "SEALSQ Signs Letter of Intent to Acquire QuintessenceLabs",
+          "article_url": "https://thequantuminsider.com/2026/11/18/sealsq-letter-of-intent-acquire-quintessencelabs/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 12:54:07 +0000",
+          "added_at": "2026-11-18T14:10:55.683267+00:00"
+        }
+      ]
+    },
+    {
+      "source": "luxquanta",
+      "target": "ciena",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SC26 演示中 Luxquanta 的 Nova lq QKD 密钥与 Ciena 光层线速加密(WL6e/WL5e)及内置 PQC 混合使用,共用同一对光纤",
+          "article_title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+          "article_url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+          "added_at": "2026-11-18T14:10:56.438966+00:00"
+        }
+      ]
+    },
+    {
+      "source": "university of the basque country ehu",
+      "target": "luxquanta",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "EHU 的 QuLore 编排框架统一调度 Luxquanta QKD 与 PQC 密钥,搭建芝加哥-阿姆斯特丹-巴斯克 8000 公里混合量子安全网络",
+          "article_title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+          "article_url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+          "added_at": "2026-11-18T14:10:56.438966+00:00"
+        }
+      ]
+    },
+    {
+      "source": "university of the basque country ehu",
+      "target": "surf",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "SURF 在阿姆斯特丹托管中继节点并运行开源 eduKMS,与 EHU 的 vKMS 通过标准接口协同",
+          "article_title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+          "article_url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+          "added_at": "2026-11-18T14:10:56.438966+00:00"
+        }
+      ]
+    },
+    {
+      "source": "university of the basque country ehu",
+      "target": "ciena",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Ciena 在芝加哥 SC26 展台和巴斯克链路提供光传输与光层加密,纳入 QuLore 编排的演示网络",
+          "article_title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+          "article_url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+          "added_at": "2026-11-18T14:10:56.438966+00:00"
+        }
+      ]
+    },
+    {
+      "source": "géant",
+      "target": "university of the basque country ehu",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "GÉANT 通过网络发展工作参与该混合量子安全网络演示",
+          "article_title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+          "article_url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+          "added_at": "2026-11-18T14:10:56.438966+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pcss",
+      "target": "university of the basque country ehu",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "PCSS 在 SC26 展台托管芝加哥的一个量子节点",
+          "article_title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+          "article_url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+          "added_at": "2026-11-18T14:10:56.438966+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "crossroads campus",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "据报道 Amazon 是弗吉尼亚 Spotsylvania 县 550 英亩 Crossroads Technology Campus 的最终用户,该项目本周推进了特殊用途许可",
+          "article_title": "Virginia’s Loudoun County officially adopts 12-month moratorium on data center development",
+          "article_url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-officially-adopts-12-month-moratorium-on-data-center-development/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 14:04:36 +0000",
+          "added_at": "2026-11-18T14:10:57.201174+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -34135,6 +34408,60 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 12:13:22 +0000",
       "added_at": "2026-11-18T13:11:54.659381+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "SEALSQ(公司新闻稿,未经独立验证)拟现金加股票收购 QuintessenceLabs,把后量子安全芯片和量子随机数、密钥管理、CV-QKD 拼成从芯片到企业的完整信任链,瞄准客户'不想推倒重来'的迁移瓶颈;仍是不具约束力意向书,有股东稀释和 earn-out",
+      "article_title": "SEALSQ Signs Letter of Intent to Acquire QuintessenceLabs",
+      "article_url": "https://thequantuminsider.com/2026/11/18/sealsq-letter-of-intent-acquire-quintessencelabs/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:54:07 +0000",
+      "added_at": "2026-11-18T14:10:55.923827+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "SEALSQ 安全芯片面向联网设备,PQC 迁移启动后设备端安全芯片替换是量最大的一块,与 edge AI 终端是同一批设备;属间接、逻辑层面的弱利好",
+      "article_title": "SEALSQ Signs Letter of Intent to Acquire QuintessenceLabs",
+      "article_url": "https://thequantuminsider.com/2026/11/18/sealsq-letter-of-intent-acquire-quintessencelabs/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:54:07 +0000",
+      "added_at": "2026-11-18T14:10:56.169340+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "芝加哥-阿姆斯特丹-巴斯克 8000 公里演示(参与方新闻稿)用 QuLore 编排短距 CV-QKD 与长距 ML-KEM PQC,三层纵深加密,证明异构多厂商量子安全网络可互通;瓶颈在密钥管理与编排,利好光层加密设备商和可与电信光纤共存的 QKD 厂商,仍属展会演示",
+      "article_title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+      "article_url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+      "added_at": "2026-11-18T14:10:56.696600+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Ciena 1.6Tb/s 线速光层加密承担量子与数据信道共纤,光传输设备商既吃 AI 数据中心互联增长又多一个量子安全卖点;属产业链层面弱联系,演示流量并非 AI 负载",
+      "article_title": "Hybrid QKD and PQC Network Connects Chicago and Europe Across 8,000 km",
+      "article_url": "https://thequantuminsider.com/2026/11/18/8000-km-quantum-safe-network-us-europe-demonstration/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 12:44:46 +0000",
+      "added_at": "2026-11-18T14:10:56.960311+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "全球数据中心最密集的 Loudoun 县 7-1 通过 12 个月暂停,连同变电站申请一并冻结,社会许可成为与电网同级的硬瓶颈;利好能就地解决电力和降低社区阻力的现场发电、储能、闭环液冷与电力设备层",
+      "article_title": "Virginia’s Loudoun County officially adopts 12-month moratorium on data center development",
+      "article_url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-officially-adopts-12-month-moratorium-on-data-center-development/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 14:04:36 +0000",
+      "added_at": "2026-11-18T14:10:57.446580+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Loudoun 暂停新数据中心审批(其占县预算 40%),叠加州参议员提议全州三年暂停,北弗吉尼亚新增容量受限、扩张成本和选址不确定性上升,短期局部利空;存量地块运营商(Equinix、Digital Realty)议价力上升,项目外溢至 Spotsylvania 等县",
+      "article_title": "Virginia’s Loudoun County officially adopts 12-month moratorium on data center development",
+      "article_url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-officially-adopts-12-month-moratorium-on-data-center-development/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 14:04:36 +0000",
+      "added_at": "2026-11-18T14:10:57.687522+00:00"
     }
   ]
 }
