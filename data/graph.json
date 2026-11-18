@@ -250,11 +250,12 @@
         "GPU / AI chips",
         "GPUs / accelerated computing",
         "GPU",
-        "AI chips / corporate venture investing"
+        "AI chips / corporate venture investing",
+        "AI accelerators / Aerial RAN computer"
       ],
-      "mentions": 69,
+      "mentions": 70,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-18T16:11:37.528779+00:00",
+      "last_seen": "2026-11-18T17:10:44.547365+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -1784,7 +1785,8 @@
         "semiconductors",
         "AI accelerators / CPUs",
         "GPU / CPU",
-        "AI accelerators"
+        "AI accelerators",
+        "CPUs / EPYC"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1793,9 +1795,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 24,
+      "mentions": 25,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T13:11:50.835921+00:00"
+      "last_seen": "2026-11-18T17:10:45.970570+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -10729,17 +10731,19 @@
       "type": "company",
       "sectors": [
         "telecom equipment / 5G base stations",
-        "network infrastructure"
+        "network infrastructure",
+        "telecom equipment / AI-RAN"
       ],
       "sector_tags": [
         "量子计算板块",
-        "AI板块"
+        "AI板块",
+        "edge AI板块"
       ],
-      "hot": null,
+      "hot": "hot",
       "ticker": "NOK",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T14:12:01.977494+00:00",
-      "last_seen": "2026-11-17T15:11:12.987413+00:00"
+      "last_seen": "2026-11-18T17:10:44.547365+00:00"
     },
     "qmill": {
       "name": "QMill",
@@ -11802,16 +11806,17 @@
       "sectors": [
         "servers / AI factory / storage",
         "servers / AI factory",
-        "AI servers / AI factory infrastructure"
+        "AI servers / AI factory infrastructure",
+        "servers / PowerEdge"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-18T11:09:51.670268+00:00"
+      "last_seen": "2026-11-18T17:10:45.970570+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -12789,6 +12794,51 @@
       "mentions": 1,
       "first_seen": "2026-11-18T16:11:40.652756+00:00",
       "last_seen": "2026-11-18T16:11:40.652756+00:00"
+    },
+    "vodafonethree": {
+      "name": "VodafoneThree",
+      "type": "company",
+      "sectors": [
+        "UK mobile network operator"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T17:10:44.547365+00:00",
+      "last_seen": "2026-11-18T17:10:44.547365+00:00"
+    },
+    "virgin media o2": {
+      "name": "Virgin Media O2",
+      "type": "company",
+      "sectors": [
+        "UK mobile network operator"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T17:10:44.547365+00:00",
+      "last_seen": "2026-11-18T17:10:44.547365+00:00"
+    },
+    "ee": {
+      "name": "EE",
+      "type": "company",
+      "sectors": [
+        "UK mobile network operator"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T17:10:44.547365+00:00",
+      "last_seen": "2026-11-18T17:10:44.547365+00:00"
     }
   },
   "edges": [
@@ -29194,6 +29244,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 18 Nov 2026 10:46:31 +0000",
           "added_at": "2026-11-18T11:09:51.670268+00:00"
+        },
+        {
+          "description": "Dell 与 AMD 共同打造机架级 AI 平台,Dell PowerEdge R9825 基于 AMD 第六代 EPYC 9006 处理器(Dell 赞助访谈,厂商数据)",
+          "article_title": "Agentic AI puts the CPU back at center stage as Dell and AMD chase every watt",
+          "article_url": "https://siliconangle.com/2026/11/18/business-development-agentic-ai-era-puts-cpus-first-dellatsc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 17:06:36 +0000",
+          "added_at": "2026-11-18T17:10:45.970570+00:00"
         }
       ]
     },
@@ -29794,6 +29852,66 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 18 Nov 2026 15:12:28 +0000",
           "added_at": "2026-11-18T16:11:40.652756+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vodafonethree",
+      "target": "nokia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "VodafoneThree 与 Nokia 合作在英国网络试验 AI-RAN,测试 Nokia anyRAN 软件,先实验室后外场",
+          "article_title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 16:22:59 +0000",
+          "added_at": "2026-11-18T17:10:44.547365+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nokia",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Nokia 的 AI 原生 anyRAN 软件运行在 Nvidia Aerial RAN 计算机上,双方共同推动 AI-RAN",
+          "article_title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 16:22:59 +0000",
+          "added_at": "2026-11-18T17:10:44.547365+00:00"
+        }
+      ]
+    },
+    {
+      "source": "virgin media o2",
+      "target": "nokia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Virgin Media O2 上月在伦敦 Paddington Giga Site 与 Nokia 测试 AI-RAN",
+          "article_title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 16:22:59 +0000",
+          "added_at": "2026-11-18T17:10:44.547365+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ee",
+      "target": "nokia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "EE 确认明年将在现网借助 Nokia 试验 AI-RAN",
+          "article_title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 18 Nov 2026 16:22:59 +0000",
+          "added_at": "2026-11-18T17:10:44.547365+00:00"
         }
       ]
     }
@@ -35072,6 +35190,60 @@
       "source_name": "DataCenterDynamics",
       "published": "Wed, 18 Nov 2026 15:12:28 +0000",
       "added_at": "2026-11-18T16:11:41.184748+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "加州 CEQA 审批把备用柴油机排放、蒸发冷却用水、新建变电站列为主要环评议题,能降低这些风险的储能/燃料电池/低排放备用电源受益",
+      "article_title": "Navigating CEQA: what data center developers need to know before investing in California",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/navigating-ceqa-what-data-center-developers-need-to-know-before-investing-in-california/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 16:24:59 +0000",
+      "added_at": "2026-11-18T17:10:44.071870+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "CEQA 环评可让大型数据中心审批拖到 18-36 个月,审批摩擦不减少算力需求但推迟算力上线,短期偏利空、产能向审批更快地区转移",
+      "article_title": "Navigating CEQA: what data center developers need to know before investing in California",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/navigating-ceqa-what-data-center-developers-need-to-know-before-investing-in-california/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 16:24:59 +0000",
+      "added_at": "2026-11-18T17:10:44.307251+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "VodafoneThree 继 VMO2、EE 后与 Nokia/Nvidia 试验 AI-RAN,用例包括在 RAN 与 AI 工作负载间共享加速算力,基站有望成为 edge AI 推理节点(仍处试验阶段)",
+      "article_title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 16:22:59 +0000",
+      "added_at": "2026-11-18T17:10:44.797276+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI-RAN 试验以 Nvidia Aerial 为底座,把电信网络物理位置纳入推理网络,加速平台层是首要受益方",
+      "article_title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 18 Nov 2026 16:22:59 +0000",
+      "added_at": "2026-11-18T17:10:45.047444+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AMD/Dell 称 Agent 负载高并发、CPU 密集,EPYC 9006 服务器可替换 13 台旧机,服务器 CPU 与换机周期成为 AI 基建新增量(Dell 赞助内容,数据未经独立验证)",
+      "article_title": "Agentic AI puts the CPU back at center stage as Dell and AMD chase every watt",
+      "article_url": "https://siliconangle.com/2026/11/18/business-development-agentic-ai-era-puts-cpus-first-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 17:06:36 +0000",
+      "added_at": "2026-11-18T17:10:46.213367+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "企业机柜功率卡在 15-20kW,厂商称新服务器散热功耗降 80%,功率预算成为瓶颈,能效与散热方案受益(厂商数据未经独立验证)",
+      "article_title": "Agentic AI puts the CPU back at center stage as Dell and AMD chase every watt",
+      "article_url": "https://siliconangle.com/2026/11/18/business-development-agentic-ai-era-puts-cpus-first-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 17:06:36 +0000",
+      "added_at": "2026-11-18T17:10:46.457300+00:00"
     }
   ]
 }
