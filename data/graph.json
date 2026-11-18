@@ -253,9 +253,9 @@
         "AI chips / corporate venture investing",
         "AI accelerators / Aerial RAN computer"
       ],
-      "mentions": 70,
+      "mentions": 71,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-18T17:10:44.547365+00:00",
+      "last_seen": "2026-11-18T23:11:05.265418+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -403,9 +403,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 22,
+      "mentions": 23,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T06:09:54.956706+00:00"
+      "last_seen": "2026-11-18T23:11:05.265418+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -453,9 +453,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 27,
+      "mentions": 28,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T18:10:40.409878+00:00"
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -490,9 +490,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 45,
+      "mentions": 46,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T02:10:31.035863+00:00"
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -1849,7 +1849,8 @@
         "hyperscaler",
         "AI platform / search",
         "Google / threat intelligence (GTIG)",
-        "search / cloud"
+        "search / cloud",
+        "cloud / search"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1861,9 +1862,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 46,
+      "mentions": 47,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T16:11:39.204972+00:00"
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -6689,9 +6690,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-10T05:12:47.804011+00:00",
-      "last_seen": "2026-11-12T04:06:43.553496+00:00"
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
     },
     "anduril": {
       "name": "Anduril",
@@ -8559,9 +8560,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-13T21:09:37.045387+00:00",
-      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
     },
     "dfj growth": {
       "name": "DFJ Growth",
@@ -9553,16 +9554,17 @@
       "type": "company",
       "sectors": [
         "cybersecurity / cloud security",
-        "network security"
+        "network security",
+        "cybersecurity"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "PANW",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-16T13:10:09.267246+00:00",
-      "last_seen": "2026-11-17T18:11:19.020102+00:00"
+      "last_seen": "2026-11-18T23:11:05.265418+00:00"
     },
     "asrock rack": {
       "name": "ASRock Rack",
@@ -10204,9 +10206,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T00:10:18.947671+00:00",
-      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
     },
     "noeri": {
       "name": "Noeri",
@@ -10279,16 +10281,17 @@
       "name": "Applied Compute",
       "type": "company",
       "sectors": [
-        "enterprise model fine-tuning"
+        "enterprise model fine-tuning",
+        "open-weight model post-training and inference platform"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T00:10:19.451376+00:00",
-      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+      "last_seen": "2026-11-18T23:11:05.265418+00:00"
     },
     "cosmo bee": {
       "name": "Cosmo Bee",
@@ -12135,14 +12138,15 @@
       "name": "Eric Schmidt",
       "type": "person",
       "sectors": [
-        "investor, former Google CEO"
+        "investor, former Google CEO",
+        "former Google CEO, investor"
       ],
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-18T02:10:31.786956+00:00",
-      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
     },
     "microsoft 365 copilot": {
       "name": "Microsoft 365 Copilot",
@@ -12947,6 +12951,84 @@
       "mentions": 1,
       "first_seen": "2026-11-18T22:10:58.792291+00:00",
       "last_seen": "2026-11-18T22:10:58.792291+00:00"
+    },
+    "iconiq": {
+      "name": "Iconiq",
+      "type": "company",
+      "sectors": [
+        "investment firm"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T23:11:04.752589+00:00",
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
+    },
+    "altimeter capital management": {
+      "name": "Altimeter Capital Management",
+      "type": "company",
+      "sectors": [
+        "investment firm"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T23:11:04.752589+00:00",
+      "last_seen": "2026-11-18T23:11:04.752589+00:00"
+    },
+    "elad gil": {
+      "name": "Elad Gil",
+      "type": "person",
+      "sectors": [
+        "investor"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T23:11:05.265418+00:00",
+      "last_seen": "2026-11-18T23:11:05.265418+00:00"
+    },
+    "shopify ventures": {
+      "name": "Shopify Ventures",
+      "type": "company",
+      "sectors": [
+        "corporate venture arm of Shopify"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T23:11:05.265418+00:00",
+      "last_seen": "2026-11-18T23:11:05.265418+00:00"
+    },
+    "hubspot ventures": {
+      "name": "HubSpot Ventures",
+      "type": "company",
+      "sectors": [
+        "corporate venture arm of HubSpot"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T23:11:05.265418+00:00",
+      "last_seen": "2026-11-18T23:11:05.265418+00:00"
+    },
+    "doordash": {
+      "name": "DoorDash Inc.",
+      "type": "company",
+      "sectors": [
+        "delivery platform"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "DASH",
+      "mentions": 1,
+      "first_seen": "2026-11-18T23:11:05.265418+00:00",
+      "last_seen": "2026-11-18T23:11:05.265418+00:00"
     }
   },
   "edges": [
@@ -13283,6 +13365,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 22:29:05 +0000",
           "added_at": "2026-11-17T23:11:59.327750+00:00"
+        },
+        {
+          "description": "Amazon 持有 IPO 定价为每股 83 美元(估值约 1.5 万亿美元)的 Anthropic 近 15% 股份",
+          "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+          "added_at": "2026-11-18T23:11:04.752589+00:00"
         }
       ]
     },
@@ -13329,6 +13419,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 22:29:05 +0000",
           "added_at": "2026-11-17T23:11:59.327750+00:00"
+        },
+        {
+          "description": "Google 持有 Anthropic 近 14% 股份,并参与 260 亿美元无投票权股票私募",
+          "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+          "added_at": "2026-11-18T23:11:04.752589+00:00"
         }
       ]
     },
@@ -30090,6 +30188,201 @@
           "added_at": "2026-11-18T22:10:58.792291+00:00"
         }
       ]
+    },
+    {
+      "source": "sequoia capital",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Sequoia 持有 Anthropic 约 1% 股份,据报道还计划在 IPO 中再买入数十亿美元股票",
+          "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+          "added_at": "2026-11-18T23:11:04.752589+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gic",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "新加坡主权基金 GIC 持有 Anthropic 约 1% 股份",
+          "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+          "added_at": "2026-11-18T23:11:04.752589+00:00"
+        }
+      ]
+    },
+    {
+      "source": "eric schmidt",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "前 Google CEO Eric Schmidt 持有 Anthropic 约 1% 股份",
+          "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+          "added_at": "2026-11-18T23:11:04.752589+00:00"
+        }
+      ]
+    },
+    {
+      "source": "iconiq",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Iconiq 是 Anthropic 现有投资方,据报道计划在 IPO 中加仓",
+          "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+          "added_at": "2026-11-18T23:11:04.752589+00:00"
+        }
+      ]
+    },
+    {
+      "source": "altimeter capital management",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Altimeter 据报道计划在 Anthropic IPO 中买入股票",
+          "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+          "added_at": "2026-11-18T23:11:04.752589+00:00"
+        }
+      ]
+    },
+    {
+      "source": "lightspeed venture partners",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Lightspeed 是 Anthropic 现有投资方,据报道计划在 IPO 中加仓",
+          "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+          "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+          "added_at": "2026-11-18T23:11:04.752589+00:00"
+        }
+      ]
+    },
+    {
+      "source": "palo alto networks",
+      "target": "applied compute",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Palo Alto Networks 以 45 亿美元全股票交易收购 Applied Compute,预计第三财季完成,CEO Yash Patil 将任联席首席 AI 官",
+          "article_title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
+          "article_url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 22:13:03 +0000",
+          "added_at": "2026-11-18T23:11:05.265418+00:00"
+        }
+      ]
+    },
+    {
+      "source": "elad gil",
+      "target": "applied compute",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Elad Gil 领投 Applied Compute 本月 3.5 亿美元融资(估值 32.5 亿美元)",
+          "article_title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
+          "article_url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 22:13:03 +0000",
+          "added_at": "2026-11-18T23:11:05.265418+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "applied compute",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 参投 Applied Compute 3.5 亿美元融资",
+          "article_title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
+          "article_url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 22:13:03 +0000",
+          "added_at": "2026-11-18T23:11:05.265418+00:00"
+        }
+      ]
+    },
+    {
+      "source": "shopify ventures",
+      "target": "applied compute",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Shopify Ventures 参投 Applied Compute 3.5 亿美元融资",
+          "article_title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
+          "article_url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 22:13:03 +0000",
+          "added_at": "2026-11-18T23:11:05.265418+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hubspot ventures",
+      "target": "applied compute",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "HubSpot Ventures 参投 Applied Compute 3.5 亿美元融资",
+          "article_title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
+          "article_url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 22:13:03 +0000",
+          "added_at": "2026-11-18T23:11:05.265418+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "applied compute",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Microsoft 是 Applied Compute 后训练与推理平台的知名客户",
+          "article_title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
+          "article_url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 22:13:03 +0000",
+          "added_at": "2026-11-18T23:11:05.265418+00:00"
+        }
+      ]
+    },
+    {
+      "source": "doordash",
+      "target": "applied compute",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "DoorDash 是 Applied Compute 后训练与推理平台的知名客户",
+          "article_title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
+          "article_url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 22:13:03 +0000",
+          "added_at": "2026-11-18T23:11:05.265418+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -35510,6 +35803,33 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 21:38:19 +0000",
       "added_at": "2026-11-18T22:11:01.169926+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "结构性信号:Nadella 判断 Agent 网络将重排互联网变现逻辑(广告转向 CPC/交易型),Amazon 屏蔽外部 Agent 的渠道封锁可能被更开放的平台绕开;受益层为 Agent 入口方、支付结算层与算力,依赖展示广告的聚合者面临重定价(峰会发言,Microsoft 自身利益相关,无数据支撑)",
+      "article_title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "article_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 22:58:11 +0000",
+      "added_at": "2026-11-18T23:11:04.513021+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "利好:Anthropic IPO 定价每股 83 美元高于 70-78 区间,估值约 1.5 万亿美元(低于 2 万亿目标),在黄仁勋离职后的波动中仍获超额认购;260 亿美元私募全部来自芯片/存储/代工/云,募资将转化为算力订单,风投退出流动性也可回流 AI 初创;二级表现待首日交易检验",
+      "article_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "article_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 22:11:15 +0000",
+      "added_at": "2026-11-18T23:11:05.007379+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "利好:Palo Alto 以 45 亿美元(较数周前融资估值溢价约四成)收购开源权重模型后训练/推理平台 Applied Compute,并公布收入增长 39%、NGS ARR 增长 66% 且大幅上调全年指引;印证企业 AI 走向'开源+闭源混合、本地/主权部署',模型安全成为新收费层,利好 GPU 与后训练/推理工具链,对前沿实验室企业 API 定价构成压力",
+      "article_title": "Palo Alto Networks bets $4.5B on AI startup Applied Compute as earnings top forecasts",
+      "article_url": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 22:13:03 +0000",
+      "added_at": "2026-11-18T23:11:05.516268+00:00"
     }
   ]
 }
