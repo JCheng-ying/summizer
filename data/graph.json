@@ -96,13 +96,15 @@
       "name": "University of Trieste",
       "type": "institution",
       "sectors": [
-        "haptics"
+        "haptics",
+        "academic research"
       ],
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-03T00:42:27.820021+00:00",
-      "last_seen": "2026-08-03T00:42:27.820021+00:00",
+      "last_seen": "2026-11-18T10:10:39.464757+00:00",
       "sector_tags": [
-        "机器人板块"
+        "机器人板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null
@@ -4355,7 +4357,8 @@
         "basic energy sciences funding",
         "US government",
         "federal agency",
-        "government / energy research"
+        "government / energy research",
+        "government research funding"
       ],
       "sector_tags": [
         "能源板块",
@@ -4364,9 +4367,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-10-25T06:05:12.258254+00:00",
-      "last_seen": "2026-11-17T15:11:12.258072+00:00"
+      "last_seen": "2026-11-18T10:10:38.760250+00:00"
     },
     "generative bionics": {
       "name": "Generative Bionics",
@@ -12148,6 +12151,96 @@
       "mentions": 1,
       "first_seen": "2026-11-18T06:09:54.956706+00:00",
       "last_seen": "2026-11-18T06:09:54.956706+00:00"
+    },
+    "center for physical sciences and ftmc": {
+      "name": "Center for Physical Sciences and Technology (FTMC)",
+      "type": "institution",
+      "sectors": [
+        "solid-state defect theory"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T10:10:38.760250+00:00",
+      "last_seen": "2026-11-18T10:10:38.760250+00:00"
+    },
+    "university of california santa barbara": {
+      "name": "University of California, Santa Barbara",
+      "type": "institution",
+      "sectors": [
+        "materials / defect physics"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T10:10:38.760250+00:00",
+      "last_seen": "2026-11-18T10:10:38.760250+00:00"
+    },
+    "max planck institute for polymer research": {
+      "name": "Max Planck Institute for Polymer Research",
+      "type": "institution",
+      "sectors": [
+        "time-resolved spectroscopy"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T10:10:38.760250+00:00",
+      "last_seen": "2026-11-18T10:10:38.760250+00:00"
+    },
+    "design center for quantum advantage c2qa": {
+      "name": "Co-design Center for Quantum Advantage (C2QA)",
+      "type": "institution",
+      "sectors": [
+        "DOE quantum research center"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T10:10:38.760250+00:00",
+      "last_seen": "2026-11-18T10:10:38.760250+00:00"
+    },
+    "eigenorbit": {
+      "name": "EigenOrbit",
+      "type": "company",
+      "sectors": [
+        "quantum-inspired machine learning"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T10:10:39.464757+00:00",
+      "last_seen": "2026-11-18T10:10:39.464757+00:00"
+    },
+    "hospital maggiore of trieste": {
+      "name": "Hospital Maggiore of Trieste",
+      "type": "institution",
+      "sectors": [
+        "dermatology / clinical data"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T10:10:39.464757+00:00",
+      "last_seen": "2026-11-18T10:10:39.464757+00:00"
     }
   },
   "edges": [
@@ -28433,6 +28526,81 @@
           "added_at": "2026-11-18T06:09:54.956706+00:00"
         }
       ]
+    },
+    {
+      "source": "center for physical sciences and ftmc",
+      "target": "university of california santa barbara",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "FTMC 的 Razinkovas、Alkauskas 与 UCSB 的 Van de Walle 合作完成量子力学模拟和理论模型,解释 NV 色心通过隧穿从氮原子补回电子",
+          "article_title": "How Electrons Find Their Way to Diamond’s Quantum Defects",
+          "article_url": "https://thequantuminsider.com/2026/11/18/how-electrons-find-their-way-to-diamonds-quantum-defects/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 08:59:29 +0000",
+          "added_at": "2026-11-18T10:10:38.760250+00:00"
+        }
+      ]
+    },
+    {
+      "source": "max planck institute for polymer research",
+      "target": "center for physical sciences and ftmc",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "马普所 Ulbricht 组搭建纳秒到秒级的时间分辨光学实验,测得 NV 色心电荷恢复与氮含量相关、与温度无关,与 FTMC 理论互相印证",
+          "article_title": "How Electrons Find Their Way to Diamond’s Quantum Defects",
+          "article_url": "https://thequantuminsider.com/2026/11/18/how-electrons-find-their-way-to-diamonds-quantum-defects/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 08:59:29 +0000",
+          "added_at": "2026-11-18T10:10:38.760250+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of energy",
+      "target": "design center for quantum advantage c2qa",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "能源部基础能源科学办公室通过 C2QA 资助这项金刚石 NV 色心电荷转移研究",
+          "article_title": "How Electrons Find Their Way to Diamond’s Quantum Defects",
+          "article_url": "https://thequantuminsider.com/2026/11/18/how-electrons-find-their-way-to-diamonds-quantum-defects/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 08:59:29 +0000",
+          "added_at": "2026-11-18T10:10:38.760250+00:00"
+        }
+      ]
+    },
+    {
+      "source": "eigenorbit",
+      "target": "hospital maggiore of trieste",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "EigenOrbit 与里雅斯特 Maggiore 医院皮肤科医生合作,用量子启发正交适配器把认证稳健的 ImageNet 网络适配到毛发镜脱发诊断(公司新闻稿,未经独立验证)",
+          "article_title": "EigenOrbit Develops Quantum-Inspired Method for Robust Medical Image AI",
+          "article_url": "https://thequantuminsider.com/2026/11/18/eigenorbit-develops-quantum-inspired-method-for-robust-medical-image-ai/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 08:36:11 +0000",
+          "added_at": "2026-11-18T10:10:39.464757+00:00"
+        }
+      ]
+    },
+    {
+      "source": "eigenorbit",
+      "target": "university of trieste",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "EigenOrbit 与里雅斯特大学联合发表认证稳健医疗图像分类论文(arXiv 2611.18775),代码开源",
+          "article_title": "EigenOrbit Develops Quantum-Inspired Method for Robust Medical Image AI",
+          "article_url": "https://thequantuminsider.com/2026/11/18/eigenorbit-develops-quantum-inspired-method-for-robust-medical-image-ai/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 08:36:11 +0000",
+          "added_at": "2026-11-18T10:10:39.464757+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -33394,6 +33562,24 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 05:13:06 +0000",
       "added_at": "2026-11-18T06:09:55.203290+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "NV 色心丢电子后靠氮原子量子隧穿补回,恢复时间随距离从纳秒到数小时,电荷态不稳定是量子传感器件可靠性瓶颈;精确控制杂质位置的金刚石材料层(如 Element Six)和量子传感公司是潜在受益方,属量子传感支线的弱信号",
+      "article_title": "How Electrons Find Their Way to Diamond’s Quantum Defects",
+      "article_url": "https://thequantuminsider.com/2026/11/18/how-electrons-find-their-way-to-diamonds-quantum-defects/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 08:59:29 +0000",
+      "added_at": "2026-11-18T10:10:38.997981+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "EigenOrbit(公司新闻稿,未经独立验证)的正交适配器在微调时保持 Lipschitz 界,认证稳健率远高于 LoRA;若欧盟 AI 法案和 FDA 要求可证明稳健性,医疗 AI 合规工具层受益,算法跑在经典硬件上,不算量子板块利好,样本小属弱信号",
+      "article_title": "EigenOrbit Develops Quantum-Inspired Method for Robust Medical Image AI",
+      "article_url": "https://thequantuminsider.com/2026/11/18/eigenorbit-develops-quantum-inspired-method-for-robust-medical-image-ai/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 08:36:11 +0000",
+      "added_at": "2026-11-18T10:10:39.713979+00:00"
     }
   ]
 }
