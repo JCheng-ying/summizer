@@ -6168,9 +6168,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:06:12.402871+00:00",
-      "last_seen": "2026-11-09T06:06:12.402871+00:00"
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
     },
     "marvell": {
       "name": "Marvell Technology",
@@ -12243,6 +12243,132 @@
       "mentions": 1,
       "first_seen": "2026-11-18T10:10:39.464757+00:00",
       "last_seen": "2026-11-18T10:10:39.464757+00:00"
+    },
+    "humyn labs": {
+      "name": "Humyn Labs",
+      "type": "company",
+      "sectors": [
+        "robotics / physical AI training data collection"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "prosus ventures": {
+      "name": "Prosus Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "jump trading": {
+      "name": "Jump Trading",
+      "type": "company",
+      "sectors": [
+        "trading firm / investor"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "lighthouse canton": {
+      "name": "Lighthouse Canton",
+      "type": "company",
+      "sectors": [
+        "investment firm / venture debt"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "trifecta capital": {
+      "name": "Trifecta Capital",
+      "type": "company",
+      "sectors": [
+        "venture debt"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "kgen": {
+      "name": "KGeN",
+      "type": "company",
+      "sectors": [
+        "emerging-market contributor network"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "mecka ai": {
+      "name": "Mecka AI",
+      "type": "company",
+      "sectors": [
+        "robotics training data collection"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "xdof": {
+      "name": "XDOF",
+      "type": "company",
+      "sectors": [
+        "robotics training data collection"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+    },
+    "microagi": {
+      "name": "MicroAGI",
+      "type": "company",
+      "sectors": [
+        "robotics training data collection"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T12:10:15.580904+00:00",
+      "last_seen": "2026-11-18T12:10:15.580904+00:00"
     }
   },
   "edges": [
@@ -28626,6 +28752,141 @@
           "added_at": "2026-11-18T11:09:51.670268+00:00"
         }
       ]
+    },
+    {
+      "source": "accel",
+      "target": "humyn labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Humyn Labs 4700 万美元 A 轮中 2600 万美元股权部分",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "prosus ventures",
+      "target": "humyn labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 Humyn Labs A 轮股权融资",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "jump trading",
+      "target": "humyn labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 Humyn Labs A 轮股权融资",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "lighthouse canton",
+      "target": "humyn labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 A 轮股权,并由其 Growth Debt Fund II 领投 2100 万美元风险债",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "trifecta capital",
+      "target": "humyn labs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 Humyn Labs 2100 万美元风险债",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kgen",
+      "target": "humyn labs",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "同一对创始人此前创办的 KGeN 的新兴市场贡献者网络帮助 Humyn Labs 入户采集数据",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "humyn labs",
+      "target": "mecka ai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "都在采集真实世界机器人训练数据",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "humyn labs",
+      "target": "xdof",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "都在采集真实世界机器人训练数据",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
+    },
+    {
+      "source": "humyn labs",
+      "target": "microagi",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "都在采集真实世界机器人训练数据",
+          "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+          "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+          "added_at": "2026-11-18T12:10:15.580904+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -33623,6 +33884,51 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 10:46:31 +0000",
       "added_at": "2026-11-18T11:09:52.154893+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Humyn Labs 获 4700 万美元 A 轮,4-10 月收入 1000 万美元、另有 2000 万美元已签合同(创始人口述),约 90% 收入来自美国前沿实验室和机器人公司,说明真实世界示范数据仍是机器人基础模型瓶颈且有人买单,利好数据采集/动作捕捉层;但业务劳务密集、门槛不高",
+      "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+      "added_at": "2026-11-18T12:10:15.816334+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "世界模型开发者和前沿 AI 实验室正把预算延伸到物理世界训练数据,AI 训练数据需求从文本扩展到 Physical AI,偏一级市场机会",
+      "article_title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "article_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 11:30:00 +0000",
+      "added_at": "2026-11-18T12:10:16.068542+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Dell 赞助访谈(未经独立验证)称客户希望用统一控制平面连接多达 1000 个有富余电力的小站点做分布式推理,推理正从大园区下沉到门店和能源现场,利好跨站点编排与边缘推理",
+      "article_title": "From store outlets to methane leaks, every scrap of power is now fair game for AI compute",
+      "article_url": "https://siliconangle.com/2026/11/18/distributed-inference-turns-stranded-power-ai-compute-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 11:32:01 +0000",
+      "added_at": "2026-11-18T12:10:16.556749+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Dell CTO 称门店电力、甲烷等任何零散电力来源都在被用于推理,搁浅电力被重新定价,利好伴生气发电、小型发电和储能;厂商赞助访谈,无具体案例,属弱信号",
+      "article_title": "From store outlets to methane leaks, every scrap of power is now fair game for AI compute",
+      "article_url": "https://siliconangle.com/2026/11/18/distributed-inference-turns-stranded-power-ai-compute-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 11:32:01 +0000",
+      "added_at": "2026-11-18T12:10:16.795463+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Dell(赞助访谈)推出 100% 液冷整机柜网络系统,计算/网络/存储共用冷却与供电规格,分布式推理扩张利好编排软件、前端网络和液冷整机柜集成层",
+      "article_title": "From store outlets to methane leaks, every scrap of power is now fair game for AI compute",
+      "article_url": "https://siliconangle.com/2026/11/18/distributed-inference-turns-stranded-power-ai-compute-dellatsc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 11:32:01 +0000",
+      "added_at": "2026-11-18T12:10:17.039942+00:00"
     }
   ]
 }

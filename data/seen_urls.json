@@ -4754,5 +4754,13 @@
   "https://siliconangle.com/2026/11/18/supercomputing-needs-rack-scale-management-dell-says-dellatsc26/": {
     "title": "Scripts can’t run AI factories: Dell moves cluster management from the server to the rack",
     "seen_at": "2026-11-18T11:09:51.682739+00:00"
+  },
+  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
+    "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+    "seen_at": "2026-11-18T12:10:15.593085+00:00"
+  },
+  "https://siliconangle.com/2026/11/18/distributed-inference-turns-stranded-power-ai-compute-dellatsc26/": {
+    "title": "From store outlets to methane leaks, every scrap of power is now fair game for AI compute",
+    "seen_at": "2026-11-18T12:10:16.318521+00:00"
   }
 }
