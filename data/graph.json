@@ -12884,6 +12884,36 @@
       "mentions": 1,
       "first_seen": "2026-11-18T18:10:40.899239+00:00",
       "last_seen": "2026-11-18T18:10:40.899239+00:00"
+    },
+    "all points logistics": {
+      "name": "All Points Logistics",
+      "type": "company",
+      "sectors": [
+        "spaceport logistics / spacecraft processing (Space Prep)"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-18T21:09:48.683671+00:00",
+      "last_seen": "2026-11-18T21:09:48.683671+00:00"
+    },
+    "expeditors international": {
+      "name": "Expeditors International",
+      "type": "company",
+      "sectors": [
+        "global freight forwarding & logistics"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": "EXPD",
+      "mentions": 1,
+      "first_seen": "2026-11-18T21:09:48.683671+00:00",
+      "last_seen": "2026-11-18T21:09:48.683671+00:00"
     }
   },
   "edges": [
@@ -29997,6 +30027,21 @@
           "added_at": "2026-11-18T18:10:40.899239+00:00"
         }
       ]
+    },
+    {
+      "source": "expeditors international",
+      "target": "all points logistics",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Expeditors 将作为 All Points 旗下 Space Prep 航天港物流中心(肯尼迪航天中心)的独家物流服务商并设立现场团队(公司新闻稿,未经独立验证)",
+          "article_title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+          "article_url": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
+          "source_name": "SpaceNews",
+          "published": "Wed, 18 Nov 2026 20:31:51 +0000",
+          "added_at": "2026-11-18T21:09:48.683671+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -35363,6 +35408,15 @@
       "source_name": "The Quantum Insider",
       "published": "Wed, 18 Nov 2026 18:06:57 +0000",
       "added_at": "2026-11-18T19:09:43.342763+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "利好:发射频率上升把需求传导到发射场周边的仓储、洁净间处理和航天专项物流,All Points 联合 Expeditors 在肯尼迪航天中心建物流中心(公司新闻稿,利益相关,2027 年底才开业,规模未经独立验证)",
+      "article_title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+      "article_url": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
+      "source_name": "SpaceNews",
+      "published": "Wed, 18 Nov 2026 20:31:51 +0000",
+      "added_at": "2026-11-18T21:09:48.926791+00:00"
     }
   ]
 }
