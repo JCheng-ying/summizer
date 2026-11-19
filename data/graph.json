@@ -398,7 +398,8 @@
         "cloud / hyperscaler",
         "hyperscaler",
         "enterprise software / cloud / AI agents",
-        "cloud"
+        "cloud",
+        "cloud, enterprise software & AI platforms"
       ],
       "sector_tags": [
         "AI板块",
@@ -406,9 +407,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 25,
+      "mentions": 26,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T17:12:48.844544+00:00"
+      "last_seen": "2026-11-19T23:10:58.511586+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -14142,6 +14143,146 @@
       "mentions": 1,
       "first_seen": "2026-11-19T22:11:34.786118+00:00",
       "last_seen": "2026-11-19T22:11:34.786118+00:00"
+    },
+    "microsoft agent framework": {
+      "name": "Microsoft Agent Framework",
+      "type": "product",
+      "sectors": [
+        "AI agent development toolkit (Python package)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:58.511586+00:00",
+      "last_seen": "2026-11-19T23:10:58.511586+00:00"
+    },
+    "wiz": {
+      "name": "Wiz",
+      "type": "company",
+      "sectors": [
+        "cloud security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:58.511586+00:00",
+      "last_seen": "2026-11-19T23:10:58.511586+00:00"
+    },
+    "endor labs": {
+      "name": "Endor Labs",
+      "type": "company",
+      "sectors": [
+        "application & software supply chain security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:58.511586+00:00",
+      "last_seen": "2026-11-19T23:10:58.511586+00:00"
+    },
+    "cloudsmith": {
+      "name": "Cloudsmith",
+      "type": "company",
+      "sectors": [
+        "software supply chain security / artifact management"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:58.511586+00:00",
+      "last_seen": "2026-11-19T23:10:58.511586+00:00"
+    },
+    "intuit": {
+      "name": "Intuit",
+      "type": "company",
+      "sectors": [
+        "financial & small-business software"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "INTU",
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:59.023075+00:00",
+      "last_seen": "2026-11-19T23:10:59.023075+00:00"
+    },
+    "mailchimp": {
+      "name": "Mailchimp",
+      "type": "company",
+      "sectors": [
+        "email marketing SaaS"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:59.023075+00:00",
+      "last_seen": "2026-11-19T23:10:59.023075+00:00"
+    },
+    "bending spoons": {
+      "name": "Bending Spoons",
+      "type": "company",
+      "sectors": [
+        "acquirer & operator of mature digital products"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:59.023075+00:00",
+      "last_seen": "2026-11-19T23:10:59.023075+00:00"
+    },
+    "credit karma": {
+      "name": "Credit Karma",
+      "type": "company",
+      "sectors": [
+        "personal finance & credit score service"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:59.023075+00:00",
+      "last_seen": "2026-11-19T23:10:59.023075+00:00"
+    },
+    "airtable": {
+      "name": "Airtable",
+      "type": "company",
+      "sectors": [
+        "low-code database SaaS"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:59.023075+00:00",
+      "last_seen": "2026-11-19T23:10:59.023075+00:00"
+    },
+    "miro": {
+      "name": "Miro",
+      "type": "company",
+      "sectors": [
+        "online whiteboard platform"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T23:10:59.023075+00:00",
+      "last_seen": "2026-11-19T23:10:59.023075+00:00"
     }
   },
   "edges": [
@@ -33098,6 +33239,96 @@
           "added_at": "2026-11-19T22:11:34.786118+00:00"
         }
       ]
+    },
+    {
+      "source": "microsoft",
+      "target": "microsoft agent framework",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Microsoft 的官方 AI agent 工具包,其 PyPI 包被攻击者借内部发布流水线证书发布了两个窃取凭证的恶意版本",
+          "article_title": "Wiz ties Microsoft Agent Framework package compromise to release pipeline certificate",
+          "article_url": "https://siliconangle.com/2026/11/19/wiz-ties-microsoft-agent-framework-package-compromise-to-release-pipeline-certificate/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 22:44:56 +0000",
+          "added_at": "2026-11-19T23:10:58.511586+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bending spoons",
+      "target": "mailchimp",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "以约 36.8 亿美元从 Intuit 收购 Mailchimp,不到 Intuit 2021 年 120 亿美元收购价的三分之一,预计 2027 年初完成",
+          "article_title": "Intuit sells Mailchimp to Bending Spoons for $3.68B, less than a third of what it paid",
+          "article_url": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 22:17:28 +0000",
+          "added_at": "2026-11-19T23:10:59.023075+00:00"
+        }
+      ]
+    },
+    {
+      "source": "intuit",
+      "target": "bending spoons",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Intuit 将出售所得中的 3.68 亿美元再投资于 Bending Spoons 新发行股票",
+          "article_title": "Intuit sells Mailchimp to Bending Spoons for $3.68B, less than a third of what it paid",
+          "article_url": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 22:17:28 +0000",
+          "added_at": "2026-11-19T23:10:59.023075+00:00"
+        }
+      ]
+    },
+    {
+      "source": "intuit",
+      "target": "credit karma",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Credit Karma 本财年增长预期从 11%-13% 下调至 3%-7%,导致 Intuit 下调全年收入指引",
+          "article_title": "Intuit sells Mailchimp to Bending Spoons for $3.68B, less than a third of what it paid",
+          "article_url": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 22:17:28 +0000",
+          "added_at": "2026-11-19T23:10:59.023075+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bending spoons",
+      "target": "airtable",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "7 月纳斯达克上市后以 12.85 亿美元收购 Airtable",
+          "article_title": "Intuit sells Mailchimp to Bending Spoons for $3.68B, less than a third of what it paid",
+          "article_url": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 22:17:28 +0000",
+          "added_at": "2026-11-19T23:10:59.023075+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bending spoons",
+      "target": "miro",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "以 13.55 亿美元收购白板平台 Miro",
+          "article_title": "Intuit sells Mailchimp to Bending Spoons for $3.68B, less than a third of what it paid",
+          "article_url": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 22:17:28 +0000",
+          "added_at": "2026-11-19T23:10:59.023075+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -39193,6 +39424,24 @@
       "source_name": "SiliconANGLE",
       "published": "Thu, 19 Nov 2026 21:17:08 +0000",
       "added_at": "2026-11-19T22:11:35.034538+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Microsoft Agent Framework 官方 PyPI 包因内部发布流水线证书外泄被植入凭证窃取代码,agent 权限越大供应链越成攻击面,AI 板块价值向软件供应链安全、密钥与非人类身份管理层倾斜;确认受害者仅三例,单一事件不改基本面",
+      "article_title": "Wiz ties Microsoft Agent Framework package compromise to release pipeline certificate",
+      "article_url": "https://siliconangle.com/2026/11/19/wiz-ties-microsoft-agent-framework-package-compromise-to-release-pipeline-certificate/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 22:44:56 +0000",
+      "added_at": "2026-11-19T23:10:58.762851+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Intuit 以不到收购价三分之一的 36.8 亿美元出售增长停滞的 Mailchimp 并转向 AI 原生工具,给传统应用层 SaaS 提供利空估值锚,AI 板块应用层出现分化;Credit Karma 下调指引、盘后跌超 10%,AI 原生产品能否接住增长仍待验证",
+      "article_title": "Intuit sells Mailchimp to Bending Spoons for $3.68B, less than a third of what it paid",
+      "article_url": "https://siliconangle.com/2026/11/19/intuit-sells-mailchimp-to-bending-spoons-for-3-68b-less-than-a-third-of-what-it-paid/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 22:17:28 +0000",
+      "added_at": "2026-11-19T23:10:59.277119+00:00"
     }
   ]
 }
