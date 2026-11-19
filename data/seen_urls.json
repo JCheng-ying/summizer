@@ -5398,5 +5398,21 @@
   "https://siliconangle.com/2026/11/19/apache-iceberg-intelligent-storage-help-ai-reach-production-sc26/": {
     "title": "Hitachi Vantara bets smarter storage can close AI’s pilot-to-production gap",
     "seen_at": "2026-11-19T19:10:07.064777+00:00"
+  },
+  "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/": {
+    "title": "Anthropic’s IPO could deliver $156 billion to charity",
+    "seen_at": "2026-11-19T20:11:31.048093+00:00"
+  },
+  "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/": {
+    "title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+    "seen_at": "2026-11-19T20:11:31.538187+00:00"
+  },
+  "https://siliconangle.com/2026/11/19/power-efficient-inference-chips-let-enterprises-own-ai-hardware-sc26/": {
+    "title": "AI inference servers shrink to fit the air-cooled racks enterprises already run",
+    "seen_at": "2026-11-19T20:11:32.280502+00:00"
+  },
+  "https://siliconangle.com/2026/11/19/raptor-chip-stacks-3d-dram-tackle-inference-memory-limits-sc26/": {
+    "title": "D-Matrix bets stacked DRAM can solve inference’s memory bandwidth problem",
+    "seen_at": "2026-11-19T20:11:33.040212+00:00"
   }
 }

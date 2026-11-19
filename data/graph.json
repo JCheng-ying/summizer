@@ -252,11 +252,12 @@
         "GPU",
         "AI chips / corporate venture investing",
         "AI accelerators / Aerial RAN computer",
-        "GPU / accelerated computing"
+        "GPU / accelerated computing",
+        "AI chips / systems"
       ],
-      "mentions": 80,
+      "mentions": 82,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-19T17:12:48.844544+00:00",
+      "last_seen": "2026-11-19T20:11:33.025622+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -417,16 +418,17 @@
         "foundation models",
         "frontier AI lab",
         "foundation models / ChatGPT",
-        "AI models / agents"
+        "AI models / agents",
+        "AI models"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 38,
+      "mentions": 39,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T19:10:06.322789+00:00"
+      "last_seen": "2026-11-19T20:11:31.521156+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -469,7 +471,8 @@
         "social / AI",
         "AI / social",
         "hyperscaler",
-        "AI models / agents"
+        "AI models / agents",
+        "AI models / hyperscaler"
       ],
       "sector_tags": [
         "AI板块",
@@ -477,9 +480,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 13,
+      "mentions": 14,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T19:10:06.322789+00:00"
+      "last_seen": "2026-11-19T20:11:31.521156+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -579,9 +582,9 @@
       ],
       "hot": "hot",
       "ticker": "CRWV",
-      "mentions": 12,
+      "mentions": 13,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T18:11:38.859664+00:00"
+      "last_seen": "2026-11-19T20:11:31.521156+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -4518,9 +4521,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 11,
+      "mentions": 12,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-19T12:12:45.225780+00:00"
+      "last_seen": "2026-11-19T20:11:31.521156+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -6511,9 +6514,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-10T05:12:45.984045+00:00",
-      "last_seen": "2026-11-18T02:10:31.035863+00:00"
+      "last_seen": "2026-11-19T20:11:31.521156+00:00"
     },
     "orbital compute": {
       "name": "Orbital Compute",
@@ -14047,6 +14050,21 @@
       "mentions": 1,
       "first_seen": "2026-11-19T18:10:40.678852+00:00",
       "last_seen": "2026-11-19T18:10:40.678852+00:00"
+    },
+    "dmatrix": {
+      "name": "d-Matrix",
+      "type": "company",
+      "sectors": [
+        "AI inference accelerators / in-memory computing"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T20:11:33.025622+00:00",
+      "last_seen": "2026-11-19T20:11:33.025622+00:00"
     }
   },
   "edges": [
@@ -23259,6 +23277,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 10 Nov 2026 23:26:45 +0000",
           "added_at": "2026-11-11T06:19:51.446379+00:00"
+        },
+        {
+          "description": "Kress 称英伟达 Vera CPU 已被 CoreWeave 采用,智能体负载推动 CPU 需求远超供给",
+          "article_title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+          "article_url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 19:32:32 +0000",
+          "added_at": "2026-11-19T20:11:31.521156+00:00"
         }
       ]
     },
@@ -32792,6 +32818,81 @@
           "added_at": "2026-11-19T18:10:40.678852+00:00"
         }
       ]
+    },
+    {
+      "source": "nvidia",
+      "target": "meta platforms",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Kress 称英伟达 Vera CPU 已被 Meta 采用",
+          "article_title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+          "article_url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 19:32:32 +0000",
+          "added_at": "2026-11-19T20:11:31.521156+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "nscale",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Kress 称英伟达 Vera CPU 已被 Nscale 采用",
+          "article_title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+          "article_url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 19:32:32 +0000",
+          "added_at": "2026-11-19T20:11:31.521156+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "openai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Kress 称英伟达 Vera CPU 已被 OpenAI 采用",
+          "article_title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+          "article_url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 19:32:32 +0000",
+          "added_at": "2026-11-19T20:11:31.521156+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "lambda",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "英伟达共封装光学(CPO)进入量产,Lambda 在 SC26 宣布的部署是首个大规模验证案例",
+          "article_title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+          "article_url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 19:32:32 +0000",
+          "added_at": "2026-11-19T20:11:31.521156+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dmatrix",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "d-Matrix 采用英伟达 NVLink Fusion 机架级基础设施和 MGX 机架设计,把自家推理加速器接入英伟达 AI 工厂",
+          "article_title": "D-Matrix bets stacked DRAM can solve inference’s memory bandwidth problem",
+          "article_url": "https://siliconangle.com/2026/11/19/raptor-chip-stacks-3d-dram-tackle-inference-memory-limits-sc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 19:21:48 +0000",
+          "added_at": "2026-11-19T20:11:33.025622+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -38806,6 +38907,60 @@
       "source_name": "TechCrunch - AI",
       "published": "Thu, 19 Nov 2026 18:09:11 +0000",
       "added_at": "2026-11-19T19:10:06.819994+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic 公共利益基金获 5% 股份(约 8.5 亿股),员工捐赠承诺及公司配捐预留超 5.5 亿股,合计潜在捐赠约 1560 亿美元;慈善基金变现是未来潜在卖压,估值每涨 50% 再增 2% 的条款带稀释效应,流通筹码结构影响 AI 公司 IPO 定价参照,判断偏中性",
+      "article_title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 19 Nov 2026 19:10:45 +0000",
+      "added_at": "2026-11-19T20:11:31.279104+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英伟达财报会明确分配标准:土地电力机房就绪、资本、非投资级客户需承购证明,瓶颈从芯片转向机房、电网和资产负债表;智能体占约 80% token 致 CPU 供不应求,Vera CPU 获 CoreWeave/Meta/Nscale/OpenAI 采用,CPO 量产;停止向中国发运 Hopper 并设出口管制委员会,中国需求进一步剔除",
+      "article_title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+      "article_url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 19:32:32 +0000",
+      "added_at": "2026-11-19T20:11:31.775318+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "英伟达把'当季能否接电用上设备'列为算力分配第一标准,主权 AI 因自带土地电力增长快,电力从成本项变成排队资格,利好带电土地开发商、现场发电和电网设备",
+      "article_title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+      "article_url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 19:32:32 +0000",
+      "added_at": "2026-11-19T20:11:32.032910+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "(厂商赞助访谈,指标未经独立验证)Axelera 把边缘低功耗存内计算架构带进数据中心,Titania 400W 芯片、6kW 服务器可放入企业现有 20-30kW 风冷机柜,边缘侧低功耗推理架构向企业机房上渗",
+      "article_title": "AI inference servers shrink to fit the air-cooled racks enterprises already run",
+      "article_url": "https://siliconangle.com/2026/11/19/power-efficient-inference-chips-let-enterprises-own-ai-hardware-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 19:29:20 +0000",
+      "added_at": "2026-11-19T20:11:32.520719+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(厂商赞助访谈,指标未经独立验证)企业自建推理的瓶颈是机柜功率密度和液冷,每瓦性能型推理芯片可能打开企业私有部署需求,利好服务器 OEM;云端 GPU 租赁增量或被部分分流",
+      "article_title": "AI inference servers shrink to fit the air-cooled racks enterprises already run",
+      "article_url": "https://siliconangle.com/2026/11/19/power-efficient-inference-chips-let-enterprises-own-ai-hardware-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 19:29:20 +0000",
+      "added_at": "2026-11-19T20:11:32.771599+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(厂商赞助访谈,数字未经独立验证)d-Matrix 第二代 Raptor 把 3D DRAM 堆叠在逻辑芯片下方,定位 SRAM 与 HBM 之间新内存层级,并接入 NVLink Fusion;推理瓶颈在内存带宽,利好 DRAM 厂商与先进封装,英伟达借开放互连巩固系统层地位",
+      "article_title": "D-Matrix bets stacked DRAM can solve inference’s memory bandwidth problem",
+      "article_url": "https://siliconangle.com/2026/11/19/raptor-chip-stacks-3d-dram-tackle-inference-memory-limits-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 19:21:48 +0000",
+      "added_at": "2026-11-19T20:11:33.286564+00:00"
     }
   ]
 }
