@@ -253,9 +253,9 @@
         "AI chips / corporate venture investing",
         "AI accelerators / Aerial RAN computer"
       ],
-      "mentions": 77,
+      "mentions": 78,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-19T12:12:45.225780+00:00",
+      "last_seen": "2026-11-19T15:10:42.799109+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -395,7 +395,8 @@
         "hyperscale cloud",
         "cloud / hyperscaler",
         "hyperscaler",
-        "enterprise software / cloud / AI agents"
+        "enterprise software / cloud / AI agents",
+        "cloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -403,9 +404,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 23,
+      "mentions": 24,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T23:11:05.265418+00:00"
+      "last_seen": "2026-11-19T15:10:42.799109+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -453,9 +454,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 28,
+      "mentions": 29,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T23:11:04.752589+00:00"
+      "last_seen": "2026-11-19T15:10:42.799109+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -490,9 +491,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 47,
+      "mentions": 49,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T03:10:40.971825+00:00"
+      "last_seen": "2026-11-19T15:10:42.799109+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -502,16 +503,17 @@
         "custom AI chips / networking",
         "networking / custom ASIC",
         "custom ASIC / networking silicon",
-        "networking silicon"
+        "networking silicon",
+        "networking / custom silicon"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T23:11:59.327750+00:00"
+      "last_seen": "2026-11-19T15:10:42.799109+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
@@ -556,9 +558,9 @@
       ],
       "hot": "hot",
       "ticker": "TSM",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-17T23:11:59.327750+00:00"
+      "last_seen": "2026-11-19T15:10:42.799109+00:00"
     },
     "coreweave": {
       "name": "CoreWeave",
@@ -1803,9 +1805,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 25,
+      "mentions": 26,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T17:10:45.970570+00:00"
+      "last_seen": "2026-11-19T15:10:42.799109+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1858,7 +1860,8 @@
         "Google / threat intelligence (GTIG)",
         "search / cloud",
         "cloud / search",
-        "frontier AI models / cloud"
+        "frontier AI models / cloud",
+        "cloud"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1870,9 +1873,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 50,
+      "mentions": 51,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T03:10:40.971825+00:00"
+      "last_seen": "2026-11-19T15:10:42.799109+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -1913,9 +1916,9 @@
       ],
       "hot": "hot",
       "ticker": "MU",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-17T23:11:59.327750+00:00"
+      "last_seen": "2026-11-19T15:10:42.799109+00:00"
     },
     "ambarella": {
       "name": "Ambarella, Inc.",
@@ -5288,32 +5291,34 @@
       "type": "company",
       "sectors": [
         "heavy machinery / power generation",
-        "heavy equipment / gas generators"
+        "heavy equipment / gas generators",
+        "gas generators / power equipment"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "CAT",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-06T07:01:17.557746+00:00",
-      "last_seen": "2026-11-10T05:12:45.984045+00:00"
+      "last_seen": "2026-11-19T15:10:41.317760+00:00"
     },
     "onepwr": {
       "name": "OnePWR",
       "type": "company",
       "sectors": [
         "microgrids",
-        "onsite power equipment supplier"
+        "onsite power equipment supplier",
+        "on-site power EPC"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-06T07:01:17.557746+00:00",
-      "last_seen": "2026-11-10T05:12:45.984045+00:00"
+      "last_seen": "2026-11-19T15:10:41.317760+00:00"
     },
     "vero3": {
       "name": "Vero3",
@@ -14150,6 +14155,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 18 Nov 2026 22:11:15 +0000",
           "added_at": "2026-11-18T23:11:04.752589+00:00"
+        },
+        {
+          "description": "Amazon累计投资180亿美元,按83美元IPO价14.7%持股价值超1590亿美元,同时是Anthropic基础设施供应商",
+          "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+          "added_at": "2026-11-19T15:10:42.799109+00:00"
         }
       ]
     },
@@ -14204,6 +14217,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 18 Nov 2026 22:11:15 +0000",
           "added_at": "2026-11-18T23:11:04.752589+00:00"
+        },
+        {
+          "description": "Google自2023年累计投资123亿美元,另有300亿取决于业绩里程碑,13.7%持股价值近1490亿美元",
+          "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+          "added_at": "2026-11-19T15:10:42.799109+00:00"
         }
       ]
     },
@@ -14235,6 +14256,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 22:29:05 +0000",
           "added_at": "2026-11-17T23:11:59.327750+00:00"
+        },
+        {
+          "description": "参与260亿美元私募,同时与Anthropic有数十亿美元战略合作",
+          "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+          "added_at": "2026-11-19T15:10:42.799109+00:00"
         }
       ]
     },
@@ -14290,6 +14319,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 18 Nov 2026 01:44:21 +0000",
           "added_at": "2026-11-18T02:10:31.035863+00:00"
+        },
+        {
+          "description": "参与以IPO价格认购的260亿美元私募,同时与Anthropic有数十亿美元战略采购合作",
+          "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+          "added_at": "2026-11-19T15:10:42.799109+00:00"
         }
       ]
     },
@@ -21793,6 +21830,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 09 Nov 2026 13:33:42 +0000",
           "added_at": "2026-11-10T05:12:45.984045+00:00"
+        },
+        {
+          "description": "OnePWR与Anthropic合作安装燃气发电机组并负责工程施工",
+          "article_title": "Non-profit claims 60% of Anthropic’s mapped US data center power demand is tied to natural gas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/non-profit-claims-60-of-anthropics-mapped-us-data-center-power-demand-is-tied-to-natural-gas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 14:30:59 +0000",
+          "added_at": "2026-11-19T15:10:41.317760+00:00"
         }
       ]
     },
@@ -22639,6 +22684,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 22:29:05 +0000",
           "added_at": "2026-11-17T23:11:59.327750+00:00"
+        },
+        {
+          "description": "参与260亿美元私募,同时与Anthropic有数十亿美元战略采购合作",
+          "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+          "added_at": "2026-11-19T15:10:42.799109+00:00"
         }
       ]
     },
@@ -22662,6 +22715,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 22:29:05 +0000",
           "added_at": "2026-11-17T23:11:59.327750+00:00"
+        },
+        {
+          "description": "参与260亿美元私募,同时与Anthropic有数十亿美元战略采购合作",
+          "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+          "added_at": "2026-11-19T15:10:42.799109+00:00"
         }
       ]
     },
@@ -22685,6 +22746,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 22:29:05 +0000",
           "added_at": "2026-11-17T23:11:59.327750+00:00"
+        },
+        {
+          "description": "参与260亿美元私募,同时与Anthropic有数十亿美元战略采购合作",
+          "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+          "added_at": "2026-11-19T15:10:42.799109+00:00"
         }
       ]
     },
@@ -22708,6 +22777,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 22:29:05 +0000",
           "added_at": "2026-11-17T23:11:59.327750+00:00"
+        },
+        {
+          "description": "参与260亿美元私募(文章称TSMC是唯一未宣布战略采购合作的投资方)",
+          "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+          "added_at": "2026-11-19T15:10:42.799109+00:00"
         }
       ]
     },
@@ -32083,6 +32160,21 @@
           "added_at": "2026-11-19T14:11:29.785687+00:00"
         }
       ]
+    },
+    {
+      "source": "caterpillar",
+      "target": "anthropic",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Anthropic本月签下34亿美元、1.7GW的Caterpillar燃气发电机组交易,两年内到货",
+          "article_title": "Non-profit claims 60% of Anthropic’s mapped US data center power demand is tied to natural gas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/non-profit-claims-60-of-anthropics-mapped-us-data-center-power-demand-is-tied-to-natural-gas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 14:30:59 +0000",
+          "added_at": "2026-11-19T15:10:41.317760+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -37899,6 +37991,42 @@
       "source_name": "SiliconANGLE",
       "published": "Thu, 19 Nov 2026 14:02:06 +0000",
       "added_at": "2026-11-19T14:11:32.416793+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "倡导组织估算Anthropic测绘站点约60%电力与天然气挂钩(估算未经验证),说明美国AI数据中心快速可得电力几乎只有天然气,利好燃气发电设备与天然气中上游",
+      "article_title": "Non-profit claims 60% of Anthropic’s mapped US data center power demand is tied to natural gas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/non-profit-claims-60-of-anthropics-mapped-us-data-center-power-demand-is-tied-to-natural-gas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 14:30:59 +0000",
+      "added_at": "2026-11-19T15:10:41.606079+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "上市后能源结构与社区关系进入公众股东问询范围,可能推高前沿实验室电力成本或拖慢选址,温和风险信号",
+      "article_title": "Non-profit claims 60% of Anthropic’s mapped US data center power demand is tied to natural gas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/non-profit-claims-60-of-anthropics-mapped-us-data-center-power-demand-is-tied-to-natural-gas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 14:30:59 +0000",
+      "added_at": "2026-11-19T15:10:41.871952+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic上市后约2200亿美元现金、Q3收入170亿,资金来源从供应商转向公开市场,缓解循环融资无人接盘担忧;9000亿算力承诺利好云厂商与芯片/存储/代工等基础设施层,确定性高于模型层",
+      "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+      "added_at": "2026-11-19T15:10:43.045323+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Anthropic约9000亿美元算力与基础设施承诺最终要落到发电、电网与散热,间接利好数据中心电力链",
+      "article_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "article_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+      "added_at": "2026-11-19T15:10:43.300543+00:00"
     }
   ]
 }
