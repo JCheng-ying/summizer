@@ -716,16 +716,17 @@
       "type": "company",
       "sectors": [
         "neocloud",
-        "GPU cloud / neocloud"
+        "GPU cloud / neocloud",
+        "AI cloud / neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": "NBIS",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-16T18:11:38.859664+00:00"
+      "last_seen": "2026-11-19T14:11:29.785687+00:00"
     },
     "langchain": {
       "name": "LangChain",
@@ -13759,6 +13760,52 @@
       "mentions": 1,
       "first_seen": "2026-11-19T13:10:47.008841+00:00",
       "last_seen": "2026-11-19T13:10:47.008841+00:00"
+    },
+    "merlin properties": {
+      "name": "Merlin Properties",
+      "type": "company",
+      "sectors": [
+        "real estate / data center developer (Spain)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T14:11:29.785687+00:00",
+      "last_seen": "2026-11-19T14:11:29.785687+00:00"
+    },
+    "solaria": {
+      "name": "Solaria",
+      "type": "company",
+      "sectors": [
+        "solar power developer (Spain)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T14:11:29.785687+00:00",
+      "last_seen": "2026-11-19T14:11:29.785687+00:00"
+    },
+    "edged": {
+      "name": "Edged",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T14:11:29.785687+00:00",
+      "last_seen": "2026-11-19T14:11:29.785687+00:00"
     }
   },
   "edges": [
@@ -31991,6 +32038,51 @@
           "added_at": "2026-11-19T13:10:47.008841+00:00"
         }
       ]
+    },
+    {
+      "source": "solaria",
+      "target": "merlin properties",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Solaria原计划以光伏为Merlin Arasur 4、5号楼供应部分电力,但巴斯克政府拒批多座光伏电站,两栋楼因此暂停,双方在研究把用电转移到西班牙其他地区",
+          "article_title": "Merlin pauses development on two data centers near Bilbao, Spain, due to grid issues",
+          "article_url": "https://www.datacenterdynamics.com/en/news/merlin-pauses-development-on-two-data-centers-near-bilbao-spain-due-to-grid-issues/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 13:59:16 +0000",
+          "added_at": "2026-11-19T14:11:29.785687+00:00"
+        }
+      ]
+    },
+    {
+      "source": "merlin properties",
+      "target": "edged",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Merlin 2021年与Edged合作进入数据中心领域,在毕尔巴鄂、Arasur、马德里-赫塔费、巴塞罗那和里斯本开发数据中心",
+          "article_title": "Merlin pauses development on two data centers near Bilbao, Spain, due to grid issues",
+          "article_url": "https://www.datacenterdynamics.com/en/news/merlin-pauses-development-on-two-data-centers-near-bilbao-spain-due-to-grid-issues/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 13:59:16 +0000",
+          "added_at": "2026-11-19T14:11:29.785687+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nebius",
+      "target": "merlin properties",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Nebius是Merlin数据中心的确认客户",
+          "article_title": "Merlin pauses development on two data centers near Bilbao, Spain, due to grid issues",
+          "article_url": "https://www.datacenterdynamics.com/en/news/merlin-pauses-development-on-two-data-centers-near-bilbao-spain-due-to-grid-issues/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 13:59:16 +0000",
+          "added_at": "2026-11-19T14:11:29.785687+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -37744,6 +37836,69 @@
       "source_name": "The Quantum Insider",
       "published": "Thu, 19 Nov 2026 11:25:52 +0000",
       "added_at": "2026-11-19T13:10:47.264361+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "IOSCO报告称金融业抗量子准备仍在早期、受监管金融业无量子计算日常使用,并点名防范quantum washing;利好PQC/密码管理与QKD等量子安全支线,对纯量子硬件叙事是降温提醒",
+      "article_title": "Securities Regulators Warn That Slow Progress on Quantum Security is a Mistake",
+      "article_url": "https://thequantuminsider.com/2026/11/19/securities-regulators-warn-that-slow-progress-on-quantum-security-is-a-mistake/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 12:35:50 +0000",
+      "added_at": "2026-11-19T14:11:29.546164+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Merlin因巴斯克政府拒批配套光伏暂停两栋数据中心,首栋设计100MW仅能开2MW;西班牙新法令或需额外8.63亿欧元主要投向BESS,利好储能与电网设备",
+      "article_title": "Merlin pauses development on two data centers near Bilbao, Spain, due to grid issues",
+      "article_url": "https://www.datacenterdynamics.com/en/news/merlin-pauses-development-on-two-data-centers-near-bilbao-spain-due-to-grid-issues/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 13:59:16 +0000",
+      "added_at": "2026-11-19T14:11:30.039874+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "欧洲'有钱也拿不到电':Merlin暂停Arasur两栋楼并考虑转移容量,欧洲算力落地被电力和审批拖慢,依赖第三方园区的neocloud交付节奏受影响,温和利空",
+      "article_title": "Merlin pauses development on two data centers near Bilbao, Spain, due to grid issues",
+      "article_url": "https://www.datacenterdynamics.com/en/news/merlin-pauses-development-on-two-data-centers-near-bilbao-spain-due-to-grid-issues/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 13:59:16 +0000",
+      "added_at": "2026-11-19T14:11:30.292469+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "NCUC批准Duke Energy大负荷数据中心电价类别:15年最低合约、75%保底计费、预付并网与发电成本、搁浅资产费,让电力公司资本开支有保底回报,利好公用事业与电网设备",
+      "article_title": "North Carolina utility Duke Energy secures regulatory approval for new data center rate class",
+      "article_url": "https://www.datacenterdynamics.com/en/news/north-carolina-utility-duke-energy-secures-regulatory-approval-for-new-data-center-rate-class/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 13:10:34 +0000",
+      "added_at": "2026-11-19T14:11:31.206990+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "北卡数据中心新电价把AI需求不确定性风险转给运营方,单位算力长期电力成本与退出成本上升,抬高资本门槛、份额向超大规模云厂商集中,中性偏利空",
+      "article_title": "North Carolina utility Duke Energy secures regulatory approval for new data center rate class",
+      "article_url": "https://www.datacenterdynamics.com/en/news/north-carolina-utility-duke-energy-secures-regulatory-approval-for-new-data-center-rate-class/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 13:10:34 +0000",
+      "added_at": "2026-11-19T14:11:31.457670+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Supermicro(theCUBE付费合作访谈,厂商自述)称600亿美元积压、客户最看重分配与部署速度,老机房用sidecar与列间CDU改造上AI机架,液冷与整机柜集成层继续受益",
+      "article_title": "Today’s data centers weren’t built for AI racks, so liquid-cooling sidecars get bolted on",
+      "article_url": "https://siliconangle.com/2026/11/19/deployment-services-drive-supermicro-s-race-time-online-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 14:02:06 +0000",
+      "added_at": "2026-11-19T14:11:32.159752+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "老机房通过液冷改造承载AI机架会推高单机房功率密度,进一步加剧数据中心电力约束(Supermicro厂商访谈,未经独立验证)",
+      "article_title": "Today’s data centers weren’t built for AI racks, so liquid-cooling sidecars get bolted on",
+      "article_url": "https://siliconangle.com/2026/11/19/deployment-services-drive-supermicro-s-race-time-online-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 14:02:06 +0000",
+      "added_at": "2026-11-19T14:11:32.416793+00:00"
     }
   ]
 }
