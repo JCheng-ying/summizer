@@ -422,9 +422,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 35,
+      "mentions": 36,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T03:10:40.971825+00:00"
+      "last_seen": "2026-11-19T16:10:58.064182+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -1796,7 +1796,8 @@
         "AI accelerators / CPUs",
         "GPU / CPU",
         "AI accelerators",
-        "CPUs / EPYC"
+        "CPUs / EPYC",
+        "GPU/CPU chip design"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1805,9 +1806,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 26,
+      "mentions": 27,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00"
+      "last_seen": "2026-11-19T16:10:58.064182+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -3200,15 +3201,17 @@
     "ses": {
       "name": "SES",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "satellite communications"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:55:30.844988+00:00",
-      "last_seen": "2026-08-15T05:55:30.844988+00:00"
+      "last_seen": "2026-11-19T16:10:58.803451+00:00"
     },
     "lanteris space systems": {
       "name": "Lanteris Space Systems",
@@ -3239,15 +3242,17 @@
     "telesat": {
       "name": "Telesat",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "satellite communications (GEO/LEO)"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T06:02:52.416096+00:00",
-      "last_seen": "2026-08-15T06:02:52.416096+00:00"
+      "last_seen": "2026-11-19T16:10:58.803451+00:00"
     },
     "endurosat": {
       "name": "EnduroSat",
@@ -10987,7 +10992,8 @@
       "type": "company",
       "sectors": [
         "EDA / semiconductor IP",
-        "EDA"
+        "EDA",
+        "electronic design automation"
       ],
       "sector_tags": [
         "AI板块",
@@ -10995,9 +11001,9 @@
       ],
       "hot": null,
       "ticker": "SNPS",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T14:12:05.837864+00:00",
-      "last_seen": "2026-11-19T12:12:44.240338+00:00"
+      "last_seen": "2026-11-19T16:10:58.064182+00:00"
     },
     "fidelity management research": {
       "name": "Fidelity Management & Research",
@@ -13811,6 +13817,21 @@
       "mentions": 1,
       "first_seen": "2026-11-19T14:11:29.785687+00:00",
       "last_seen": "2026-11-19T14:11:29.785687+00:00"
+    },
+    "jalapeño": {
+      "name": "Jalapeño",
+      "type": "product",
+      "sectors": [
+        "custom AI inference chip"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T16:10:58.064182+00:00",
+      "last_seen": "2026-11-19T16:10:58.064182+00:00"
     }
   },
   "edges": [
@@ -27348,6 +27369,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 16 Nov 2026 17:21:19 +0000",
           "added_at": "2026-11-16T18:11:40.272789+00:00"
+        },
+        {
+          "description": "OpenAI 用模型参与 AMD 旗舰 GPU IP 和新 CPU 的设计优化,称 GPU IP 最高获得 14% 改进,相关修改已进入一款制造阶段的芯片",
+          "article_title": "OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware",
+          "article_url": "https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 15:25:40 +0000",
+          "added_at": "2026-11-19T16:10:58.064182+00:00"
         }
       ]
     },
@@ -32173,6 +32202,51 @@
           "source_name": "DataCenterDynamics",
           "published": "Thu, 19 Nov 2026 14:30:59 +0000",
           "added_at": "2026-11-19T15:10:41.317760+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "synopsys",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "OpenAI 将与 Synopsys 合作训练 GPT-Synopsys,让模型像芯片工程师一样使用 Synopsys EDA 工具",
+          "article_title": "OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware",
+          "article_url": "https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 15:25:40 +0000",
+          "added_at": "2026-11-19T16:10:58.064182+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "jalapeño",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Jalapeño 是 OpenAI 自研推理芯片,2025 年初用 GPT-o3 mini 辅助设计,向量单元标准单元面积减少 13%",
+          "article_title": "OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware",
+          "article_url": "https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 15:25:40 +0000",
+          "added_at": "2026-11-19T16:10:58.064182+00:00"
+        }
+      ]
+    },
+    {
+      "source": "telesat",
+      "target": "ses",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者同为承压的 GEO 卫星运营商:Telesat GEO 第三季度收入同比降 21% 并与债权人签停滞协议,SES 今年 5 月取消两颗 GEO 卫星",
+          "article_title": "Telesat pauses debt repayments to GEO subsidiary creditors",
+          "article_url": "https://www.datacenterdynamics.com/en/news/telesat-pauses-debt-repayments-to-geo-subsidiary-creditors/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 15:23:18 +0000",
+          "added_at": "2026-11-19T16:10:58.803451+00:00"
         }
       ]
     }
@@ -38027,6 +38101,51 @@
       "source_name": "TechCrunch - AI",
       "published": "Thu, 19 Nov 2026 14:54:39 +0000",
       "added_at": "2026-11-19T15:10:43.300543+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "OpenAI 称其模型在自研 Jalapeño 和 AMD GPU/CPU 设计上带来 PPA 提升,并与 Synopsys 训练 GPT-Synopsys;AI 设计芯片可压缩设计周期,利好 EDA 与芯片设计公司(数据为 OpenAI 自述,未经独立验证)",
+      "article_title": "OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware",
+      "article_url": "https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 15:25:40 +0000",
+      "added_at": "2026-11-19T16:10:58.301562+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "推理芯片面积与功耗的 PPA 改进若能规模化,将降低端侧 AI 芯片的面积和功耗约束,间接利好 edge AI(为时尚早)",
+      "article_title": "OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware",
+      "article_url": "https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 15:25:40 +0000",
+      "added_at": "2026-11-19T16:10:58.545068+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Telesat GEO 子公司收入与 EBITDA 下滑并与债权人签停滞协议暂停偿债,反映 GEO 资产被 LEO 替代;对 GEO 运营商结构性利空,对 Starlink 等 LEO 运营商和 LEO 制造发射链相对利好",
+      "article_title": "Telesat pauses debt repayments to GEO subsidiary creditors",
+      "article_url": "https://www.datacenterdynamics.com/en/news/telesat-pauses-debt-repayments-to-geo-subsidiary-creditors/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 15:23:18 +0000",
+      "added_at": "2026-11-19T16:10:59.055420+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Liqid(赞助访谈,厂商自述未经验证)推机架级 GPU 与内存池化及 Liqid as a Service,指向推理时代瓶颈转向内存供给与利用率,利好存储芯片、CXL/PCIe 互联与编排层",
+      "article_title": "AI’s next build-out: Inference racks that resize themselves for every new model",
+      "article_url": "https://siliconangle.com/2026/11/19/memory-pooling-helps-liqid-fix-ai-inference-tokenomics-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 15:43:30 +0000",
+      "added_at": "2026-11-19T16:10:59.762557+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Liqid 认为企业将部署自有的'token 机器'而非依赖云端,若成立会推动推理本地化,对 edge AI 有一定带动(偏厂商愿景)",
+      "article_title": "AI’s next build-out: Inference racks that resize themselves for every new model",
+      "article_url": "https://siliconangle.com/2026/11/19/memory-pooling-helps-liqid-fix-ai-inference-tokenomics-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 15:43:30 +0000",
+      "added_at": "2026-11-19T16:11:00.005742+00:00"
     }
   ]
 }
