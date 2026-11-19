@@ -251,11 +251,12 @@
         "GPUs / accelerated computing",
         "GPU",
         "AI chips / corporate venture investing",
-        "AI accelerators / Aerial RAN computer"
+        "AI accelerators / Aerial RAN computer",
+        "GPU / accelerated computing"
       ],
-      "mentions": 78,
+      "mentions": 80,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00",
+      "last_seen": "2026-11-19T17:12:48.844544+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -404,9 +405,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 24,
+      "mentions": 25,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00"
+      "last_seen": "2026-11-19T17:12:48.844544+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -422,9 +423,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 36,
+      "mentions": 37,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T16:10:58.064182+00:00"
+      "last_seen": "2026-11-19T17:12:48.844544+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -454,9 +455,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 29,
+      "mentions": 30,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00"
+      "last_seen": "2026-11-19T17:12:48.844544+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -490,10 +491,10 @@
         "AI板块"
       ],
       "hot": "hot",
-      "ticker": null,
-      "mentions": 49,
+      "ticker": "ANT",
+      "mentions": 50,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00"
+      "last_seen": "2026-11-19T17:12:48.844544+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -1177,9 +1178,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 12,
+      "mentions": 13,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-19T13:10:46.509863+00:00"
+      "last_seen": "2026-11-19T17:12:43.371685+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -1286,9 +1287,9 @@
       ],
       "hot": "cold",
       "ticker": "PSQL",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-19T17:12:43.371685+00:00"
     },
     "xanadu quantum": {
       "name": "Xanadu Quantum Technologies",
@@ -1797,7 +1798,8 @@
         "GPU / CPU",
         "AI accelerators",
         "CPUs / EPYC",
-        "GPU/CPU chip design"
+        "GPU/CPU chip design",
+        "CPU/GPU"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1806,9 +1808,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 27,
+      "mentions": 29,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T16:10:58.064182+00:00"
+      "last_seen": "2026-11-19T17:12:48.844544+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1874,9 +1876,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 51,
+      "mentions": 52,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00"
+      "last_seen": "2026-11-19T17:12:48.844544+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -2797,16 +2799,17 @@
       "name": "DeepSeek",
       "type": "company",
       "sectors": [
-        "open-weight LLM lab"
+        "open-weight LLM lab",
+        "AI models"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-09T05:41:43.881750+00:00",
-      "last_seen": "2026-11-13T19:09:50.917587+00:00"
+      "last_seen": "2026-11-19T17:12:46.407367+00:00"
     },
     "stanford university": {
       "name": "Stanford University",
@@ -3630,7 +3633,8 @@
       "sectors": [
         "frontier AI models (Qwen series)",
         "Chinese cloud / e-commerce",
-        "cloud / internet"
+        "cloud / internet",
+        "cloud / AI chips (Zhenwu)"
       ],
       "sector_tags": [
         "AI板块",
@@ -3638,9 +3642,9 @@
       ],
       "hot": "hot",
       "ticker": "BABA",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-11-12T04:06:47.275354+00:00"
+      "last_seen": "2026-11-19T17:12:46.407367+00:00"
     },
     "moonshot ai": {
       "name": "Moonshot AI",
@@ -10562,16 +10566,17 @@
       "name": "Huawei",
       "type": "company",
       "sectors": [
-        "telecom equipment / AI chips (Ascend)"
+        "telecom equipment / AI chips (Ascend)",
+        "AI chips (Ascend) / telecom equipment"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T13:11:15.970027+00:00",
-      "last_seen": "2026-11-17T13:11:17.639073+00:00"
+      "last_seen": "2026-11-19T17:12:46.407367+00:00"
     },
     "pure dc": {
       "name": "Pure DC",
@@ -11364,9 +11369,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T16:10:36.970756+00:00",
-      "last_seen": "2026-11-17T16:10:36.970756+00:00"
+      "last_seen": "2026-11-19T17:12:43.371685+00:00"
     },
     "qamelion": {
       "name": "Qamelion",
@@ -13832,6 +13837,167 @@
       "mentions": 1,
       "first_seen": "2026-11-19T16:10:58.064182+00:00",
       "last_seen": "2026-11-19T16:10:58.064182+00:00"
+    },
+    "slurm": {
+      "name": "Slurm",
+      "type": "product",
+      "sectors": [
+        "HPC workload manager"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:43.371685+00:00",
+      "last_seen": "2026-11-19T17:12:43.371685+00:00"
+    },
+    "cineca": {
+      "name": "CINECA",
+      "type": "institution",
+      "sectors": [
+        "Italian supercomputing center"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:43.371685+00:00",
+      "last_seen": "2026-11-19T17:12:43.371685+00:00"
+    },
+    "huawei ascend 950dt": {
+      "name": "Huawei Ascend 950DT",
+      "type": "product",
+      "sectors": [
+        "data center AI accelerator for decode inference and training"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:46.407367+00:00",
+      "last_seen": "2026-11-19T17:12:46.407367+00:00"
+    },
+    "china telecom": {
+      "name": "China Telecom",
+      "type": "company",
+      "sectors": [
+        "telecom operator / data centers / subsea cable landing"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:46.407367+00:00",
+      "last_seen": "2026-11-19T17:12:46.407367+00:00"
+    },
+    "guangdong tianyima information industry": {
+      "name": "Guangdong Tianyima Information Industry",
+      "type": "company",
+      "sectors": [
+        "IT services / data center operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:46.407367+00:00",
+      "last_seen": "2026-11-19T17:12:46.407367+00:00"
+    },
+    "megarobo": {
+      "name": "MegaRobo",
+      "type": "company",
+      "sectors": [
+        "AI-driven lab automation robotics / life sciences"
+      ],
+      "sector_tags": [
+        "机器人板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:47.595263+00:00",
+      "last_seen": "2026-11-19T17:12:47.595263+00:00"
+    },
+    "oman investment authority": {
+      "name": "Oman Investment Authority",
+      "type": "institution",
+      "sectors": [
+        "sovereign wealth fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:47.595263+00:00",
+      "last_seen": "2026-11-19T17:12:47.595263+00:00"
+    },
+    "sinovation ventures": {
+      "name": "Sinovation Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:47.595263+00:00",
+      "last_seen": "2026-11-19T17:12:47.595263+00:00"
+    },
+    "tencent cloud": {
+      "name": "Tencent Cloud",
+      "type": "company",
+      "sectors": [
+        "cloud computing"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:47.595263+00:00",
+      "last_seen": "2026-11-19T17:12:47.595263+00:00"
+    },
+    "twist bioscience": {
+      "name": "Twist Bioscience",
+      "type": "company",
+      "sectors": [
+        "synthetic DNA / biotech"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "TWST",
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:47.595263+00:00",
+      "last_seen": "2026-11-19T17:12:47.595263+00:00"
+    },
+    "vultr": {
+      "name": "Vultr",
+      "type": "company",
+      "sectors": [
+        "cloud / neocloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T17:12:48.347197+00:00",
+      "last_seen": "2026-11-19T17:12:48.347197+00:00"
     }
   },
   "edges": [
@@ -14184,6 +14350,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 19 Nov 2026 14:54:39 +0000",
           "added_at": "2026-11-19T15:10:42.799109+00:00"
+        },
+        {
+          "description": "Amazon 持有 Anthropic 大量股份,Anthropic 上市首日开盘涨 34% 至 111.50 美元",
+          "article_title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+          "article_url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:50:41 +0000",
+          "added_at": "2026-11-19T17:12:48.844544+00:00"
         }
       ]
     },
@@ -14246,6 +14420,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 19 Nov 2026 14:54:39 +0000",
           "added_at": "2026-11-19T15:10:42.799109+00:00"
+        },
+        {
+          "description": "Google 持有 Anthropic 大量股份",
+          "article_title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+          "article_url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:50:41 +0000",
+          "added_at": "2026-11-19T17:12:48.844544+00:00"
         }
       ]
     },
@@ -14285,6 +14467,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 19 Nov 2026 14:54:39 +0000",
           "added_at": "2026-11-19T15:10:42.799109+00:00"
+        },
+        {
+          "description": "Microsoft 在 Anthropic IPO 中投入数十亿美元",
+          "article_title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+          "article_url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:50:41 +0000",
+          "added_at": "2026-11-19T17:12:48.844544+00:00"
         }
       ]
     },
@@ -14348,6 +14538,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 19 Nov 2026 14:54:39 +0000",
           "added_at": "2026-11-19T15:10:42.799109+00:00"
+        },
+        {
+          "description": "NVIDIA 在 Anthropic IPO 中投入数十亿美元,Anthropic 同时是其 AI 芯片最大买家之一",
+          "article_title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+          "article_url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:50:41 +0000",
+          "added_at": "2026-11-19T17:12:48.844544+00:00"
         }
       ]
     },
@@ -14805,6 +15003,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 17 Nov 2026 22:39:29 +0000",
           "added_at": "2026-11-17T23:11:59.826200+00:00"
+        },
+        {
+          "description": "Anthropic 先于 OpenAI 上市,OpenAI 已秘密递表但预计明年才上市,两者在模型与企业客户上竞争",
+          "article_title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+          "article_url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:50:41 +0000",
+          "added_at": "2026-11-19T17:12:48.844544+00:00"
         }
       ]
     },
@@ -15401,6 +15607,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 17 Nov 2026 20:27:24 +0000",
           "added_at": "2026-11-17T21:11:21.777206+00:00"
+        },
+        {
+          "description": "NVIDIA 在 Slurm 26.11 中扩展 HRES 使 QPU 可作为分层资源寻址,并称与 Pasqal 等伙伴一起把量子编程和资源管理带入超算工作流",
+          "article_title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+          "article_url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 15:56:53 +0000",
+          "added_at": "2026-11-19T17:12:43.371685+00:00"
         }
       ]
     },
@@ -22713,6 +22927,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 19 Nov 2026 14:54:39 +0000",
           "added_at": "2026-11-19T15:10:42.799109+00:00"
+        },
+        {
+          "description": "AMD 在 Anthropic IPO 中投入数十亿美元,Anthropic 同时是其 AI 芯片买家",
+          "article_title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+          "article_url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:50:41 +0000",
+          "added_at": "2026-11-19T17:12:48.844544+00:00"
         }
       ]
     },
@@ -27264,6 +27486,14 @@
           "source_name": "The Quantum Insider",
           "published": "Mon, 16 Nov 2026 16:24:01 +0000",
           "added_at": "2026-11-16T18:11:37.662608+00:00"
+        },
+        {
+          "description": "Pasqal 与 IBM 等在 2025 年共同开发厂商中立的 QRMI 接口,并借助 HRES 让量子作业更接近 Slurm 原生架构",
+          "article_title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+          "article_url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 15:56:53 +0000",
+          "added_at": "2026-11-19T17:12:43.371685+00:00"
         }
       ]
     },
@@ -32247,6 +32477,201 @@
           "source_name": "DataCenterDynamics",
           "published": "Thu, 19 Nov 2026 15:23:18 +0000",
           "added_at": "2026-11-19T16:10:58.803451+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "slurm",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Pasqal 扩展其 HPC-QC 平台,让 Slurm 26.11 的 HRES 能力原生管理其 QPU,实现 CPU/GPU/QPU 混合作业调度",
+          "article_title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+          "article_url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 15:56:53 +0000",
+          "added_at": "2026-11-19T17:12:43.371685+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "cudaq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Pasqal 将 CUDA-Q 集成进其 QRMI 实现,并在 CUDA-Q 中加入自家设备仿真",
+          "article_title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+          "article_url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 15:56:53 +0000",
+          "added_at": "2026-11-19T17:12:43.371685+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "cineca",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Pasqal 的 QPU 正通过开源中间件 Warden 和 QRMI 接入 CINECA 的 Slurm 与现有超算",
+          "article_title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+          "article_url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 15:56:53 +0000",
+          "added_at": "2026-11-19T17:12:43.371685+00:00"
+        }
+      ]
+    },
+    {
+      "source": "huawei",
+      "target": "huawei ascend 950dt",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Ascend 950DT 是华为基于 Da Vinci v3 架构、面向 decode 推理与训练的数据中心 AI 加速器",
+          "article_title": "Data center powered by Huawei Ascend chips launches in China",
+          "article_url": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 16:07:30 +0000",
+          "added_at": "2026-11-19T17:12:46.407367+00:00"
+        }
+      ]
+    },
+    {
+      "source": "guangdong tianyima information industry",
+      "target": "huawei",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "广东天亿马运营的汕头'token 出口'数据中心是中国首个 Ascend 950DT 集群,投资约 1.5 亿美元",
+          "article_title": "Data center powered by Huawei Ascend chips launches in China",
+          "article_url": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 16:07:30 +0000",
+          "added_at": "2026-11-19T17:12:46.407367+00:00"
+        }
+      ]
+    },
+    {
+      "source": "guangdong tianyima information industry",
+      "target": "china telecom",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "该 Ascend 集群位于中国电信汕头国际海缆登陆站,为海外用户处理 AI 查询",
+          "article_title": "Data center powered by Huawei Ascend chips launches in China",
+          "article_url": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 16:07:30 +0000",
+          "added_at": "2026-11-19T17:12:46.407367+00:00"
+        }
+      ]
+    },
+    {
+      "source": "deepseek",
+      "target": "huawei",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "据报道 DeepSeek 计划在其内蒙古数据中心使用华为 Ascend 基础设施",
+          "article_title": "Data center powered by Huawei Ascend chips launches in China",
+          "article_url": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 16:07:30 +0000",
+          "added_at": "2026-11-19T17:12:46.407367+00:00"
+        }
+      ]
+    },
+    {
+      "source": "china telecom",
+      "target": "alibaba",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "中国电信在大湾区持有并运营 1 万卡阿里巴巴 Zhenwu 芯片集群,计划扩展到 10 万卡",
+          "article_title": "Data center powered by Huawei Ascend chips launches in China",
+          "article_url": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 16:07:30 +0000",
+          "added_at": "2026-11-19T17:12:46.407367+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oman investment authority",
+      "target": "megarobo",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "阿曼投资局参与 MegaRobo 2 亿美元新一轮融资",
+          "article_title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+          "article_url": "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 16:45:18 +0000",
+          "added_at": "2026-11-19T17:12:47.595263+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sinovation ventures",
+      "target": "megarobo",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "创新工场参与 MegaRobo 2 亿美元新一轮融资",
+          "article_title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+          "article_url": "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 16:45:18 +0000",
+          "added_at": "2026-11-19T17:12:47.595263+00:00"
+        }
+      ]
+    },
+    {
+      "source": "megarobo",
+      "target": "tencent cloud",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "MegaRobo 与腾讯云等合作推出全球 AI 蛋白设计挑战 Poreva Open",
+          "article_title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+          "article_url": "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 16:45:18 +0000",
+          "added_at": "2026-11-19T17:12:47.595263+00:00"
+        }
+      ]
+    },
+    {
+      "source": "megarobo",
+      "target": "twist bioscience",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "MegaRobo 与 Twist Bioscience 等合作推出 Poreva Open,由 Megalaxy 为 1 万多条蛋白序列提供湿实验验证",
+          "article_title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+          "article_url": "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 16:45:18 +0000",
+          "added_at": "2026-11-19T17:12:47.595263+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vultr",
+      "target": "advanced micro devices",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Vultr 多年以 AMD 处理器作为 CPU 主力,并下了 12 亿美元 AMD Helios 机架级系统订单",
+          "article_title": "Agentic AI pushes the neocloud race beyond GPU counts toward global platforms",
+          "article_url": "https://siliconangle.com/2026/11/19/global-cloud-availability-sets-neocloud-platforms-apart-sc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 16:38:38 +0000",
+          "added_at": "2026-11-19T17:12:48.347197+00:00"
         }
       ]
     }
@@ -38146,6 +38571,78 @@
       "source_name": "SiliconANGLE",
       "published": "Thu, 19 Nov 2026 15:43:30 +0000",
       "added_at": "2026-11-19T16:11:00.005742+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Pasqal 借 NVIDIA 扩展的 Slurm 26.11 HRES 让 QPU 被超算调度器原生管理,解决 QPU 进超算中心后的利用率与运维瓶颈,利好量子-HPC 混合基础设施(新闻稿,目前仅在模拟环境与云上验证)",
+      "article_title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+      "article_url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 15:56:53 +0000",
+      "added_at": "2026-11-19T17:12:43.611391+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "NVIDIA 通过 Slurm 与 CUDA-Q 占据混合量子-经典计算的调度与编程入口,GPU 仍是混合工作流主力,其软件生态向量子侧延伸",
+      "article_title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+      "article_url": "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 15:56:53 +0000",
+      "added_at": "2026-11-19T17:12:43.853058+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "中国首个华为 Ascend 950DT 集群在汕头海缆登陆站上线做'token 出口',称海外需求超每天三万亿 token;国产芯片先替代推理、以规模集群弥补单卡差距,利好国产 AI 芯片、电信运营商与液冷互联,对 NVIDIA 在华推理份额偏利空(芯片数与容量未披露)",
+      "article_title": "Data center powered by Huawei Ascend chips launches in China",
+      "article_url": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 16:07:30 +0000",
+      "added_at": "2026-11-19T17:12:46.656830+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "MegaRobo 融资 2 亿美元建设让 AI 可编程执行物理实验的机器人实验室,实验室自动化属于结构化场景先落地的机器人应用,解决 AI for Science 的实验通量瓶颈",
+      "article_title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+      "article_url": "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 16:45:18 +0000",
+      "added_at": "2026-11-19T17:12:47.846273+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI for Science 闭环中'实验执行'成为稀缺环节,MegaRobo 与腾讯云合作做 AI 蛋白设计湿实验验证,科研需求继续拉动 AI 算力与云",
+      "article_title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+      "article_url": "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 16:45:18 +0000",
+      "added_at": "2026-11-19T17:12:48.097408+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Vultr(赞助访谈,厂商自述未经验证)称 agentic AI 需要全栈全球云平台并重新拉动 CPU 需求,下单 12 亿美元 AMD Helios;利好 AMD、数据中心网络与平台型云,'GPU 房东'式 neocloud 面临洗牌",
+      "article_title": "Agentic AI pushes the neocloud race beyond GPU counts toward global platforms",
+      "article_url": "https://siliconangle.com/2026/11/19/global-cloud-availability-sets-neocloud-platforms-apart-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 16:38:38 +0000",
+      "added_at": "2026-11-19T17:12:48.599942+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic 以 83 美元定价、首日开盘涨 34%,开盘对应约 2 万亿美元估值,10 月底年化收入 810 亿美元;在利空背景下市场仍为前沿模型买单,缓解 AI 资本链条的资金瓶颈,基础设施层(云、芯片)确定性高于模型层",
+      "article_title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+      "article_url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 23:50:41 +0000",
+      "added_at": "2026-11-19T17:12:49.090301+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Anthropic 上市后现金充裕,未来算力采购最终落到数据中心电力与发电上,能源板块为需求端间接受益",
+      "article_title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+      "article_url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 23:50:41 +0000",
+      "added_at": "2026-11-19T17:12:49.338446+00:00"
     }
   ]
 }

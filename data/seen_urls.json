@@ -5286,5 +5286,89 @@
   "https://siliconangle.com/2026/11/19/memory-pooling-helps-liqid-fix-ai-inference-tokenomics-sc26/": {
     "title": "AI’s next build-out: Inference racks that resize themselves for every new model",
     "seen_at": "2026-11-19T16:10:59.523764+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/19/students-new-to-quantum-real-technology-power-grid-tennessee-hackathon/": {
+    "title": "Students Use Quantum Computing to Address Electric Grid Challenges at Tennessee Hackathon",
+    "seen_at": "2026-11-19T17:12:42.707725+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/": {
+    "title": "SEALSQ Signs LOI to Acquire QuintessenceLabs",
+    "seen_at": "2026-11-19T17:12:42.928228+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/19/from-lab-to-live-inside-the-practical-realities-of-deploying-quantum-computing-at-data-center-scale/": {
+    "title": "From Lab to Live: Inside the Practical Realities of Deploying Quantum Computing at Data Center Scale",
+    "seen_at": "2026-11-19T17:12:43.147730+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/19/pasqal-integrates-quantum-processors-slurm-hres/": {
+    "title": "Pasqal Integrates Quantum Processors with Slurm HRES",
+    "seen_at": "2026-11-19T17:12:43.385922+00:00"
+  },
+  "https://thequantuminsider.com/2026/11/19/memq-infleqtion-mou-quantum-networking-interoperability/": {
+    "title": "memQ and Infleqtion Sign MoU to Advance Networked Quantum Computing",
+    "seen_at": "2026-11-19T17:12:44.099373+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/nebraska-isp-vistabeam-to-merge-with-mountain-west-technologies/": {
+    "title": "Nebraska ISP Vistabeam to merge with Mountain West Technologies",
+    "seen_at": "2026-11-19T17:12:44.334916+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/": {
+    "title": "PDG and Stockland file to develop Sydney data centers",
+    "seen_at": "2026-11-19T17:12:44.564195+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/anz-migrates-17-petabytes-of-data-to-aws/": {
+    "title": "ANZ migrates 1.7 petabytes of data to AWS",
+    "seen_at": "2026-11-19T17:12:44.795675+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/trans-americas-fiber-secures-205-million-in-financing/": {
+    "title": "Trans Americas Fiber secures $205 million in financing",
+    "seen_at": "2026-11-19T17:12:45.022302+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/cts-group-opens-modular-data-center-factory-in-portugal/": {
+    "title": "CTS Group opens modular data center factory in Portugal",
+    "seen_at": "2026-11-19T17:12:45.249982+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/qts-data-center-site-in-georgia-partially-evacuated-after-shooting-threat-letter/": {
+    "title": "QTS data center site in Georgia partially evacuated after shooting threat letter",
+    "seen_at": "2026-11-19T17:12:45.483316+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/anthropic-launches-ipo-at-83-per-share/": {
+    "title": "Anthropic launches IPO at $83 per share",
+    "seen_at": "2026-11-19T17:12:45.715050+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/research/dcd-survey-airflow-management/": {
+    "title": "DCD Survey: Airflow management",
+    "seen_at": "2026-11-19T17:12:45.940387+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/whitepapers/from-gpu-to-sla-backstops-the-next-step-in-neocloud-finance/": {
+    "title": "From GPU to SLA backstops: The next step in neocloud finance",
+    "seen_at": "2026-11-19T17:12:46.169322+00:00"
+  },
+  "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/": {
+    "title": "Data center powered by Huawei Ascend chips launches in China",
+    "seen_at": "2026-11-19T17:12:46.421824+00:00"
+  },
+  "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/": {
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "seen_at": "2026-11-19T17:12:46.897052+00:00"
+  },
+  "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/": {
+    "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+    "seen_at": "2026-11-19T17:12:47.126848+00:00"
+  },
+  "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/": {
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "seen_at": "2026-11-19T17:12:47.354057+00:00"
+  },
+  "https://siliconangle.com/2026/11/19/china-based-ai-robotics-biotech-firm-megarobo-raises-200m-to-accelerate-scientific-discovery/": {
+    "title": "China-based AI robotics biotech firm MegaRobo raises $200M to accelerate scientific discovery",
+    "seen_at": "2026-11-19T17:12:47.609872+00:00"
+  },
+  "https://siliconangle.com/2026/11/19/global-cloud-availability-sets-neocloud-platforms-apart-sc26/": {
+    "title": "Agentic AI pushes the neocloud race beyond GPU counts toward global platforms",
+    "seen_at": "2026-11-19T17:12:48.361708+00:00"
+  },
+  "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/": {
+    "title": "After Anthropic prices IPO higher than expected, shares shoot up 34% in trading debut",
+    "seen_at": "2026-11-19T17:12:48.859245+00:00"
   }
 }
