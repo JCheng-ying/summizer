@@ -1174,9 +1174,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 11,
+      "mentions": 12,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-18T16:11:37.528779+00:00"
+      "last_seen": "2026-11-19T13:10:46.509863+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -13145,16 +13145,17 @@
       "name": "BMO",
       "type": "company",
       "sectors": [
-        "banking"
+        "banking",
+        "bank / financial services"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T00:11:07.421041+00:00",
-      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+      "last_seen": "2026-11-19T13:10:46.509863+00:00"
     },
     "chicago quantum exchange": {
       "name": "Chicago Quantum Exchange",
@@ -13698,6 +13699,66 @@
       "mentions": 1,
       "first_seen": "2026-11-19T12:12:45.718352+00:00",
       "last_seen": "2026-11-19T12:12:45.718352+00:00"
+    },
+    "democritus university of thrace": {
+      "name": "Democritus University of Thrace",
+      "type": "institution",
+      "sectors": [
+        "university (Greece)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T13:10:46.509863+00:00",
+      "last_seen": "2026-11-19T13:10:46.509863+00:00"
+    },
+    "sk broadband": {
+      "name": "SK Broadband",
+      "type": "company",
+      "sectors": [
+        "telecom / broadband operator (Korea)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T13:10:47.008841+00:00",
+      "last_seen": "2026-11-19T13:10:47.008841+00:00"
+    },
+    "ministry of science and ict south korea": {
+      "name": "Ministry of Science and ICT (South Korea)",
+      "type": "institution",
+      "sectors": [
+        "government ministry"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T13:10:47.008841+00:00",
+      "last_seen": "2026-11-19T13:10:47.008841+00:00"
+    },
+    "national information society agency nia": {
+      "name": "National Information Society Agency (NIA)",
+      "type": "institution",
+      "sectors": [
+        "Korean government agency"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T13:10:47.008841+00:00",
+      "last_seen": "2026-11-19T13:10:47.008841+00:00"
     }
   },
   "edges": [
@@ -31870,6 +31931,66 @@
           "added_at": "2026-11-19T12:12:45.718352+00:00"
         }
       ]
+    },
+    {
+      "source": "bmo",
+      "target": "ibm",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "BMO在IBM量子计算机(含Nighthawk r2)上完成机器学习特征选择应用并宣布实现量子效用,结果经IBM量子研究团队审阅;BMO于2025年2月加入IBM Quantum Network",
+          "article_title": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
+          "article_url": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 11:51:36 +0000",
+          "added_at": "2026-11-19T13:10:46.509863+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bmo",
+      "target": "democritus university of thrace",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "联合开发基于Proxy Quantum Games框架的量子博弈特征选择方法,称以十分之一到百分之一的样本量达到与传统方法相当的质量",
+          "article_title": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
+          "article_url": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 11:51:36 +0000",
+          "added_at": "2026-11-19T13:10:46.509863+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ministry of science and ict south korea",
+      "target": "sk broadband",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SK Broadband被选为MSIT与NIA主管的'开放量子测试床升级与扩展'项目运营方,将在SJC2釜山-新加坡海缆段建跨国量子安全测试网",
+          "article_title": "SK Broadband to Test Quantum Security on Korea-Singapore Subsea Cable",
+          "article_url": "https://thequantuminsider.com/2026/11/19/sk-broadband-quantum-security-testbed-korea-singapore-cable/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 11:25:52 +0000",
+          "added_at": "2026-11-19T13:10:47.008841+00:00"
+        }
+      ]
+    },
+    {
+      "source": "national information society agency nia",
+      "target": "sk broadband",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "NIA共同主管该测试床项目,称其为亚洲首个跨境量子安全网络互联与演示",
+          "article_title": "SK Broadband to Test Quantum Security on Korea-Singapore Subsea Cable",
+          "article_url": "https://thequantuminsider.com/2026/11/19/sk-broadband-quantum-security-testbed-korea-singapore-cable/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 11:25:52 +0000",
+          "added_at": "2026-11-19T13:10:47.008841+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -37605,6 +37726,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Thu, 19 Nov 2026 11:06:31 +0000",
       "added_at": "2026-11-19T12:12:46.227661+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "BMO在IBM Nighthawk r2上用量子博弈方法做ML特征选择并宣布量子效用,称样本需求少1-2个数量级,金融业多一个量子+AI混合用例;银行新闻稿自述,经典基线与成本未披露",
+      "article_title": "BMO Reports Quantum Utility in Machine Learning Application Using IBM Quantum Computers",
+      "article_url": "https://thequantuminsider.com/2026/11/19/bmo-reports-quantum-utility-in-machine-learning-application-using-ibm-quantum-computers/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 11:51:36 +0000",
+      "added_at": "2026-11-19T13:10:46.751759+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "SK Broadband在SJC2釜山-新加坡海缆段测试QKD(本地段)+PQC(长距离段)混合量子安全,联动新加坡、波兰、保加利亚测试床,量子安全从城域推进到国际海缆;测试床规模,金额与厂商未披露",
+      "article_title": "SK Broadband to Test Quantum Security on Korea-Singapore Subsea Cable",
+      "article_url": "https://thequantuminsider.com/2026/11/19/sk-broadband-quantum-security-testbed-korea-singapore-cable/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 11:25:52 +0000",
+      "added_at": "2026-11-19T13:10:47.264361+00:00"
     }
   ]
 }
