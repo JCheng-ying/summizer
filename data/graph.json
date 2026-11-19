@@ -13998,6 +13998,51 @@
       "mentions": 1,
       "first_seen": "2026-11-19T17:12:48.347197+00:00",
       "last_seen": "2026-11-19T17:12:48.347197+00:00"
+    },
+    "delta gold": {
+      "name": "Delta Gold Technologies",
+      "type": "company",
+      "sectors": [
+        "gold nanocluster quantum materials / quantum sensing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T18:10:40.678852+00:00",
+      "last_seen": "2026-11-19T18:10:40.678852+00:00"
+    },
+    "penn state university": {
+      "name": "Penn State University",
+      "type": "institution",
+      "sectors": [
+        "university research (photonic gold nanoclusters)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T18:10:40.678852+00:00",
+      "last_seen": "2026-11-19T18:10:40.678852+00:00"
+    },
+    "university of toronto": {
+      "name": "University of Toronto",
+      "type": "institution",
+      "sectors": [
+        "university research (planar gold spin devices)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T18:10:40.678852+00:00",
+      "last_seen": "2026-11-19T18:10:40.678852+00:00"
     }
   },
   "edges": [
@@ -32674,6 +32719,51 @@
           "added_at": "2026-11-19T17:12:48.347197+00:00"
         }
       ]
+    },
+    {
+      "source": "delta gold",
+      "target": "penn state university",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Delta Gold 资助 Penn State 为期六年 600 万美元的研究项目,并纳入量子传感与通信,采购 50 万美元三维磁场仪器测试金纳米团簇,目标包括无 GPS 导航",
+          "article_title": "Delta Gold Launches Dedicated Quantum Sensing Program",
+          "article_url": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 17:12:49 +0000",
+          "added_at": "2026-11-19T18:10:40.678852+00:00"
+        }
+      ]
+    },
+    {
+      "source": "delta gold",
+      "target": "university of toronto",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Delta Gold 在多伦多大学协议下承诺 300 万加元(已付 200 万),新增 50 万加元预算调整用于原子层生长与显微设备,专门做量子传感器件",
+          "article_title": "Delta Gold Launches Dedicated Quantum Sensing Program",
+          "article_url": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 17:12:49 +0000",
+          "added_at": "2026-11-19T18:10:40.678852+00:00"
+        }
+      ]
+    },
+    {
+      "source": "penn state university",
+      "target": "university of toronto",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "两校分别走金的光学与电学路线,共同开展新的量子传感研究",
+          "article_title": "Delta Gold Launches Dedicated Quantum Sensing Program",
+          "article_url": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 17:12:49 +0000",
+          "added_at": "2026-11-19T18:10:40.678852+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -38643,6 +38733,33 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 23:50:41 +0000",
       "added_at": "2026-11-19T17:12:49.338446+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Delta Gold(公司通稿口径,未经独立验证)把量子传感定为金纳米团簇最近的商业化路径并资助 Penn State 与多伦多大学做无 GPS 磁导航测试;反映量子公司先用传感变现,但该路线尚无器件性能数据,只能观望",
+      "article_title": "Delta Gold Launches Dedicated Quantum Sensing Program",
+      "article_url": "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 17:12:49 +0000",
+      "added_at": "2026-11-19T18:10:40.921157+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Reuters 据 Meta 内部帖子报道 Muse Agent 跨账户串话并暴露银行余额、Signal 消息等私人数据;消费级 Agent 的瓶颈转向数据隔离与权限透明,应用层面临监管与信任压力偏利空,Agent 安全治理层受益",
+      "article_title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "article_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 19 Nov 2026 17:38:40 +0000",
+      "added_at": "2026-11-19T18:10:41.898761+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Muse 隐私事件凸显云端共享会话处理个人数据的风险,端侧推理把个人数据留在设备上是一种隔离方案,对 edge AI 是间接支撑(推测,原文未涉及架构)",
+      "article_title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "article_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 19 Nov 2026 17:38:40 +0000",
+      "added_at": "2026-11-19T18:10:42.149396+00:00"
     }
   ]
 }
