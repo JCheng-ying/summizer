@@ -253,9 +253,9 @@
         "AI chips / corporate venture investing",
         "AI accelerators / Aerial RAN computer"
       ],
-      "mentions": 73,
+      "mentions": 74,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-19T09:09:56.056412+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -7668,9 +7668,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-13T06:17:19.154358+00:00",
-      "last_seen": "2026-11-16T19:10:33.018104+00:00"
+      "last_seen": "2026-11-19T11:10:42.143677+00:00"
     },
     "development bank of japan": {
       "name": "Development Bank of Japan",
@@ -13261,6 +13261,251 @@
       "mentions": 1,
       "first_seen": "2026-11-19T09:09:56.056412+00:00",
       "last_seen": "2026-11-19T09:09:56.056412+00:00"
+    },
+    "mitsubishi heavy industries": {
+      "name": "Mitsubishi Heavy Industries",
+      "type": "company",
+      "sectors": [
+        "gas turbines / modular data centers"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.143677+00:00",
+      "last_seen": "2026-11-19T11:10:42.143677+00:00"
+    },
+    "sakura internet": {
+      "name": "Sakura Internet",
+      "type": "company",
+      "sectors": [
+        "cloud / data center operator (Japan)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.143677+00:00",
+      "last_seen": "2026-11-19T11:10:42.143677+00:00"
+    },
+    "digital agency japan": {
+      "name": "Digital Agency (Japan)",
+      "type": "institution",
+      "sectors": [
+        "government"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.143677+00:00",
+      "last_seen": "2026-11-19T11:10:42.143677+00:00"
+    },
+    "tokyu land": {
+      "name": "Tokyu Land",
+      "type": "company",
+      "sectors": [
+        "real estate"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.143677+00:00",
+      "last_seen": "2026-11-19T11:10:42.143677+00:00"
+    },
+    "princeton digital": {
+      "name": "Princeton Digital Group",
+      "type": "company",
+      "sectors": [
+        "APAC data center operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "bnp paribas": {
+      "name": "BNP Paribas",
+      "type": "company",
+      "sectors": [
+        "bank"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "ing": {
+      "name": "ING",
+      "type": "company",
+      "sectors": [
+        "bank"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "ocbc": {
+      "name": "OCBC",
+      "type": "company",
+      "sectors": [
+        "bank"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "société générale": {
+      "name": "Société Générale",
+      "type": "company",
+      "sectors": [
+        "bank"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "warburg pincus": {
+      "name": "Warburg Pincus",
+      "type": "company",
+      "sectors": [
+        "private equity"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "ontario teachers pension plan": {
+      "name": "Ontario Teachers' Pension Plan",
+      "type": "institution",
+      "sectors": [
+        "pension fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "mubadala": {
+      "name": "Mubadala",
+      "type": "institution",
+      "sectors": [
+        "sovereign wealth fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "stonepeak": {
+      "name": "Stonepeak",
+      "type": "company",
+      "sectors": [
+        "infrastructure investor"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+    },
+    "racks central": {
+      "name": "Racks Central",
+      "type": "company",
+      "sectors": [
+        "Singapore colocation data center"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:43.645898+00:00",
+      "last_seen": "2026-11-19T11:10:43.645898+00:00"
+    },
+    "heptamax international": {
+      "name": "Heptamax International",
+      "type": "company",
+      "sectors": [
+        "automation / robotics solutions (SGX-listed)"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:43.645898+00:00",
+      "last_seen": "2026-11-19T11:10:43.645898+00:00"
+    },
+    "aims apac reit": {
+      "name": "AIMS APAC REIT",
+      "type": "company",
+      "sectors": [
+        "industrial REIT"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:43.645898+00:00",
+      "last_seen": "2026-11-19T11:10:43.645898+00:00"
+    },
+    "esr": {
+      "name": "ESR",
+      "type": "company",
+      "sectors": [
+        "APAC real estate"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:43.645898+00:00",
+      "last_seen": "2026-11-19T11:10:43.645898+00:00"
+    },
+    "chinaasean investment cooperation fund ii": {
+      "name": "China-ASEAN Investment Cooperation Fund II",
+      "type": "institution",
+      "sectors": [
+        "investment fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T11:10:43.645898+00:00",
+      "last_seen": "2026-11-19T11:10:43.645898+00:00"
     }
   },
   "edges": [
@@ -30870,6 +31115,261 @@
           "added_at": "2026-11-19T09:09:56.056412+00:00"
         }
       ]
+    },
+    {
+      "source": "mitsubishi heavy industries",
+      "target": "sakura internet",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方签署非约束性MoU,共同开发模块化AI数据中心,建设日本主权AI与云基础设施",
+          "article_title": "Mitsubishi Heavy Industries and Sakura Internet sign MoU to establish sovereign AI infrastructure in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-and-sakura-internet-sign-mou-to-establish-sovereign-ai-infrastructure-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:03:55 +0000",
+          "added_at": "2026-11-19T11:10:42.143677+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sakura internet",
+      "target": "digital agency japan",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Sakura Internet被日本数字厅选为2026财年政府云服务提供商",
+          "article_title": "Mitsubishi Heavy Industries and Sakura Internet sign MoU to establish sovereign AI infrastructure in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-and-sakura-internet-sign-mou-to-establish-sovereign-ai-infrastructure-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:03:55 +0000",
+          "added_at": "2026-11-19T11:10:42.143677+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sakura internet",
+      "target": "ntt",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与NTT、Tokyu Land组成联合体,计划在北海道石狩市建设数据中心集群",
+          "article_title": "Mitsubishi Heavy Industries and Sakura Internet sign MoU to establish sovereign AI infrastructure in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-and-sakura-internet-sign-mou-to-establish-sovereign-ai-infrastructure-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:03:55 +0000",
+          "added_at": "2026-11-19T11:10:42.143677+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sakura internet",
+      "target": "tokyu land",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与NTT、Tokyu Land组成联合体,计划在北海道石狩市建设数据中心集群",
+          "article_title": "Mitsubishi Heavy Industries and Sakura Internet sign MoU to establish sovereign AI infrastructure in Japan",
+          "article_url": "https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-and-sakura-internet-sign-mou-to-establish-sovereign-ai-infrastructure-in-japan/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:03:55 +0000",
+          "added_at": "2026-11-19T11:10:42.143677+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bnp paribas",
+      "target": "princeton digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "与ING、OCBC、法兴共同为PDG埼玉96MW TY1园区提供追加2.1亿美元绿色融资",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ing",
+      "target": "princeton digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与PDG TY1园区2.1亿美元绿色融资",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ocbc",
+      "target": "princeton digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与PDG TY1园区2.1亿美元绿色融资",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "société générale",
+      "target": "princeton digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与PDG TY1园区2.1亿美元绿色融资",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "warburg pincus",
+      "target": "princeton digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "PDG的机构投资方之一",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ontario teachers pension plan",
+      "target": "princeton digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "PDG的机构投资方之一",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mubadala",
+      "target": "princeton digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "PDG的机构投资方之一",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "stonepeak",
+      "target": "princeton digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "PDG的机构投资方之一",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "princeton digital",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "PDG TY1园区获得Nvidia DGX-Ready Data Center认证",
+          "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+          "added_at": "2026-11-19T11:10:42.907541+00:00"
+        }
+      ]
+    },
+    {
+      "source": "heptamax international",
+      "target": "racks central",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "以5亿新元初始对价通过反向收购方式收购Racks Central全部股本,发行逾8亿股新股",
+          "article_title": "Singapore's Racks Central to be acquired in reverse merger",
+          "article_url": "https://www.datacenterdynamics.com/en/news/singapores-racks-central-to-be-acquired-in-reverse-merger/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:22:04 +0000",
+          "added_at": "2026-11-19T11:10:43.645898+00:00"
+        }
+      ]
+    },
+    {
+      "source": "aims apac reit",
+      "target": "racks central",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Racks Central位于大成路23号的数据中心大楼租自AIMS APAC REIT,租约约剩四年",
+          "article_title": "Singapore's Racks Central to be acquired in reverse merger",
+          "article_url": "https://www.datacenterdynamics.com/en/news/singapores-racks-central-to-be-acquired-in-reverse-merger/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:22:04 +0000",
+          "added_at": "2026-11-19T11:10:43.645898+00:00"
+        }
+      ]
+    },
+    {
+      "source": "esr",
+      "target": "racks central",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "与CAF II战略投资Racks Central,支持其向马来西亚柔佛扩张",
+          "article_title": "Singapore's Racks Central to be acquired in reverse merger",
+          "article_url": "https://www.datacenterdynamics.com/en/news/singapores-racks-central-to-be-acquired-in-reverse-merger/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:22:04 +0000",
+          "added_at": "2026-11-19T11:10:43.645898+00:00"
+        }
+      ]
+    },
+    {
+      "source": "chinaasean investment cooperation fund ii",
+      "target": "racks central",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "与ESR战略投资Racks Central,支持其向马来西亚柔佛扩张",
+          "article_title": "Singapore's Racks Central to be acquired in reverse merger",
+          "article_url": "https://www.datacenterdynamics.com/en/news/singapores-racks-central-to-be-acquired-in-reverse-merger/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 10:22:04 +0000",
+          "added_at": "2026-11-19T11:10:43.645898+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -36407,6 +36907,69 @@
       "source_name": "DataCenterDynamics",
       "published": "Thu, 19 Nov 2026 09:00:00 +0000",
       "added_at": "2026-11-19T09:09:56.541559+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "三菱重工为AI数据中心需求扩产燃气轮机并与Sakura Internet合建主权AI数据中心,发电设备是解决日本数据中心电力瓶颈的那一层(仅为非约束性MoU)",
+      "article_title": "Mitsubishi Heavy Industries and Sakura Internet sign MoU to establish sovereign AI infrastructure in Japan",
+      "article_url": "https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-and-sakura-internet-sign-mou-to-establish-sovereign-ai-infrastructure-in-japan/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:03:55 +0000",
+      "added_at": "2026-11-19T11:10:42.398161+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "MHI与Sakura Internet计划建设模块化主权AI数据中心,利好预制化电源/液冷模块和GPU等基础设施层,但MoU无金额与容量,只能观望",
+      "article_title": "Mitsubishi Heavy Industries and Sakura Internet sign MoU to establish sovereign AI infrastructure in Japan",
+      "article_url": "https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-and-sakura-internet-sign-mou-to-establish-sovereign-ai-infrastructure-in-japan/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:03:55 +0000",
+      "added_at": "2026-11-19T11:10:42.657182+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "银行继续为PDG 96MW、获DGX-Ready认证的东京TY1园区追加2.1亿美元绿色融资,PDG另有50亿美元亚太债务融资计划,说明AI数据中心资金面尚未收紧",
+      "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+      "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+      "added_at": "2026-11-19T11:10:43.156508+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "PDG TY1融资按绿色金融框架专门支持能效开发,数据中心能效已成为融资硬约束,利好高效电源与冷却设备",
+      "article_title": "PDG secures additional $210m for its TY1 Tokyo Campus",
+      "article_url": "https://www.datacenterdynamics.com/en/news/pdg-secures-additional-210m-for-its-ty1-tokyo-campus/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 10:23:22 +0000",
+      "added_at": "2026-11-19T11:10:43.399620+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Racks Central估值主要押在柔佛510MW园区储备(首期70MW已全部签约),新加坡容量外溢到柔佛,利好亚太新兴数据中心枢纽的算力与基础设施需求",
+      "article_title": "Singapore's Racks Central to be acquired in reverse merger",
+      "article_url": "https://www.datacenterdynamics.com/en/news/singapores-racks-central-to-be-acquired-in-reverse-merger/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 10:22:04 +0000",
+      "added_at": "2026-11-19T11:10:43.893549+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Racks Central柔佛园区满建510MW,新加坡电力配额瓶颈推动容量外溢,需要柔佛本地电网与发电容量配套",
+      "article_title": "Singapore's Racks Central to be acquired in reverse merger",
+      "article_url": "https://www.datacenterdynamics.com/en/news/singapores-racks-central-to-be-acquired-in-reverse-merger/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 10:22:04 +0000",
+      "added_at": "2026-11-19T11:10:44.132159+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "机器人与自动化方案商Heptamax通过反向收购转型做数据中心,反映小型机器人集成商估值吸引力不如数据中心,对小市值机器人公司偏利空",
+      "article_title": "Singapore's Racks Central to be acquired in reverse merger",
+      "article_url": "https://www.datacenterdynamics.com/en/news/singapores-racks-central-to-be-acquired-in-reverse-merger/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 10:22:04 +0000",
+      "added_at": "2026-11-19T11:10:44.375622+00:00"
     }
   ]
 }
