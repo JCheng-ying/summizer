@@ -2727,9 +2727,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 13,
+      "mentions": 14,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-11-18T13:11:52.489182+00:00"
+      "last_seen": "2026-11-19T22:11:33.336118+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -5609,16 +5609,17 @@
       "name": "Impulse Space",
       "type": "company",
       "sectors": [
-        "orbital transfer vehicles"
+        "orbital transfer vehicles",
+        "orbital transfer vehicles & lunar landers"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:06:01.385594+00:00",
-      "last_seen": "2026-11-09T06:06:01.385594+00:00"
+      "last_seen": "2026-11-19T22:11:33.336118+00:00"
     },
     "quantum space": {
       "name": "Quantum Space",
@@ -6576,9 +6577,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-10T05:12:46.233917+00:00",
-      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+      "last_seen": "2026-11-19T22:11:34.786118+00:00"
     },
     "metr": {
       "name": "METR",
@@ -8809,9 +8810,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-14T00:09:37.686440+00:00",
-      "last_seen": "2026-11-17T17:11:17.535512+00:00"
+      "last_seen": "2026-11-19T22:11:34.786118+00:00"
     },
     "ucla": {
       "name": "UCLA",
@@ -11039,13 +11040,14 @@
         "venture capital"
       ],
       "sector_tags": [
-        "edge AI板块"
+        "edge AI板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T14:12:05.837864+00:00",
-      "last_seen": "2026-11-17T14:12:05.837864+00:00"
+      "last_seen": "2026-11-19T22:11:34.786118+00:00"
     },
     "hewlett packard enterprise": {
       "name": "Hewlett Packard Enterprise",
@@ -14065,6 +14067,81 @@
       "mentions": 1,
       "first_seen": "2026-11-19T20:11:33.025622+00:00",
       "last_seen": "2026-11-19T20:11:33.025622+00:00"
+    },
+    "relativity space": {
+      "name": "Relativity Space",
+      "type": "company",
+      "sectors": [
+        "reusable medium/heavy launch vehicles (Terran R)"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T22:11:33.336118+00:00",
+      "last_seen": "2026-11-19T22:11:33.336118+00:00"
+    },
+    "boltz": {
+      "name": "Boltz",
+      "type": "company",
+      "sectors": [
+        "AI models for small-molecule & protein drug discovery"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T22:11:34.786118+00:00",
+      "last_seen": "2026-11-19T22:11:34.786118+00:00"
+    },
+    "greycroft": {
+      "name": "Greycroft",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T22:11:34.786118+00:00",
+      "last_seen": "2026-11-19T22:11:34.786118+00:00"
+    },
+    "fprime capital": {
+      "name": "F-Prime Capital",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T22:11:34.786118+00:00",
+      "last_seen": "2026-11-19T22:11:34.786118+00:00"
+    },
+    "hummingbird": {
+      "name": "Hummingbird",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T22:11:34.786118+00:00",
+      "last_seen": "2026-11-19T22:11:34.786118+00:00"
     }
   },
   "edges": [
@@ -20907,6 +20984,14 @@
           "source_name": "NASASpaceFlight.com",
           "published": "Sun, 08 Nov 2026 04:43:57 +0000",
           "added_at": "2026-11-09T06:06:01.385594+00:00"
+        },
+        {
+          "description": "NASA 11 月 7 日在 VADR 合同下向 Impulse Space 授予固定价格任务订单,支持 Moon Base 项目的月球南极货物投送测试",
+          "article_title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 19 Nov 2026 22:08:32 +0000",
+          "added_at": "2026-11-19T22:11:33.336118+00:00"
         }
       ]
     },
@@ -32893,6 +32978,126 @@
           "added_at": "2026-11-19T20:11:33.025622+00:00"
         }
       ]
+    },
+    {
+      "source": "relativity space",
+      "target": "impulse space",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Impulse Space 的 Helios 踢级和月球着陆器将从 2028 年起搭乘 Terran R 发射入轨",
+          "article_title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 19 Nov 2026 22:08:32 +0000",
+          "added_at": "2026-11-19T22:11:33.336118+00:00"
+        }
+      ]
+    },
+    {
+      "source": "relativity space",
+      "target": "nasa",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Terran R 第二级在 NASA 斯坦尼斯航天中心 A2 试车台完成热试车,R 试车台进行 Aeon R 发动机验收测试",
+          "article_title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Thu, 19 Nov 2026 22:08:32 +0000",
+          "added_at": "2026-11-19T22:11:33.336118+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bessemer venture partners",
+      "target": "boltz",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Boltz 1.1 亿美元 A 轮融资",
+          "article_title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+          "article_url": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 21:17:08 +0000",
+          "added_at": "2026-11-19T22:11:34.786118+00:00"
+        }
+      ]
+    },
+    {
+      "source": "greycroft",
+      "target": "boltz",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参投 Boltz 1.1 亿美元 A 轮融资",
+          "article_title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+          "article_url": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 21:17:08 +0000",
+          "added_at": "2026-11-19T22:11:34.786118+00:00"
+        }
+      ]
+    },
+    {
+      "source": "andreessen horowitz",
+      "target": "boltz",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参投 Boltz 1.1 亿美元 A 轮融资",
+          "article_title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+          "article_url": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 21:17:08 +0000",
+          "added_at": "2026-11-19T22:11:34.786118+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amplify partners",
+      "target": "boltz",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参投 Boltz 1.1 亿美元 A 轮融资",
+          "article_title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+          "article_url": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 21:17:08 +0000",
+          "added_at": "2026-11-19T22:11:34.786118+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fprime capital",
+      "target": "boltz",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参投 Boltz 1.1 亿美元 A 轮融资",
+          "article_title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+          "article_url": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 21:17:08 +0000",
+          "added_at": "2026-11-19T22:11:34.786118+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hummingbird",
+      "target": "boltz",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参投 Boltz 1.1 亿美元 A 轮融资",
+          "article_title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+          "article_url": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 21:17:08 +0000",
+          "added_at": "2026-11-19T22:11:34.786118+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -38961,6 +39166,33 @@
       "source_name": "SiliconANGLE",
       "published": "Thu, 19 Nov 2026 19:21:48 +0000",
       "added_at": "2026-11-19T20:11:33.286564+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Terran R 完成全部主结构鉴定和第二级 400 秒以上全时长点火,并拿到 Impulse Space 的 NASA 月球任务订单,SpaceX 之外的中型运力供给在推进,但首飞日期仍未公布",
+      "article_title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Thu, 19 Nov 2026 22:08:32 +0000",
+      "added_at": "2026-11-19T22:11:33.582209+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Google 在 Willow 上用经典上限写死的语境性游戏证明量子效应可保持到 71 比特,并抓到随机基准测试漏掉的系统性错误,利好可信验证与纠错诊断;105 比特实验的优势规模仍依赖未证明的猜想",
+      "article_title": "Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork",
+      "article_url": "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 20:31:49 +0000",
+      "added_at": "2026-11-19T22:11:34.069007+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 药物发现工具公司 Boltz 获 1.1 亿美元 A 轮,token 消耗半年增长 50 倍,新资金主要用于采购算力,AI for Science 需求继续拉动算力;模型效果数据为公司自述",
+      "article_title": "Medical AI startup Boltz raises $110M to speed up small molecule research",
+      "article_url": "https://siliconangle.com/2026/11/19/medical-ai-startup-boltz-raises-110m-to-speed-up-small-molecule-research/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 21:17:08 +0000",
+      "added_at": "2026-11-19T22:11:35.034538+00:00"
     }
   ]
 }
