@@ -416,16 +416,17 @@
         "frontier AI models",
         "foundation models",
         "frontier AI lab",
-        "foundation models / ChatGPT"
+        "foundation models / ChatGPT",
+        "AI models / agents"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 37,
+      "mentions": 38,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T17:12:48.844544+00:00"
+      "last_seen": "2026-11-19T19:10:06.322789+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -467,7 +468,8 @@
         "social / AI / AR",
         "social / AI",
         "AI / social",
-        "hyperscaler"
+        "hyperscaler",
+        "AI models / agents"
       ],
       "sector_tags": [
         "AI板块",
@@ -475,9 +477,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 12,
+      "mentions": 13,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T16:11:39.204972+00:00"
+      "last_seen": "2026-11-19T19:10:06.322789+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -485,16 +487,17 @@
       "sectors": [
         "frontier AI models",
         "foundation models",
-        "frontier AI lab"
+        "frontier AI lab",
+        "AI models / agents"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 50,
+      "mentions": 51,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T17:12:48.844544+00:00"
+      "last_seen": "2026-11-19T19:10:06.322789+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -1864,7 +1867,8 @@
         "search / cloud",
         "cloud / search",
         "frontier AI models / cloud",
-        "cloud"
+        "cloud",
+        "AI models / agents / cloud"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1876,9 +1880,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 52,
+      "mentions": 53,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T17:12:48.844544+00:00"
+      "last_seen": "2026-11-19T19:10:06.322789+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -20628,6 +20632,14 @@
           "source_name": "DeepLearning.AI - The Batch (Research)",
           "published": "2026-11-06T08:00:00.000-08:00",
           "added_at": "2026-11-09T06:05:58.763708+00:00"
+        },
+        {
+          "description": "Gemini Mac computer use 与 Anthropic 桌面应用已有的 Agent 功能竞争,文章称 Google 入场偏晚",
+          "article_title": "Google gives Gemini the ability to use your Mac for you",
+          "article_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 18:09:11 +0000",
+          "added_at": "2026-11-19T19:10:06.322789+00:00"
         }
       ]
     },
@@ -20651,6 +20663,14 @@
           "source_name": "DeepLearning.AI - The Batch (Research)",
           "published": "2026-11-13T08:00:00.000-08:00",
           "added_at": "2026-11-13T17:11:08.254616+00:00"
+        },
+        {
+          "description": "Google 为 Mac 版 Gemini 加入 computer use,文章称 OpenAI 早已在桌面应用中提供 Agent 功能,Google 属于追赶",
+          "article_title": "Google gives Gemini the ability to use your Mac for you",
+          "article_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 18:09:11 +0000",
+          "added_at": "2026-11-19T19:10:06.322789+00:00"
         }
       ]
     },
@@ -31142,6 +31162,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 18 Nov 2026 15:40:23 +0000",
           "added_at": "2026-11-18T16:11:39.204972+00:00"
+        },
+        {
+          "description": "Gemini Mac computer use 与 Meta 桌面应用已有的 Agent 功能竞争",
+          "article_title": "Google gives Gemini the ability to use your Mac for you",
+          "article_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "source_name": "TechCrunch - AI",
+          "published": "Thu, 19 Nov 2026 18:09:11 +0000",
+          "added_at": "2026-11-19T19:10:06.322789+00:00"
         }
       ]
     },
@@ -38760,6 +38788,24 @@
       "source_name": "TechCrunch - AI",
       "published": "Thu, 19 Nov 2026 17:38:40 +0000",
       "added_at": "2026-11-19T18:10:42.149396+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Google 为 Mac 版 Gemini 推出 computer use,可操作本地文件、原生应用并后台浏览网页,仅限美国付费订阅;桌面 Agent 每步处理截屏、token 消耗高,持续支撑推理算力需求,瓶颈在长链路可靠性与权限信任,Agent 安全治理层受益",
+      "article_title": "Google gives Gemini the ability to use your Mac for you",
+      "article_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 19 Nov 2026 18:09:11 +0000",
+      "added_at": "2026-11-19T19:10:06.567780+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Gemini computer use 让 Agent 直接在用户 Mac 上执行动作,原文未说明推理在本地还是云端(推测仍以云端为主);长期看截屏理解等隐私敏感步骤下沉端侧会推高 PC 芯片 NPU 需求,目前只是间接信号",
+      "article_title": "Google gives Gemini the ability to use your Mac for you",
+      "article_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 19 Nov 2026 18:09:11 +0000",
+      "added_at": "2026-11-19T19:10:06.819994+00:00"
     }
   ]
 }
