@@ -253,9 +253,9 @@
         "AI chips / corporate venture investing",
         "AI accelerators / Aerial RAN computer"
       ],
-      "mentions": 74,
+      "mentions": 77,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-19T11:10:42.907541+00:00",
+      "last_seen": "2026-11-19T12:12:45.225780+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -753,7 +753,8 @@
         "launch / satellites / compute",
         "launch / satellite / compute",
         "launch / satellites / orbital compute",
-        "launch provider / Starlink"
+        "launch provider / Starlink",
+        "launch / satellites"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -761,9 +762,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 15,
+      "mentions": 16,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-16T13:10:08.563022+00:00"
+      "last_seen": "2026-11-19T12:12:44.240338+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -1237,9 +1238,9 @@
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-18T13:11:54.168942+00:00"
+      "last_seen": "2026-11-19T12:12:44.240338+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -1417,15 +1418,19 @@
     "tesla": {
       "name": "Tesla, Inc.",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "EV / energy storage / power electronics"
+      ],
       "sector_tags": [
-        "机器人板块"
+        "机器人板块",
+        "能源板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": "TSLA",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-08-06T04:57:08.306288+00:00"
+      "last_seen": "2026-11-19T12:12:43.491454+00:00"
     },
     "figure ai": {
       "name": "Figure AI",
@@ -2207,15 +2212,17 @@
     "eaton": {
       "name": "Eaton Corporation",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "power equipment"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "ETN",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-19T12:12:43.491454+00:00"
     },
     "bloom energy": {
       "name": "Bloom Energy",
@@ -4494,9 +4501,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 9,
+      "mentions": 11,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-18T02:10:31.035863+00:00"
+      "last_seen": "2026-11-19T12:12:45.225780+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -6980,7 +6987,8 @@
       "name": "Applied Digital",
       "type": "company",
       "sectors": [
-        "AI data center developer"
+        "AI data center developer",
+        "data centers"
       ],
       "sector_tags": [
         "AI板块",
@@ -6988,9 +6996,9 @@
       ],
       "hot": null,
       "ticker": "APLD",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-11T06:19:46.422486+00:00",
-      "last_seen": "2026-11-11T06:19:46.422486+00:00"
+      "last_seen": "2026-11-19T12:12:45.718352+00:00"
     },
     "new york state digit": {
       "name": "New York State DIGIT",
@@ -7927,14 +7935,15 @@
       "name": "Goldman Sachs",
       "type": "company",
       "sectors": [
-        "banking"
+        "banking",
+        "investment bank"
       ],
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T10:11:34.590052+00:00",
-      "last_seen": "2026-11-13T10:11:34.590052+00:00"
+      "last_seen": "2026-11-19T12:12:45.718352+00:00"
     },
     "quinbrook infrastructure partners": {
       "name": "Quinbrook Infrastructure Partners",
@@ -9977,16 +9986,17 @@
       "name": "Firmus",
       "type": "company",
       "sectors": [
-        "Australian neocloud"
+        "Australian neocloud",
+        "neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T18:11:38.859664+00:00",
-      "last_seen": "2026-11-16T18:11:38.859664+00:00"
+      "last_seen": "2026-11-19T12:12:41.548408+00:00"
     },
     "tecfusions": {
       "name": "TecFusions",
@@ -10741,7 +10751,8 @@
       "sectors": [
         "telecom equipment / 5G base stations",
         "network infrastructure",
-        "telecom equipment / AI-RAN"
+        "telecom equipment / AI-RAN",
+        "network equipment / AI-RAN"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -10750,9 +10761,9 @@
       ],
       "hot": "hot",
       "ticker": "NOK",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-17T14:12:01.977494+00:00",
-      "last_seen": "2026-11-18T17:10:44.547365+00:00"
+      "last_seen": "2026-11-19T12:12:44.240338+00:00"
     },
     "qmill": {
       "name": "QMill",
@@ -10969,7 +10980,8 @@
       "name": "Synopsys",
       "type": "company",
       "sectors": [
-        "EDA / semiconductor IP"
+        "EDA / semiconductor IP",
+        "EDA"
       ],
       "sector_tags": [
         "AI板块",
@@ -10977,9 +10989,9 @@
       ],
       "hot": null,
       "ticker": "SNPS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T14:12:05.837864+00:00",
-      "last_seen": "2026-11-17T14:12:05.837864+00:00"
+      "last_seen": "2026-11-19T12:12:44.240338+00:00"
     },
     "fidelity management research": {
       "name": "Fidelity Management & Research",
@@ -11379,16 +11391,17 @@
       "name": "Heron Power",
       "type": "company",
       "sectors": [
-        "solid-state medium-voltage transformers"
+        "solid-state medium-voltage transformers",
+        "solid-state transformers"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T16:10:37.707122+00:00",
-      "last_seen": "2026-11-17T16:10:37.707122+00:00"
+      "last_seen": "2026-11-19T12:12:43.491454+00:00"
     },
     "vantage data centers": {
       "name": "Vantage Data Centers",
@@ -11816,16 +11829,17 @@
         "servers / AI factory / storage",
         "servers / AI factory",
         "AI servers / AI factory infrastructure",
-        "servers / PowerEdge"
+        "servers / PowerEdge",
+        "servers / rack integration"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-18T17:10:45.970570+00:00"
+      "last_seen": "2026-11-19T12:12:45.225780+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -12766,16 +12780,17 @@
       "name": "Siemens",
       "type": "company",
       "sectors": [
-        "power distribution / automation"
+        "power distribution / automation",
+        "power equipment"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-18T16:11:40.652756+00:00",
-      "last_seen": "2026-11-18T16:11:40.652756+00:00"
+      "last_seen": "2026-11-19T12:12:43.491454+00:00"
     },
     "alfa laval": {
       "name": "Alfa Laval",
@@ -13506,6 +13521,183 @@
       "mentions": 1,
       "first_seen": "2026-11-19T11:10:43.645898+00:00",
       "last_seen": "2026-11-19T11:10:43.645898+00:00"
+    },
+    "quandela": {
+      "name": "Quandela",
+      "type": "company",
+      "sectors": [
+        "photonic quantum computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:40.065276+00:00",
+      "last_seen": "2026-11-19T12:12:40.065276+00:00"
+    },
+    "hermesepitek": {
+      "name": "Hermes-Epitek",
+      "type": "company",
+      "sectors": [
+        "SNSPD detectors / semiconductor equipment (Taiwan)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:40.065276+00:00",
+      "last_seen": "2026-11-19T12:12:40.065276+00:00"
+    },
+    "nexgen cloud": {
+      "name": "NexGen Cloud",
+      "type": "company",
+      "sectors": [
+        "European neocloud (Hyperstack)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:41.548408+00:00",
+      "last_seen": "2026-11-19T12:12:41.548408+00:00"
+    },
+    "glesys": {
+      "name": "GleSYS",
+      "type": "company",
+      "sectors": [
+        "Nordic cloud / data center operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:41.548408+00:00",
+      "last_seen": "2026-11-19T12:12:41.548408+00:00"
+    },
+    "phononic": {
+      "name": "Phononic",
+      "type": "company",
+      "sectors": [
+        "solid-state thermoelectric cooling"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:42.757129+00:00",
+      "last_seen": "2026-11-19T12:12:42.757129+00:00"
+    },
+    "trinity capital": {
+      "name": "Trinity Capital",
+      "type": "company",
+      "sectors": [
+        "alternative asset manager / venture debt"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "TRIN",
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:42.757129+00:00",
+      "last_seen": "2026-11-19T12:12:42.757129+00:00"
+    },
+    "dg matrix": {
+      "name": "DG Matrix",
+      "type": "company",
+      "sectors": [
+        "solid-state transformers"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:43.491454+00:00",
+      "last_seen": "2026-11-19T12:12:43.491454+00:00"
+    },
+    "chronoscale": {
+      "name": "ChronoScale",
+      "type": "company",
+      "sectors": [
+        "AI cloud (Applied Digital spin-off)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:45.718352+00:00",
+      "last_seen": "2026-11-19T12:12:45.718352+00:00"
+    },
+    "stn": {
+      "name": "STN",
+      "type": "company",
+      "sectors": [
+        "AI infrastructure / GPU cloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:45.718352+00:00",
+      "last_seen": "2026-11-19T12:12:45.718352+00:00"
+    },
+    "nutanix": {
+      "name": "Nutanix",
+      "type": "company",
+      "sectors": [
+        "hybrid cloud software"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "NTNX",
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:45.718352+00:00",
+      "last_seen": "2026-11-19T12:12:45.718352+00:00"
+    },
+    "empery digital": {
+      "name": "Empery Digital",
+      "type": "company",
+      "sectors": [
+        "investor"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:45.718352+00:00",
+      "last_seen": "2026-11-19T12:12:45.718352+00:00"
+    },
+    "ekso bionics": {
+      "name": "Ekso Bionics",
+      "type": "company",
+      "sectors": [
+        "exoskeletons"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T12:12:45.718352+00:00",
+      "last_seen": "2026-11-19T12:12:45.718352+00:00"
     }
   },
   "edges": [
@@ -18422,6 +18614,14 @@
           "source_name": "SiliconANGLE",
           "published": "Fri, 30 Oct 2026 01:17:32 +0000",
           "added_at": "2026-11-02T01:41:22.570043+00:00"
+        },
+        {
+          "description": "本周SEC文件显示Nvidia将Intel持股削减25%",
+          "article_title": "Nvidia sells more than half of Nokia stake",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-sells-more-than-half-of-nokia-stake/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:18 +0000",
+          "added_at": "2026-11-19T12:12:44.240338+00:00"
         }
       ]
     },
@@ -31370,6 +31570,306 @@
           "added_at": "2026-11-19T11:10:43.645898+00:00"
         }
       ]
+    },
+    {
+      "source": "quandela",
+      "target": "hermesepitek",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "签署MoU联合研发光量子技术:Quandela量子点单光子源与光子集成电路+Hermes-Epitek超导纳米线单光子探测器,先在台湾搭建实验平台,后续或另签协议在台湾安装光量子计算机",
+          "article_title": "Quandela and Hermes-Epitek Join Forces to Advance Photonic Quantum Technologies",
+          "article_url": "https://thequantuminsider.com/2026/11/19/quandela-hermes-epitek-mou-photonic-quantum-technology/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 19 Nov 2026 10:26:06 +0000",
+          "added_at": "2026-11-19T12:12:40.065276+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nexgen cloud",
+      "target": "glesys",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "与GleSYS合作开发芬兰奥卢EU2云区域,8MW、数千张GPU,上线前已基本预订",
+          "article_title": "NexGen Cloud hires Nscale's Dan Thomas as chief infrastructure officer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nexgen-cloud-hires-nscales-dan-thomas-as-chief-infrastructure-officer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 12:01:03 +0000",
+          "added_at": "2026-11-19T12:12:41.548408+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nexgen cloud",
+      "target": "nscale",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "同为英国neocloud,NexGen挖来Nscale前AI基础设施与运营副总裁Dan Thomas任首席基础设施官",
+          "article_title": "NexGen Cloud hires Nscale's Dan Thomas as chief infrastructure officer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nexgen-cloud-hires-nscales-dan-thomas-as-chief-infrastructure-officer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 12:01:03 +0000",
+          "added_at": "2026-11-19T12:12:41.548408+00:00"
+        }
+      ]
+    },
+    {
+      "source": "trinity capital",
+      "target": "phononic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "向Phononic提供1亿美元债务融资,用于扩大固态热电散热产品的制造产能",
+          "article_title": "Phononic raises $100m debt facility to fund solid-state cooling system",
+          "article_url": "https://www.datacenterdynamics.com/en/news/phononic-raises-100m-debt-facility-to-fund-solid-state-cooling-system/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:30:40 +0000",
+          "added_at": "2026-11-19T12:12:42.757129+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tesla",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Tesla与Nvidia合作,按DSX Ready计划认证Powercore固态变压器平台;Megapack 2XL已获该计划认证",
+          "article_title": "Tesla unveils Powercore solid-state transformer platform aimed at data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/tesla-unveils-powercore-solid-state-transformer-platform-aimed-at-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:44 +0000",
+          "added_at": "2026-11-19T12:12:43.491454+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tesla",
+      "target": "eaton",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Powercore中压固态变压器平台与Eaton等传统电力设备商在数据中心市场竞争",
+          "article_title": "Tesla unveils Powercore solid-state transformer platform aimed at data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/tesla-unveils-powercore-solid-state-transformer-platform-aimed-at-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:44 +0000",
+          "added_at": "2026-11-19T12:12:43.491454+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tesla",
+      "target": "siemens",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Powercore与Siemens中压SST产品竞争数据中心市场",
+          "article_title": "Tesla unveils Powercore solid-state transformer platform aimed at data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/tesla-unveils-powercore-solid-state-transformer-platform-aimed-at-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:44 +0000",
+          "added_at": "2026-11-19T12:12:43.491454+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tesla",
+      "target": "heron power",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "同为面向数据中心的中压固态变压器厂商",
+          "article_title": "Tesla unveils Powercore solid-state transformer platform aimed at data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/tesla-unveils-powercore-solid-state-transformer-platform-aimed-at-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:44 +0000",
+          "added_at": "2026-11-19T12:12:43.491454+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tesla",
+      "target": "dg matrix",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "同为面向数据中心的中压固态变压器厂商",
+          "article_title": "Tesla unveils Powercore solid-state transformer platform aimed at data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/tesla-unveils-powercore-solid-state-transformer-platform-aimed-at-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:44 +0000",
+          "added_at": "2026-11-19T12:12:43.491454+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "nokia",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "7-9月出售9,353万股Nokia股份(超过去年10亿美元战略投资所获1.66亿股的一半),剩余不到7,300万股约7.39亿美元;双方仍在AI-RAN合作",
+          "article_title": "Nvidia sells more than half of Nokia stake",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-sells-more-than-half-of-nokia-stake/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:18 +0000",
+          "added_at": "2026-11-19T12:12:44.240338+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "synopsys",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia将Synopsys持股削减约10%",
+          "article_title": "Nvidia sells more than half of Nokia stake",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-sells-more-than-half-of-nokia-stake/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:18 +0000",
+          "added_at": "2026-11-19T12:12:44.240338+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "spacex",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "增持SpaceX 770万股,总持股超1.3亿股、价值196.8亿美元",
+          "article_title": "Nvidia sells more than half of Nokia stake",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-sells-more-than-half-of-nokia-stake/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:11:18 +0000",
+          "added_at": "2026-11-19T12:12:44.240338+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nscale",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Nscale上线首套Nvidia Vera Rubin NVL72机柜,计划未来几个月全球部署",
+          "article_title": "Nscale brings Nvidia Vera Rubin NVL72 rack online",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nscale-brings-nvidia-vera-rubin-nvl72-rack-online/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:07:00 +0000",
+          "added_at": "2026-11-19T12:12:45.225780+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dell",
+      "target": "nscale",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Vera Rubin NVL72基于Dell PowerEdge XE9812;Nscale首家部署Dell全集成液冷L11网络机柜(IR9148平台)",
+          "article_title": "Nscale brings Nvidia Vera Rubin NVL72 rack online",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nscale-brings-nvidia-vera-rubin-nvl72-rack-online/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:07:00 +0000",
+          "added_at": "2026-11-19T12:12:45.225780+00:00"
+        }
+      ]
+    },
+    {
+      "source": "chronoscale",
+      "target": "stn",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "组建50/50合资公司开发德州敖德萨数据中心园区,各出资3.9亿美元,为未具名前沿AI实验室提供算力,六年合同约75亿美元",
+          "article_title": "ChronoScale and STN form JV to develop data center campus in Odessa, Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-stn-form-jv-to-develop-data-center-campus-in-odessa-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:06:31 +0000",
+          "added_at": "2026-11-19T12:12:45.718352+00:00"
+        }
+      ]
+    },
+    {
+      "source": "applied digital",
+      "target": "chronoscale",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "ChronoScale为Applied Digital云业务分拆,Applied保留约97%股权,分拆于2026年5月5日完成",
+          "article_title": "ChronoScale and STN form JV to develop data center campus in Odessa, Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-stn-form-jv-to-develop-data-center-campus-in-odessa-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:06:31 +0000",
+          "added_at": "2026-11-19T12:12:45.718352+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nutanix",
+      "target": "chronoscale",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与ChronoScale 7.5亿美元融资(2.5亿股权+最高5亿可转换优先股)",
+          "article_title": "ChronoScale and STN form JV to develop data center campus in Odessa, Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-stn-form-jv-to-develop-data-center-campus-in-odessa-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:06:31 +0000",
+          "added_at": "2026-11-19T12:12:45.718352+00:00"
+        }
+      ]
+    },
+    {
+      "source": "empery digital",
+      "target": "chronoscale",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与ChronoScale 7.5亿美元融资",
+          "article_title": "ChronoScale and STN form JV to develop data center campus in Odessa, Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-stn-form-jv-to-develop-data-center-campus-in-odessa-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:06:31 +0000",
+          "added_at": "2026-11-19T12:12:45.718352+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ekso bionics",
+      "target": "chronoscale",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Applied Digital云业务与Ekso合并组成ChronoScale,Ekso持有剩余约3%股份",
+          "article_title": "ChronoScale and STN form JV to develop data center campus in Odessa, Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-stn-form-jv-to-develop-data-center-campus-in-odessa-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:06:31 +0000",
+          "added_at": "2026-11-19T12:12:45.718352+00:00"
+        }
+      ]
+    },
+    {
+      "source": "goldman sachs",
+      "target": "chronoscale",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "担任ChronoScale独家资本市场顾问及7.5亿美元融资主配售代理",
+          "article_title": "ChronoScale and STN form JV to develop data center campus in Odessa, Texas",
+          "article_url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-stn-form-jv-to-develop-data-center-campus-in-odessa-texas/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 11:06:31 +0000",
+          "added_at": "2026-11-19T12:12:45.718352+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -36970,6 +37470,141 @@
       "source_name": "DataCenterDynamics",
       "published": "Thu, 19 Nov 2026 10:22:04 +0000",
       "added_at": "2026-11-19T11:10:44.375622+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Quandela与台湾汉民科技签MoU,结合单光子源与SNSPD探测器推进光量子器件产业化,台湾半导体制造生态切入量子器件;仅为MoU、装机条款未定(新闻稿)",
+      "article_title": "Quandela and Hermes-Epitek Join Forces to Advance Photonic Quantum Technologies",
+      "article_url": "https://thequantuminsider.com/2026/11/19/quandela-hermes-epitek-mou-photonic-quantum-technology/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 19 Nov 2026 10:26:06 +0000",
+      "added_at": "2026-11-19T12:12:40.303424+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Intel 18A-P拿到首个外部代工客户,先进制程出现台积电之外的第二供应源可能,利好半导体设备与AI芯片供给;客户与订单规模未披露",
+      "article_title": "Intel secures first external customer for 18A-P process node",
+      "article_url": "https://www.datacenterdynamics.com/en/news/intel-secures-first-external-customer-for-18a-p-process-node/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 12:01:04 +0000",
+      "added_at": "2026-11-19T12:12:41.026051+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "18A系列(GAA+背面供电)首先服务PC/手机等终端芯片,背面供电改善能效,利好端侧AI芯片;外部客户仅一家,仍需观察量产",
+      "article_title": "Intel secures first external customer for 18A-P process node",
+      "article_url": "https://www.datacenterdynamics.com/en/news/intel-secures-first-external-customer-for-18a-p-process-node/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 12:01:04 +0000",
+      "added_at": "2026-11-19T12:12:41.285488+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "NexGen Cloud两个北欧区域上线即满、计划2027年在欧洲部署2万张GPU,欧洲主权算力需求跑在供给前面;但Firmus签约900MW仅上线约46MW,签约与上线容量差距是neocloud估值风险",
+      "article_title": "NexGen Cloud hires Nscale's Dan Thomas as chief infrastructure officer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nexgen-cloud-hires-nscales-dan-thomas-as-chief-infrastructure-officer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 12:01:03 +0000",
+      "added_at": "2026-11-19T12:12:41.802319+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "NexGen选址瑞典、芬兰,北欧便宜清洁电力与冷源仍是neocloud选址第一约束",
+      "article_title": "NexGen Cloud hires Nscale's Dan Thomas as chief infrastructure officer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nexgen-cloud-hires-nscales-dan-thomas-as-chief-infrastructure-officer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 12:01:03 +0000",
+      "added_at": "2026-11-19T12:12:42.046565+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Phononic获1亿美元债务融资扩产芯片级热电精准热控(面向光模块、HBM、GPU),散热从设施级细化到元器件级,利好光互联链条;客户部署说法来自公司及贷款方新闻稿,未经独立验证",
+      "article_title": "Phononic raises $100m debt facility to fund solid-state cooling system",
+      "article_url": "https://www.datacenterdynamics.com/en/news/phononic-raises-100m-debt-facility-to-fund-solid-state-cooling-system/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:30:40 +0000",
+      "added_at": "2026-11-19T12:12:42.998016+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "元器件级精准热控可减轻主冷却系统负荷、降低冷却能耗与用水,但热电方案能效有限,经济性待验证(利益相关方表述)",
+      "article_title": "Phononic raises $100m debt facility to fund solid-state cooling system",
+      "article_url": "https://www.datacenterdynamics.com/en/news/phononic-raises-100m-debt-facility-to-fund-solid-state-cooling-system/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:30:40 +0000",
+      "added_at": "2026-11-19T12:12:43.247131+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Tesla发布Powercore固态变压器(单次变换输出800VDC、最高7.4MW),绕开长达四年的传统变压器交付周期,并可配Megapack提供构网支撑,利好SST、SiC功率器件与储能;明年才投运,可靠性待验证",
+      "article_title": "Tesla unveils Powercore solid-state transformer platform aimed at data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/tesla-unveils-powercore-solid-state-transformer-platform-aimed-at-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:11:44 +0000",
+      "added_at": "2026-11-19T12:12:43.739255+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Powercore缩短中压到机柜的供电链路、正接受Nvidia DSX Ready认证,有望加快数据中心上线并推动800VDC机柜供电生态",
+      "article_title": "Tesla unveils Powercore solid-state transformer platform aimed at data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/tesla-unveils-powercore-solid-state-transformer-platform-aimed-at-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:11:44 +0000",
+      "added_at": "2026-11-19T12:12:43.980827+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Nvidia出售过半Nokia股份,AI-RAN(GPU下沉基站)的资本绑定变松,运营商侧商业化节奏可能慢于预期",
+      "article_title": "Nvidia sells more than half of Nokia stake",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-sells-more-than-half-of-nokia-stake/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:11:18 +0000",
+      "added_at": "2026-11-19T12:12:44.491567+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Nvidia增持SpaceX至约197亿美元,结合SpaceX定制Vera Rubin机柜做轨道数据中心,Nvidia用真金白银押注SpaceX成为大客户",
+      "article_title": "Nvidia sells more than half of Nokia stake",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-sells-more-than-half-of-nokia-stake/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:11:18 +0000",
+      "added_at": "2026-11-19T12:12:44.737710+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nvidia减持Nokia/Intel/Synopsys属组合调整(交易发生在7-9月,早于黄仁勋离职),算力层基本面未变,需关注后黄仁勋时代投资策略是否收缩",
+      "article_title": "Nvidia sells more than half of Nokia stake",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-sells-more-than-half-of-nokia-stake/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:11:18 +0000",
+      "added_at": "2026-11-19T12:12:44.983071+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nscale上线首套Vera Rubin NVL72(100%液冷、整柜工厂集成),Rubin进入多家云厂商量产部署,利好整柜集成商(Dell)、液冷CDU链条与Nvidia全栈芯片",
+      "article_title": "Nscale brings Nvidia Vera Rubin NVL72 rack online",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nscale-brings-nvidia-vera-rubin-nvl72-rack-online/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:07:00 +0000",
+      "added_at": "2026-11-19T12:12:45.470626+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "ChronoScale与STN合资建敖德萨园区,为前沿AI实验室签六年75亿美元合同(均价每MW 2,080万美元),客户亲自参与融资,说明算力需求强劲但资本是neocloud扩张瓶颈",
+      "article_title": "ChronoScale and STN form JV to develop data center campus in Odessa, Texas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-stn-form-jv-to-develop-data-center-campus-in-odessa-texas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:06:31 +0000",
+      "added_at": "2026-11-19T12:12:45.985957+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "敖德萨园区分三期部署模块化数据中心、规模达数百MW级,将拉动德州西部当地电力需求(推测)",
+      "article_title": "ChronoScale and STN form JV to develop data center campus in Odessa, Texas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-stn-form-jv-to-develop-data-center-campus-in-odessa-texas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 11:06:31 +0000",
+      "added_at": "2026-11-19T12:12:46.227661+00:00"
     }
   ]
 }
