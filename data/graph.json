@@ -1374,16 +1374,17 @@
       "name": "Oxford Quantum Circuits (OQC)",
       "type": "company",
       "sectors": [
-        "superconducting QPU"
+        "superconducting QPU",
+        "superconducting quantum hardware"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-16T15:11:57.690584+00:00"
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
     },
     "quera computing": {
       "name": "QuEra Computing",
@@ -1862,9 +1863,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 47,
+      "mentions": 48,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T23:11:04.752589+00:00"
+      "last_seen": "2026-11-19T00:11:09.118387+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -13029,6 +13030,172 @@
       "mentions": 1,
       "first_seen": "2026-11-18T23:11:05.265418+00:00",
       "last_seen": "2026-11-18T23:11:05.265418+00:00"
+    },
+    "mastercard": {
+      "name": "Mastercard",
+      "type": "company",
+      "sectors": [
+        "payments network"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "MA",
+      "mentions": 2,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:09.118387+00:00"
+    },
+    "bbva": {
+      "name": "BBVA",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+    },
+    "global data quantum": {
+      "name": "Global Data Quantum",
+      "type": "company",
+      "sectors": [
+        "quantum software"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+    },
+    "standard chartered": {
+      "name": "Standard Chartered",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+    },
+    "fujitsu": {
+      "name": "Fujitsu",
+      "type": "company",
+      "sectors": [
+        "IT services / quantum and quantum-inspired computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+    },
+    "qubitra": {
+      "name": "Qubitra Technologies",
+      "type": "company",
+      "sectors": [
+        "quantum and quantum-inspired finance solutions (JV)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+    },
+    "bmo": {
+      "name": "BMO",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+    },
+    "chicago quantum exchange": {
+      "name": "Chicago Quantum Exchange",
+      "type": "institution",
+      "sectors": [
+        "quantum research consortium"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+    },
+    "quantum industry canada": {
+      "name": "Quantum Industry Canada",
+      "type": "institution",
+      "sectors": [
+        "quantum industry association"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:07.421041+00:00",
+      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+    },
+    "visa": {
+      "name": "Visa",
+      "type": "company",
+      "sectors": [
+        "payments network"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "V",
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:09.118387+00:00",
+      "last_seen": "2026-11-19T00:11:09.118387+00:00"
+    },
+    "american express": {
+      "name": "American Express",
+      "type": "company",
+      "sectors": [
+        "payments network"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "AXP",
+      "mentions": 1,
+      "first_seen": "2026-11-19T00:11:09.118387+00:00",
+      "last_seen": "2026-11-19T00:11:09.118387+00:00"
     }
   },
   "edges": [
@@ -30383,6 +30550,156 @@
           "added_at": "2026-11-18T23:11:05.265418+00:00"
         }
       ]
+    },
+    {
+      "source": "mastercard",
+      "target": "oxford quantum circuits oqc",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Mastercard 与 OQC 合作研究用量子方法改进欺诈检测(据 Finance Quantum Index 客座文章)",
+          "article_title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+          "article_url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+          "added_at": "2026-11-19T00:11:07.421041+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bbva",
+      "target": "global data quantum",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "BBVA 与 Global Data Quantum 合作探索量子方法优化投资组合",
+          "article_title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+          "article_url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+          "added_at": "2026-11-19T00:11:07.421041+00:00"
+        }
+      ]
+    },
+    {
+      "source": "standard chartered",
+      "target": "qubitra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Standard Chartered 通过 SC Ventures 与 Fujitsu 合资成立 Qubitra,开发衍生品定价、交易和欺诈检测的量子/量子启发方案",
+          "article_title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+          "article_url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+          "added_at": "2026-11-19T00:11:07.421041+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fujitsu",
+      "target": "qubitra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Fujitsu 是 Qubitra Technologies 的合资方之一",
+          "article_title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+          "article_url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+          "added_at": "2026-11-19T00:11:07.421041+00:00"
+        }
+      ]
+    },
+    {
+      "source": "standard chartered",
+      "target": "fujitsu",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方合资成立 Qubitra Technologies",
+          "article_title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+          "article_url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+          "added_at": "2026-11-19T00:11:07.421041+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bmo",
+      "target": "chicago quantum exchange",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "BMO 与 Chicago Quantum Exchange 建立合作,支持研究、人才与治理",
+          "article_title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+          "article_url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+          "added_at": "2026-11-19T00:11:07.421041+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bmo",
+      "target": "quantum industry canada",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "BMO 与 Quantum Industry Canada 建立合作",
+          "article_title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+          "article_url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+          "added_at": "2026-11-19T00:11:07.421041+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "visa",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google 与 Visa 合作为 Gemini Task 模式的 Agent 购物接入支付令牌化",
+          "article_title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
+          "article_url": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:56:55 +0000",
+          "added_at": "2026-11-19T00:11:09.118387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "mastercard",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google 与 Mastercard 合作为 Gemini Task 模式的 Agent 购物接入支付令牌化",
+          "article_title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
+          "article_url": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:56:55 +0000",
+          "added_at": "2026-11-19T00:11:09.118387+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "american express",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google 与 American Express 合作为 Gemini Task 模式的 Agent 购物接入支付令牌化",
+          "article_title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
+          "article_url": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 18 Nov 2026 23:56:55 +0000",
+          "added_at": "2026-11-19T00:11:09.118387+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -35830,6 +36147,42 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 22:13:03 +0000",
       "added_at": "2026-11-18T23:11:05.516268+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "温和利好(厂商署名客座文章,指数为作者自家产品,未经独立验证):金融量子指数覆盖机构从 28 家增至 64 家,但中位数仅 26 分、仅 5 家超 60 分,投入高度集中于 JPMorgan 等头部;近期确定性最高的需求是后量子密码迁移(Mastercard 推出量子咨询业务),其次是 OQC 等硬件伙伴与 Fujitsu 量子启发方案",
+      "article_title": "Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance",
+      "article_url": "https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 18 Nov 2026 22:34:26 +0000",
+      "added_at": "2026-11-19T00:11:07.676011+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 攻防加速使补丁必须'一可用即上线',Nadella 称大量关键基础设施固件无法打补丁;利好 OT/IoT 安全隔离与实时检测层(峰会发言,Microsoft 为安全厂商且刚经历 Outlook 宕机,利益相关,无数据支撑)",
+      "article_title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "article_url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 23:45:00 +0000",
+      "added_at": "2026-11-19T00:11:08.155790+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Nadella 点名数据中心冷水机组与 HVAC 固件无法打补丁且联网,数据中心冷却/电力设备的网络安全可能成为能源与散热供应链新增的认证与成本项(方向性判断,暂无攻击事故证据)",
+      "article_title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "article_url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 18 Nov 2026 23:45:00 +0000",
+      "added_at": "2026-11-19T00:11:08.419273+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Google 将 Gemini Task 模式切换到低成本的 Gemini 4 Hydrogen、在专属隔离虚拟机中执行,并接入卡组织支付令牌化与 UCP,在六国免费开放;利好拥有入口、数据与自研 TPU 的平台方及 Visa/Mastercard/AmEx 令牌化通道,对向消费者收费的 Anthropic、OpenAI 类似功能形成价格压力",
+      "article_title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features",
+      "article_url": "https://siliconangle.com/2026/11/18/google-upgrades-geminis-agentic-task-mode-with-new-model-e-commerce-features/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 18 Nov 2026 23:56:55 +0000",
+      "added_at": "2026-11-19T00:11:09.364813+00:00"
     }
   ]
 }
