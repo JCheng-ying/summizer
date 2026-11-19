@@ -253,9 +253,9 @@
         "AI chips / corporate venture investing",
         "AI accelerators / Aerial RAN computer"
       ],
-      "mentions": 72,
+      "mentions": 73,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-19T03:10:41.523882+00:00",
+      "last_seen": "2026-11-19T09:09:56.056412+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -13230,6 +13230,37 @@
       "mentions": 1,
       "first_seen": "2026-11-19T03:10:41.523882+00:00",
       "last_seen": "2026-11-19T03:10:41.523882+00:00"
+    },
+    "shell": {
+      "name": "Shell",
+      "type": "company",
+      "sectors": [
+        "energy / data center liquid cooling fluids"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "SHEL",
+      "mentions": 1,
+      "first_seen": "2026-11-19T09:09:56.056412+00:00",
+      "last_seen": "2026-11-19T09:09:56.056412+00:00"
+    },
+    "open compute project": {
+      "name": "Open Compute Project",
+      "type": "institution",
+      "sectors": [
+        "data center hardware standards"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-19T09:09:56.056412+00:00",
+      "last_seen": "2026-11-19T09:09:56.056412+00:00"
     }
   },
   "edges": [
@@ -30809,6 +30840,36 @@
           "added_at": "2026-11-19T03:10:41.523882+00:00"
         }
       ]
+    },
+    {
+      "source": "shell",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Shell 的 DLC 冷却液据称通过 NVIDIA DSX Ready Coolant 计划的验证和认证(赞助文章,厂商自述)",
+          "article_title": "Sponsored: How liquid cooling can actually facilitate a data center revolution",
+          "article_url": "https://www.datacenterdynamics.com/en/marketwatch/how-liquid-cooling-can-actually-facilitate-a-data-center-revolution/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 09:00:00 +0000",
+          "added_at": "2026-11-19T09:09:56.056412+00:00"
+        }
+      ]
+    },
+    {
+      "source": "shell",
+      "target": "open compute project",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Shell 与 OCP 合作推动数据中心冷却液质量标准的统一(赞助文章,厂商自述)",
+          "article_title": "Sponsored: How liquid cooling can actually facilitate a data center revolution",
+          "article_url": "https://www.datacenterdynamics.com/en/marketwatch/how-liquid-cooling-can-actually-facilitate-a-data-center-revolution/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 19 Nov 2026 09:00:00 +0000",
+          "added_at": "2026-11-19T09:09:56.056412+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -36328,6 +36389,24 @@
       "source_name": "SiliconANGLE",
       "published": "Thu, 19 Nov 2026 02:10:58 +0000",
       "added_at": "2026-11-19T03:10:41.790690+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(Shell 赞助文章,利益相关)液冷瓶颈从换热能力转向高温长期运行可靠性,冷却液混溶性与材料兼容性影响 GPU 机柜可靠性,利好 AI 基础设施层的 CDU/系统集成商及获芯片厂认证的流体供应商;产品说法未经独立验证",
+      "article_title": "Sponsored: How liquid cooling can actually facilitate a data center revolution",
+      "article_url": "https://www.datacenterdynamics.com/en/marketwatch/how-liquid-cooling-can-actually-facilitate-a-data-center-revolution/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 09:00:00 +0000",
+      "added_at": "2026-11-19T09:09:56.297685+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "(Shell 赞助文章,利益相关)提高冷却回路温度与余热回收可降低冷水机组电耗,Shell 将电力、储能与液冷打包,能源公司正把数据中心当综合用能客户经营;未经独立验证",
+      "article_title": "Sponsored: How liquid cooling can actually facilitate a data center revolution",
+      "article_url": "https://www.datacenterdynamics.com/en/marketwatch/how-liquid-cooling-can-actually-facilitate-a-data-center-revolution/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 19 Nov 2026 09:00:00 +0000",
+      "added_at": "2026-11-19T09:09:56.541559+00:00"
     }
   ]
 }
