@@ -1863,9 +1863,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 48,
+      "mentions": 49,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T00:11:09.118387+00:00"
+      "last_seen": "2026-11-19T01:10:25.711874+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -3146,15 +3146,18 @@
     "noaa": {
       "name": "NOAA",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "weather and climate agency"
+      ],
       "sector_tags": [
-        "太空经济板块"
+        "太空经济板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:55:30.607098+00:00",
-      "last_seen": "2026-08-15T05:55:30.607098+00:00"
+      "last_seen": "2026-11-19T01:10:25.711874+00:00"
     },
     "atomic6": {
       "name": "Atomic-6",
@@ -30700,6 +30703,21 @@
           "added_at": "2026-11-19T00:11:09.118387+00:00"
         }
       ]
+    },
+    {
+      "source": "noaa",
+      "target": "alphabet",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "NOAA 的重耦合预报平台从本地迁移到 Google Cloud 运行;国家飓风中心曾用 Google WeatherNext 预测飓风 Melissa(Google Cloud 赞助访谈口径)",
+          "article_title": "Google Cloud brings AI agents to the supercomputing bottleneck",
+          "article_url": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 00:23:21 +0000",
+          "added_at": "2026-11-19T01:10:25.711874+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -36183,6 +36201,24 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 18 Nov 2026 23:56:55 +0000",
       "added_at": "2026-11-19T00:11:09.364813+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nadella 解释向 6 万员工提供自愿买断:不是 AI 替代岗位,而是把公司重组为'人管理 Agent'(11 人团队搭'软件工厂'做出 Cowork),并承认转型比预期更久;瓶颈在组织重构而非模型,利好 Agent 平台/模型调用、Agent 治理层与推理算力(CEO 峰会发言,Microsoft 为 Agent 卖方,利益相关,无买断人数与成本数据)",
+      "article_title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "article_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source_name": "TechCrunch - AI",
+      "published": "Thu, 19 Nov 2026 00:42:56 +0000",
+      "added_at": "2026-11-19T01:10:25.469404+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Google Cloud 在 SC26 提出以专用硬件+Slurm/Kubernetes 编排+协作 Agent 解决 HPC 算力分散与编排门槛,NOAA 预报平台已迁至 Google Cloud;利好兼具 TPU 与编排服务的超大规模云和调度软件层(Google Cloud 赞助的 theCUBE 访谈,利益相关,效果未经独立验证)",
+      "article_title": "Google Cloud brings AI agents to the supercomputing bottleneck",
+      "article_url": "https://siliconangle.com/2026/11/18/hpc-meets-ai-agents-google-cloud-targets-time-discovery-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 00:23:21 +0000",
+      "added_at": "2026-11-19T01:10:25.963991+00:00"
     }
   ]
 }
