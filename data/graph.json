@@ -1160,16 +1160,17 @@
       "type": "company",
       "sectors": [
         "quantum computing",
-        "quantum annealing / gate-model"
+        "quantum annealing / gate-model",
+        "quantum annealing"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "QBTS",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-18T13:11:52.489182+00:00"
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
     },
     "ibm": {
       "name": "IBM",
@@ -1181,7 +1182,8 @@
         "quantum / enterprise IT",
         "quantum computing / IT",
         "quantum / computing",
-        "IT / quantum"
+        "IT / quantum",
+        "quantum computing / hybrid quantum-classical"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1189,9 +1191,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 13,
+      "mentions": 15,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-19T17:12:43.371685+00:00"
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -2798,16 +2800,17 @@
       "name": "NIST",
       "type": "institution",
       "sectors": [
-        "standards agency"
+        "standards agency",
+        "standards / quantum research"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-09T05:41:43.641813+00:00",
-      "last_seen": "2026-11-13T18:10:29.340199+00:00"
+      "last_seen": "2026-11-20T10:10:31.250550+00:00"
     },
     "deepseek": {
       "name": "DeepSeek",
@@ -11684,16 +11687,17 @@
       "name": "Schneider Electric",
       "type": "company",
       "sectors": [
-        "electrical equipment / grid automation"
+        "electrical equipment / grid automation",
+        "energy management"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": null,
       "ticker": "SU.PA",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T18:11:18.047543+00:00",
-      "last_seen": "2026-11-17T18:11:18.047543+00:00"
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
     },
     "vals": {
       "name": "Vals",
@@ -14408,6 +14412,161 @@
       "mentions": 1,
       "first_seen": "2026-11-20T03:10:45.468166+00:00",
       "last_seen": "2026-11-20T03:10:45.468166+00:00"
+    },
+    "trinity college dublin": {
+      "name": "Trinity College Dublin",
+      "type": "institution",
+      "sectors": [
+        "university research"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.250550+00:00",
+      "last_seen": "2026-11-20T10:10:31.250550+00:00"
+    },
+    "basque quantum basq": {
+      "name": "Basque Quantum (BasQ)",
+      "type": "institution",
+      "sectors": [
+        "quantum research initiative"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.250550+00:00",
+      "last_seen": "2026-11-20T10:10:31.250550+00:00"
+    },
+    "ida ireland": {
+      "name": "IDA Ireland",
+      "type": "institution",
+      "sectors": [
+        "inward investment agency"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.250550+00:00",
+      "last_seen": "2026-11-20T10:10:31.250550+00:00"
+    },
+    "firgun ventures": {
+      "name": "Firgun Ventures",
+      "type": "company",
+      "sectors": [
+        "quantum venture capital"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.739098+00:00",
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+    },
+    "silicon quantum computing": {
+      "name": "Silicon Quantum Computing",
+      "type": "company",
+      "sectors": [
+        "silicon quantum computing hardware"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.739098+00:00",
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+    },
+    "allstate": {
+      "name": "Allstate",
+      "type": "company",
+      "sectors": [
+        "insurance"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "ALL",
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.739098+00:00",
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+    },
+    "vidacaixa": {
+      "name": "VidaCaixa",
+      "type": "company",
+      "sectors": [
+        "life insurance and pensions (CaixaBank)"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.739098+00:00",
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+    },
+    "telstra": {
+      "name": "Telstra",
+      "type": "company",
+      "sectors": [
+        "telecommunications"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.739098+00:00",
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+    },
+    "orca computing": {
+      "name": "ORCA Computing",
+      "type": "company",
+      "sectors": [
+        "photonic quantum computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.739098+00:00",
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+    },
+    "novo nordisk": {
+      "name": "Novo Nordisk",
+      "type": "company",
+      "sectors": [
+        "pharmaceuticals"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.739098+00:00",
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+    },
+    "quside": {
+      "name": "Quside",
+      "type": "company",
+      "sectors": [
+        "quantum random number generation"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T10:10:31.739098+00:00",
+      "last_seen": "2026-11-20T10:10:31.739098+00:00"
     }
   },
   "edges": [
@@ -33713,6 +33872,156 @@
           "added_at": "2026-11-20T03:10:45.468166+00:00"
         }
       ]
+    },
+    {
+      "source": "ibm",
+      "target": "trinity college dublin",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "IBM Research Ireland 2025年6月迁入 Trinity 校园,双方合作超25年,共同发表在 Heron 144 量子比特上研究 Heisenberg 自旋相互作用的 Nature Communications 论文",
+          "article_title": "Guest Post: Building the Conditions for a Quantum Breakthrough",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-building-the-conditions-for-a-quantum-breakthrough/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 09:09:29 +0000",
+          "added_at": "2026-11-20T10:10:31.250550+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "nist",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NIST 参与 IBM Research Ireland 主导的量子-张量网络混合模拟自旋系统论文",
+          "article_title": "Guest Post: Building the Conditions for a Quantum Breakthrough",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-building-the-conditions-for-a-quantum-breakthrough/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 09:09:29 +0000",
+          "added_at": "2026-11-20T10:10:31.250550+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "basque quantum basq",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "BasQ 参与该 Nature Communications 量子-经典混合计算论文",
+          "article_title": "Guest Post: Building the Conditions for a Quantum Breakthrough",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-building-the-conditions-for-a-quantum-breakthrough/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 09:09:29 +0000",
+          "added_at": "2026-11-20T10:10:31.250550+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ida ireland",
+      "target": "ibm",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "IDA Ireland 以190万欧元资助 IBM Research 在爱尔兰的博士前人才项目(2021年启动,已招20人)",
+          "article_title": "Guest Post: Building the Conditions for a Quantum Breakthrough",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-building-the-conditions-for-a-quantum-breakthrough/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 09:09:29 +0000",
+          "added_at": "2026-11-20T10:10:31.250550+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firgun ventures",
+      "target": "silicon quantum computing",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Silicon Quantum Computing 是 Firgun Ventures 的被投企业",
+          "article_title": "Guest Post: When Will Quantum Computing Become Useful for Insurance?",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 08:58:59 +0000",
+          "added_at": "2026-11-20T10:10:31.739098+00:00"
+        }
+      ]
+    },
+    {
+      "source": "allstate",
+      "target": "ibm",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "2026年5月 Allstate 与 IBM 在 Heron 处理器上用最多150量子比特做核保保单优化,与最强经典启发式持平、在强约束问题上略有领先",
+          "article_title": "Guest Post: When Will Quantum Computing Become Useful for Insurance?",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 08:58:59 +0000",
+          "added_at": "2026-11-20T10:10:31.739098+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vidacaixa",
+      "target": "dwave quantum",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "2022年 VidaCaixa 用 D-Wave 混合求解器把组合对冲计算从数小时缩短到数分钟,报告降幅最高90%",
+          "article_title": "Guest Post: When Will Quantum Computing Become Useful for Insurance?",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 08:58:59 +0000",
+          "added_at": "2026-11-20T10:10:31.739098+00:00"
+        }
+      ]
+    },
+    {
+      "source": "silicon quantum computing",
+      "target": "schneider electric",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SQC 的 Watermelon 系统在2026年10月将 Schneider Electric 次日能源预测平均提升20%(被投方报告,未经独立验证)",
+          "article_title": "Guest Post: When Will Quantum Computing Become Useful for Insurance?",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 08:58:59 +0000",
+          "added_at": "2026-11-20T10:10:31.739098+00:00"
+        }
+      ]
+    },
+    {
+      "source": "silicon quantum computing",
+      "target": "telstra",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SQC 以数天训练调参追平 Telstra 深度学习模型的准确率",
+          "article_title": "Guest Post: When Will Quantum Computing Become Useful for Insurance?",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 08:58:59 +0000",
+          "added_at": "2026-11-20T10:10:31.739098+00:00"
+        }
+      ]
+    },
+    {
+      "source": "orca computing",
+      "target": "novo nordisk",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "ORCA 光量子处理器强化与 Novo Nordisk 及丹麦技术大学合作开发的异常检测模型",
+          "article_title": "Guest Post: When Will Quantum Computing Become Useful for Insurance?",
+          "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 08:58:59 +0000",
+          "added_at": "2026-11-20T10:10:31.739098+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -39907,6 +40216,24 @@
       "source_name": "SiliconANGLE",
       "published": "Fri, 20 Nov 2026 01:37:24 +0000",
       "added_at": "2026-11-20T03:10:45.978823+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "IBM 厂商署名客座文:IBM Research Ireland 用 Heron 144 量子比特 + 张量网络在自旋模型上做到单靠经典不可靠的规模,强化混合量子-经典路线叙事,但属学术成果加招商宣传,无新订单证据(利益相关)",
+      "article_title": "Guest Post: Building the Conditions for a Quantum Breakthrough",
+      "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-building-the-conditions-for-a-quantum-breakthrough/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 20 Nov 2026 09:09:29 +0000",
+      "added_at": "2026-11-20T10:10:31.489953+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "风投 Firgun Ventures 客座文(利益相关):把保险业量子应用拆成五波,优化/混合QML已有 Allstate-IBM、VidaCaixa-D-Wave 等具名客户试验,逻辑比特资源估计从8000降到4700,温和偏正面但完整精算仍需容错机器",
+      "article_title": "Guest Post: When Will Quantum Computing Become Useful for Insurance?",
+      "article_url": "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 20 Nov 2026 08:58:59 +0000",
+      "added_at": "2026-11-20T10:10:31.989183+00:00"
     }
   ]
 }
