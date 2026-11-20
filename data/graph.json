@@ -255,9 +255,9 @@
         "GPU / accelerated computing",
         "AI chips / systems"
       ],
-      "mentions": 83,
+      "mentions": 85,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-20T01:11:33.292659+00:00",
+      "last_seen": "2026-11-20T11:11:37.975324+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -476,7 +476,8 @@
         "hyperscaler",
         "AI models / agents",
         "AI models / hyperscaler",
-        "social media & AI"
+        "social media & AI",
+        "hyperscaler / social media"
       ],
       "sector_tags": [
         "AI板块",
@@ -484,9 +485,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 15,
+      "mentions": 16,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T01:11:32.501298+00:00"
+      "last_seen": "2026-11-20T11:11:37.215462+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -1749,7 +1750,8 @@
       "sectors": [
         "mobile SoC / edge AI",
         "semiconductors / 5G",
-        "mobile / PC SoCs"
+        "mobile / PC SoCs",
+        "edge AI chips"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1757,9 +1759,9 @@
       ],
       "hot": "hot",
       "ticker": "QCOM",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-11T06:19:53.680951+00:00"
+      "last_seen": "2026-11-20T11:11:37.975324+00:00"
     },
     "apple": {
       "name": "Apple Inc.",
@@ -2114,28 +2116,32 @@
     "constellation energy": {
       "name": "Constellation Energy",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "nuclear power"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "CEG",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-20T11:11:37.215462+00:00"
     },
     "vistra": {
       "name": "Vistra Corp",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "power generation / nuclear"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "VST",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-20T11:11:37.215462+00:00"
     },
     "talen energy": {
       "name": "Talen Energy",
@@ -2266,15 +2272,17 @@
     "oklo": {
       "name": "Oklo Inc",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "advanced nuclear"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "OKLO",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-20T11:11:37.215462+00:00"
     },
     "nuscale power": {
       "name": "NuScale Power",
@@ -2318,15 +2326,17 @@
     "terrapower": {
       "name": "TerraPower",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "advanced nuclear"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-20T11:11:37.215462+00:00"
     },
     "coolit systems": {
       "name": "CoolIT Systems",
@@ -3317,16 +3327,17 @@
       "name": "Kepler Communications",
       "type": "company",
       "sectors": [
-        "space data relay"
+        "space data relay",
+        "optical data relay constellation"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-15T06:02:52.895690+00:00",
-      "last_seen": "2026-11-13T17:11:09.897564+00:00"
+      "last_seen": "2026-11-20T11:11:37.975324+00:00"
     },
     "photonic": {
       "name": "Photonic Inc.",
@@ -3651,7 +3662,8 @@
         "frontier AI models (Qwen series)",
         "Chinese cloud / e-commerce",
         "cloud / internet",
-        "cloud / AI chips (Zhenwu)"
+        "cloud / AI chips (Zhenwu)",
+        "cloud / e-commerce / AI chips"
       ],
       "sector_tags": [
         "AI板块",
@@ -3659,9 +3671,9 @@
       ],
       "hot": "hot",
       "ticker": "BABA",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-11-19T17:12:46.407367+00:00"
+      "last_seen": "2026-11-20T11:11:38.729940+00:00"
     },
     "moonshot ai": {
       "name": "Moonshot AI",
@@ -6669,14 +6681,15 @@
       "name": "KDDI",
       "type": "company",
       "sectors": [
-        "Japanese telecom"
+        "Japanese telecom",
+        "telecommunications"
       ],
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:47.255345+00:00",
-      "last_seen": "2026-11-10T05:12:47.255345+00:00"
+      "last_seen": "2026-11-20T11:11:37.975324+00:00"
     },
     "databricks": {
       "name": "Databricks",
@@ -11066,16 +11079,17 @@
       "type": "company",
       "sectors": [
         "HPC servers / system integration",
-        "servers / HPC"
+        "servers / HPC",
+        "servers"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "HPE",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T15:11:12.258072+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-20T11:11:36.246025+00:00"
     },
     "lux": {
       "name": "Lux",
@@ -13910,16 +13924,17 @@
       "name": "China Telecom",
       "type": "company",
       "sectors": [
-        "telecom operator / data centers / subsea cable landing"
+        "telecom operator / data centers / subsea cable landing",
+        "telecom / data centers"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T17:12:46.407367+00:00",
-      "last_seen": "2026-11-19T17:12:46.407367+00:00"
+      "last_seen": "2026-11-20T11:11:38.729940+00:00"
     },
     "guangdong tianyima information industry": {
       "name": "Guangdong Tianyima Information Industry",
@@ -14567,6 +14582,121 @@
       "mentions": 1,
       "first_seen": "2026-11-20T10:10:31.739098+00:00",
       "last_seen": "2026-11-20T10:10:31.739098+00:00"
+    },
+    "nexalus": {
+      "name": "Nexalus",
+      "type": "company",
+      "sectors": [
+        "data center liquid cooling (jet cooling)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T11:11:36.246025+00:00",
+      "last_seen": "2026-11-20T11:11:36.246025+00:00"
+    },
+    "renda": {
+      "name": "Renda",
+      "type": "company",
+      "sectors": [
+        "GPU server maker"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T11:11:36.246025+00:00",
+      "last_seen": "2026-11-20T11:11:36.246025+00:00"
+    },
+    "entergy": {
+      "name": "Entergy",
+      "type": "company",
+      "sectors": [
+        "electric utility"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "ETR",
+      "mentions": 1,
+      "first_seen": "2026-11-20T11:11:37.215462+00:00",
+      "last_seen": "2026-11-20T11:11:37.215462+00:00"
+    },
+    "sophia space": {
+      "name": "Sophia Space",
+      "type": "company",
+      "sectors": [
+        "orbital data center / orbital OS"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T11:11:37.975324+00:00",
+      "last_seen": "2026-11-20T11:11:37.975324+00:00"
+    },
+    "alpha funds": {
+      "name": "Alpha Funds",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T11:11:37.975324+00:00",
+      "last_seen": "2026-11-20T11:11:37.975324+00:00"
+    },
+    "unlock venture partners": {
+      "name": "Unlock Venture Partners",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T11:11:37.975324+00:00",
+      "last_seen": "2026-11-20T11:11:37.975324+00:00"
+    },
+    "sli": {
+      "name": "SLI",
+      "type": "company",
+      "sectors": [
+        "asset financing"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T11:11:37.975324+00:00",
+      "last_seen": "2026-11-20T11:11:37.975324+00:00"
+    },
+    "thead": {
+      "name": "T-Head",
+      "type": "company",
+      "sectors": [
+        "AI chip design (Alibaba)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T11:11:38.729940+00:00",
+      "last_seen": "2026-11-20T11:11:38.729940+00:00"
     }
   },
   "edges": [
@@ -17496,6 +17626,14 @@
           "source_name": "Oklo Inc.",
           "published": "2026-01-09",
           "added_at": "2026-08-06T04:59:53.197516+00:00"
+        },
+        {
+          "description": "7.7GW 核电协议的一方,预计2035年前上线",
+          "article_title": "Meta to reevaluate net-zero timeline on the back of record emissions",
+          "article_url": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:44:04 +0000",
+          "added_at": "2026-11-20T11:11:37.215462+00:00"
         }
       ]
     },
@@ -33270,6 +33408,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Thu, 19 Nov 2026 16:07:30 +0000",
           "added_at": "2026-11-19T17:12:46.407367+00:00"
+        },
+        {
+          "description": "大湾区由中国电信持有运营的1万卡 Zhenwu 芯片集群启动,计划扩至10万卡",
+          "article_title": "Alibaba Cloud launches sixth data center in Malaysia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-launches-sixth-data-center-in-malaysia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:39:00 +0000",
+          "added_at": "2026-11-20T11:11:38.729940+00:00"
         }
       ]
     },
@@ -34020,6 +34166,231 @@
           "source_name": "The Quantum Insider",
           "published": "Fri, 20 Nov 2026 08:58:59 +0000",
           "added_at": "2026-11-20T10:10:31.739098+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nexalus",
+      "target": "renda",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "联合推出 Renda Nova8:4U 单机八颗 Blackwell、内置射流液冷,可直接替换进风冷机房(厂商称能效+22%,未经独立验证)",
+          "article_title": "Nexalus and Renda launch liquid-cooled AI server for data center retrofit market",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:54:16 +0000",
+          "added_at": "2026-11-20T11:11:36.246025+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "renda",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Renda Nova8 搭载八颗 Nvidia Blackwell GPU",
+          "article_title": "Nexalus and Renda launch liquid-cooled AI server for data center retrofit market",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:54:16 +0000",
+          "added_at": "2026-11-20T11:11:36.246025+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nexalus",
+      "target": "hewlett packard enterprise",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "HPE 在其系统中使用 Nexalus 的液冷技术",
+          "article_title": "Nexalus and Renda launch liquid-cooled AI server for data center retrofit market",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:54:16 +0000",
+          "added_at": "2026-11-20T11:11:36.246025+00:00"
+        }
+      ]
+    },
+    {
+      "source": "entergy",
+      "target": "meta platforms",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Meta 出资由 Entergy 建设十座天然气电厂,为路易斯安那最高5GW的 Hyperion 数据中心供电",
+          "article_title": "Meta to reevaluate net-zero timeline on the back of record emissions",
+          "article_url": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:44:04 +0000",
+          "added_at": "2026-11-20T11:11:37.215462+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vistra",
+      "target": "meta platforms",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Meta 去年与 Vistra、TerraPower、Oklo、Constellation 签署合计7.7GW核电协议,预计2035年前上线",
+          "article_title": "Meta to reevaluate net-zero timeline on the back of record emissions",
+          "article_url": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:44:04 +0000",
+          "added_at": "2026-11-20T11:11:37.215462+00:00"
+        }
+      ]
+    },
+    {
+      "source": "terrapower",
+      "target": "meta platforms",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "7.7GW 核电协议的一方,预计2035年前上线",
+          "article_title": "Meta to reevaluate net-zero timeline on the back of record emissions",
+          "article_url": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:44:04 +0000",
+          "added_at": "2026-11-20T11:11:37.215462+00:00"
+        }
+      ]
+    },
+    {
+      "source": "constellation energy",
+      "target": "meta platforms",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "7.7GW 核电协议的一方,预计2035年前上线",
+          "article_title": "Meta to reevaluate net-zero timeline on the back of record emissions",
+          "article_url": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:44:04 +0000",
+          "added_at": "2026-11-20T11:11:37.215462+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sophia space",
+      "target": "kepler communications",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Sophia 的轨道操作系统 SOOS 首次在轨部署,运行于 Kepler 光学中继星座 tranche 1 多颗卫星的在轨算力上",
+          "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+          "added_at": "2026-11-20T11:11:37.975324+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alpha funds",
+      "target": "sophia space",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Sophia Space 2026年2月1000万美元 pre-seed",
+          "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+          "added_at": "2026-11-20T11:11:37.975324+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kddi",
+      "target": "sophia space",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "KDDI Green Partners Fund 领投 Sophia Space 1000万美元 pre-seed",
+          "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+          "added_at": "2026-11-20T11:11:37.975324+00:00"
+        }
+      ]
+    },
+    {
+      "source": "unlock venture partners",
+      "target": "sophia space",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 Sophia Space 1000万美元 pre-seed",
+          "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+          "added_at": "2026-11-20T11:11:37.975324+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sli",
+      "target": "sophia space",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "与 Sophia Space 签订最高3亿美元资产融资协议",
+          "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+          "added_at": "2026-11-20T11:11:37.975324+00:00"
+        }
+      ]
+    },
+    {
+      "source": "qualcomm incorporated",
+      "target": "sophia space",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Sophia TILE Edge 服务器可配置 Snapdragon 865 与 Cloud 100(公司此前声明)",
+          "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+          "added_at": "2026-11-20T11:11:37.975324+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "sophia space",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Sophia TILE Edge 服务器可配置 Nvidia Jetson 与 Blackwell(公司此前声明)",
+          "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+          "added_at": "2026-11-20T11:11:37.975324+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thead",
+      "target": "alibaba",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "阿里巴巴芯片部门,预计明年量产 V900,公司称性能为 M890 的三倍",
+          "article_title": "Alibaba Cloud launches sixth data center in Malaysia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-launches-sixth-data-center-in-malaysia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 10:39:00 +0000",
+          "added_at": "2026-11-20T11:11:38.729940+00:00"
         }
       ]
     }
@@ -40234,6 +40605,60 @@
       "source_name": "The Quantum Insider",
       "published": "Fri, 20 Nov 2026 08:58:59 +0000",
       "added_at": "2026-11-20T10:10:31.989183+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nexalus/Renda 推出可直接替换进风冷机房的4U八卡 Blackwell 机箱内液冷服务器,让存量机房不改管道也能跑高密度GPU,利好GPU与整机/散热供应链(厂商声明,能效数据未经独立验证)",
+      "article_title": "Nexalus and Renda launch liquid-cooled AI server for data center retrofit market",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nexalus-and-renda-launch-liquid-cooled-ai-server-for-data-center-retrofit-market/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 10:54:16 +0000",
+      "added_at": "2026-11-20T11:11:36.498104+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Meta 净碳足迹上升45%并重新评估2030净零目标,原因是并网和输电滞后,只能依赖燃气(Entergy 为 Hyperion 建十座燃气电厂)并签7.7GW核电,利好燃气发电、核电、电网设备",
+      "article_title": "Meta to reevaluate net-zero timeline on the back of record emissions",
+      "article_url": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 10:44:04 +0000",
+      "added_at": "2026-11-20T11:11:37.481291+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Meta 公开承认 AI 扩张速度超过电网和减碳承诺,扩张开始付出更高的社会与合规成本,对超大规模厂商是温和利空信号(需求本身未减弱)",
+      "article_title": "Meta to reevaluate net-zero timeline on the back of record emissions",
+      "article_url": "https://www.datacenterdynamics.com/en/news/meta-to-reevaluate-net-zero-timeline-on-the-back-of-record-emissions/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 10:44:04 +0000",
+      "added_at": "2026-11-20T11:11:37.728646+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Sophia Space 首次把轨道操作系统部署到 Kepler 光学中继星座上运行,轨道算力从可行性讨论走向在轨验证,利好已在轨星座运营商,但融资仅两千多万美元、自研硬件尚未入轨",
+      "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+      "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+      "added_at": "2026-11-20T11:11:38.228032+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Sophia 的 TILE 模块采用 Qualcomm Snapdragon/Cloud 100 或 Nvidia Jetson 等低功耗边缘芯片并被动散热,轨道约束下边缘级 AI 芯片比数据中心 GPU 更适配",
+      "article_title": "Sophia Space launches orbital computing software across Kepler satellite constellation",
+      "article_url": "https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 10:42:01 +0000",
+      "added_at": "2026-11-20T11:11:38.476002+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "阿里 AI 云收入同比+53%,平头哥 V900 明年量产、国产算力将成云增长主引擎,并在马来西亚扩张;同期依赖进口GPU的东南亚项目因出口管制受阻,利好中国国产算力链,利空依赖 Nvidia 的第三方开发商",
+      "article_title": "Alibaba Cloud launches sixth data center in Malaysia",
+      "article_url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-launches-sixth-data-center-in-malaysia/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 10:39:00 +0000",
+      "added_at": "2026-11-20T11:11:38.973507+00:00"
     }
   ]
 }

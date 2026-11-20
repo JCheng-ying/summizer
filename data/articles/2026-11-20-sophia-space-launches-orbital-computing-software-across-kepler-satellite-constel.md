@@ -1,0 +1,12 @@
+# Sophia Space launches orbital computing software across Kepler satellite constellation
+https://www.datacenterdynamics.com/en/news/sophia-space-launches-orbital-computing-software-across-kepler-satellite-constellation/
+
+这篇文章的意义在于,轨道数据中心的讨论正在从"能不能做"转向"先在谁的卫星上跑起来"。在自己的计算硬件上天之前,先把操作系统部署到别人的卫星星座上,是一条典型的"软件先行、硬件后补"的路径,也说明太空算力的第一批落地形态可能不是巨型轨道机房,而是分布在既有星座里的小型计算节点。
+
+文章指出,轨道数据中心开发商 Sophia Space 宣布首次在太空部署其 Sophia Orbital Operating System(SOOS),运行在 Kepler 光学数据中继星座第一批(tranche 1)多颗卫星的在轨算力上。融资方面,Sophia 今年 2 月完成 1000 万美元 pre-seed,由 Alpha Funds、KDDI Green Partners Fund 和 Unlock Venture Partners 领投,5 月又追加 350 万美元;CEO Rob DeMillo 称本轮已超额认购,累计融资超过 2200 万美元,另有与 SLI 最高 3 亿美元的资产融资协议。DeMillo 把这次部署称为从架构设计和地面测试走向在轨运行的里程碑,下一步是扩展 SOOS 能力、演示更复杂的分布式负载,并在自研 TILE 计算硬件入轨后整合进来。文章提到,TILE 是固态计算模块,用专利技术被动散热,此前公司称可以配置 Qualcomm Snapdragon 865 和 Cloud 100,或 Nvidia Jetson 和 Blackwell,每个模块配独立太阳能板;公司此前也对 Nvidia 专为在轨运行设计的 Space-1 Vera Rubin 模块表达过兴趣,但这次声明没有提到 Nvidia。
+
+技术上最值得注意的是 DeMillo 自己点出的那个"讽刺":太空是真空,散热反而是最大的工程难题,关键是把热量从处理器高效导到能向太空辐射的表面,而不依赖复杂的主动冷却。这和之前写 SpaceX 太空数据中心时的判断完全一致——太空里唯一的散热方式是热辐射,真正限制规模的可能是散热板面积而不是 GPU。另一个判断是关于下行链路:Sophia 不打算自建网络,而是和通信商合作,DeMillo 的说法是,突破不只是把数据更快传回地球,而是"一开始就不必把全部数据传回去"。应用场景上公司列了导弹预警、空间域和海事态势感知、灾害响应、大气监测、气象情报、在轨制造等,并以 SOOS 的三重冗余作为支撑。
+
+把它放进最近几篇里看,轨道算力已经出现了一条清晰的分工:[SpaceX 的 Kessel 定制 Vera Rubin 机架](2026-11-12-spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-da.md) 走的是自有星座 + 大型机架路线;[Owlo Cloud](2026-11-13-owlo-cloud-emerges-from-stealth-promising-european-scalable-orbital-compute-ai.md) 和 [NeuralSat](2026-11-13-neuralsat-raises-3-2m-to-bring-high-speed-data-connectivity-and-compute-to-space.md) 是初创公司从连接和算力切入;[Flexell Space 与 Alatyr 的 MOU](2026-11-18-flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-d.md) 解决供电;而 Sophia 这篇则说明,Kepler 这类中继星座正在成为别人的"在轨机房",NeuralSat 那篇里提到的 Kepler 光学中继网络,在这里第一次以算力宿主的身份出现。
+
+个人看法:先找瓶颈——轨道算力目前卡在三件事上:第一是散热,第二是供电,第三是下行带宽。Sophia 的被动散热 + 每模块独立太阳能板 + 在轨处理减少下行,恰好是对三个瓶颈各给一个答案,但都还停留在公司声明层面,TILE 硬件本身还没有入轨,所以目前被验证的只是"软件能在别人的卫星上跑"。受益的层次会是:第一层是已经在轨、有冗余算力和光学链路的星座运营商,Kepler Communications 这类公司可以把"中继"升级成"中继 + 算力"的收费模式;第二层是边缘级、低功耗、可被动散热的芯片,Qualcomm 的 Snapdragon / Cloud 100 和 Nvidia Jetson 这一档比数据中心 GPU 更适合当前的轨道约束,这也说明 **edge AI板块**和 **太空经济板块**在轨道上是同一件事;第三层是发射和卫星制造,任何形态的轨道算力最后都要上天。第一批客户仍然是国防和政府(导弹预警、态势感知),这和之前 SpaceX 太空数据中心那篇的判断一致。现在融资规模只有两千多万美元,3 亿美元也只是资产融资额度,还在非常早期,只能观望;值得关注的是 TILE 硬件的首次入轨时间,以及 Sophia 有没有拿到具名的国防或遥感客户合同。
