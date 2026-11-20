@@ -14735,6 +14735,36 @@
       "mentions": 1,
       "first_seen": "2026-11-20T12:10:36.462064+00:00",
       "last_seen": "2026-11-20T12:10:36.462064+00:00"
+    },
+    "kt": {
+      "name": "KT Corporation",
+      "type": "company",
+      "sectors": [
+        "telecom / quantum communications"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T13:10:36.877954+00:00",
+      "last_seen": "2026-11-20T13:10:36.877954+00:00"
+    },
+    "lg electronics": {
+      "name": "LG Electronics",
+      "type": "company",
+      "sectors": [
+        "consumer electronics / quantum R&D"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T13:10:36.877954+00:00",
+      "last_seen": "2026-11-20T13:10:36.877954+00:00"
     }
   },
   "edges": [
@@ -34582,6 +34612,21 @@
           "added_at": "2026-11-20T12:10:36.462064+00:00"
         }
       ]
+    },
+    {
+      "source": "kt",
+      "target": "lg electronics",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "联合开发量子安全直接通信(QSDC)系统,演示传送并重建1,024比特图像和文本数据;KT 负责收发设备与流程,LG 负责安全验证与元器件小型化,共提交13项专利",
+          "article_title": "KT and LG Electronics Demonstrate Quantum Secure Direct Communication",
+          "article_url": "https://thequantuminsider.com/2026/11/20/kt-lg-electronics-quantum-secure-direct-communication/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 11:27:32 +0000",
+          "added_at": "2026-11-20T13:10:36.877954+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -40902,6 +40947,42 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 20 Nov 2026 11:34:53 +0000",
       "added_at": "2026-11-20T12:10:36.952839+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "KT 与 LG Electronics 完成 QSDC(信息直接编码为量子态传输)实验室演示,量子通信从密钥分发向直接通信延伸,并指向基于 QPU 的分布式量子计算;但仅1,024比特、尚未光纤实网验证,属远期温和正面",
+      "article_title": "KT and LG Electronics Demonstrate Quantum Secure Direct Communication",
+      "article_url": "https://thequantuminsider.com/2026/11/20/kt-lg-electronics-quantum-secure-direct-communication/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 20 Nov 2026 11:27:32 +0000",
+      "added_at": "2026-11-20T13:10:37.123913+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "PJM 向 FERC 提交合并发电/输电/大负载研究的方案,并网时间从两年缩至12个月,数据中心(50MW+ 大型计算负载)承担其引起的输电升级成本并须具备扰动穿越能力,利好输变电设备、UPS/储能等电源系统供应商",
+      "article_title": "PJM plan could cut data center and power plant grid connection times to 12 months",
+      "article_url": "https://www.datacenterdynamics.com/en/news/pjm-plan-could-cut-data-center-and-power-plant-grid-connection-times-to-12-months/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 12:47:18 +0000",
+      "added_at": "2026-11-20T13:10:37.879164+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "PJM 方案缩短数据中心并网时间、缓解算力上线延迟,但由数据中心承担电网升级成本会抬高单位算力建设成本;待 FERC 120天内裁决",
+      "article_title": "PJM plan could cut data center and power plant grid connection times to 12 months",
+      "article_url": "https://www.datacenterdynamics.com/en/news/pjm-plan-could-cut-data-center-and-power-plant-grid-connection-times-to-12-months/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 12:47:18 +0000",
+      "added_at": "2026-11-20T13:10:38.146451+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "加州总检察长就对华出口与误导投资者向 Nvidia 发出传票,叠加12月1-2日国会访谈,调查从出口管制扩展到证券法层面,构成 Nvidia 治理折价与对华渠道收缩的利空情绪信号,但不改变算力基础设施需求逻辑",
+      "article_title": "California AG issues Nvidia with subpoena as part of probe into Chinese chip exports",
+      "article_url": "https://www.datacenterdynamics.com/en/news/california-ag-issues-nvidia-with-subpoena-as-part-of-probe-into-chinese-chip-exports/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 12:39:26 +0000",
+      "added_at": "2026-11-20T13:10:39.082425+00:00"
     }
   ]
 }
