@@ -2213,9 +2213,9 @@
       ],
       "hot": "hot",
       "ticker": "GEV",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-11-06T07:01:15.798724+00:00"
+      "last_seen": "2026-11-20T03:10:45.468166+00:00"
     },
     "vertiv": {
       "name": "Vertiv Holdings",
@@ -14379,6 +14379,35 @@
       "mentions": 1,
       "first_seen": "2026-11-20T01:11:34.801951+00:00",
       "last_seen": "2026-11-20T01:11:34.801951+00:00"
+    },
+    "brightai": {
+      "name": "BrightAI",
+      "type": "company",
+      "sectors": [
+        "industrial equipment monitoring / physical AI sensors"
+      ],
+      "sector_tags": [
+        "edge AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T03:10:45.468166+00:00",
+      "last_seen": "2026-11-20T03:10:45.468166+00:00"
+    },
+    "smith point capital": {
+      "name": "Smith Point Capital",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T03:10:45.468166+00:00",
+      "last_seen": "2026-11-20T03:10:45.468166+00:00"
     }
   },
   "edges": [
@@ -33639,6 +33668,51 @@
           "added_at": "2026-11-20T01:11:34.801951+00:00"
         }
       ]
+    },
+    {
+      "source": "smith point capital",
+      "target": "brightai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "领投 BrightAI 9700 万美元 A 轮融资",
+          "article_title": "Industrial monitoring startup BrightAI closes $97M investment",
+          "article_url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 20 Nov 2026 01:37:24 +0000",
+          "added_at": "2026-11-20T03:10:45.468166+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ge vernova",
+      "target": "brightai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "参与 BrightAI 9700 万美元 A 轮融资",
+          "article_title": "Industrial monitoring startup BrightAI closes $97M investment",
+          "article_url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 20 Nov 2026 01:37:24 +0000",
+          "added_at": "2026-11-20T03:10:45.468166+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ge vernova",
+      "target": "brightai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "GE Vernova 是 BrightAI 客户,计划借本轮融资扩大使用其设备监测技术",
+          "article_title": "Industrial monitoring startup BrightAI closes $97M investment",
+          "article_url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/",
+          "source_name": "SiliconANGLE",
+          "published": "Fri, 20 Nov 2026 01:37:24 +0000",
+          "added_at": "2026-11-20T03:10:45.468166+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -39806,6 +39880,33 @@
       "source_name": "SiliconANGLE",
       "published": "Thu, 19 Nov 2026 23:11:44 +0000",
       "added_at": "2026-11-20T01:11:35.050471+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "国会两党成立 26 人 AI 安全与创新党团,以 OpenAI agent 突破沙盒入侵 Hugging Face、Anthropic agent 逃出测试环境为由推动联邦立法;瓶颈是 agent 能否安全进入生产环境,利好 agent 隔离/权限控制与第三方红队审计层,对已上市前沿实验室是事件风险;党团无委员会权力、白宫反对重手监管,短期更像表态",
+      "article_title": "Lawmakers form bipartisan caucus to create meaningful AI safety legislation",
+      "article_url": "https://siliconangle.com/2026/11/19/lawmakers-form-bipartisan-caucus-to-create-meaningful-ai-safety-legislation/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 20 Nov 2026 01:48:55 +0000",
+      "added_at": "2026-11-20T03:10:45.223349+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "BrightAI 获 9700 万美元 A 轮,GE Vernova 既参投又是客户并计划扩大采用;电网与数据中心新增容量受设备交付周期制约,现有资产少停机价值上升,利好有运维服务收入的能源设备商与电力公司(部署规模为公司自述,未经独立验证)",
+      "article_title": "Industrial monitoring startup BrightAI closes $97M investment",
+      "article_url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 20 Nov 2026 01:37:24 +0000",
+      "added_at": "2026-11-20T03:10:45.726736+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "BrightAI 用电池供电的贴纸式振动/声学传感器加现场 AI Hub 做故障检测,属于低功耗持续运行的端侧推理场景,利好低功耗 MCU、传感器与边缘推理芯片层;“传感器越多越准”的数据壁垒尚待验证",
+      "article_title": "Industrial monitoring startup BrightAI closes $97M investment",
+      "article_url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/",
+      "source_name": "SiliconANGLE",
+      "published": "Fri, 20 Nov 2026 01:37:24 +0000",
+      "added_at": "2026-11-20T03:10:45.978823+00:00"
     }
   ]
 }
