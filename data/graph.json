@@ -741,9 +741,9 @@
       ],
       "hot": "cold",
       "ticker": "NBIS",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T14:11:29.785687+00:00"
+      "last_seen": "2026-11-20T14:10:00.542805+00:00"
     },
     "langchain": {
       "name": "LangChain",
@@ -14765,6 +14765,22 @@
       "mentions": 1,
       "first_seen": "2026-11-20T13:10:36.877954+00:00",
       "last_seen": "2026-11-20T13:10:36.877954+00:00"
+    },
+    "mega or": {
+      "name": "Mega Or",
+      "type": "company",
+      "sectors": [
+        "Israeli real estate & AI data center developer (Mega DC)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T14:10:00.542805+00:00",
+      "last_seen": "2026-11-20T14:10:00.542805+00:00"
     }
   },
   "edges": [
@@ -34627,6 +34643,21 @@
           "added_at": "2026-11-20T13:10:36.877954+00:00"
         }
       ]
+    },
+    {
+      "source": "nebius",
+      "target": "mega or",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Nebius 与 Mega Or 签署第三份容量协议,在 Beit Shemesh 与 Masmiya 两座数据中心再租 134MW,七年期另有五年续约选择权,预计为 Mega Or 带来 5.5 亿新谢克尔净营业收入",
+          "article_title": "Nebius expands Israel data center lease with Mega Or by 134MW",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nebius-expands-israel-data-center-lease-with-mega-or-by-134mw/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 13:07:03 +0000",
+          "added_at": "2026-11-20T14:10:00.542805+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -40983,6 +41014,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 20 Nov 2026 12:39:26 +0000",
       "added_at": "2026-11-20T13:10:39.082425+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nebius 在以色列向 Mega Or 追加租用 134MW(累计约 222MW),叠加三季度营收同比增长 571%、新合同预付款覆盖全部资本开支,说明 neocloud 需求仍在扩张,但锁定的是 2028 年二季度才交付的远期容量",
+      "article_title": "Nebius expands Israel data center lease with Mega Or by 134MW",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nebius-expands-israel-data-center-lease-with-mega-or-by-134mw/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 13:07:03 +0000",
+      "added_at": "2026-11-20T14:10:00.785222+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Nebius 与 Mega Or 的租约以兆瓦计价,稀缺的是已规划电力接入的机房容量;以色列 Mega DC 规划 1.5GW,具备并网与供电能力的开发商成为 neocloud 扩张的上游瓶颈",
+      "article_title": "Nebius expands Israel data center lease with Mega Or by 134MW",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nebius-expands-israel-data-center-lease-with-mega-or-by-134mw/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 13:07:03 +0000",
+      "added_at": "2026-11-20T14:10:01.028856+00:00"
     }
   ]
 }
