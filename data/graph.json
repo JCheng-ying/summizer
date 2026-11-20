@@ -255,9 +255,9 @@
         "GPU / accelerated computing",
         "AI chips / systems"
       ],
-      "mentions": 82,
+      "mentions": 83,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-19T20:11:33.025622+00:00",
+      "last_seen": "2026-11-20T01:11:33.292659+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -399,7 +399,8 @@
         "hyperscaler",
         "enterprise software / cloud / AI agents",
         "cloud",
-        "cloud, enterprise software & AI platforms"
+        "cloud, enterprise software & AI platforms",
+        "cloud & AI"
       ],
       "sector_tags": [
         "AI板块",
@@ -407,9 +408,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 26,
+      "mentions": 27,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T23:10:58.511586+00:00"
+      "last_seen": "2026-11-20T01:11:33.292659+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -427,9 +428,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 39,
+      "mentions": 40,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T20:11:31.521156+00:00"
+      "last_seen": "2026-11-20T01:11:32.501298+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -448,7 +449,8 @@
         "cloud (AWS)",
         "cloud / hyperscaler",
         "hyperscaler",
-        "cloud / Amazon Braket"
+        "cloud / Amazon Braket",
+        "cloud & e-commerce"
       ],
       "sector_tags": [
         "AI板块",
@@ -459,9 +461,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 30,
+      "mentions": 31,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T17:12:48.844544+00:00"
+      "last_seen": "2026-11-20T01:11:33.292659+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -473,7 +475,8 @@
         "AI / social",
         "hyperscaler",
         "AI models / agents",
-        "AI models / hyperscaler"
+        "AI models / hyperscaler",
+        "social media & AI"
       ],
       "sector_tags": [
         "AI板块",
@@ -481,9 +484,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 14,
+      "mentions": 15,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T20:11:31.521156+00:00"
+      "last_seen": "2026-11-20T01:11:32.501298+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -499,9 +502,9 @@
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 51,
+      "mentions": 53,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T19:10:06.322789+00:00"
+      "last_seen": "2026-11-20T01:11:33.292659+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -512,16 +515,17 @@
         "networking / custom ASIC",
         "custom ASIC / networking silicon",
         "networking silicon",
-        "networking / custom silicon"
+        "networking / custom silicon",
+        "networking & custom AI chips"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00"
+      "last_seen": "2026-11-20T01:11:33.292659+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
@@ -566,9 +570,9 @@
       ],
       "hot": "hot",
       "ticker": "TSM",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00"
+      "last_seen": "2026-11-20T01:11:33.292659+00:00"
     },
     "coreweave": {
       "name": "CoreWeave",
@@ -1761,7 +1765,8 @@
       "sectors": [
         "consumer electronics",
         "consumer devices / health platform",
-        "consumer hardware / silicon"
+        "consumer hardware / silicon",
+        "consumer devices & operating systems"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1769,9 +1774,9 @@
       ],
       "hot": "hot",
       "ticker": "AAPL",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-16T11:12:04.379452+00:00"
+      "last_seen": "2026-11-20T01:11:32.501298+00:00"
     },
     "arm plc": {
       "name": "Arm Holdings plc",
@@ -1815,9 +1820,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 29,
+      "mentions": 30,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T17:12:48.844544+00:00"
+      "last_seen": "2026-11-20T01:11:33.292659+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1872,7 +1877,8 @@
         "cloud / search",
         "frontier AI models / cloud",
         "cloud",
-        "AI models / agents / cloud"
+        "AI models / agents / cloud",
+        "cloud & AI"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1884,9 +1890,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 53,
+      "mentions": 54,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T19:10:06.322789+00:00"
+      "last_seen": "2026-11-20T01:11:33.292659+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -1927,9 +1933,9 @@
       ],
       "hot": "hot",
       "ticker": "MU",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-19T15:10:42.799109+00:00"
+      "last_seen": "2026-11-20T01:11:33.292659+00:00"
     },
     "ambarella": {
       "name": "Ambarella, Inc.",
@@ -6688,16 +6694,17 @@
       "name": "Snowflake",
       "type": "company",
       "sectors": [
-        "data cloud"
+        "data cloud",
+        "cloud data platform"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": "SNOW",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-10T05:12:47.511744+00:00",
-      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+      "last_seen": "2026-11-20T01:11:34.801951+00:00"
     },
     "nominal": {
       "name": "Nominal",
@@ -7577,9 +7584,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T06:17:13.844681+00:00",
-      "last_seen": "2026-11-13T06:17:13.844681+00:00"
+      "last_seen": "2026-11-20T01:11:34.801951+00:00"
     },
     "applied materials": {
       "name": "Applied Materials",
@@ -8702,16 +8709,17 @@
       "type": "company",
       "sectors": [
         "enterprise software",
-        "CRM / enterprise AI agents"
+        "CRM / enterprise AI agents",
+        "CRM software"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "CRM",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-13T21:09:37.045387+00:00",
-      "last_seen": "2026-11-18T06:09:54.956706+00:00"
+      "last_seen": "2026-11-20T01:11:34.801951+00:00"
     },
     "mirendil": {
       "name": "Mirendil",
@@ -14283,6 +14291,94 @@
       "mentions": 1,
       "first_seen": "2026-11-19T23:10:59.023075+00:00",
       "last_seen": "2026-11-19T23:10:59.023075+00:00"
+    },
+    "elastic": {
+      "name": "Elastic",
+      "type": "company",
+      "sectors": [
+        "enterprise search, observability & security software"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "ESTC",
+      "mentions": 1,
+      "first_seen": "2026-11-20T01:11:34.280852+00:00",
+      "last_seen": "2026-11-20T01:11:34.280852+00:00"
+    },
+    "elastic context engine": {
+      "name": "Elastic Context Engine",
+      "type": "product",
+      "sectors": [
+        "context retrieval for AI agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T01:11:34.280852+00:00",
+      "last_seen": "2026-11-20T01:11:34.280852+00:00"
+    },
+    "alertzero": {
+      "name": "AlertZero",
+      "type": "product",
+      "sectors": [
+        "autonomous security agent orchestration"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T01:11:34.280852+00:00",
+      "last_seen": "2026-11-20T01:11:34.280852+00:00"
+    },
+    "resolve ai": {
+      "name": "Resolve AI",
+      "type": "company",
+      "sectors": [
+        "AI incident remediation / SRE agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T01:11:34.801951+00:00",
+      "last_seen": "2026-11-20T01:11:34.801951+00:00"
+    },
+    "sre1": {
+      "name": "SRE-1",
+      "type": "product",
+      "sectors": [
+        "27B open-weight model for production root-cause analysis"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T01:11:34.801951+00:00",
+      "last_seen": "2026-11-20T01:11:34.801951+00:00"
+    },
+    "dst global": {
+      "name": "DST Global",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-20T01:11:34.801951+00:00",
+      "last_seen": "2026-11-20T01:11:34.801951+00:00"
     }
   },
   "edges": [
@@ -14643,6 +14739,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 18 Nov 2026 23:50:41 +0000",
           "added_at": "2026-11-19T17:12:48.844544+00:00"
+        },
+        {
+          "description": "IPO 时转换部分本票,持股 14.6%,全部转换可接近 24%",
+          "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+          "added_at": "2026-11-20T01:11:33.292659+00:00"
         }
       ]
     },
@@ -14713,6 +14817,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 18 Nov 2026 23:50:41 +0000",
           "added_at": "2026-11-19T17:12:48.844544+00:00"
+        },
+        {
+          "description": "认购 100 亿美元 Class N 股票,按 IPO 价持股 13.4%",
+          "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+          "added_at": "2026-11-20T01:11:33.292659+00:00"
         }
       ]
     },
@@ -14760,6 +14872,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 18 Nov 2026 23:50:41 +0000",
           "added_at": "2026-11-19T17:12:48.844544+00:00"
+        },
+        {
+          "description": "参与认购 Anthropic IPO 的 Class N 股票",
+          "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+          "added_at": "2026-11-20T01:11:33.292659+00:00"
         }
       ]
     },
@@ -14831,6 +14951,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 18 Nov 2026 23:50:41 +0000",
           "added_at": "2026-11-19T17:12:48.844544+00:00"
+        },
+        {
+          "description": "在 IPO 中认购 100 亿美元无投票权 Class N 股票",
+          "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+          "added_at": "2026-11-20T01:11:33.292659+00:00"
         }
       ]
     },
@@ -23244,6 +23372,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 18 Nov 2026 23:50:41 +0000",
           "added_at": "2026-11-19T17:12:48.844544+00:00"
+        },
+        {
+          "description": "与 Broadcom、Micron、Microsoft、TSMC 分购 260 亿美元 Class N 股票中的剩余部分",
+          "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+          "added_at": "2026-11-20T01:11:33.292659+00:00"
         }
       ]
     },
@@ -23275,6 +23411,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 19 Nov 2026 14:54:39 +0000",
           "added_at": "2026-11-19T15:10:42.799109+00:00"
+        },
+        {
+          "description": "参与认购 Anthropic IPO 的 Class N 股票",
+          "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+          "added_at": "2026-11-20T01:11:33.292659+00:00"
         }
       ]
     },
@@ -23306,6 +23450,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 19 Nov 2026 14:54:39 +0000",
           "added_at": "2026-11-19T15:10:42.799109+00:00"
+        },
+        {
+          "description": "参与认购 Anthropic IPO 的 Class N 股票",
+          "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+          "added_at": "2026-11-20T01:11:33.292659+00:00"
         }
       ]
     },
@@ -23337,6 +23489,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 19 Nov 2026 14:54:39 +0000",
           "added_at": "2026-11-19T15:10:42.799109+00:00"
+        },
+        {
+          "description": "参与认购 Anthropic IPO 的 Class N 股票",
+          "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+          "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+          "added_at": "2026-11-20T01:11:33.292659+00:00"
         }
       ]
     },
@@ -33329,6 +33489,156 @@
           "added_at": "2026-11-19T23:10:59.023075+00:00"
         }
       ]
+    },
+    {
+      "source": "apple",
+      "target": "openai",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Apple 招聘研发能使用电脑的自研 AI agent,与 OpenAI 已推出的 computer use 类服务竞争",
+          "article_title": "Apple may be developing its own AI agent that runs your Mac",
+          "article_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+          "added_at": "2026-11-20T01:11:32.501298+00:00"
+        }
+      ]
+    },
+    {
+      "source": "apple",
+      "target": "anthropic",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Apple 自研桌面 agent,同时 macOS 27.3 将警告用户谨慎给第三方 agent 完全访问权限",
+          "article_title": "Apple may be developing its own AI agent that runs your Mac",
+          "article_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+          "added_at": "2026-11-20T01:11:32.501298+00:00"
+        }
+      ]
+    },
+    {
+      "source": "apple",
+      "target": "meta platforms",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Meta 已推出 Muse agent 系列,Apple 自研 agent 跟进",
+          "article_title": "Apple may be developing its own AI agent that runs your Mac",
+          "article_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+          "added_at": "2026-11-20T01:11:32.501298+00:00"
+        }
+      ]
+    },
+    {
+      "source": "elastic",
+      "target": "elastic context engine",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Elastic 的核心 AI 能力,为 AI agent 收集、结构化并提供业务上下文",
+          "article_title": "Despite posting a solid earnings beat, Elastic sees its stock slide on rough guidance",
+          "article_url": "https://siliconangle.com/2026/11/19/despite-posting-a-solid-earnings-beat-elastics-stock-slides-on-rough-guidance/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 23:33:39 +0000",
+          "added_at": "2026-11-20T01:11:34.280852+00:00"
+        }
+      ]
+    },
+    {
+      "source": "elastic",
+      "target": "alertzero",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Elastic 推出的 AI 原生产品,编排自主安全 agent 团队进行数据保护与威胁狩猎",
+          "article_title": "Despite posting a solid earnings beat, Elastic sees its stock slide on rough guidance",
+          "article_url": "https://siliconangle.com/2026/11/19/despite-posting-a-solid-earnings-beat-elastics-stock-slides-on-rough-guidance/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 23:33:39 +0000",
+          "added_at": "2026-11-20T01:11:34.280852+00:00"
+        }
+      ]
+    },
+    {
+      "source": "resolve ai",
+      "target": "sre1",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Resolve AI 训练的 270 亿参数根因定位模型,仅在自家平台提供",
+          "article_title": "Resolve AI’s SRE-1 model finds root causes of production alerts as AI agents go on call",
+          "article_url": "https://siliconangle.com/2026/11/19/resolve-ais-sre-1-model-finds-root-causes-of-production-alerts-as-ai-agents-go-on-call/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 23:11:44 +0000",
+          "added_at": "2026-11-20T01:11:34.801951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "snowflake",
+      "target": "resolve ai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Resolve AI 用 Snowflake Cortex Training 训练 SRE-1,是该服务首个设计合作伙伴",
+          "article_title": "Resolve AI’s SRE-1 model finds root causes of production alerts as AI agents go on call",
+          "article_url": "https://siliconangle.com/2026/11/19/resolve-ais-sre-1-model-finds-root-causes-of-production-alerts-as-ai-agents-go-on-call/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 23:11:44 +0000",
+          "added_at": "2026-11-20T01:11:34.801951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "salesforce",
+      "target": "resolve ai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Salesforce CRM Analytics 团队暗发布测试中,agent 关闭了超 70% 的告警",
+          "article_title": "Resolve AI’s SRE-1 model finds root causes of production alerts as AI agents go on call",
+          "article_url": "https://siliconangle.com/2026/11/19/resolve-ais-sre-1-model-finds-root-causes-of-production-alerts-as-ai-agents-go-on-call/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 23:11:44 +0000",
+          "added_at": "2026-11-20T01:11:34.801951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dst global",
+      "target": "resolve ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "4 月领投 4000 万美元 A 轮扩展,估值 15 亿美元",
+          "article_title": "Resolve AI’s SRE-1 model finds root causes of production alerts as AI agents go on call",
+          "article_url": "https://siliconangle.com/2026/11/19/resolve-ais-sre-1-model-finds-root-causes-of-production-alerts-as-ai-agents-go-on-call/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 23:11:44 +0000",
+          "added_at": "2026-11-20T01:11:34.801951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "salesforce ventures",
+      "target": "resolve ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "4 月与 DST Global 共同领投 4000 万美元 A 轮扩展",
+          "article_title": "Resolve AI’s SRE-1 model finds root causes of production alerts as AI agents go on call",
+          "article_url": "https://siliconangle.com/2026/11/19/resolve-ais-sre-1-model-finds-root-causes-of-production-alerts-as-ai-agents-go-on-call/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 19 Nov 2026 23:11:44 +0000",
+          "added_at": "2026-11-20T01:11:34.801951+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -39442,6 +39752,60 @@
       "source_name": "SiliconANGLE",
       "published": "Thu, 19 Nov 2026 22:17:28 +0000",
       "added_at": "2026-11-19T23:10:59.277119+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Apple 招聘研发主打“私密”完成的自研桌面 agent,若沿用端侧优先路线,截屏理解、跨应用规划等高频步骤将推高 M 系列神经引擎与设备端内存需求;目前仅招聘阶段、最早明年底上线",
+      "article_title": "Apple may be developing its own AI agent that runs your Mac",
+      "article_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+      "added_at": "2026-11-20T01:11:32.776322+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Apple 自研 agent 并在 macOS 27.3 收紧第三方 agent 完全访问权限,掌握系统 API 的平台方在 agent 入口上获结构性优势,依赖“看屏幕点按钮”的第三方桌面 agent 使用摩擦上升",
+      "article_title": "Apple may be developing its own AI agent that runs your Mac",
+      "article_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+      "added_at": "2026-11-20T01:11:33.036772+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic 实际募资 1048 亿美元、营运资本约 2300 亿,但未来 12 个月算力承诺 707 亿、2030 年前 4516 亿,总承诺超 1 万亿;基础设施层(云、芯片、存储、代工)订单可见度提升,模型层资本消耗极高,期限错配仅被推后两三年",
+      "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+      "added_at": "2026-11-20T01:11:33.544822+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Anthropic 4516 亿美元硬性算力承诺最终要落到数据中心电力上,配套发电与电网是承诺兑现路径上绕不开的一环,能源板块间接受益",
+      "article_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "article_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+      "added_at": "2026-11-20T01:11:33.792194+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Elastic 业绩超预期但指引偏弱,盘前盘后各跌 8%、年内涨幅几乎回吐;市场仍以“AI 颠覆软件商业模式”框架给中间层软件定价,Agent 上下文/检索层技术位置正确但暂未获溢价,对 AI 板块软件层是偏利空情绪信号",
+      "article_title": "Despite posting a solid earnings beat, Elastic sees its stock slide on rough guidance",
+      "article_url": "https://siliconangle.com/2026/11/19/despite-posting-a-solid-earnings-beat-elastics-stock-slides-on-rough-guidance/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 23:33:39 +0000",
+      "added_at": "2026-11-20T01:11:34.535476+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Resolve AI 用私有事故数据在开放权重模型上强化学习训练 SRE-1,并让 agent 进入生产值班关键路径(公司自述数据,未经独立验证);利好在私有数据旁训练垂直模型的数据平台层(Snowflake Cortex Training)、GPU 推理算力与 agent 治理层",
+      "article_title": "Resolve AI’s SRE-1 model finds root causes of production alerts as AI agents go on call",
+      "article_url": "https://siliconangle.com/2026/11/19/resolve-ais-sre-1-model-finds-root-causes-of-production-alerts-as-ai-agents-go-on-call/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 19 Nov 2026 23:11:44 +0000",
+      "added_at": "2026-11-20T01:11:35.050471+00:00"
     }
   ]
 }
