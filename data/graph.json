@@ -401,7 +401,8 @@
         "cloud",
         "cloud, enterprise software & AI platforms",
         "cloud & AI",
-        "hyperscaler / cloud"
+        "hyperscaler / cloud",
+        "cloud / hyperscaler (Azure)"
       ],
       "sector_tags": [
         "AI板块",
@@ -409,9 +410,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 28,
+      "mentions": 29,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T12:10:35.723580+00:00"
+      "last_seen": "2026-11-20T15:09:47.279927+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -1249,7 +1250,8 @@
       "type": "company",
       "sectors": [
         "CPUs / foundry",
-        "semiconductors"
+        "semiconductors",
+        "semiconductors / foundry & advanced packaging"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1258,9 +1260,9 @@
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-19T12:12:44.240338+00:00"
+      "last_seen": "2026-11-20T15:09:47.279927+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -34658,6 +34660,21 @@
           "added_at": "2026-11-20T14:10:00.542805+00:00"
         }
       ]
+    },
+    {
+      "source": "microsoft",
+      "target": "intel",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Intel 与 Microsoft 签署多年协议,Microsoft 成为首家在自研芯片上使用 Intel EMIB 2.5D 先进封装的公司,并确认 Xeon 服务器 CPU 长期供应、合作推进支持 CXL 的 Xeon;具体硬件与时间表未披露",
+          "article_title": "Microsoft becomes first company to use Intel’s EMIB packaging technology for Azure hardware",
+          "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-to-use-intels-emib-packaging-technology-for-azure-hardware/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 14:07:17 +0000",
+          "added_at": "2026-11-20T15:09:47.279927+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -41032,6 +41049,15 @@
       "source_name": "DataCenterDynamics",
       "published": "Fri, 20 Nov 2026 13:07:03 +0000",
       "added_at": "2026-11-20T14:10:01.028856+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Microsoft 成为首家在 Azure 自研芯片上采用 Intel EMIB 先进封装的客户,先进封装(CoWoS)是 AI 加速器供给瓶颈,出现台积电之外的第二封装来源有望扩大算力供给;但具体硬件、量产时间和规模均未披露,仍需观望",
+      "article_title": "Microsoft becomes first company to use Intel’s EMIB packaging technology for Azure hardware",
+      "article_url": "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-to-use-intels-emib-packaging-technology-for-azure-hardware/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 14:07:17 +0000",
+      "added_at": "2026-11-20T15:09:47.532756+00:00"
     }
   ]
 }
