@@ -41957,6 +41957,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Sun, 22 Nov 2026 11:00:43 +0000",
       "added_at": "2026-11-22T11:10:15.175663+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Marvell CEO 给出铜缆在每通道 400Gbps 时连机柜内都无法可靠连接的门槛,scale-up 网络从铜转向硅光/CPO 是 AI 基础设施确定性的升级方向,利好掌握互连的 Nvidia、Broadcom、Marvell 及光子器件、硅光代工层(观点文章疑似出自 SOI 衬底厂商一侧,利益相关,判断未经独立验证)",
+      "article_title": "Why the next phase of the data center buildout runs on light",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sun, 22 Nov 2026 15:00:32 +0000",
+      "added_at": "2026-11-22T15:10:05.197471+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "并网容量锁定后,光互连通过降低互连功耗提高每兆瓦的有效算力,是在电力硬约束下的'节流',间接利好;能源本身仍是更上游的瓶颈(观点文章疑似厂商立场,未经独立验证)",
+      "article_title": "Why the next phase of the data center buildout runs on light",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sun, 22 Nov 2026 15:00:32 +0000",
+      "added_at": "2026-11-22T15:10:05.465004+00:00"
     }
   ]
 }
