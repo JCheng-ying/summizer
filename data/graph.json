@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 87,
+      "mentions": 88,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-22T02:15:58.667736+00:00",
+      "last_seen": "2026-11-22T11:10:14.679720+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -411,9 +411,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 29,
+      "mentions": 30,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T15:09:47.279927+00:00"
+      "last_seen": "2026-11-22T11:10:14.679720+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -431,9 +431,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 41,
+      "mentions": 42,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T12:10:35.723580+00:00"
+      "last_seen": "2026-11-22T11:10:14.679720+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -1907,9 +1907,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 58,
+      "mentions": 59,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-22T02:16:01.522523+00:00"
+      "last_seen": "2026-11-22T11:10:14.679720+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -4551,7 +4551,8 @@
         "AI neocloud",
         "neocloud",
         "AI cloud / neocloud",
-        "AI cloud / data centers"
+        "AI cloud / data centers",
+        "AI neocloud / data centers"
       ],
       "sector_tags": [
         "AI板块",
@@ -4559,9 +4560,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 12,
+      "mentions": 13,
       "first_seen": "2026-11-02T01:41:24.097297+00:00",
-      "last_seen": "2026-11-19T20:11:31.521156+00:00"
+      "last_seen": "2026-11-22T11:10:14.679720+00:00"
     },
     "krafton": {
       "name": "Krafton",
@@ -21162,6 +21163,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Thu, 12 Nov 2026 21:27:10 +0000",
           "added_at": "2026-11-13T06:17:10.573039+00:00"
+        },
+        {
+          "description": "微软曾签约作为 Nscale 英国 Loughton 站点(号称英国最大 AI 超算)的客户,该站点据报到 2030 年代早中期才能获足够电网供电,2026 年 10 月微软退出",
+          "article_title": "Britain is hosting the AI boom, not owning it",
+          "article_url": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 22 Nov 2026 11:00:43 +0000",
+          "added_at": "2026-11-22T11:10:14.679720+00:00"
         }
       ]
     },
@@ -28892,6 +28901,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 17 Nov 2026 23:49:29 +0000",
           "added_at": "2026-11-18T00:10:56.323597+00:00"
+        },
+        {
+          "description": "Stargate UK 原计划在 Nscale 站点用 Nvidia 芯片运行 OpenAI 技术",
+          "article_title": "Britain is hosting the AI boom, not owning it",
+          "article_url": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 22 Nov 2026 11:00:43 +0000",
+          "added_at": "2026-11-22T11:10:14.679720+00:00"
         }
       ]
     },
@@ -35264,6 +35281,36 @@
           "source_name": "SiliconANGLE",
           "published": "Sat, 21 Nov 2026 18:28:26 +0000",
           "added_at": "2026-11-22T02:16:02.499365+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "nscale",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Stargate UK 计划在 Nscale 站点运行 OpenAI 技术,OpenAI 4 月以英国能源成本和监管为由搁置",
+          "article_title": "Britain is hosting the AI boom, not owning it",
+          "article_url": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 22 Nov 2026 11:00:43 +0000",
+          "added_at": "2026-11-22T11:10:14.679720+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "nscale",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "OpenAI 离开后不久,据报 Google 拿下 Nscale 西伦敦另一数据中心的容量",
+          "article_title": "Britain is hosting the AI boom, not owning it",
+          "article_url": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+          "source_name": "DataCenterDynamics",
+          "published": "Sun, 22 Nov 2026 11:00:43 +0000",
+          "added_at": "2026-11-22T11:10:14.679720+00:00"
         }
       ]
     }
@@ -41892,6 +41939,24 @@
       "source_name": "SiliconANGLE",
       "published": "Sat, 21 Nov 2026 00:01:34 +0000",
       "added_at": "2026-11-22T02:16:04.438791+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "DCD 评论文章指出英国 AI 基础设施最大瓶颈是土地、电力和电网接入,Nscale Loughton 站点据报到 2030 年代早中期才能获足够电力、微软已退出,Stargate UK 因能源成本搁置;利好能缩短接电时间的输配电设备和电网环节(观点文章)",
+      "article_title": "Britain is hosting the AI boom, not owning it",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sun, 22 Nov 2026 11:00:43 +0000",
+      "added_at": "2026-11-22T11:10:14.922443+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英国 AI 投资主要来自微软 220 亿英镑、Google 50 亿英镑等美国公司,下一代 GPU 产能被超大规模云厂商提前锁定,neocloud 客户在 OpenAI/微软/Google 间轮换;利好 GPU 与超大规模云,本地主权 AI 和创业公司处于劣势(观点文章)",
+      "article_title": "Britain is hosting the AI boom, not owning it",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sun, 22 Nov 2026 11:00:43 +0000",
+      "added_at": "2026-11-22T11:10:15.175663+00:00"
     }
   ]
 }
