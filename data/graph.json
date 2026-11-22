@@ -14966,6 +14966,49 @@
       "mentions": 1,
       "first_seen": "2026-11-22T02:16:02.499365+00:00",
       "last_seen": "2026-11-22T02:16:02.499365+00:00"
+    },
+    "china manned space agency cmsa": {
+      "name": "China Manned Space Agency (CMSA)",
+      "type": "institution",
+      "sectors": [
+        "human spaceflight / crewed lunar program"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T23:10:20.265847+00:00",
+      "last_seen": "2026-11-22T23:10:20.265847+00:00"
+    },
+    "china academy of launch vehicle calt": {
+      "name": "China Academy of Launch Vehicle Technology (CALT)",
+      "type": "institution",
+      "sectors": [
+        "launch vehicles (Long March 5/10)"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T23:10:20.265847+00:00",
+      "last_seen": "2026-11-22T23:10:20.265847+00:00"
+    },
+    "pakistan": {
+      "name": "Pakistan",
+      "type": "institution",
+      "sectors": [
+        "national space program"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T23:10:20.265847+00:00",
+      "last_seen": "2026-11-22T23:10:20.265847+00:00"
     }
   },
   "edges": [
@@ -35313,6 +35356,36 @@
           "added_at": "2026-11-22T11:10:14.679720+00:00"
         }
       ]
+    },
+    {
+      "source": "china academy of launch vehicle calt",
+      "target": "china manned space agency cmsa",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "中国运载火箭技术研究院研制长征十号/十号甲,用于发射梦舟飞船和揽月着陆器,支撑2030年前载人登月",
+          "article_title": "China details its path to a crewed Moon landing before 2030",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 22 Nov 2026 22:31:24 +0000",
+          "added_at": "2026-11-22T23:10:20.265847+00:00"
+        }
+      ]
+    },
+    {
+      "source": "china manned space agency cmsa",
+      "target": "pakistan",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "两名巴基斯坦航天员候选人在北京受训,其中一人将随神舟二十四号成为首位访问天宫的外国航天员",
+          "article_title": "China details its path to a crewed Moon landing before 2030",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Sun, 22 Nov 2026 22:31:24 +0000",
+          "added_at": "2026-11-22T23:10:20.265847+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -42002,6 +42075,15 @@
       "source_name": "TechCrunch - AI",
       "published": "Sun, 22 Nov 2026 21:14:07 +0000",
       "added_at": "2026-11-22T22:10:11.070370+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "中国公布2030年前载人登月的三步无人验证路线(梦舟一号2027、揽月无人着陆2028、全流程彩排2029),竞争压力有助于托底美国Artemis/CLPS预算;瓶颈在长征十号尚未首飞,重型发射、着陆对接和月面能源层受益,但中国侧二级市场标的有限",
+      "article_title": "China details its path to a crewed Moon landing before 2030",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Sun, 22 Nov 2026 22:31:24 +0000",
+      "added_at": "2026-11-22T23:10:20.566783+00:00"
     }
   ]
 }
