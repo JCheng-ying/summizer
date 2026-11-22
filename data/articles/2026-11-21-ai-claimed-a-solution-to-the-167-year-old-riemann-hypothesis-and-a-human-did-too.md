@@ -1,0 +1,10 @@
+# AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too
+https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
+
+这篇文章(SiliconANGLE 同日也报道了同一件事,这里合并在一起写)讨论的可能是 AI 能力边界的一个分水岭:如果一个被认为是数学界最重要的未解问题,能在大模型协助下给出可被机器形式化验证的证明,那么"AI 能不能做真正的原创科研"这个问题就不再是假设,而是变成"人类怎么理解和接手 AI 产出的知识"。
+
+文章指出,Anthropic 研究员、数学家 Levent Alpöge 在个人网站发表文章,称与 Claude 合作发现了黎曼猜想的证明,而且他通过 Lean 给出了可编译的形式化版本。黎曼猜想于 1859 年提出,是千禧年大奖难题之一,猜测素数分布背后存在隐藏结构。SiliconANGLE 补充了几个细节:Alpöge 称 Claude 不仅证明了标准版本,还证明了广义黎曼猜想;完整证明超过 25 万页,论文尚未发布,但公开的 Lean 文件有数百万行代码;Anthropic 官方没有发布公告。时间点也很微妙——Alpöge 自己写道"时机糟透了",因为就在前一天 Anthropic 刚在纳斯达克上市,募资超过 930 亿美元。TechCrunch 报道,数学家们正在 Zulip 上讨论这个结果,包括 MIT 的 Andrew Sutherland 在内的多位参与者确认 Lean 证明可以成功编译,多数人相信形式化结果站得住,但要真正"理解"这个证明还需要很长时间,Alpöge 也承诺会去写一个人类可读的解释。同一周,斯坦福教授、美国数学会主席 Ravi Vakil 也发布了斯坦福博士后 Alessandro Masullo 写的广义黎曼猜想证明草稿,强调"全部由人完成,没有 AI",这是 Masullo 十二年的工作,但没有 Lean 版本,现在说它对不对还为时过早。此外,Alpöge 和 NYU 数学家 Tristan Buckmaster 还发布了另一项与 Navier-Stokes 方程相关的重要证明。
+
+这和 [Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture](2026-08-05-claude-fable-5-ai-finds-a-tiny-formula-that-topples-an-87-year-old-math-conjecture.md) 是同一条线,但量级完全不同:那次是推翻一个具体猜想,这次是声称证明数学界最核心的问题。
+
+个人看法:这里面最值得注意的技术点不是"AI 很聪明",而是 Lean 在这件事里扮演的角色。25 万页的证明不可能靠人工审阅,但 Lean 编译通过就意味着每一步推理都被机器检查过,这相当于给 AI 的输出加上了一个"可验证层"。我觉得这会改变 AI for Science 的投资逻辑:过去大家担心 AI 产出的东西有幻觉、不可信,现在有一类领域(数学、形式化验证、芯片设计验证、软件正确性证明)可以用形式化工具把 AI 的结论变成可审计的结果。从 AI 板块来看,受益的层次会是:第一层仍然是前沿模型公司本身,Anthropic 刚上市就有这样的能力展示,对它的估值叙事是很强的支撑(虽然官方没有背书,需要观望);第二层是支撑这种长时间、大规模推理的算力基础设施,数百万行 Lean 代码背后是极长的推理链和大量 token 消耗,和今天另一篇 [Inference now drives two-thirds of AI workloads](2026-11-21-inference-now-drives-two-thirds-of-ai-workloads-changing-where-chips-get-deploye.md) 里"推理已经成为算力主力负载"的判断是一致的;第三层是形式化验证和可验证 AI 的工具链,这一层目前在资本市场几乎没有直接标的,更多体现在 EDA 和软件验证领域。同时也要克制:证明能编译不等于数学界真正理解了它,也有可能在形式化陈述上存在偏差,文章里数学家们也只是说"多数人有信心"。值得关注的是接下来几周数学界对 Lean 陈述本身的审查结果,以及 Masullo 的人类证明能不能也被形式化——如果两条完全不同的路径都成立,那将是很有意思的一幕。

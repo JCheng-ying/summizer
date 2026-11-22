@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 86,
+      "mentions": 87,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-20T16:12:05.207842+00:00",
+      "last_seen": "2026-11-22T02:15:58.667736+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -543,9 +543,9 @@
       ],
       "hot": "hot",
       "ticker": "ORCL",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-13T06:17:16.091747+00:00"
+      "last_seen": "2026-11-22T02:16:02.499365+00:00"
     },
     "palantir": {
       "name": "Palantir Technologies",
@@ -692,16 +692,17 @@
       "sectors": [
         "open-weight foundation models",
         "AI models",
-        "European LLM developer"
+        "European LLM developer",
+        "foundation models"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T12:10:35.723580+00:00"
+      "last_seen": "2026-11-22T02:15:58.667736+00:00"
     },
     "cohere": {
       "name": "Cohere",
@@ -784,9 +785,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 17,
+      "mentions": 18,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-20T16:12:06.408374+00:00"
+      "last_seen": "2026-11-22T02:16:01.522523+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -1158,9 +1159,9 @@
       ],
       "hot": "hot",
       "ticker": "RGTI",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "dwave quantum": {
       "name": "D-Wave Quantum",
@@ -1175,9 +1176,9 @@
       ],
       "hot": "hot",
       "ticker": "QBTS",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "ibm": {
       "name": "IBM",
@@ -1190,7 +1191,8 @@
         "quantum computing / IT",
         "quantum / computing",
         "IT / quantum",
-        "quantum computing / hybrid quantum-classical"
+        "quantum computing / hybrid quantum-classical",
+        "IT / quantum computing"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1198,9 +1200,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 15,
+      "mentions": 16,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -1229,9 +1231,9 @@
       ],
       "hot": "hot",
       "ticker": "QNT",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "psiquantum": {
       "name": "PsiQuantum",
@@ -1244,9 +1246,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T06:17:13.096700+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "intel": {
       "name": "Intel",
@@ -1392,9 +1394,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T20:09:34.600622+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "oxford quantum circuits oqc": {
       "name": "Oxford Quantum Circuits (OQC)",
@@ -1444,7 +1446,8 @@
       "name": "Tesla, Inc.",
       "type": "company",
       "sectors": [
-        "EV / energy storage / power electronics"
+        "EV / energy storage / power electronics",
+        "EV / robotics / AI"
       ],
       "sector_tags": [
         "机器人板块",
@@ -1453,9 +1456,9 @@
       ],
       "hot": "hot",
       "ticker": "TSLA",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-11-19T12:12:43.491454+00:00"
+      "last_seen": "2026-11-22T02:16:01.522523+00:00"
     },
     "figure ai": {
       "name": "Figure AI",
@@ -1832,9 +1835,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 31,
+      "mentions": 32,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T16:12:07.131582+00:00"
+      "last_seen": "2026-11-22T02:15:54.166185+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -1904,9 +1907,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 57,
+      "mentions": 58,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T16:12:08.832578+00:00"
+      "last_seen": "2026-11-22T02:16:01.522523+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -5078,9 +5081,9 @@
       ],
       "hot": null,
       "ticker": "GFS",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-06T07:01:15.798724+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "infineon": {
       "name": "Infineon Technologies",
@@ -5552,7 +5555,8 @@
       "name": "World Labs",
       "type": "company",
       "sectors": [
-        "world models"
+        "world models",
+        "3D world models"
       ],
       "sector_tags": [
         "AI板块",
@@ -5560,9 +5564,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-09T06:05:59.960286+00:00",
-      "last_seen": "2026-11-09T06:05:59.960286+00:00"
+      "last_seen": "2026-11-22T02:15:54.166185+00:00"
     },
     "runway": {
       "name": "Runway",
@@ -6342,16 +6346,17 @@
       "name": "Diraq",
       "type": "company",
       "sectors": [
-        "silicon spin quantum computing"
+        "silicon spin quantum computing",
+        "silicon spin qubits"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:44.190729+00:00",
-      "last_seen": "2026-11-10T05:12:44.190729+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "qant": {
       "name": "Q.ANT",
@@ -7036,7 +7041,8 @@
       "sectors": [
         "government",
         "federal government",
-        "federal agency / export controls"
+        "federal agency / export controls",
+        "US government"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -7044,9 +7050,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-16T15:12:00.575865+00:00"
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
     },
     "applied digital": {
       "name": "Applied Digital",
@@ -12054,16 +12060,17 @@
       "name": "Pacific Fusion",
       "type": "company",
       "sectors": [
-        "fusion energy"
+        "fusion energy",
+        "pulsed-power fusion"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T21:11:21.777206+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-22T02:16:00.556874+00:00"
     },
     "alice bob": {
       "name": "Alice & Bob",
@@ -14869,6 +14876,95 @@
       "mentions": 1,
       "first_seen": "2026-11-20T16:12:07.131582+00:00",
       "last_seen": "2026-11-20T16:12:07.131582+00:00"
+    },
+    "anderon": {
+      "name": "Anderon",
+      "type": "company",
+      "sectors": [
+        "quantum foundry (IBM subsidiary)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T02:15:56.564982+00:00",
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
+    },
+    "infleqtion": {
+      "name": "Infleqtion",
+      "type": "company",
+      "sectors": [
+        "neutral-atom quantum computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T02:15:56.564982+00:00",
+      "last_seen": "2026-11-22T02:15:56.564982+00:00"
+    },
+    "scaleway": {
+      "name": "Scaleway",
+      "type": "company",
+      "sectors": [
+        "European cloud provider"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T02:15:58.667736+00:00",
+      "last_seen": "2026-11-22T02:15:58.667736+00:00"
+    },
+    "europa fusion": {
+      "name": "Europa Fusion",
+      "type": "company",
+      "sectors": [
+        "pulsed-power fusion (UK, simulation-driven)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T02:16:00.556874+00:00",
+      "last_seen": "2026-11-22T02:16:00.556874+00:00"
+    },
+    "daniel ek": {
+      "name": "Daniel Ek",
+      "type": "person",
+      "sectors": [
+        "Spotify founder / investor"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T02:16:00.556874+00:00",
+      "last_seen": "2026-11-22T02:16:00.556874+00:00"
+    },
+    "positron ai": {
+      "name": "Positron AI",
+      "type": "company",
+      "sectors": [
+        "inference chips / appliances (commodity memory)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-22T02:16:02.499365+00:00",
+      "last_seen": "2026-11-22T02:16:02.499365+00:00"
     }
   },
   "edges": [
@@ -21624,6 +21720,14 @@
           "source_name": "DeepLearning.AI - The Batch (Research)",
           "published": "2026-11-06T08:10:00.000-08:00",
           "added_at": "2026-11-09T06:05:59.960286+00:00"
+        },
+        {
+          "description": "AMD 以约 82 亿美元全股票收购 World Labs,11 月 16 日完成,李飞飞出任 AMD 首席科学家兼执行副总裁",
+          "article_title": "World Labs&#x27; Atlas Gives Developers 3D Video and Graphics Generation for Games, Robotics, More",
+          "article_url": "https://www.deeplearning.ai/the-batch/amds-world-model-arrives/",
+          "source_name": "DeepLearning.AI - The Batch (Research)",
+          "published": "2026-11-20T08:10:00.000-08:00",
+          "added_at": "2026-11-22T02:15:54.166185+00:00"
         }
       ]
     },
@@ -23810,6 +23914,14 @@
           "source_name": "The Quantum Insider",
           "published": "Tue, 10 Nov 2026 12:54:04 +0000",
           "added_at": "2026-11-11T06:19:45.925248+00:00"
+        },
+        {
+          "description": "商务部最高 1 亿美元研发资金(首期约 5,360 万美元),D-Wave 按 14.093 美元发行 7,095,721 股",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
         }
       ]
     },
@@ -24412,6 +24524,14 @@
           "source_name": "The Quantum Insider",
           "published": "Wed, 11 Nov 2026 09:30:09 +0000",
           "added_at": "2026-11-12T04:06:40.101618+00:00"
+        },
+        {
+          "description": "商务部最高 1 亿美元研发资金(首期 4,390 万美元,其余挂钩里程碑),Rigetti 按 12.92 美元向商务部发行 7,739,938 股",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
         }
       ]
     },
@@ -26472,6 +26592,14 @@
           "source_name": "The Quantum Insider",
           "published": "Fri, 13 Nov 2026 18:36:11 +0000",
           "added_at": "2026-11-13T20:09:34.600622+00:00"
+        },
+        {
+          "description": "商务部最高 1 亿美元 CHIPS 激励换少数股权,11 月 13 日签最终协议",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
         }
       ]
     },
@@ -34928,6 +35056,216 @@
           "added_at": "2026-11-20T16:12:08.832578+00:00"
         }
       ]
+    },
+    {
+      "source": "ibm",
+      "target": "anderon",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Anderon 是 IBM 的量子代工子公司,获商务部最高 10 亿美元 CHIPS 激励,9 月 16 日签最终协议",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "anderon",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "商务部向 Anderon 提供最高 10 亿美元 CHIPS 激励并取得少数股权",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "globalfoundries",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "商务部向 GlobalFoundries 提供最高 3.75 亿美元量子相关 CHIPS 激励,9 月 8 日签最终协议",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "quantinuum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "商务部最高 1 亿美元研发资金(首期 5,600 万美元,截至 9 月 30 日未提款),Quantinuum 按 42.20 美元发行 2,369,528 股 A 类股",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "psiquantum",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "商务部最高 1 亿美元 CHIPS 激励换少数股权,9 月 8 日签最终协议",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "infleqtion",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "商务部意向书拟向 Infleqtion 提供最高 1 亿美元 CHIPS 激励并取得少数股权",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "diraq",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "商务部意向书拟向 Diraq 提供最高 3,800 万美元 CHIPS 激励并取得少数股权",
+          "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+          "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+          "source_name": "The Quantum Insider",
+          "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+          "added_at": "2026-11-22T02:15:56.564982+00:00"
+        }
+      ]
+    },
+    {
+      "source": "scaleway",
+      "target": "mistral ai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Scaleway 在自有数据中心运行 Mistral 模型提供 token 服务,并向 Mistral 支付授权费",
+          "article_title": "Tokenomics: Putting a price on intelligence",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 17:00:34 +0000",
+          "added_at": "2026-11-22T02:15:58.667736+00:00"
+        }
+      ]
+    },
+    {
+      "source": "scaleway",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Scaleway 用 Nvidia B300 集群承载推理服务,新模型部署在最新 GPU 上",
+          "article_title": "Tokenomics: Putting a price on intelligence",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
+          "source_name": "DataCenterDynamics",
+          "published": "Fri, 20 Nov 2026 17:00:34 +0000",
+          "added_at": "2026-11-22T02:15:58.667736+00:00"
+        }
+      ]
+    },
+    {
+      "source": "daniel ek",
+      "target": "europa fusion",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Spotify 创始人 Daniel Ek 投资英国隐身聚变初创公司 Europa Fusion",
+          "article_title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "article_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+          "added_at": "2026-11-22T02:16:00.556874+00:00"
+        }
+      ]
+    },
+    {
+      "source": "europa fusion",
+      "target": "pacific fusion",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两家都走脉冲功率聚变路线;Europa 创始人 Nantas Nardelli 曾任 Pacific Fusion 机器学习负责人,主张以模拟和数据替代部分硬件试验",
+          "article_title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "article_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+          "added_at": "2026-11-22T02:16:00.556874+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "tesla",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SpaceX 与 Tesla 合作在美国建设自有芯片厂 Terafab,尚未开工",
+          "article_title": "Chips can survive the space environment — can their financing?",
+          "article_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+          "added_at": "2026-11-22T02:16:01.522523+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "spacex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Google 通过 Project Suncatcher 在太空部署自研 TPU,与 SpaceX 的轨道数据中心计划竞争,且无需外部芯片融资",
+          "article_title": "Chips can survive the space environment — can their financing?",
+          "article_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+          "source_name": "TechCrunch - AI",
+          "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+          "added_at": "2026-11-22T02:16:01.522523+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oracle",
+      "target": "positron ai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "甲骨文本季度在其云上上线约 340 台 Positron Atlas 推理服务器(厂商口径)",
+          "article_title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
+          "article_url": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
+          "source_name": "SiliconANGLE",
+          "published": "Sat, 21 Nov 2026 18:28:26 +0000",
+          "added_at": "2026-11-22T02:16:02.499365+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -41392,6 +41730,168 @@
       "source_name": "SiliconANGLE",
       "published": "Fri, 20 Nov 2026 15:00:54 +0000",
       "added_at": "2026-11-20T16:12:09.328947+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Video Friday 中 3D 打印刚性连杆灵巧手 PHD-Hand 零件成本不到 650 美元、免去肌腱维护,Walden Robotics 成立两个月即部署进生产线边工作边学习;瓶颈在灵巧操作成本与真实场景数据,属早期方向性信号",
+      "article_title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+      "article_url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Fri, 20 Nov 2026 17:30:03 +0000",
+      "added_at": "2026-11-22T02:15:53.923164+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "World Labs 开放 Atlas 世界模型 API,可从照片生成带碰撞体的 3D 场景导出到游戏引擎和仿真器,降低机器人仿真环境构建成本;但正式文档已淡化机器人用途,性能主要为自测",
+      "article_title": "World Labs&#x27; Atlas Gives Developers 3D Video and Graphics Generation for Games, Robotics, More",
+      "article_url": "https://www.deeplearning.ai/the-batch/amds-world-model-arrives/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-20T08:10:00.000-08:00",
+      "added_at": "2026-11-22T02:15:54.441435+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AMD 完成收购 World Labs 后 Atlas 公开上线并附价目表,AMD 借世界模型补软件/模型生态以追赶 Nvidia,但公告未提 Atlas 产品规划,需观望",
+      "article_title": "World Labs&#x27; Atlas Gives Developers 3D Video and Graphics Generation for Games, Robotics, More",
+      "article_url": "https://www.deeplearning.ai/the-batch/amds-world-model-arrives/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-20T08:10:00.000-08:00",
+      "added_at": "2026-11-22T02:15:54.683097+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "MEMCON 用轻量分数表学习 Agent 记忆检索/删除策略,ALFWorld 成功率从 59.7% 提到 67.9% 且省 13% 输入 token;利好 Memory OS 与 Agent 框架层,学术阶段尚未产品化",
+      "article_title": "Researchers at UCLA, Washington, and Northwestern Release MEMCON for Agents",
+      "article_url": "https://www.deeplearning.ai/the-batch/adaptive-memory-management/",
+      "source_name": "DeepLearning.AI - The Batch (Research)",
+      "published": "2026-11-20T08:15:00.000-08:00",
+      "added_at": "2026-11-22T02:15:55.150086+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Starship Flight 15 中 Ship 42 完成轨道任务、部署 26 颗 Starlink V3 后被塔臂抓回,两级均已各自回收过,发射成本下降路径更可信;但 Booster 22 失败、隔热瓦问题仍在,需看 Flight 16 双回收与首次复飞",
+      "article_title": "Following Ship 42’s catch, SpaceX looks to the future",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Fri, 20 Nov 2026 19:49:06 +0000",
+      "added_at": "2026-11-22T02:15:55.609075+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "中国团队用百亿亿次经典超算在 2 万余节点上求解 FeMoco 问题获 Gordon Bell 奖,经典计算在缩小量子计算最常引用的化学应用优势差距,对量子优势叙事属温和利空,也强化经典-量子混合路线",
+      "article_title": "10-Member Team Drawn from Chinese Institutions Wins 2026 Gordon Bell Prize",
+      "article_url": "https://thequantuminsider.com/2026/11/20/10-member-team-drawn-from-chinese-institutions-wins-2026-gordon-bell-prize/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 20 Nov 2026 16:13:55 +0000",
+      "added_at": "2026-11-22T02:15:56.320235+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "商务部 20.13 亿美元 CHIPS 量子计划以研发资金换少数股权,资金集中在读出电子、稀释制冷、芯片制造和光学元件等扩展瓶颈,利好制冷/控制电子/代工供应链;但公司按全额折价发股、资金有条件且可被追回,对现有股东并非纯利好",
+      "article_title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+      "article_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+      "source_name": "The Quantum Insider",
+      "published": "Fri, 20 Nov 2026 16:05:47 +0000",
+      "added_at": "2026-11-22T02:15:56.809654+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "CEMS 行业观点文章(有利益相关):2025 年全球燃气轮机订单 100.3GW、交付排到 2030 年,而表后燃气发电还需空气许可与固定时长的排放监测认证;利好燃气轮机、往复式发动机/燃料电池及排放监测与第三方测试环节",
+      "article_title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+      "source_name": "DataCenterDynamics",
+      "published": "Sat, 21 Nov 2026 11:00:28 +0000",
+      "added_at": "2026-11-22T02:15:57.516091+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "DCD 分析显示 AI 云计价转向 token,云厂商利用率最佳点仅 60%-70%,前沿模型只能跑在最新 GPU 上、主要云厂商年资本开支约 2,000 亿美元;Lambda 放弃 token API 专卖 GPU 小时,支撑新一代 GPU 需求,但 neocloud 依赖长期合约续约",
+      "article_title": "Tokenomics: Putting a price on intelligence",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
+      "source_name": "DataCenterDynamics",
+      "published": "Fri, 20 Nov 2026 17:00:34 +0000",
+      "added_at": "2026-11-22T02:15:58.916696+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nvidia 财报和指引超预期但股价下跌,停售 H200 对华并配合封堵境外远程访问,批评者估计约 20% 业务间接来自中国;基础设施需求未变,但治理动荡和中国收入缺口可能让客户分散到 AMD、TPU 与定制 ASIC",
+      "article_title": "A tale of two Nvidias",
+      "article_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source_name": "TechCrunch - AI",
+      "published": "Sat, 21 Nov 2026 21:07:42 +0000",
+      "added_at": "2026-11-22T02:15:59.842685+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "前 Pacific Fusion 机器学习负责人创立 Europa Fusion 获 Daniel Ek 投资,走模拟驱动的脉冲功率聚变路线,若成功可缩短聚变迭代周期;利好脉冲功率与高压电力电子供应链,公司仍在隐身、属长期方向性信号",
+      "article_title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "article_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+      "added_at": "2026-11-22T02:16:00.808772+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic 研究员称与 Claude 合作得出黎曼猜想(含广义版)的 Lean 形式化证明,多位数学家确认可编译;Lean 为 AI 产出加了可验证层,支撑前沿模型与长推理算力需求,但数学界尚未理解证明、官方未背书",
+      "article_title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "article_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 20 Nov 2026 19:32:08 +0000",
+      "added_at": "2026-11-22T02:16:01.279974+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "轨道芯片无法回收作抵押,SpaceX 400 亿美元芯片融资的贷方要求芯片不得用于轨道数据中心;太空算力资本成本高于地面,早期更利于自带芯片和现金流的 SpaceX、Google,初创公司融资承压",
+      "article_title": "Chips can survive the space environment — can their financing?",
+      "article_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+      "added_at": "2026-11-22T02:16:01.775252+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "部分 H100 二手价约为原始成本一半、H200 部分配置保持原价,地面 GPU 抵押品价值稳定,GPU 云债务融资链条暂未松动",
+      "article_title": "Chips can survive the space environment — can their financing?",
+      "article_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source_name": "TechCrunch - AI",
+      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+      "added_at": "2026-11-22T02:16:02.019653+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "赞助访谈中 Positron 称推理已占 AI 负载约三分之二(2023 年仅 15%),其商品化内存方案绕开 HBM 瓶颈、甲骨文上线约 340 台;推理需求更持续但竞争更激烈,数据为厂商口径未经独立验证",
+      "article_title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
+      "article_url": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Sat, 21 Nov 2026 18:28:26 +0000",
+      "added_at": "2026-11-22T02:16:02.751444+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Positron 单台服务器约 4.5kW、整柜 40kW 内可风冷,适配 0.5-2.5MW 模块化数据中心 90-120 天上线,推理负载小型化有利于下沉到电信与企业边缘机房;厂商口径",
+      "article_title": "Inference now drives two-thirds of AI workloads, changing where chips get deployed",
+      "article_url": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
+      "source_name": "SiliconANGLE",
+      "published": "Sat, 21 Nov 2026 18:28:26 +0000",
+      "added_at": "2026-11-22T02:16:03.000743+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "特朗普拟对美国公司海外建数据中心征巨额税,若落地将把项目挤回本土,放大美国电力和并网瓶颈,边际利好燃气轮机/现场发电、输配电设备和已有电网接入的场地;目前无实施细节",
+      "article_title": "Trump announces plan to tax US companies that build data centers abroad",
+      "article_url": "https://siliconangle.com/2026/11/20/trump-announces-plan-to-tax-us-companies-that-build-data-centers-abroad/",
+      "source_name": "SiliconANGLE",
+      "published": "Sat, 21 Nov 2026 00:01:34 +0000",
+      "added_at": "2026-11-22T02:16:04.167218+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "境外数据中心征税计划叠加商务部海外 AI 设施新规,AWS 德国 180 亿欧元、Google 芬兰 130 亿欧元等海外投资面临不确定性,Nscale 需许可证服务最大客户;对云厂商和跨境 neocloud 偏利空",
+      "article_title": "Trump announces plan to tax US companies that build data centers abroad",
+      "article_url": "https://siliconangle.com/2026/11/20/trump-announces-plan-to-tax-us-companies-that-build-data-centers-abroad/",
+      "source_name": "SiliconANGLE",
+      "published": "Sat, 21 Nov 2026 00:01:34 +0000",
+      "added_at": "2026-11-22T02:16:04.438791+00:00"
     }
   ]
 }

@@ -1,0 +1,12 @@
+# How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return
+https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/
+
+这篇文章拆解的是美国政府扶持量子计算的一种新模式:不是单纯发补贴,而是"研发资金 + 政府持股"。如果这个模式成为常态,量子公司从此多了一个特殊股东,它的融资节奏、股权稀释和技术出口都会被这个股东的条款塑造,投资者看量子股的估值时也必须把这部分算进去。
+
+文章指出,商务部 5 月 21 日宣布了 9 份意向书,涉及 20.13 亿美元的 CHIPS 法案激励:IBM 的量子代工子公司 Anderon 最高 10 亿美元,GlobalFoundries 最高 3.75 亿美元,Atom Computing、D-Wave、Infleqtion、PsiQuantum、Quantinuum、Rigetti 各最高 1 亿美元,Diraq 最高 3,800 万美元,覆盖超导、离子阱、中性原子、光子和硅自旋等路线,商务部在每家都拿到非控股的少数股权。GlobalFoundries、Anderon、PsiQuantum 和 Atom Computing 已经签了最终协议,Rigetti、D-Wave 和 Quantinuum 则在 SEC 文件里披露了细节。
+
+文章从 SEC 文件里梳理出几个关键点。第一是钱支持什么:Rigetti 用于读出电子学的集成和小型化、扩大制冷容量的新型稀释制冷机架构、以及更高连接度芯片的制造能力;D-Wave 覆盖退火和门模型超导系统的组件、原型 QPU 制造和大处理器的校准测试;Quantinuum 则是 422 纳米低损耗集成光子、低温控制芯片和离子阱所需波长的光学元件。文章认为三家的共同点是重点放在处理器周边的工程和制造能力,也就是控制电子、制冷、芯片制造和光学这些"放大规模时的具体障碍"。第二是钱怎么发:Rigetti 首期可用 4,390 万美元,后续两笔 2,990 万和 2,620 万美元与里程碑挂钩;D-Wave 首期约 5,360 万美元;Quantinuum 首期 5,600 万美元,但截至 9 月 30 日一分没提。所以 1 亿美元只是有条件支持的上限。第三是政府拿到什么:三家都按 1 亿美元全额一次性发了股,Rigetti 发行 7,739,938 股(隐含价 12.92 美元),D-Wave 发行 7,095,721 股(14.093 美元),Quantinuum 发行 2,369,528 股 A 类股(42.20 美元),定价公式都带 15%-20% 的折扣。政府在日常事项上基本不能投票,只能按实际拿走且未退还的资金比例卖股,也不能私下卖给竞争对手。第四是违约怎么办:未按期完成规定活动时,商务部可以要求返还已拨资金,Quantinuum 还特别警告,即便里程碑款被扣或已拨资金被追回,政府仍可能保留已发的股份,公司能回购的部分有限。也就是说,公司可能拿不到全额资金,却已经承受了全额稀释。
+
+这和此前 [Atom Computing finalizes $100 million U.S. Department of Commerce R&D award](2026-11-13-atom-computing-finalizes-100-million-u-s-department-of-commerce-r-d-award.md)、[D-Wave revenue rises 21% as customer deployments expand and CHIPS agreement advances](2026-11-10-d-wave-revenue-rises-21-as-customer-deployments-expand-and-chips-agreement-advan.md) 两篇是同一条线索,这篇把条款细节补齐了。
+
+个人看法:我觉得这篇文章最重要的信息是,美国政府判断量子计算现在的瓶颈不在"量子比特物理",而在周边工程:读出电子学、稀释制冷机、光学元件、芯片制造。这和 [U.S. quantum ambitions face a supply chain test](2026-11-13-u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn.md) 那篇讲的供应链约束完全对得上。按"先找瓶颈再找解决瓶颈的那一层"来拆,量子计算板块受益的层次会是:第一层是拿到钱的硬件公司本身,但要注意它们是以折扣价全额稀释换取有条件资金,对现有股东并不是纯利好;第二层是真正被点名要解决的瓶颈环节,比如稀释制冷机(Bluefors、Oxford Instruments)、低温控制电子(Quantum Machines、Qblox)、量子代工(GlobalFoundries、IBM 的 Anderon),这一层无论哪条技术路线胜出都需要;第三层是光子和激光元件供应商,离子阱和中性原子路线都依赖特定波长的激光器和集成光子。从市场角度看,政府持股相当于给这些公司加了一层"国家背书",短期有助于情绪,但条款里的追回权和终止权也意味着如果技术里程碑延误,稀释已成事实而资金可能断档。现在还在执行早期,值得关注的是 Rigetti 和 D-Wave 第二期里程碑款什么时候拨付,以及 Quantinuum 什么时候开始真正提款——这些才说明项目是不是按计划推进。
