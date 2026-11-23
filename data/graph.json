@@ -506,9 +506,9 @@
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 55,
+      "mentions": 56,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T16:12:08.832578+00:00"
+      "last_seen": "2026-11-23T02:10:00.339300+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -8647,9 +8647,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-13T21:09:37.045387+00:00",
-      "last_seen": "2026-11-18T23:11:04.752589+00:00"
+      "last_seen": "2026-11-23T02:10:00.339300+00:00"
     },
     "dfj growth": {
       "name": "DFJ Growth",
@@ -10277,14 +10277,17 @@
       "name": "Coatue",
       "type": "company",
       "sectors": [
-        "venture capital"
+        "venture capital",
+        "crossover investment fund"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T00:10:18.947671+00:00",
-      "last_seen": "2026-11-17T00:10:18.947671+00:00"
+      "last_seen": "2026-11-23T02:10:00.339300+00:00"
     },
     "sequoia capital": {
       "name": "Sequoia Capital",
@@ -15009,6 +15012,36 @@
       "mentions": 1,
       "first_seen": "2026-11-22T23:10:20.265847+00:00",
       "last_seen": "2026-11-22T23:10:20.265847+00:00"
+    },
+    "notable capital": {
+      "name": "Notable Capital",
+      "type": "company",
+      "sectors": [
+        "venture capital (formerly GGV Capital)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T02:10:00.339300+00:00",
+      "last_seen": "2026-11-23T02:10:00.339300+00:00"
+    },
+    "baillie gifford": {
+      "name": "Baillie Gifford",
+      "type": "company",
+      "sectors": [
+        "growth investment manager"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T02:10:00.339300+00:00",
+      "last_seen": "2026-11-23T02:10:00.339300+00:00"
     }
   },
   "edges": [
@@ -32548,6 +32581,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Wed, 18 Nov 2026 22:11:15 +0000",
           "added_at": "2026-11-18T23:11:04.752589+00:00"
+        },
+        {
+          "description": "GIC 自F轮起参与,与Coatue共同领投G轮并联合领投上市前一轮,三轮合计投入超45亿美元,上市后持股约1%",
+          "article_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "article_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+          "added_at": "2026-11-23T02:10:00.339300+00:00"
         }
       ]
     },
@@ -35384,6 +35425,51 @@
           "source_name": "NASASpaceFlight.com",
           "published": "Sun, 22 Nov 2026 22:31:24 +0000",
           "added_at": "2026-11-22T23:10:20.265847+00:00"
+        }
+      ]
+    },
+    {
+      "source": "notable capital",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Notable Capital 将其10亿美元以上基金美国部分约10%投入Anthropic E轮(615亿美元估值),IPO后账面回报约15倍",
+          "article_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "article_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+          "added_at": "2026-11-23T02:10:00.339300+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coatue",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Coatue 与GIC共同领投Anthropic 3800亿美元估值的G轮",
+          "article_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "article_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+          "added_at": "2026-11-23T02:10:00.339300+00:00"
+        }
+      ]
+    },
+    {
+      "source": "baillie gifford",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Baillie Gifford 自F轮起三轮合计投资Anthropic 15亿美元",
+          "article_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "article_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+          "added_at": "2026-11-23T02:10:00.339300+00:00"
         }
       ]
     }
@@ -42084,6 +42170,15 @@
       "source_name": "NASASpaceFlight.com",
       "published": "Sun, 22 Nov 2026 22:31:24 +0000",
       "added_at": "2026-11-22T23:10:20.566783+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Notable、GIC、Baillie Gifford等纯财务投资人在Anthropic IPO(813亿美元募资、约1.5万亿美元完全稀释估值)中获得大幅账面回报,验证了以开发者份额和企业采用为领先指标押注前沿模型的逻辑;上市前的资本瓶颈已由公开市场接手,瓶颈回到算力与能源,确定性受益仍是芯片和云基础设施层,模型层估值已计入大量预期,需关注锁定期后机构减持",
+      "article_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "article_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+      "added_at": "2026-11-23T02:10:00.619813+00:00"
     }
   ]
 }
