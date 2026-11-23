@@ -432,9 +432,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 43,
+      "mentions": 44,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T12:11:01.012891+00:00"
+      "last_seen": "2026-11-23T22:12:38.112309+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -509,9 +509,9 @@
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 57,
+      "mentions": 58,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T19:10:19.232862+00:00"
+      "last_seen": "2026-11-23T22:12:36.628957+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -7676,16 +7676,17 @@
       "type": "company",
       "sectors": [
         "networking",
-        "networking / observability"
+        "networking / observability",
+        "networking / security infrastructure"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "CSCO",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-13T06:17:15.584969+00:00",
-      "last_seen": "2026-11-17T00:10:19.451376+00:00"
+      "last_seen": "2026-11-23T22:12:38.112309+00:00"
     },
     "hitachi": {
       "name": "Hitachi",
@@ -9677,16 +9678,17 @@
       "sectors": [
         "cybersecurity / cloud security",
         "network security",
-        "cybersecurity"
+        "cybersecurity",
+        "cybersecurity platform"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "PANW",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-16T13:10:09.267246+00:00",
-      "last_seen": "2026-11-20T16:12:08.832578+00:00"
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
     },
     "asrock rack": {
       "name": "ASRock Rack",
@@ -11152,16 +11154,17 @@
         "servers / HPC",
         "servers",
         "HPC systems",
-        "servers / networking"
+        "servers / networking",
+        "enterprise IT / networking"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "HPE",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-17T15:11:12.258072+00:00",
-      "last_seen": "2026-11-23T18:11:07.905197+00:00"
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
     },
     "lux": {
       "name": "Lux",
@@ -16106,6 +16109,171 @@
       "mentions": 1,
       "first_seen": "2026-11-23T19:10:19.232862+00:00",
       "last_seen": "2026-11-23T19:10:19.232862+00:00"
+    },
+    "claude ship": {
+      "name": "Claude Ship",
+      "type": "product",
+      "sectors": [
+        "AI code review and approval agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:36.628957+00:00",
+      "last_seen": "2026-11-23T22:12:36.628957+00:00"
+    },
+    "crowdstrike": {
+      "name": "CrowdStrike",
+      "type": "company",
+      "sectors": [
+        "endpoint security / AI security platform"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "CRWD",
+      "mentions": 2,
+      "first_seen": "2026-11-23T22:12:37.614249+00:00",
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+    },
+    "zscaler": {
+      "name": "Zscaler",
+      "type": "company",
+      "sectors": [
+        "zero trust / SASE cloud security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "ZS",
+      "mentions": 2,
+      "first_seen": "2026-11-23T22:12:37.614249+00:00",
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+    },
+    "safemind": {
+      "name": "SafeMind",
+      "type": "product",
+      "sectors": [
+        "AI models for vulnerability discovery and detection"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:37.614249+00:00",
+      "last_seen": "2026-11-23T22:12:37.614249+00:00"
+    },
+    "shirudo": {
+      "name": "Shirudo",
+      "type": "product",
+      "sectors": [
+        "eBPF-based open-source runtime security shield"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:38.112309+00:00",
+      "last_seen": "2026-11-23T22:12:38.112309+00:00"
+    },
+    "fortinet": {
+      "name": "Fortinet",
+      "type": "company",
+      "sectors": [
+        "firewall / network security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "FTNT",
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:38.615695+00:00",
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+    },
+    "check point software": {
+      "name": "Check Point Software",
+      "type": "company",
+      "sectors": [
+        "firewall security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "CHKP",
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:38.615695+00:00",
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+    },
+    "netskope": {
+      "name": "Netskope",
+      "type": "company",
+      "sectors": [
+        "SASE security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:38.615695+00:00",
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+    },
+    "cato networks": {
+      "name": "Cato Networks",
+      "type": "company",
+      "sectors": [
+        "SASE security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:38.615695+00:00",
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+    },
+    "cyberark": {
+      "name": "CyberArk",
+      "type": "company",
+      "sectors": [
+        "identity security"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:38.615695+00:00",
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+    },
+    "juniper networks": {
+      "name": "Juniper Networks",
+      "type": "company",
+      "sectors": [
+        "networking"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T22:12:38.615695+00:00",
+      "last_seen": "2026-11-23T22:12:38.615695+00:00"
     }
   },
   "edges": [
@@ -38090,6 +38258,209 @@
           "added_at": "2026-11-23T19:10:19.232862+00:00"
         }
       ]
+    },
+    {
+      "source": "anthropic",
+      "target": "claude ship",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Anthropic 推出 Claude Ship,包含 Code Review、PR Steward 和可按团队策略自动批准代码变更的 Claude Approvals",
+          "article_title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "article_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 22:05:50 +0000",
+          "added_at": "2026-11-23T22:12:36.628957+00:00"
+        }
+      ]
+    },
+    {
+      "source": "crowdstrike",
+      "target": "zscaler",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "CrowdStrike 以约 439 亿美元全股票收购 Zscaler,每股 260.4 美元,溢价 34%,为有记录以来最大的网络安全收购",
+          "article_title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrike-to-buy-zscaler-in-record-setting-43-9b-cybersecurity-deal/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:29:30 +0000",
+          "added_at": "2026-11-23T22:12:37.614249+00:00"
+        },
+        {
+          "description": "分析师认为这笔 440 亿美元交易是对安全平台化的押注,短期是联合销售,中期需整合两个 agent",
+          "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+          "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
+    },
+    {
+      "source": "crowdstrike",
+      "target": "safemind",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "CrowdStrike 的 SafeMind AI 模型将使用 Zscaler 的网络遥测数据扩充训练集",
+          "article_title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrike-to-buy-zscaler-in-record-setting-43-9b-cybersecurity-deal/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:29:30 +0000",
+          "added_at": "2026-11-23T22:12:37.614249+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cisco systems",
+      "target": "openai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Cisco 与 OpenAI 发起开源 Secure Infrastructure Project,首个项目 Shirudo 基于 eBPF 在补丁前实时拦截漏洞利用",
+          "article_title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+          "article_url": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:20:59 +0000",
+          "added_at": "2026-11-23T22:12:38.112309+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cisco systems",
+      "target": "shirudo",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Shirudo 是 Cisco 参与的开源运行时安全项目 Tetragon 的演进,与 OpenAI 共同发布",
+          "article_title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+          "article_url": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:20:59 +0000",
+          "added_at": "2026-11-23T22:12:38.112309+00:00"
+        }
+      ]
+    },
+    {
+      "source": "openai",
+      "target": "shirudo",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "OpenAI 已在由 Codex 驱动的 agent 控制平面中部署 Shirudo,自动复现漏洞并部署签名防护",
+          "article_title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+          "article_url": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:20:59 +0000",
+          "added_at": "2026-11-23T22:12:38.112309+00:00"
+        }
+      ]
+    },
+    {
+      "source": "crowdstrike",
+      "target": "palo alto networks",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "若 CrowdStrike 实现单一 agent 和单一数据集,将对 Palo Alto 构成长期威胁,Palo Alto 的 Prisma SASE 最为暴露",
+          "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+          "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
+    },
+    {
+      "source": "zscaler",
+      "target": "palo alto networks",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Palo Alto 的 Prisma SASE 业务一直在追赶 Zscaler,并试图撬走其客户",
+          "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+          "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
+    },
+    {
+      "source": "palo alto networks",
+      "target": "cyberark",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Palo Alto 于 2 月完成对 CyberArk 的收购并更名为 Idira,正在交叉销售",
+          "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+          "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
+    },
+    {
+      "source": "crowdstrike",
+      "target": "fortinet",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "CrowdStrike 与 Fortinet 在终端和防火墙防护上合作,分析师认为 Fortinet 是更大的潜在收购目标",
+          "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+          "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
+    },
+    {
+      "source": "netskope",
+      "target": "zscaler",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Netskope 作为独立 SASE 厂商需与 CrowdStrike+Zscaler 的捆绑竞争,被 Oppenheimer 列为有吸引力的收购标的",
+          "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+          "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cato networks",
+      "target": "zscaler",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Cato Networks 作为独立 SASE 厂商面临捆绑销售压力",
+          "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+          "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hewlett packard enterprise",
+      "target": "juniper networks",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "HPE 收购 Juniper 后在网络中嵌入安全,被视为 SASE 厂商的潜在买家",
+          "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+          "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+          "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -45202,6 +45573,51 @@
       "source_name": "The Quantum Insider",
       "published": "Mon, 23 Nov 2026 18:39:43 +0000",
       "added_at": "2026-11-23T19:10:19.737489+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Claude Ship 把 AI 编程从“写代码”推进到“审查和自动批准”,解决 agent 时代代码审批的瓶颈,增加模型推理用量,利好模型公司与推理算力;但自动审批仍在 beta,建议先只观察",
+      "article_title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "article_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 23 Nov 2026 22:05:50 +0000",
+      "added_at": "2026-11-23T22:12:36.876291+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "据报道 Megaspeed 将被列入美国实体清单,监管从“卖给谁”前移到“中间商是谁”,英伟达海外第三方渠道合规风险上升,利好合规记录清晰的大型云厂商与芯片流向追踪类服务,利空英伟达亚洲增量渠道(基于匿名消息源)",
+      "article_title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "article_url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 23 Nov 2026 21:25:42 +0000",
+      "added_at": "2026-11-23T22:12:37.360410+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "CrowdStrike 439 亿美元收购 Zscaler,核心是用网络遥测扩充 SafeMind 安全 AI 训练数据,安全行业走向“数据+统一控制平面”的平台化,利好拥有最大遥测数据的平台型安全公司及其背后的推理算力;交割和整合仍需时间",
+      "article_title": "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
+      "article_url": "https://siliconangle.com/2026/11/23/crowdstrike-to-buy-zscaler-in-record-setting-43-9b-cybersecurity-deal/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 23 Nov 2026 21:29:30 +0000",
+      "added_at": "2026-11-23T22:12:37.864937+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Cisco 与 OpenAI 推出 Shirudo,用 AI agent 在毫秒级部署运行时防护,填补“发现漏洞”到“补丁上线”之间的空窗,利好掌握运行时/网络层的基础设施厂商和以 Codex 为代表的安全运维推理负载(测试结果为发起方自述,未经独立验证)",
+      "article_title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+      "article_url": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 23 Nov 2026 21:20:59 +0000",
+      "added_at": "2026-11-23T22:12:38.369410+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "分析师认为 agentic AI 让“最佳单品+集成”失效,安全行业加速平台化,CrowdStrike 与 Palo Alto 进入正面对决,独立 SASE/防火墙厂商获并购预期;平台整合与集中度风险仍待验证",
+      "article_title": "CrowdStrike’s Zscaler deal is a $44B vote for platformization and a long-term threat to Palo Alto Networks",
+      "article_url": "https://siliconangle.com/2026/11/23/crowdstrikes-zscaler-deal-is-a-44b-vote-for-platformization-and-a-long-term-threat-to-palo-alto-networks/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 23 Nov 2026 21:11:24 +0000",
+      "added_at": "2026-11-23T22:12:38.865327+00:00"
     }
   ]
 }
