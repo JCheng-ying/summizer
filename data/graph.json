@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 90,
+      "mentions": 92,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-23T12:11:01.012891+00:00",
+      "last_seen": "2026-11-23T13:11:53.083340+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -465,9 +465,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 31,
+      "mentions": 32,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T01:11:33.292659+00:00"
+      "last_seen": "2026-11-23T13:11:52.320305+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -652,9 +652,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T12:11:01.757369+00:00"
+      "last_seen": "2026-11-23T13:11:53.083340+00:00"
     },
     "groq": {
       "name": "Groq",
@@ -3054,15 +3054,17 @@
     "university of cambridge": {
       "name": "University of Cambridge",
       "type": "institution",
-      "sectors": [],
+      "sectors": [
+        "university"
+      ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-15T05:50:16.566183+00:00",
-      "last_seen": "2026-08-15T05:50:16.566183+00:00"
+      "last_seen": "2026-11-23T13:11:51.320621+00:00"
     },
     "franka": {
       "name": "Franka Robotics",
@@ -4452,7 +4454,8 @@
         "US government",
         "federal agency",
         "government / energy research",
-        "government research funding"
+        "government research funding",
+        "government"
       ],
       "sector_tags": [
         "能源板块",
@@ -4461,9 +4464,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-10-25T06:05:12.258254+00:00",
-      "last_seen": "2026-11-18T13:11:52.489182+00:00"
+      "last_seen": "2026-11-23T13:11:53.083340+00:00"
     },
     "generative bionics": {
       "name": "Generative Bionics",
@@ -5062,9 +5065,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-06T06:49:28.119096+00:00",
-      "last_seen": "2026-11-06T06:49:28.119096+00:00"
+      "last_seen": "2026-11-23T13:11:51.320621+00:00"
     },
     "draco": {
       "name": "DRACO",
@@ -6411,13 +6414,14 @@
         "supercomputing center"
       ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-10T05:12:44.450063+00:00",
-      "last_seen": "2026-11-17T21:11:20.539427+00:00"
+      "last_seen": "2026-11-23T13:11:51.320621+00:00"
     },
     "trumpf": {
       "name": "TRUMPF",
@@ -10084,9 +10088,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-16T18:11:38.859664+00:00",
-      "last_seen": "2026-11-19T12:12:41.548408+00:00"
+      "last_seen": "2026-11-23T13:11:51.815402+00:00"
     },
     "tecfusions": {
       "name": "TecFusions",
@@ -11127,16 +11131,17 @@
       "sectors": [
         "HPC servers / system integration",
         "servers / HPC",
-        "servers"
+        "servers",
+        "HPC systems"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "HPE",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-17T15:11:12.258072+00:00",
-      "last_seen": "2026-11-20T11:11:36.246025+00:00"
+      "last_seen": "2026-11-23T13:11:53.083340+00:00"
     },
     "lux": {
       "name": "Lux",
@@ -11157,7 +11162,8 @@
       "name": "Genesis Mission",
       "type": "institution",
       "sectors": [
-        "DOE AI-for-science initiative"
+        "DOE AI-for-science initiative",
+        "DOE SI-for-science initiative"
       ],
       "sector_tags": [
         "AI板块",
@@ -11165,9 +11171,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T15:11:12.258072+00:00",
-      "last_seen": "2026-11-17T15:11:12.258072+00:00"
+      "last_seen": "2026-11-23T13:11:53.083340+00:00"
     },
     "skeleton": {
       "name": "Skeleton Technologies",
@@ -15302,6 +15308,195 @@
       "mentions": 1,
       "first_seen": "2026-11-23T12:11:01.757369+00:00",
       "last_seen": "2026-11-23T12:11:01.757369+00:00"
+    },
+    "qsecurity": {
+      "name": "Q.security",
+      "type": "company",
+      "sectors": [
+        "post-quantum cryptography remediation"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:50.812944+00:00",
+      "last_seen": "2026-11-23T13:11:50.812944+00:00"
+    },
+    "castle island ventures": {
+      "name": "Castle Island Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:50.812944+00:00",
+      "last_seen": "2026-11-23T13:11:50.812944+00:00"
+    },
+    "new york life ventures": {
+      "name": "New York Life Ventures",
+      "type": "company",
+      "sectors": [
+        "corporate venture capital (insurance)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:50.812944+00:00",
+      "last_seen": "2026-11-23T13:11:50.812944+00:00"
+    },
+    "coinbase": {
+      "name": "Coinbase",
+      "type": "company",
+      "sectors": [
+        "crypto exchange"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": "COIN",
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:50.812944+00:00",
+      "last_seen": "2026-11-23T13:11:50.812944+00:00"
+    },
+    "unbound security": {
+      "name": "Unbound Security",
+      "type": "company",
+      "sectors": [
+        "cryptographic key management"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:50.812944+00:00",
+      "last_seen": "2026-11-23T13:11:50.812944+00:00"
+    },
+    "planqc": {
+      "name": "planqc",
+      "type": "company",
+      "sectors": [
+        "neutral-atom quantum computing"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:51.320621+00:00",
+      "last_seen": "2026-11-23T13:11:51.320621+00:00"
+    },
+    "german aerospace center dlr": {
+      "name": "German Aerospace Center (DLR)",
+      "type": "institution",
+      "sectors": [
+        "aerospace research"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:51.320621+00:00",
+      "last_seen": "2026-11-23T13:11:51.320621+00:00"
+    },
+    "airbus": {
+      "name": "Airbus",
+      "type": "company",
+      "sectors": [
+        "aerospace"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:51.320621+00:00",
+      "last_seen": "2026-11-23T13:11:51.320621+00:00"
+    },
+    "amadeus capital partners": {
+      "name": "Amadeus Capital Partners",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:51.320621+00:00",
+      "last_seen": "2026-11-23T13:11:51.320621+00:00"
+    },
+    "dayone data centers": {
+      "name": "DayOne Data Centers",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:51.815402+00:00",
+      "last_seen": "2026-11-23T13:11:51.815402+00:00"
+    },
+    "public power ppc": {
+      "name": "Public Power Corporation (PPC)",
+      "type": "company",
+      "sectors": [
+        "Greek electric utility"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:52.320305+00:00",
+      "last_seen": "2026-11-23T13:11:52.320305+00:00"
+    },
+    "argonne national laboratory": {
+      "name": "Argonne National Laboratory",
+      "type": "institution",
+      "sectors": [
+        "national laboratory"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:53.083340+00:00",
+      "last_seen": "2026-11-23T13:11:53.083340+00:00"
+    },
+    "world wide": {
+      "name": "World Wide Technology",
+      "type": "company",
+      "sectors": [
+        "IT systems integrator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T13:11:53.083340+00:00",
+      "last_seen": "2026-11-23T13:11:53.083340+00:00"
     }
   },
   "edges": [
@@ -36115,6 +36310,291 @@
           "added_at": "2026-11-23T12:11:01.757369+00:00"
         }
       ]
+    },
+    {
+      "source": "castle island ventures",
+      "target": "qsecurity",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Castle Island Ventures 领投 Q.security 1150 万美元种子轮",
+          "article_title": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
+          "article_url": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 13:01:54 +0000",
+          "added_at": "2026-11-23T13:11:50.812944+00:00"
+        }
+      ]
+    },
+    {
+      "source": "new york life ventures",
+      "target": "qsecurity",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "New York Life Ventures 参投 Q.security 种子轮",
+          "article_title": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
+          "article_url": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 13:01:54 +0000",
+          "added_at": "2026-11-23T13:11:50.812944+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coinbase",
+      "target": "qsecurity",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Coinbase Ventures 参投 Q.security 种子轮;两位创始人均有 Coinbase 背景",
+          "article_title": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
+          "article_url": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 13:01:54 +0000",
+          "added_at": "2026-11-23T13:11:50.812944+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coinbase",
+      "target": "unbound security",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Q.security CEO Guy Peer 联合创办的 Unbound Security 于 2021 年被 Coinbase 收购",
+          "article_title": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
+          "article_url": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 13:01:54 +0000",
+          "added_at": "2026-11-23T13:11:50.812944+00:00"
+        }
+      ]
+    },
+    {
+      "source": "planqc",
+      "target": "university of cambridge",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "planqc 在剑桥设立英国子公司,与卡文迪许实验室 Ulrich Schneider 团队合作开发下一代光晶格技术",
+          "article_title": "planqc Expands Into the UK With New Cambridge Site",
+          "article_url": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 12:36:39 +0000",
+          "added_at": "2026-11-23T13:11:51.320621+00:00"
+        }
+      ]
+    },
+    {
+      "source": "planqc",
+      "target": "leibniz supercomputing centre",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "planqc 正在为 LRZ 建造中性原子量子计算机",
+          "article_title": "planqc Expands Into the UK With New Cambridge Site",
+          "article_url": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 12:36:39 +0000",
+          "added_at": "2026-11-23T13:11:51.320621+00:00"
+        }
+      ]
+    },
+    {
+      "source": "planqc",
+      "target": "german aerospace center dlr",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "planqc 正在为 DLR 建造量子计算机",
+          "article_title": "planqc Expands Into the UK With New Cambridge Site",
+          "article_url": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 12:36:39 +0000",
+          "added_at": "2026-11-23T13:11:51.320621+00:00"
+        }
+      ]
+    },
+    {
+      "source": "planqc",
+      "target": "airbus",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "planqc 与空客合作开发早期量子应用",
+          "article_title": "planqc Expands Into the UK With New Cambridge Site",
+          "article_url": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 12:36:39 +0000",
+          "added_at": "2026-11-23T13:11:51.320621+00:00"
+        }
+      ]
+    },
+    {
+      "source": "planqc",
+      "target": "european space agency",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "planqc 与 ESA 合作开发早期量子应用",
+          "article_title": "planqc Expands Into the UK With New Cambridge Site",
+          "article_url": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 12:36:39 +0000",
+          "added_at": "2026-11-23T13:11:51.320621+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amadeus capital partners",
+      "target": "planqc",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "ARM 联合创始人、Amadeus Capital 的 Hermann Hauser 自 2023 年起投资 planqc 并任顾问委员会成员",
+          "article_title": "planqc Expands Into the UK With New Cambridge Site",
+          "article_url": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 12:36:39 +0000",
+          "added_at": "2026-11-23T13:11:51.320621+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "firmus",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "据彭博报道 Firmus 拟发债约 15 亿美元(整体债务最高 40 亿美元)购买 Nvidia GB300 芯片",
+          "article_title": "Firmus seeks $1.5bn bond offering - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/firmus-seeks-15bn-bond-offering-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:56:35 +0000",
+          "added_at": "2026-11-23T13:11:51.815402+00:00"
+        }
+      ]
+    },
+    {
+      "source": "firmus",
+      "target": "dayone data centers",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Firmus 与 DayOne Data Centers 合作开发印度尼西亚数据中心项目",
+          "article_title": "Firmus seeks $1.5bn bond offering - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/firmus-seeks-15bn-bond-offering-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:56:35 +0000",
+          "added_at": "2026-11-23T13:11:51.815402+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "public power ppc",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AWS 与希腊 PPC 在关闭的 Agios Dimitrios 燃煤电厂旧址合建 300MW(可扩至 1GW)数据中心园区,PPC 投 10 亿欧元,AWS 为 IT 设施投入相近金额",
+          "article_title": "Details shared of AWS' 300MW data center in Kozani, Greece",
+          "article_url": "https://www.datacenterdynamics.com/en/news/details-shared-of-aws-300mw-data-center-in-kozani-greece/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:30:37 +0000",
+          "added_at": "2026-11-23T13:11:52.320305+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of energy",
+      "target": "argonne national laboratory",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "阿贡是 DOE 下属国家实验室,其 ALCF 推理服务支持 Genesis Mission 项目",
+          "article_title": "DOE’s Argonne National Laboratory expands its Inference Service compute capacity with two new supercomputers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/does-argonne-national-laboratory-expands-its-inference-service-compute-capacity-with-two-new-supercomputers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:09:04 +0000",
+          "added_at": "2026-11-23T13:11:53.083340+00:00"
+        }
+      ]
+    },
+    {
+      "source": "argonne national laboratory",
+      "target": "genesis mission",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "阿贡新增 Tara 与 Minerva 两台系统扩容推理服务,服务 Genesis Mission 项目",
+          "article_title": "DOE’s Argonne National Laboratory expands its Inference Service compute capacity with two new supercomputers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/does-argonne-national-laboratory-expands-its-inference-service-compute-capacity-with-two-new-supercomputers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:09:04 +0000",
+          "added_at": "2026-11-23T13:11:53.083340+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hewlett packard enterprise",
+      "target": "argonne national laboratory",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "HPE 与阿贡合作建造 Tara,基于 HPE Cray EX4000 架构,672 个节点",
+          "article_title": "DOE’s Argonne National Laboratory expands its Inference Service compute capacity with two new supercomputers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/does-argonne-national-laboratory-expands-its-inference-service-compute-capacity-with-two-new-supercomputers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:09:04 +0000",
+          "added_at": "2026-11-23T13:11:53.083340+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "argonne national laboratory",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Tara 配备 2,688 颗 Nvidia GH200,Minerva 配备 64 块 Nvidia B200",
+          "article_title": "DOE’s Argonne National Laboratory expands its Inference Service compute capacity with two new supercomputers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/does-argonne-national-laboratory-expands-its-inference-service-compute-capacity-with-two-new-supercomputers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:09:04 +0000",
+          "added_at": "2026-11-23T13:11:53.083340+00:00"
+        }
+      ]
+    },
+    {
+      "source": "world wide",
+      "target": "argonne national laboratory",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Minerva 系统与 World Wide Technology 合作开发",
+          "article_title": "DOE’s Argonne National Laboratory expands its Inference Service compute capacity with two new supercomputers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/does-argonne-national-laboratory-expands-its-inference-service-compute-capacity-with-two-new-supercomputers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:09:04 +0000",
+          "added_at": "2026-11-23T13:11:53.083340+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sambanova systems",
+      "target": "argonne national laboratory",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "阿贡 Metis 平台从两台扩展到六台 SambaRack,共 96 颗 SN40L 芯片",
+          "article_title": "DOE’s Argonne National Laboratory expands its Inference Service compute capacity with two new supercomputers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/does-argonne-national-laboratory-expands-its-inference-service-compute-capacity-with-two-new-supercomputers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:09:04 +0000",
+          "added_at": "2026-11-23T13:11:53.083340+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -42948,6 +43428,60 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 23 Nov 2026 11:20:40 +0000",
       "added_at": "2026-11-23T12:11:02.004768+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Q.security 获 1150 万美元种子轮做企业 PQC 迁移修复(公司新闻稿,能力未经独立验证),同日微软也组建量子安全团队,说明'量子威胁'已先于量子硬件产生真实企业预算,但这部分预算主要流向安全迁移层而非量子硬件公司",
+      "article_title": "Q.security Launches With $11.5 Million From Castle Island Ventures, New York Life Ventures and Coinbase Ventures",
+      "article_url": "https://thequantuminsider.com/2026/11/23/q-security-launches-with-11-5-million-from-castle-island-ventures-new-york-life-ventures-and-coinbase-ventures/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 13:01:54 +0000",
+      "added_at": "2026-11-23T13:11:51.062972+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "planqc 在剑桥投入两位数百万级资金建中性原子实验室并与卡文迪许合作开发光晶格(公司新闻稿),中性原子路线的扩展瓶颈转向激光、光学和真空工程,利好这一层上游供应商;站点约 20 人,仍属研发布局",
+      "article_title": "planqc Expands Into the UK With New Cambridge Site",
+      "article_url": "https://thequantuminsider.com/2026/11/23/planqc-expands-into-the-uk-with-new-cambridge-site/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 12:36:39 +0000",
+      "added_at": "2026-11-23T13:11:51.569035+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Firmus 据报拟发约 15 亿美元、69 个月、收益率约 8% 的债券购买 GB300:GPU 需求继续被债务撑着,利好 Nvidia 和服务器/网络层;但 neocloud 融资成本高企、三条融资渠道同时推进,对 neocloud 层偏谨慎",
+      "article_title": "Firmus seeks $1.5bn bond offering - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/firmus-seeks-15bn-bond-offering-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 12:56:35 +0000",
+      "added_at": "2026-11-23T13:11:52.068240+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "AWS 与 PPC 在关闭的 1.55GW 燃煤电厂旧址建 300MW 数据中心,复用 400kV 变电站和输电容量,说明并网容量是瓶颈,手握存量电网接入点的公用事业和高压电气设备商受益",
+      "article_title": "Details shared of AWS' 300MW data center in Kozani, Greece",
+      "article_url": "https://www.datacenterdynamics.com/en/news/details-shared-of-aws-300mw-data-center-in-kozani-greece/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 12:30:37 +0000",
+      "added_at": "2026-11-23T13:11:52.575657+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AWS 在希腊规划 300MW、可扩至 1GW 的园区,超大规模云厂商资本开支继续向南欧扩张;但协议 2027 年一季度才敲定、2028 年底完工,对近期需求影响有限",
+      "article_title": "Details shared of AWS' 300MW data center in Kozani, Greece",
+      "article_url": "https://www.datacenterdynamics.com/en/news/details-shared-of-aws-300mw-data-center-in-kozani-greece/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 12:30:37 +0000",
+      "added_at": "2026-11-23T13:11:52.821899+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "阿贡为 Genesis Mission 推理服务新增 2,688 颗 GH200 的 Tara、64 块 B200 的 Minerva 并扩容 SambaNova,可托管 50+ 大模型:科研算力重心转向推理和显存,利好 Nvidia、HBM、HPE 系统集成,SambaNova 获国家实验室标杆部署",
+      "article_title": "DOE’s Argonne National Laboratory expands its Inference Service compute capacity with two new supercomputers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/does-argonne-national-laboratory-expands-its-inference-service-compute-capacity-with-two-new-supercomputers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 12:09:04 +0000",
+      "added_at": "2026-11-23T13:11:53.336921+00:00"
     }
   ]
 }
