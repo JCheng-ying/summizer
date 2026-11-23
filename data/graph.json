@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 92,
+      "mentions": 93,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-23T13:11:53.083340+00:00",
+      "last_seen": "2026-11-23T14:11:04.035444+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -412,9 +412,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 31,
+      "mentions": 32,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T10:09:58.080062+00:00"
+      "last_seen": "2026-11-23T14:11:04.035444+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -787,9 +787,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 18,
+      "mentions": 19,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-22T02:16:01.522523+00:00"
+      "last_seen": "2026-11-23T14:11:05.024385+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -3641,7 +3641,8 @@
       "sectors": [
         "frontier AI models (Grok series)",
         "AI compute / cloud",
-        "frontier AI lab"
+        "frontier AI lab",
+        "foundation models (Grok)"
       ],
       "sector_tags": [
         "AI板块",
@@ -3649,9 +3650,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-23T05:51:54.682460+00:00",
-      "last_seen": "2026-11-17T18:11:18.536127+00:00"
+      "last_seen": "2026-11-23T14:11:05.024385+00:00"
     },
     "cursor": {
       "name": "Cursor",
@@ -6115,9 +6116,9 @@
       ],
       "hot": "hot",
       "ticker": "EQIX",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-09T06:06:08.786657+00:00",
-      "last_seen": "2026-11-10T05:12:44.190729+00:00"
+      "last_seen": "2026-11-23T14:11:04.035444+00:00"
     },
     "tallgrass energy": {
       "name": "Tallgrass Energy",
@@ -15497,6 +15498,36 @@
       "mentions": 1,
       "first_seen": "2026-11-23T13:11:53.083340+00:00",
       "last_seen": "2026-11-23T13:11:53.083340+00:00"
+    },
+    "du": {
+      "name": "du",
+      "type": "company",
+      "sectors": [
+        "UAE telecom / sovereign cloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T14:11:04.035444+00:00",
+      "last_seen": "2026-11-23T14:11:04.035444+00:00"
+    },
+    "innovaccer": {
+      "name": "Innovaccer",
+      "type": "company",
+      "sectors": [
+        "healthcare AI / data platform"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T14:11:05.024385+00:00",
+      "last_seen": "2026-11-23T14:11:05.024385+00:00"
     }
   },
   "edges": [
@@ -36595,6 +36626,96 @@
           "added_at": "2026-11-23T13:11:53.083340+00:00"
         }
       ]
+    },
+    {
+      "source": "nvidia",
+      "target": "du",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "du 2025 年 11 月在迪拜 DSO 数据中心为 NextGenAI 部署 13MW 的 Nvidia B300 GPU 集群",
+          "article_title": "UAE telco du launches sovereign AI platform",
+          "article_url": "https://www.datacenterdynamics.com/en/news/uae-telco-du-launches-sovereign-ai-platform/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 13:31:26 +0000",
+          "added_at": "2026-11-23T14:11:04.035444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "du",
+      "target": "microsoft",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "du 2025 年 4 月与微软签约 5.4454 亿美元在阿联酋开发超大规模数据中心,微软为主要租户",
+          "article_title": "UAE telco du launches sovereign AI platform",
+          "article_url": "https://www.datacenterdynamics.com/en/news/uae-telco-du-launches-sovereign-ai-platform/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 13:31:26 +0000",
+          "added_at": "2026-11-23T14:11:04.035444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "equinix",
+      "target": "du",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "du 的数据中心包括 IMPZ 的 Equinix 第三方设施",
+          "article_title": "UAE telco du launches sovereign AI platform",
+          "article_url": "https://www.datacenterdynamics.com/en/news/uae-telco-du-launches-sovereign-ai-platform/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 13:31:26 +0000",
+          "added_at": "2026-11-23T14:11:04.035444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacexai",
+      "target": "innovaccer",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Innovaccer 将 SpaceXSI(原 xAI)的 Grok Voice 语音到语音模型接入 Gravity Voice AI agents,并计划通过 Grok API 接入医疗数据",
+          "article_title": "Innovaccer expands Gravity Voice AI agents with SpaceXSI’s Grok Voice model",
+          "article_url": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 14:00:09 +0000",
+          "added_at": "2026-11-23T14:11:05.024385+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "spacexai",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "SpaceX 于 2 月收购 xAI,7 月更名 SpaceXAI,10 月起使用 SpaceXSI 名称",
+          "article_title": "Innovaccer expands Gravity Voice AI agents with SpaceXSI’s Grok Voice model",
+          "article_url": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 14:00:09 +0000",
+          "added_at": "2026-11-23T14:11:05.024385+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacexai",
+      "target": "spacex",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Starlink 每天用 Grok Voice 接听约 2 万通客服电话,约 70% 无需人工",
+          "article_title": "Innovaccer expands Gravity Voice AI agents with SpaceXSI’s Grok Voice model",
+          "article_url": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 14:00:09 +0000",
+          "added_at": "2026-11-23T14:11:05.024385+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -43482,6 +43603,33 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 23 Nov 2026 12:09:04 +0000",
       "added_at": "2026-11-23T13:11:53.336921+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "阿联酋电信 du 推出主权 AI 平台 National HyperAI(推理、GPU 即服务、模型即服务、agent 工作流),数据与硬件留在境内:主权 AI 把 GPU 需求分散到各国电信/本地运营商,利好 Nvidia 和本地数据中心层,但平台规模(13MW B300)有限、未披露客户数据",
+      "article_title": "UAE telco du launches sovereign AI platform",
+      "article_url": "https://www.datacenterdynamics.com/en/news/uae-telco-du-launches-sovereign-ai-platform/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 13:31:26 +0000",
+      "added_at": "2026-11-23T14:11:04.292226+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Cyberhaven(利益相关的数据安全厂商,单场景测试未经独立验证)称 agent 在 100 次运行中 87 次泄露机密数据,闭源模型守住文件却泄露其中数字:agent 企业落地卡在'可信授权',利空应用层部署节奏,利好内容级数据追踪、运行时监督等 AI 安全治理层",
+      "article_title": "AI agents leaked confidential data in 87 of 100 test runs, Cyberhaven finds",
+      "article_url": "https://siliconangle.com/2026/11/23/ai-agents-leaked-confidential-data-in-87-of-100-test-runs-cyberhaven-finds/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 23 Nov 2026 14:00:54 +0000",
+      "added_at": "2026-11-23T14:11:04.770700+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Innovaccer 接入 SpaceXSI 的 Grok Voice 处理医疗行政电话,称六个月语音交互从 25 万增至 500 万+(公司自述未经验证):低延迟、HIPAA 合规的语音 agent 开始按工作量替代人工,利好推理算力、专用语音模型厂商和掌握工作流的垂直平台",
+      "article_title": "Innovaccer expands Gravity Voice AI agents with SpaceXSI’s Grok Voice model",
+      "article_url": "https://siliconangle.com/2026/11/23/innovaccer-expands-gravity-voice-ai-agents-with-spacexsis-grok-voice-model/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 23 Nov 2026 14:00:09 +0000",
+      "added_at": "2026-11-23T14:11:05.275727+00:00"
     }
   ]
 }
