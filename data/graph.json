@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 88,
+      "mentions": 90,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-22T11:10:14.679720+00:00",
+      "last_seen": "2026-11-23T12:11:01.012891+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -432,9 +432,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 42,
+      "mentions": 43,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-22T11:10:14.679720+00:00"
+      "last_seen": "2026-11-23T12:11:01.012891+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -537,16 +537,17 @@
       "type": "company",
       "sectors": [
         "cloud / database",
-        "cloud"
+        "cloud",
+        "cloud infrastructure"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "ORCL",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-22T02:16:02.499365+00:00"
+      "last_seen": "2026-11-23T12:11:01.012891+00:00"
     },
     "palantir": {
       "name": "Palantir Technologies",
@@ -651,9 +652,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-18T13:11:54.168942+00:00"
+      "last_seen": "2026-11-23T12:11:01.757369+00:00"
     },
     "groq": {
       "name": "Groq",
@@ -4641,13 +4642,14 @@
         "national laboratory"
       ],
       "sector_tags": [
-        "能源板块"
+        "能源板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-16T20:10:10.600253+00:00"
+      "last_seen": "2026-11-23T12:11:01.757369+00:00"
     },
     "sparxity": {
       "name": "Sparxity",
@@ -8147,14 +8149,18 @@
       "name": "KKR",
       "type": "company",
       "sectors": [
-        "private equity"
+        "private equity",
+        "private equity / infrastructure investor"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
       "hot": null,
-      "ticker": null,
-      "mentions": 2,
+      "ticker": "KKR",
+      "mentions": 3,
       "first_seen": "2026-11-13T11:09:40.396868+00:00",
-      "last_seen": "2026-11-18T16:11:40.652756+00:00"
+      "last_seen": "2026-11-23T12:11:00.263592+00:00"
     },
     "singtel": {
       "name": "Singtel",
@@ -9699,16 +9705,17 @@
       "name": "CyrusOne",
       "type": "company",
       "sectors": [
-        "data center developer"
+        "data center developer",
+        "data center operator"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T14:12:40.415551+00:00",
-      "last_seen": "2026-11-16T14:12:40.415551+00:00"
+      "last_seen": "2026-11-23T12:11:00.263592+00:00"
     },
     "carlyle": {
       "name": "Carlyle",
@@ -12014,16 +12021,17 @@
       "name": "Supermicro",
       "type": "company",
       "sectors": [
-        "AI servers"
+        "AI servers",
+        "servers / systems integration"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": "SMCI",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T21:11:21.777206+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-23T12:11:01.757369+00:00"
     },
     "lila sciences": {
       "name": "Lila Sciences",
@@ -15203,6 +15211,97 @@
       "mentions": 1,
       "first_seen": "2026-11-23T11:10:20.553198+00:00",
       "last_seen": "2026-11-23T11:10:20.553198+00:00"
+    },
+    "helix digital infrastructure": {
+      "name": "Helix Digital Infrastructure",
+      "type": "company",
+      "sectors": [
+        "AI data center platform"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T12:11:00.263592+00:00",
+      "last_seen": "2026-11-23T12:11:00.263592+00:00"
+    },
+    "edgecore digital infrastructure": {
+      "name": "EdgeCore Digital Infrastructure",
+      "type": "company",
+      "sectors": [
+        "data center developer/operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T12:11:00.263592+00:00",
+      "last_seen": "2026-11-23T12:11:00.263592+00:00"
+    },
+    "partners": {
+      "name": "Partners Group",
+      "type": "company",
+      "sectors": [
+        "private markets investor"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T12:11:00.263592+00:00",
+      "last_seen": "2026-11-23T12:11:00.263592+00:00"
+    },
+    "kuwait investment authority": {
+      "name": "Kuwait Investment Authority",
+      "type": "institution",
+      "sectors": [
+        "sovereign wealth fund"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T12:11:00.263592+00:00",
+      "last_seen": "2026-11-23T12:11:00.263592+00:00"
+    },
+    "texas advanced computing center": {
+      "name": "Texas Advanced Computing Center",
+      "type": "institution",
+      "sectors": [
+        "academic supercomputing"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T12:11:01.757369+00:00",
+      "last_seen": "2026-11-23T12:11:01.757369+00:00"
+    },
+    "national science foundation": {
+      "name": "National Science Foundation",
+      "type": "institution",
+      "sectors": [
+        "US research funding agency"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T12:11:01.757369+00:00",
+      "last_seen": "2026-11-23T12:11:01.757369+00:00"
     }
   },
   "edges": [
@@ -15424,6 +15523,14 @@
           "source_name": "SiliconANGLE",
           "published": "2025-09-10",
           "added_at": "2026-08-06T04:43:25.270278+00:00"
+        },
+        {
+          "description": "Oracle 称已完成本投资周期全部融资(11 月发行 100 亿美元普通股和 100 亿美元票据),交付 OpenAI 算力合同不依赖供应商融资讨论;Abilene 园区接近完工",
+          "article_title": "Oracle secures funding needed for OpenAI buildout",
+          "article_url": "https://www.datacenterdynamics.com/en/news/oracle-secures-funding-needed-for-openai-buildout/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 11:40:40 +0000",
+          "added_at": "2026-11-23T12:11:01.012891+00:00"
         }
       ]
     },
@@ -35843,6 +35950,171 @@
           "added_at": "2026-11-23T11:10:20.553198+00:00"
         }
       ]
+    },
+    {
+      "source": "kkr",
+      "target": "helix digital infrastructure",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Helix 是 KKR 旗下的 AI 基础设施投资平台,由前 AWS CEO Adam Selipsky 领导,承诺资本 100 亿美元",
+          "article_title": "KKR could acquire majority stake in EdgeCore for up to $10bn - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/kkr-could-acquire-majority-stake-in-edgecore-for-up-to-10bn-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:00:53 +0000",
+          "added_at": "2026-11-23T12:11:00.263592+00:00"
+        }
+      ]
+    },
+    {
+      "source": "helix digital infrastructure",
+      "target": "edgecore digital infrastructure",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "据报道 KKR 正通过 Helix 洽谈以 80-100 亿美元估值收购 EdgeCore 多数股权,谈判仍可能失败",
+          "article_title": "KKR could acquire majority stake in EdgeCore for up to $10bn - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/kkr-could-acquire-majority-stake-in-edgecore-for-up-to-10bn-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:00:53 +0000",
+          "added_at": "2026-11-23T12:11:00.263592+00:00"
+        }
+      ]
+    },
+    {
+      "source": "partners",
+      "target": "edgecore digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Partners Group 2022 年收购 EdgeCore,是当前多数股东,正与 KKR 谈判出售",
+          "article_title": "KKR could acquire majority stake in EdgeCore for up to $10bn - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/kkr-could-acquire-majority-stake-in-edgecore-for-up-to-10bn-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:00:53 +0000",
+          "added_at": "2026-11-23T12:11:00.263592+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "helix digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nvidia 是 Helix 的出资方之一,并作为战略合作伙伴支持其基础设施部署",
+          "article_title": "KKR could acquire majority stake in EdgeCore for up to $10bn - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/kkr-could-acquire-majority-stake-in-edgecore-for-up-to-10bn-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:00:53 +0000",
+          "added_at": "2026-11-23T12:11:00.263592+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kuwait investment authority",
+      "target": "helix digital infrastructure",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "科威特投资局是 Helix 的出资方之一",
+          "article_title": "KKR could acquire majority stake in EdgeCore for up to $10bn - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/kkr-could-acquire-majority-stake-in-edgecore-for-up-to-10bn-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:00:53 +0000",
+          "added_at": "2026-11-23T12:11:00.263592+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kkr",
+      "target": "cyrusone",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "KKR 与 BlackRock 旗下 GIP 共同持有 CyrusOne",
+          "article_title": "KKR could acquire majority stake in EdgeCore for up to $10bn - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/kkr-could-acquire-majority-stake-in-edgecore-for-up-to-10bn-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 12:00:53 +0000",
+          "added_at": "2026-11-23T12:11:00.263592+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "oracle",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Oracle 吉瓦级 Shackelford 园区的 Nvidia Vera Rubin 机柜交付按计划将在未来几周进行",
+          "article_title": "Oracle secures funding needed for OpenAI buildout",
+          "article_url": "https://www.datacenterdynamics.com/en/news/oracle-secures-funding-needed-for-openai-buildout/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 11:40:40 +0000",
+          "added_at": "2026-11-23T12:11:01.012891+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sambanova systems",
+      "target": "texas advanced computing center",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "TACC 的 Sagebrush 科研推理服务使用 SambaNova 芯片与 SambaStack,并将再采购四套系统",
+          "article_title": "Texas Advanced Computing Center builds AI inference service",
+          "article_url": "https://www.datacenterdynamics.com/en/news/texas-advanced-computing-center-builds-ai-inference-service/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 11:20:40 +0000",
+          "added_at": "2026-11-23T12:11:01.757369+00:00"
+        }
+      ]
+    },
+    {
+      "source": "national science foundation",
+      "target": "texas advanced computing center",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "NSF 资助 TACC 建设 Sagebrush AI 推理服务,资助自 2026 年 9 月开始,前两年为实验期",
+          "article_title": "Texas Advanced Computing Center builds AI inference service",
+          "article_url": "https://www.datacenterdynamics.com/en/news/texas-advanced-computing-center-builds-ai-inference-service/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 11:20:40 +0000",
+          "added_at": "2026-11-23T12:11:01.757369+00:00"
+        }
+      ]
+    },
+    {
+      "source": "texas advanced computing center",
+      "target": "los alamos national laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "TACC 将与同样探索 SambaNova 科研推理的洛斯阿拉莫斯国家实验室合作并共享信息",
+          "article_title": "Texas Advanced Computing Center builds AI inference service",
+          "article_url": "https://www.datacenterdynamics.com/en/news/texas-advanced-computing-center-builds-ai-inference-service/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 11:20:40 +0000",
+          "added_at": "2026-11-23T12:11:01.757369+00:00"
+        }
+      ]
+    },
+    {
+      "source": "supermicro",
+      "target": "sambanova systems",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Supermicro 本月表示将采购 1 万颗 SambaNova SN50 RDU,用于构建解耦式推理系统",
+          "article_title": "Texas Advanced Computing Center builds AI inference service",
+          "article_url": "https://www.datacenterdynamics.com/en/news/texas-advanced-computing-center-builds-ai-inference-service/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 11:20:40 +0000",
+          "added_at": "2026-11-23T12:11:01.757369+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -42631,6 +42903,51 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 23 Nov 2026 10:40:44 +0000",
       "added_at": "2026-11-23T11:10:21.045902+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "KKR 拟通过 Helix 以 80-100 亿美元估值收购 2GW 规模的 EdgeCore 多数股权(仍为传闻),在科技股抛售期间为 AI 数据中心资产提供私募估值锚;但 KKR 强调投资多在云而非 AI,显示长期资本也在对冲",
+      "article_title": "KKR could acquire majority stake in EdgeCore for up to $10bn - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/kkr-could-acquire-majority-stake-in-edgecore-for-up-to-10bn-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 12:00:53 +0000",
+      "added_at": "2026-11-23T12:11:00.507082+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Helix 以'数据中心+配套电力协议'打包交付为卖点,说明可按时通电的场地才是稀缺资源,利好现场发电、燃气轮机与输配电设备这一层",
+      "article_title": "KKR could acquire majority stake in EdgeCore for up to $10bn - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/kkr-could-acquire-majority-stake-in-edgecore-for-up-to-10bn-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 12:00:53 +0000",
+      "added_at": "2026-11-23T12:11:00.758644+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Oracle 宣布为 OpenAI 建设所需的 400 亿美元 FY2027 融资全部到位,Shackelford 园区 Vera Rubin 机柜即将交付,缓解 AI 算力供给侧的资金瓶颈担忧;但 7%-8.65% 的票据利率显示市场对集中押注单一客户的风险定价不低(公司口径)",
+      "article_title": "Oracle secures funding needed for OpenAI buildout",
+      "article_url": "https://www.datacenterdynamics.com/en/news/oracle-secures-funding-needed-for-openai-buildout/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 11:40:40 +0000",
+      "added_at": "2026-11-23T12:11:01.265686+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Oracle 吉瓦级 Shackelford 园区已获全部许可、Abilene 接近完工,吉瓦级园区落地带动发电、变电与液冷设备采购",
+      "article_title": "Oracle secures funding needed for OpenAI buildout",
+      "article_url": "https://www.datacenterdynamics.com/en/news/oracle-secures-funding-needed-for-openai-buildout/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 11:40:40 +0000",
+      "added_at": "2026-11-23T12:11:01.510277+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "NSF 资助 TACC 用 SambaNova 芯片建设常驻在线的科研推理服务 Sagebrush,说明推理正成为科研基础设施标配,且推理层出现非 GPU 架构的实际落地;规模尚小、前两年为实验期,SambaNova 性能数据为厂商口径",
+      "article_title": "Texas Advanced Computing Center builds AI inference service",
+      "article_url": "https://www.datacenterdynamics.com/en/news/texas-advanced-computing-center-builds-ai-inference-service/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 11:20:40 +0000",
+      "added_at": "2026-11-23T12:11:02.004768+00:00"
     }
   ]
 }
