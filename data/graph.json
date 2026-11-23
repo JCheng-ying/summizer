@@ -403,7 +403,8 @@
         "cloud, enterprise software & AI platforms",
         "cloud & AI",
         "hyperscaler / cloud",
-        "cloud / hyperscaler (Azure)"
+        "cloud / hyperscaler (Azure)",
+        "cloud / enterprise software / security"
       ],
       "sector_tags": [
         "AI板块",
@@ -411,9 +412,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 30,
+      "mentions": 31,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-22T11:10:14.679720+00:00"
+      "last_seen": "2026-11-23T10:09:58.080062+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -15150,6 +15151,22 @@
       "mentions": 1,
       "first_seen": "2026-11-23T09:11:15.897312+00:00",
       "last_seen": "2026-11-23T09:11:15.897312+00:00"
+    },
+    "microsoft israel rd center": {
+      "name": "Microsoft Israel R&D Center",
+      "type": "institution",
+      "sectors": [
+        "security R&D / post-quantum cryptography readiness"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T10:09:58.080062+00:00",
+      "last_seen": "2026-11-23T10:09:58.080062+00:00"
     }
   },
   "edges": [
@@ -35685,6 +35702,21 @@
           "added_at": "2026-11-23T09:11:15.897312+00:00"
         }
       ]
+    },
+    {
+      "source": "microsoft",
+      "target": "microsoft israel rd center",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "微软在以色列研发中心组建由 Inbar Badian 领导的团队,用 AI Agent 帮企业盘点加密使用情况、优先修复易被量子计算机破解的薄弱点",
+          "article_title": "Microsoft Builds Israeli Team to Help Companies Prepare for Quantum Threats",
+          "article_url": "https://thequantuminsider.com/2026/11/23/microsoft-builds-israeli-team-to-help-companies-prepare-for-quantum-threats/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 09:17:13 +0000",
+          "added_at": "2026-11-23T10:09:58.080062+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -42419,6 +42451,24 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 23 Nov 2026 09:00:09 +0000",
       "added_at": "2026-11-23T09:11:16.169399+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "微软组建以色列团队用 AI 盘点企业加密资产、为后量子迁移排优先级,并计划 2029 年前关键产品完成 PQC 过渡;利好量子防御侧的加密发现与密钥管理层,该支出不依赖量子硬件成熟时间(目前仅媒体报道,产品形态未公布)",
+      "article_title": "Microsoft Builds Israeli Team to Help Companies Prepare for Quantum Threats",
+      "article_url": "https://thequantuminsider.com/2026/11/23/microsoft-builds-israeli-team-to-help-companies-prepare-for-quantum-threats/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 09:17:13 +0000",
+      "added_at": "2026-11-23T10:09:58.326285+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "微软把 AI Agent 用于持续维护企业加密资产清单这类规则明确的安全运维任务,是企业级 Agent 落地的较扎实场景,利好企业 Agent 平台",
+      "article_title": "Microsoft Builds Israeli Team to Help Companies Prepare for Quantum Threats",
+      "article_url": "https://thequantuminsider.com/2026/11/23/microsoft-builds-israeli-team-to-help-companies-prepare-for-quantum-threats/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 09:17:13 +0000",
+      "added_at": "2026-11-23T10:09:58.575080+00:00"
     }
   ]
 }
