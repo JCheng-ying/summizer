@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 96,
+      "mentions": 97,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-23T18:11:08.654605+00:00",
+      "last_seen": "2026-11-23T19:10:19.232862+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -455,7 +455,8 @@
         "hyperscaler",
         "cloud / Amazon Braket",
         "cloud & e-commerce",
-        "e-commerce / cloud / custom AI chips"
+        "e-commerce / cloud / custom AI chips",
+        "cloud (Amazon Braket)"
       ],
       "sector_tags": [
         "AI板块",
@@ -466,9 +467,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 33,
+      "mentions": 34,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T18:11:08.654605+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -508,9 +509,9 @@
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 56,
+      "mentions": 57,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T02:10:00.339300+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -1432,9 +1433,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-18T18:10:40.409878+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "quantum circuits": {
       "name": "Quantum Circuits, Inc.",
@@ -4153,16 +4154,18 @@
       "type": "institution",
       "sectors": [
         "insect-scale flapping-wing microrobotics and AI control",
-        "biohybrid robotics"
+        "biohybrid robotics",
+        "quantum research"
       ],
       "sector_tags": [
-        "机器人板块"
+        "机器人板块",
+        "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-10-02T05:12:16.946688+00:00",
-      "last_seen": "2026-10-25T06:05:12.022512+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "twelvelabs": {
       "name": "TwelveLabs",
@@ -4459,7 +4462,8 @@
         "federal agency",
         "government / energy research",
         "government research funding",
-        "government"
+        "government",
+        "government science funding"
       ],
       "sector_tags": [
         "能源板块",
@@ -4468,9 +4472,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-10-25T06:05:12.258254+00:00",
-      "last_seen": "2026-11-23T13:11:53.083340+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "generative bionics": {
       "name": "Generative Bionics",
@@ -4650,13 +4654,14 @@
       ],
       "sector_tags": [
         "能源板块",
-        "AI板块"
+        "AI板块",
+        "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-23T12:11:01.757369+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "sparxity": {
       "name": "Sparxity",
@@ -6934,16 +6939,17 @@
       "name": "Harvard University",
       "type": "institution",
       "sectors": [
-        "research university"
+        "research university",
+        "quantum research"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-11T06:19:43.358890+00:00",
-      "last_seen": "2026-11-11T06:19:43.358890+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "european commission": {
       "name": "European Commission",
@@ -11177,17 +11183,19 @@
       "type": "institution",
       "sectors": [
         "DOE AI-for-science initiative",
-        "DOE SI-for-science initiative"
+        "DOE SI-for-science initiative",
+        "DOE AI-for-science program"
       ],
       "sector_tags": [
         "AI板块",
-        "能源板块"
+        "能源板块",
+        "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T15:11:12.258072+00:00",
-      "last_seen": "2026-11-23T13:11:53.083340+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "skeleton": {
       "name": "Skeleton Technologies",
@@ -12996,7 +13004,8 @@
       "name": "Lawrence Berkeley National Laboratory",
       "type": "institution",
       "sectors": [
-        "DOE national lab / NERSC supercomputing"
+        "DOE national lab / NERSC supercomputing",
+        "national laboratory"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -13004,9 +13013,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-18T18:10:40.409878+00:00",
-      "last_seen": "2026-11-18T18:10:40.409878+00:00"
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     },
     "bradesco": {
       "name": "Bradesco",
@@ -16067,6 +16076,36 @@
       "mentions": 1,
       "first_seen": "2026-11-23T18:11:08.654605+00:00",
       "last_seen": "2026-11-23T18:11:08.654605+00:00"
+    },
+    "cornell university": {
+      "name": "Cornell University",
+      "type": "institution",
+      "sectors": [
+        "quantum research"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T19:10:19.232862+00:00",
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
+    },
+    "sandia national laboratories": {
+      "name": "Sandia National Laboratories",
+      "type": "institution",
+      "sectors": [
+        "national laboratory"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T19:10:19.232862+00:00",
+      "last_seen": "2026-11-23T19:10:19.232862+00:00"
     }
   },
   "edges": [
@@ -17967,6 +18006,14 @@
           "source_name": "The Quantum Insider",
           "published": "Wed, 18 Nov 2026 17:03:12 +0000",
           "added_at": "2026-11-18T18:10:40.409878+00:00"
+        },
+        {
+          "description": "QuEra 计划 2028 年初通过 Amazon Braket 提供容错系统 Libra,Aquila 自 2022 年已上线 Braket",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
         }
       ]
     },
@@ -24912,6 +24959,14 @@
           "source_name": "The Quantum Insider",
           "published": "Tue, 10 Nov 2026 18:10:47 +0000",
           "added_at": "2026-11-11T06:19:43.358890+00:00"
+        },
+        {
+          "description": "此前 Claude 为 QuEra 编写激光锁定控制软件并协助设计量子电路,此次共同参与 AI 设计纠错项目",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
         }
       ]
     },
@@ -37885,6 +37940,156 @@
           "added_at": "2026-11-23T18:11:08.654605+00:00"
         }
       ]
+    },
+    {
+      "source": "us department of energy",
+      "target": "harvard university",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "能源部在 Genesis Mission 二期资助中向 Harvard 牵头的 ASQC 项目拨款 1200 万美元",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvard university",
+      "target": "quera computing",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "QuEra 作为合作方参与 Harvard 牵头的 ASQC 项目,AI 设计的纠错码和解码器将在其中性原子机器上测试",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvard university",
+      "target": "nvidia",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NVIDIA 的 Krysta Svore 参与 ASQC 应用感知量子纠错协同设计项目",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvard university",
+      "target": "anthropic",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Anthropic 的研究人员参与 ASQC 项目,用 AI 设计量子纠错码与解码器",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvard university",
+      "target": "massachusetts institute of",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "MIT 研究人员参与 ASQC 项目,并提供实验室系统用于硬件测试",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvard university",
+      "target": "cornell university",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Cornell 研究人员参与 ASQC 项目",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvard university",
+      "target": "los alamos national laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Los Alamos 国家实验室参与 ASQC 项目",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvard university",
+      "target": "lawrence berkeley national laboratory",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Lawrence Berkeley 国家实验室参与 ASQC 项目",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "harvard university",
+      "target": "sandia national laboratories",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Sandia 国家实验室参与 ASQC 项目",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
+    },
+    {
+      "source": "genesis mission",
+      "target": "harvard university",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "ASQC 是能源部 Genesis Mission 框架下 12 个二期资助项目之一",
+          "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+          "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+          "added_at": "2026-11-23T19:10:19.232862+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -44979,6 +45184,24 @@
       "source_name": "TechCrunch - AI",
       "published": "Mon, 23 Nov 2026 17:14:23 +0000",
       "added_at": "2026-11-23T18:11:08.914930+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "(QuEra 新闻稿,利益相关)能源部 1200 万美元资助 AI 设计的应用感知纠错,针对容错量子计算的纠错开销瓶颈,利好有自有硬件并参与协同设计的全栈公司如 QuEra,但项目刚立项、规模小",
+      "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+      "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+      "added_at": "2026-11-23T19:10:19.480997+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(QuEra 新闻稿,利益相关)神经网络解码器和 AI 设计纠错码让量子纠错依赖 GPU 级低延迟推理,NVIDIA 与 Anthropic 均参与,AI for Science 成为政府资助的具体应用场景",
+      "article_title": "QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction",
+      "article_url": "https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 18:39:43 +0000",
+      "added_at": "2026-11-23T19:10:19.737489+00:00"
     }
   ]
 }
