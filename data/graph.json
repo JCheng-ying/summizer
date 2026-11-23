@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 93,
+      "mentions": 94,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-23T14:11:04.035444+00:00",
+      "last_seen": "2026-11-23T15:12:30.792188+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -489,9 +489,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 16,
+      "mentions": 17,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T11:11:37.215462+00:00"
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -1802,7 +1802,8 @@
       "name": "Arm Holdings plc",
       "type": "company",
       "sectors": [
-        "chip IP licensing"
+        "chip IP licensing",
+        "CPU IP / data center chips"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1810,9 +1811,9 @@
       ],
       "hot": "hot",
       "ticker": "ARM",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:58:40.050696+00:00",
-      "last_seen": "2026-11-06T07:01:18.673267+00:00"
+      "last_seen": "2026-11-23T15:12:30.792188+00:00"
     },
     "advanced micro devices": {
       "name": "Advanced Micro Devices, Inc.",
@@ -4554,9 +4555,9 @@
       ],
       "hot": "hot",
       "ticker": "9434.T",
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-23T11:10:20.553198+00:00"
+      "last_seen": "2026-11-23T15:12:30.792188+00:00"
     },
     "nscale": {
       "name": "Nscale",
@@ -4959,9 +4960,9 @@
       ],
       "hot": "hot",
       "ticker": "JPM",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-06T06:49:27.820350+00:00",
-      "last_seen": "2026-11-09T06:06:04.478701+00:00"
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
     },
     "jariet": {
       "name": "Jariet Technologies",
@@ -6713,9 +6714,9 @@
       "sector_tags": [],
       "hot": "hot",
       "ticker": "WMT",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:47.255345+00:00",
-      "last_seen": "2026-11-10T05:12:47.255345+00:00"
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
     },
     "kddi": {
       "name": "KDDI",
@@ -6789,9 +6790,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-10T05:12:47.804011+00:00",
-      "last_seen": "2026-11-18T23:11:04.752589+00:00"
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
     },
     "anduril": {
       "name": "Anduril",
@@ -10317,12 +10318,14 @@
       "sectors": [
         "venture capital"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-17T00:10:18.947671+00:00",
-      "last_seen": "2026-11-18T23:11:04.752589+00:00"
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
     },
     "noeri": {
       "name": "Noeri",
@@ -10652,16 +10655,17 @@
       "type": "company",
       "sectors": [
         "telecom equipment / AI chips (Ascend)",
-        "AI chips (Ascend) / telecom equipment"
+        "AI chips (Ascend) / telecom equipment",
+        "Ascend NPUs"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-17T13:11:15.970027+00:00",
-      "last_seen": "2026-11-19T17:12:46.407367+00:00"
+      "last_seen": "2026-11-23T15:12:29.533876+00:00"
     },
     "pure dc": {
       "name": "Pure DC",
@@ -11347,12 +11351,14 @@
       "sectors": [
         "venture capital"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T15:11:14.452924+00:00",
-      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
     },
     "gv": {
       "name": "GV",
@@ -11360,12 +11366,14 @@
       "sectors": [
         "venture capital"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T15:11:14.452924+00:00",
-      "last_seen": "2026-11-17T15:11:14.452924+00:00"
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
     },
     "mgx": {
       "name": "MGX",
@@ -15528,6 +15536,220 @@
       "mentions": 1,
       "first_seen": "2026-11-23T14:11:05.024385+00:00",
       "last_seen": "2026-11-23T14:11:05.024385+00:00"
+    },
+    "shenzhen loop area institute": {
+      "name": "Shenzhen Loop Area Institute",
+      "type": "institution",
+      "sectors": [
+        "AI research (AscendGYM)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:29.533876+00:00",
+      "last_seen": "2026-11-23T15:12:29.533876+00:00"
+    },
+    "lawrence livermore national laboratory": {
+      "name": "Lawrence Livermore National Laboratory",
+      "type": "institution",
+      "sectors": [
+        "national lab / AI for science"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:29.533876+00:00",
+      "last_seen": "2026-11-23T15:12:29.533876+00:00"
+    },
+    "nanjing university of aeronautics and astronautics": {
+      "name": "Nanjing University of Aeronautics and Astronautics",
+      "type": "institution",
+      "sectors": [
+        "UAV research"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:29.533876+00:00",
+      "last_seen": "2026-11-23T15:12:29.533876+00:00"
+    },
+    "hong kong university of science and": {
+      "name": "Hong Kong University of Science and Technology",
+      "type": "institution",
+      "sectors": [
+        "UAV research"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:29.533876+00:00",
+      "last_seen": "2026-11-23T15:12:29.533876+00:00"
+    },
+    "green swiss data center operator": {
+      "name": "Green (Swiss data center operator)",
+      "type": "company",
+      "sectors": [
+        "colocation data centers / heat reuse"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:30.284030+00:00",
+      "last_seen": "2026-11-23T15:12:30.284030+00:00"
+    },
+    "energie 360": {
+      "name": "Energie 360°",
+      "type": "company",
+      "sectors": [
+        "Swiss energy / district heating"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:30.284030+00:00",
+      "last_seen": "2026-11-23T15:12:30.284030+00:00"
+    },
+    "ifm investors": {
+      "name": "IFM Investors",
+      "type": "company",
+      "sectors": [
+        "infrastructure investor"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:30.284030+00:00",
+      "last_seen": "2026-11-23T15:12:30.284030+00:00"
+    },
+    "infravia capital partners": {
+      "name": "InfraVia Capital Partners",
+      "type": "company",
+      "sectors": [
+        "infrastructure investor"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:30.284030+00:00",
+      "last_seen": "2026-11-23T15:12:30.284030+00:00"
+    },
+    "sierra": {
+      "name": "Sierra",
+      "type": "company",
+      "sectors": [
+        "enterprise CX AI agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:31.554681+00:00",
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+    },
+    "benchmark": {
+      "name": "Benchmark",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:31.554681+00:00",
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+    },
+    "tiger global": {
+      "name": "Tiger Global",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:31.554681+00:00",
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+    },
+    "hsbc": {
+      "name": "HSBC",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:31.554681+00:00",
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+    },
+    "wells fargo": {
+      "name": "Wells Fargo",
+      "type": "company",
+      "sectors": [
+        "banking"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:31.554681+00:00",
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+    },
+    "stripe": {
+      "name": "Stripe",
+      "type": "company",
+      "sectors": [
+        "payments"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:31.554681+00:00",
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+    },
+    "decagon": {
+      "name": "Decagon",
+      "type": "company",
+      "sectors": [
+        "CX AI agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T15:12:31.554681+00:00",
+      "last_seen": "2026-11-23T15:12:31.554681+00:00"
     }
   },
   "edges": [
@@ -36716,6 +36938,291 @@
           "added_at": "2026-11-23T14:11:05.024385+00:00"
         }
       ]
+    },
+    {
+      "source": "nanjing university of aeronautics and astronautics",
+      "target": "hong kong university of science and",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "两校联合发布 A2A-UAV 空对空无人机检测多模态数据集(105,263 个样本,约 2.5TB)",
+          "article_title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+          "article_url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 23 Nov 2026 14:11:17 GMT",
+          "added_at": "2026-11-23T15:12:29.533876+00:00"
+        }
+      ]
+    },
+    {
+      "source": "shenzhen loop area institute",
+      "target": "huawei",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "深圳河套学院发布针对华为昇腾 NPU 的内核优化基准 AscendGYM,用 AI agent 优化昇腾内核",
+          "article_title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+          "article_url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+          "source_name": "Import AI (Substack)",
+          "published": "Mon, 23 Nov 2026 14:11:17 GMT",
+          "added_at": "2026-11-23T15:12:29.533876+00:00"
+        }
+      ]
+    },
+    {
+      "source": "green swiss data center operator",
+      "target": "energie 360",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Green 向 Energie 360° 开发的 Dielsdorf 能源中心供应数据中心余热,区域供热网络计划覆盖 11,500 户、60MW",
+          "article_title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+          "article_url": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 14:22:33 +0000",
+          "added_at": "2026-11-23T15:12:30.284030+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ifm investors",
+      "target": "green swiss data center operator",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "IFM Investors 于 2025 年 10 月从 InfraVia Capital Partners 手中收购 Green",
+          "article_title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+          "article_url": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 14:22:33 +0000",
+          "added_at": "2026-11-23T15:12:30.284030+00:00"
+        }
+      ]
+    },
+    {
+      "source": "infravia capital partners",
+      "target": "green swiss data center operator",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "InfraVia 为 Green 前所有者,2025 年 10 月将其出售给 IFM Investors",
+          "article_title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+          "article_url": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 14:22:33 +0000",
+          "added_at": "2026-11-23T15:12:30.284030+00:00"
+        }
+      ]
+    },
+    {
+      "source": "softbank",
+      "target": "arm plc",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "软银 2016 年以 320 亿美元收购 Arm,目前持股近 90%;Arm CEO Rene Haas 将于 2026 年 12 月 1 日出任软银副董事长并续约至 2033 年",
+          "article_title": "Arm CEO extends contract to 2033 amid reports Nvidia had approached him for vacant CEO role",
+          "article_url": "https://www.datacenterdynamics.com/en/news/arm-ceo-extends-contract-to-2033-amid-reports-nvidia-had-approached-him-for-vacant-ceo-role/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 14:21:15 +0000",
+          "added_at": "2026-11-23T15:12:30.792188+00:00"
+        }
+      ]
+    },
+    {
+      "source": "greenoaks",
+      "target": "sierra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Greenoaks 与 Lightspeed 共同领投 Sierra 17.5 亿美元 F 轮,估值 300 亿美元",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "lightspeed venture partners",
+      "target": "sierra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Lightspeed 共同领投 Sierra 17.5 亿美元 F 轮",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "benchmark",
+      "target": "sierra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "老股东 Benchmark 参投 Sierra F 轮",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sequoia capital",
+      "target": "sierra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "老股东 Sequoia 参投 Sierra F 轮",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "gv",
+      "target": "sierra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "老股东 GV 参投 Sierra F 轮",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tiger global",
+      "target": "sierra",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "老股东 Tiger Global 参投 Sierra F 轮",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "jpmorgan",
+      "target": "sierra",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "JPMorganChase 是 Sierra 客服 agent 客户",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hsbc",
+      "target": "sierra",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "HSBC 是 Sierra 客服 agent 客户",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "wells fargo",
+      "target": "sierra",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Wells Fargo 是 Sierra 客服 agent 客户",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sierra",
+      "target": "meta platforms",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Sierra 与 Meta、Stripe、Walmart 等共同制定 agent 交互协议",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sierra",
+      "target": "stripe",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Sierra 与 Stripe 等共同制定 agent 交互协议",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sierra",
+      "target": "walmart",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Sierra 与 Walmart 等共同制定 agent 交互协议",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sierra",
+      "target": "decagon",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "同为企业客服 AI agent 赛道,Decagon 估值 45 亿美元",
+          "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+          "added_at": "2026-11-23T15:12:31.554681+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -43630,6 +44137,69 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 23 Nov 2026 14:00:09 +0000",
       "added_at": "2026-11-23T14:11:05.275727+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Import AI 482:AscendGYM 用 AI agent 给华为昇腾写内核(Opus 5 最好),瞄准国产芯片'软件适配'瓶颈;SciResearch-Eval 显示只有最前沿一两个模型能做可靠的自主科学判断:利好前沿模型/coding agent 与推理算力,高价值 AI for Science 收入集中在头部",
+      "article_title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "article_url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 23 Nov 2026 14:11:17 GMT",
+      "added_at": "2026-11-23T15:12:29.779566+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Import AI 482:A2A-UAV 空对空无人机检测数据集融合 RGB、热成像、射频、毫米波雷达,针对机载端侧感知,长期利好低功耗多传感器融合端侧芯片,但目前只是学术数据集",
+      "article_title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "article_url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "source_name": "Import AI (Substack)",
+      "published": "Mon, 23 Nov 2026 14:11:17 GMT",
+      "added_at": "2026-11-23T15:12:30.027292+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "瑞士 Green 数据中心余热接入 Energie 360° 区域供热网(60MW、年供热约 166GWh、11,500 户),回水反哺冷却:余热利用帮数据中心拿许可而非解决电力短缺,边际利好液冷/热管理与大型热泵、区域供热设备层",
+      "article_title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+      "article_url": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 14:22:33 +0000",
+      "added_at": "2026-11-23T15:12:30.544086+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Arm CEO Rene Haas 续约至 2033 并出任软银副董事长,此前据报英伟达曾接触他:锁定关键人物、降低 Arm 向自研数据中心芯片转型期的领导层风险,利好 Arm/软银及 Grace、Graviton、Axion 等 Arm 数据中心 CPU 生态",
+      "article_title": "Arm CEO extends contract to 2033 amid reports Nvidia had approached him for vacant CEO role",
+      "article_url": "https://www.datacenterdynamics.com/en/news/arm-ceo-extends-contract-to-2033-amid-reports-nvidia-had-approached-him-for-vacant-ceo-role/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 14:21:15 +0000",
+      "added_at": "2026-11-23T15:12:31.043875+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Arm CEO 续约至 2033:Arm 是手机和端侧设备默认架构,战略连续性间接利好高通、联发科等端侧 AI 芯片,但不构成单独催化",
+      "article_title": "Arm CEO extends contract to 2033 amid reports Nvidia had approached him for vacant CEO role",
+      "article_url": "https://www.datacenterdynamics.com/en/news/arm-ceo-extends-contract-to-2033-amid-reports-nvidia-had-approached-him-for-vacant-ceo-role/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 14:21:15 +0000",
+      "added_at": "2026-11-23T15:12:31.297911+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Sierra 半年内估值翻倍至 300 亿美元、年化收入 4 亿美元(公司自述未经验证,约 75 倍市销率),按结果计费的客服 agent 是应用层最先跑出收入的场景:利好掌握企业工作流的垂直 agent 平台与底层模型/推理算力,冲击按席位收费的传统客服软件和呼叫中心外包",
+      "article_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "article_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 23 Nov 2026 14:43:03 +0000",
+      "added_at": "2026-11-23T15:12:31.817499+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英伟达董事会在咨询美国政府高层后恢复黄仁勋 CEO 职务,股价开盘涨 30%:解决领导层连续性瓶颈,最直接利好依赖英伟达投资/融资的初创和 neocloud 生态,挑战者窗口收窄;但 SEC、加州 AG 与独立委员会调查仍在进行,治理风险与美国政治绑定",
+      "article_title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "article_url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 23 Nov 2026 14:21:59 +0000",
+      "added_at": "2026-11-23T15:12:32.357310+00:00"
     }
   ]
 }
