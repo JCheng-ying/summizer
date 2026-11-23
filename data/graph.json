@@ -44200,6 +44200,42 @@
       "source_name": "TechCrunch - AI",
       "published": "Mon, 23 Nov 2026 14:21:59 +0000",
       "added_at": "2026-11-23T15:12:32.357310+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "西班牙皇家法令要求数据中心 80% 用电来自新增可再生能源并做小时级匹配(过渡期 60%→2029 年 70%→2032 年 80%)、可无补偿降功率/断电,并配套 171 亿欧元输电规划(6,707 公里新线、193 座变电站):储能从可选变成合规标配,直接利好电池储能、电网设备与输电工程",
+      "article_title": "Spain approves decree on data centers to curb electricity costs",
+      "article_url": "https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 16:00:20 +0000",
+      "added_at": "2026-11-23T16:10:35.038890+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "西班牙数据中心法令抬高资本开支,无补偿断电条款对需连续运行的训练集群不友好,15GW 接入许可中部分项目可能外迁:对欧洲 AI 算力落地是温和利空",
+      "article_title": "Spain approves decree on data centers to curb electricity costs",
+      "article_url": "https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 16:00:20 +0000",
+      "added_at": "2026-11-23T16:10:35.287263+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "DCD 观点专栏(作者自述做相关软件,引用含赞助文章,属从业者观点):数据中心发电厂用水约为场地用水 12 倍,欧盟 2027 年用水标签只看场地 WUE;按源头算水足迹时可再生能源同时降低用水,并利好用水/电力计量监测与闭式液冷",
+      "article_title": "Three water numbers, none of them comparable",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/three-water-numbers-none-of-them-comparable/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 15:30:36 +0000",
+      "added_at": "2026-11-23T16:10:35.758635+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "欧盟拟对 500kW 以上数据中心做能耗与用水评级,水数据口径混乱带来额外核算与合规成本:对欧洲 AI 数据中心影响间接、偏小幅利空",
+      "article_title": "Three water numbers, none of them comparable",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/three-water-numbers-none-of-them-comparable/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 15:30:36 +0000",
+      "added_at": "2026-11-23T16:10:35.999932+00:00"
     }
   ]
 }
