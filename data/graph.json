@@ -11039,16 +11039,17 @@
       "name": "European Innovation Council",
       "type": "institution",
       "sectors": [
-        "EU innovation funding body / EIC Fund"
+        "EU innovation funding body / EIC Fund",
+        "EU deep-tech funding program"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T14:12:03.725041+00:00",
-      "last_seen": "2026-11-17T14:12:03.725041+00:00"
+      "last_seen": "2026-11-23T17:11:37.406033+00:00"
     },
     "robert bosch gmbh": {
       "name": "Robert Bosch GmbH",
@@ -11664,9 +11665,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T17:11:17.535512+00:00",
-      "last_seen": "2026-11-17T17:11:17.535512+00:00"
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
     },
     "netflix": {
       "name": "Netflix",
@@ -13989,16 +13990,17 @@
       "type": "company",
       "sectors": [
         "telecom operator / data centers / subsea cable landing",
-        "telecom / data centers"
+        "telecom / data centers",
+        "telecom"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-19T17:12:46.407367+00:00",
-      "last_seen": "2026-11-20T11:11:38.729940+00:00"
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
     },
     "guangdong tianyima information industry": {
       "name": "Guangdong Tianyima Information Industry",
@@ -15750,6 +15752,239 @@
       "mentions": 1,
       "first_seen": "2026-11-23T15:12:31.554681+00:00",
       "last_seen": "2026-11-23T15:12:31.554681+00:00"
+    },
+    "cyberridge": {
+      "name": "CyberRidge",
+      "type": "company",
+      "sectors": [
+        "photonic layer security / anti-harvest optical encryption"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.406033+00:00",
+      "last_seen": "2026-11-23T17:11:37.406033+00:00"
+    },
+    "elron ventures": {
+      "name": "Elron Ventures",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.406033+00:00",
+      "last_seen": "2026-11-23T17:11:37.406033+00:00"
+    },
+    "awz": {
+      "name": "AWZ",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.406033+00:00",
+      "last_seen": "2026-11-23T17:11:37.406033+00:00"
+    },
+    "hicloud": {
+      "name": "HiCloud Technology",
+      "type": "company",
+      "sectors": [
+        "underwater data centers"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "highlander": {
+      "name": "Highlander",
+      "type": "company",
+      "sectors": [
+        "marine engineering"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "mousterian": {
+      "name": "Mousterian",
+      "type": "company",
+      "sectors": [
+        "floating barge data centers"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "samsung heavy industries": {
+      "name": "Samsung Heavy Industries",
+      "type": "company",
+      "sectors": [
+        "shipbuilding / offshore platforms"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "panthalassa": {
+      "name": "Panthalassa",
+      "type": "company",
+      "sectors": [
+        "wave-powered floating AI compute"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "peter thiel": {
+      "name": "Peter Thiel",
+      "type": "person",
+      "sectors": [
+        "investor"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "naver": {
+      "name": "Naver",
+      "type": "company",
+      "sectors": [
+        "internet / cloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "subsea cloud": {
+      "name": "Subsea Cloud",
+      "type": "company",
+      "sectors": [
+        "underwater data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "deepc systems": {
+      "name": "Deep/C Systems",
+      "type": "company",
+      "sectors": [
+        "underwater infrastructure / defense"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "atomarine": {
+      "name": "Atomarine",
+      "type": "company",
+      "sectors": [
+        "ship-based SMR-powered floating data centers"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "optimaltransit": {
+      "name": "OptimalTransit",
+      "type": "company",
+      "sectors": [
+        "OTEC-powered floating data centers"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "inmar": {
+      "name": "InMar Technologies",
+      "type": "company",
+      "sectors": [
+        "naval systems"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "optifuel": {
+      "name": "OptiFuel",
+      "type": "company",
+      "sectors": [
+        "power technology"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T17:11:37.911444+00:00",
+      "last_seen": "2026-11-23T17:11:37.911444+00:00"
     }
   },
   "edges": [
@@ -37223,6 +37458,186 @@
           "added_at": "2026-11-23T15:12:31.554681+00:00"
         }
       ]
+    },
+    {
+      "source": "european innovation council",
+      "target": "cyberridge",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "EIC 从 1211 家申请者中选出 71 家联合资助,CyberRidge 入选,用于其光子层安全产品 Carmel 在欧洲商业化",
+          "article_title": "CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security",
+          "article_url": "https://thequantuminsider.com/2026/11/23/cyberridge-european-innovation-council-co-funding/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 16:13:07 +0000",
+          "added_at": "2026-11-23T17:11:37.406033+00:00"
+        }
+      ]
+    },
+    {
+      "source": "elron ventures",
+      "target": "cyberridge",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "CyberRidge 累计融资 2600 万美元,投资方包括 Elron Ventures",
+          "article_title": "CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security",
+          "article_url": "https://thequantuminsider.com/2026/11/23/cyberridge-european-innovation-council-co-funding/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 16:13:07 +0000",
+          "added_at": "2026-11-23T17:11:37.406033+00:00"
+        }
+      ]
+    },
+    {
+      "source": "awz",
+      "target": "cyberridge",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "CyberRidge 累计融资 2600 万美元,投资方包括 AWZ",
+          "article_title": "CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security",
+          "article_url": "https://thequantuminsider.com/2026/11/23/cyberridge-european-innovation-council-co-funding/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 16:13:07 +0000",
+          "added_at": "2026-11-23T17:11:37.406033+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hicloud",
+      "target": "highlander",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "HiCloud 是海洋技术公司 Highlander 的子公司,借用母公司海工能力建造水下数据中心舱体",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "china telecom",
+      "target": "hicloud",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "中国电信使用 HiCloud 水下数据中心做数据标注和 AI 模型训练",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mousterian",
+      "target": "samsung heavy industries",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "三星重工为 M3 设计制造最高 50MW 的模块化漂浮数据中心驳船,停靠在电厂或已有电力接入的棕地旁",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "peter thiel",
+      "target": "panthalassa",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Peter Thiel 领投 Panthalassa 1.4 亿美元 B 轮,用于波浪能驱动的自主漂浮 AI 数据中心平台",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "naver",
+      "target": "panthalassa",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "韩国云厂商 Naver 在 B 轮后追加投资 Panthalassa",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "subsea cloud",
+      "target": "deepc systems",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Subsea Cloud 与 Deep/C Systems 合作,可能为国防承包商部署水下基础设施",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "y combinator",
+      "target": "atomarine",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Y Combinator 资助 Atomarine,其计划用船载 SMR 给漂浮 AI 数据中心供电(过渡期用燃气轮机)",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "optimaltransit",
+      "target": "inmar",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "OptimalTransit 是海军系统开发商 InMar Technologies 与 OptiFuel 新成立的合资公司,推出 OTEC 供电的 Kraaken 漂浮数据中心",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
+    },
+    {
+      "source": "optimaltransit",
+      "target": "optifuel",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "OptimalTransit 是 InMar Technologies 与电力技术公司 OptiFuel 的合资公司",
+          "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+          "added_at": "2026-11-23T17:11:37.911444+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -44236,6 +44651,42 @@
       "source_name": "DataCenterDynamics",
       "published": "Mon, 23 Nov 2026 15:30:36 +0000",
       "added_at": "2026-11-23T16:10:35.999932+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "CyberRidge 新闻稿(公司自述,未经独立验证):获 EIC 联合资助推进光子层安全产品,针对'先截获后解密'威胁;量子威胁叙事正把未来风险折算为电信、国防、关键基础设施今天的安全预算,利好 PQC/QKD/光层安全等量子安全赛道,但公司仍处早期",
+      "article_title": "CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security",
+      "article_url": "https://thequantuminsider.com/2026/11/23/cyberridge-european-innovation-council-co-funding/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 16:13:07 +0000",
+      "added_at": "2026-11-23T17:11:37.654210+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "DCD 深度报道:海上/水下数据中心多数绑定海上风电、波浪能、OTEC 或船载 SMR,欧洲海上风电拍卖失败、急需大承购方,数据中心可能成为海上风电新收入线;海工船厂(三星重工)和海上电力资产是最直接受益层,新型海洋发电仍是远期期权(多数成本数据为公司自述)",
+      "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+      "added_at": "2026-11-23T17:11:38.179046+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "海上算力是地面数据中心电网接入、土地和社区反对瓶颈的又一绕行方案:漂浮驳船用来抢电网接入时间、海水冷却压低 PUE,冷却与电力电子仍是确定性受益层;但 Natick 已证明技术可行不等于经济可行,短期规模有限",
+      "article_title": "The coming wave: Is compute at sea ready to sink or swim?",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 17:00:41 +0000",
+      "added_at": "2026-11-23T17:11:38.428701+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "黄仁勋复职后风险形态改变:出口管制走私问题、特朗普直接介入董事会、民主党掌控国会的调查和 12 月 1 日众议院闭门作证,让后续负面披露直接打在英伟达公司身上;neocloud 短期最受益但 beta 最高,上游台积电/存储受影响最小,英伟达需为持续一年的调查新闻留出折价",
+      "article_title": "Jensen Huang isn’t out of the woods yet",
+      "article_url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 23 Nov 2026 16:57:40 +0000",
+      "added_at": "2026-11-23T17:11:38.896630+00:00"
     }
   ]
 }
