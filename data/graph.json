@@ -1451,7 +1451,8 @@
       "type": "company",
       "sectors": [
         "EV / energy storage / power electronics",
-        "EV / robotics / AI"
+        "EV / robotics / AI",
+        "EV / energy storage"
       ],
       "sector_tags": [
         "机器人板块",
@@ -1460,9 +1461,9 @@
       ],
       "hot": "hot",
       "ticker": "TSLA",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-11-22T02:16:01.522523+00:00"
+      "last_seen": "2026-11-23T11:10:20.553198+00:00"
     },
     "figure ai": {
       "name": "Figure AI",
@@ -2232,29 +2233,33 @@
       "name": "GE Vernova",
       "type": "company",
       "sectors": [
-        "energy equipment"
+        "energy equipment",
+        "power equipment"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "GEV",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-11-20T03:10:45.468166+00:00"
+      "last_seen": "2026-11-23T11:10:20.553198+00:00"
     },
     "vertiv": {
       "name": "Vertiv Holdings",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "data center power & cooling"
+      ],
       "sector_tags": [
-        "能源板块"
+        "能源板块",
+        "AI板块"
       ],
       "hot": "hot",
       "ticker": "VRT",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-23T11:10:20.553198+00:00"
     },
     "eaton": {
       "name": "Eaton Corporation",
@@ -4544,9 +4549,9 @@
       ],
       "hot": "hot",
       "ticker": "9434.T",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-18T13:11:52.489182+00:00"
+      "last_seen": "2026-11-23T11:10:20.553198+00:00"
     },
     "nscale": {
       "name": "Nscale",
@@ -10111,16 +10116,17 @@
       "name": "QTS",
       "type": "company",
       "sectors": [
-        "data center developer"
+        "data center developer",
+        "data center operator"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-16T18:11:41.269696+00:00",
-      "last_seen": "2026-11-18T16:11:39.204972+00:00"
+      "last_seen": "2026-11-23T11:10:20.553198+00:00"
     },
     "aqsolotl": {
       "name": "AQSolotl",
@@ -15167,6 +15173,36 @@
       "mentions": 1,
       "first_seen": "2026-11-23T10:09:58.080062+00:00",
       "last_seen": "2026-11-23T10:09:58.080062+00:00"
+    },
+    "rosendin": {
+      "name": "Rosendin",
+      "type": "company",
+      "sectors": [
+        "electrical contractor"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T11:10:20.553198+00:00",
+      "last_seen": "2026-11-23T11:10:20.553198+00:00"
+    },
+    "onenergy": {
+      "name": "On.energy",
+      "type": "company",
+      "sectors": [
+        "energy storage / MV UPS"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T11:10:20.553198+00:00",
+      "last_seen": "2026-11-23T11:10:20.553198+00:00"
     }
   },
   "edges": [
@@ -35717,6 +35753,96 @@
           "added_at": "2026-11-23T10:09:58.080062+00:00"
         }
       ]
+    },
+    {
+      "source": "vertiv",
+      "target": "qts",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "QTS 在 Vertiv Bologna 研发中心对 PowerNexus 中压 UPS 做概念验证,确认其在动态负载和电压扰动下保持稳定供电(厂商发布内容)",
+          "article_title": "Vertiv launches medium-voltage UPS for AI data center sector",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-medium-voltage-ups-for-ai-data-center-sector/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 10:40:44 +0000",
+          "added_at": "2026-11-23T11:10:20.553198+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vertiv",
+      "target": "softbank",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "SoftBank 参与 Vertiv PowerNexus 中压 UPS 在 Bologna 的演示项目",
+          "article_title": "Vertiv launches medium-voltage UPS for AI data center sector",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-medium-voltage-ups-for-ai-data-center-sector/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 10:40:44 +0000",
+          "added_at": "2026-11-23T11:10:20.553198+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vertiv",
+      "target": "rosendin",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Rosendin 参与 Vertiv PowerNexus 中压 UPS 在 Bologna 的演示项目",
+          "article_title": "Vertiv launches medium-voltage UPS for AI data center sector",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-medium-voltage-ups-for-ai-data-center-sector/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 10:40:44 +0000",
+          "added_at": "2026-11-23T11:10:20.553198+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vertiv",
+      "target": "ge vernova",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "GE Vernova 近几个月也推出了面向数据中心的中压 UPS 产品",
+          "article_title": "Vertiv launches medium-voltage UPS for AI data center sector",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-medium-voltage-ups-for-ai-data-center-sector/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 10:40:44 +0000",
+          "added_at": "2026-11-23T11:10:20.553198+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vertiv",
+      "target": "tesla",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Tesla 近几个月也推出了面向数据中心的中压 UPS 类产品",
+          "article_title": "Vertiv launches medium-voltage UPS for AI data center sector",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-medium-voltage-ups-for-ai-data-center-sector/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 10:40:44 +0000",
+          "added_at": "2026-11-23T11:10:20.553198+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vertiv",
+      "target": "onenergy",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "On.energy 近几个月也推出了面向数据中心的中压 UPS 产品",
+          "article_title": "Vertiv launches medium-voltage UPS for AI data center sector",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-medium-voltage-ups-for-ai-data-center-sector/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 10:40:44 +0000",
+          "added_at": "2026-11-23T11:10:20.553198+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -42469,6 +42595,42 @@
       "source_name": "The Quantum Insider",
       "published": "Mon, 23 Nov 2026 09:17:13 +0000",
       "added_at": "2026-11-23T10:09:58.575080+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Alberta 拟对 10MW 以上数据中心要求冷却用水接近零、强制余热回收、开发商自担红线内电网成本,叠加自带电源框架,把发电和电网责任压到开发商身上,利好现场发电、储能、闭式液冷与余热回收设备",
+      "article_title": "Alberta gov't proposes new rules for large load data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/alberta-govt-proposes-new-rules-for-large-load-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 11:00:54 +0000",
+      "added_at": "2026-11-23T11:10:20.070037+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Alberta 新规提高 10MW 以上数据中心的合规成本与选址限制(600 米退让距离),25GW 并网申请的落地比例可能被压低,但工业区和发电厂址豁免保留了通道,对 AI 基础设施扩张偏中性略利空",
+      "article_title": "Alberta gov't proposes new rules for large load data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/alberta-govt-proposes-new-rules-for-large-load-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 11:00:54 +0000",
+      "added_at": "2026-11-23T11:10:20.305688+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Vertiv 推出中压 UPS,集成故障穿越与 AI 功率平滑,配合电池可支持 4 小时备电以减少柴油机(厂商宣称,未经独立验证);GE Vernova、Tesla、On.energy 也在跟进,利好长时储能与中压电力电子/SiC 器件",
+      "article_title": "Vertiv launches medium-voltage UPS for AI data center sector",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-medium-voltage-ups-for-ai-data-center-sector/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 10:40:44 +0000",
+      "added_at": "2026-11-23T11:10:20.803168+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "中压 UPS 的功率平滑缓解 AI 负载波动对电网的冲击、省出机房空间,直接关系数据中心并网速度和算力密度,属于 AI 基础设施中解决具体瓶颈的一层(厂商发布,指标未经独立验证)",
+      "article_title": "Vertiv launches medium-voltage UPS for AI data center sector",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-medium-voltage-ups-for-ai-data-center-sector/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 10:40:44 +0000",
+      "added_at": "2026-11-23T11:10:21.045902+00:00"
     }
   ]
 }
