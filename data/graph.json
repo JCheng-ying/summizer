@@ -1333,16 +1333,17 @@
       "name": "Bluefors",
       "type": "company",
       "sectors": [
-        "dilution refrigerators"
+        "dilution refrigerators",
+        "cryogenic systems / dilution refrigerators"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-13T16:11:02.858942+00:00"
+      "last_seen": "2026-11-23T09:11:15.089884+00:00"
     },
     "oxford instruments": {
       "name": "Oxford Instruments",
@@ -1360,15 +1361,17 @@
     "quantum machines": {
       "name": "Quantum Machines",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "quantum control systems"
+      ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-08-06T04:45:56.401807+00:00"
+      "last_seen": "2026-11-23T09:11:15.089884+00:00"
     },
     "seeqc": {
       "name": "SEEQC",
@@ -15042,6 +15045,111 @@
       "mentions": 1,
       "first_seen": "2026-11-23T02:10:00.339300+00:00",
       "last_seen": "2026-11-23T02:10:00.339300+00:00"
+    },
+    "aalborg university": {
+      "name": "Aalborg University",
+      "type": "institution",
+      "sectors": [
+        "engineering university (Denmark)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T09:11:15.089884+00:00",
+      "last_seen": "2026-11-23T09:11:15.089884+00:00"
+    },
+    "conscience": {
+      "name": "ConScience",
+      "type": "company",
+      "sectors": [
+        "nanofabrication / Plug'N'Teach educational quantum computers"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T09:11:15.089884+00:00",
+      "last_seen": "2026-11-23T09:11:15.089884+00:00"
+    },
+    "coprod": {
+      "name": "coprod",
+      "type": "company",
+      "sectors": [
+        "modular robotics components / EtherCAT control stack"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T09:11:15.897312+00:00",
+      "last_seen": "2026-11-23T09:11:15.897312+00:00"
+    },
+    "founderful": {
+      "name": "Founderful",
+      "type": "company",
+      "sectors": [
+        "venture capital (Switzerland)"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T09:11:15.897312+00:00",
+      "last_seen": "2026-11-23T09:11:15.897312+00:00"
+    },
+    "prototype capital": {
+      "name": "Prototype Capital",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T09:11:15.897312+00:00",
+      "last_seen": "2026-11-23T09:11:15.897312+00:00"
+    },
+    "general catalyst": {
+      "name": "General Catalyst",
+      "type": "company",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T09:11:15.897312+00:00",
+      "last_seen": "2026-11-23T09:11:15.897312+00:00"
+    },
+    "eth club": {
+      "name": "ETH Robotics Club",
+      "type": "institution",
+      "sectors": [
+        "student humanoid robotics (XALUN)"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T09:11:15.897312+00:00",
+      "last_seen": "2026-11-23T09:11:15.897312+00:00"
     }
   },
   "edges": [
@@ -35472,6 +35580,111 @@
           "added_at": "2026-11-23T02:10:00.339300+00:00"
         }
       ]
+    },
+    {
+      "source": "conscience",
+      "target": "aalborg university",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "ConScience 以 Plug'N'Teach 教学系统向奥尔堡大学供应量子计算机,2027年交付,初始2比特、后扩展到7比特",
+          "article_title": "Aalborg University Buys Quantum Computer to Train Engineers",
+          "article_url": "https://thequantuminsider.com/2026/11/23/aalborg-university-buys-quantum-computer-to-train-engineers/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 08:40:28 +0000",
+          "added_at": "2026-11-23T09:11:15.089884+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantum machines",
+      "target": "conscience",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Quantum Machines 为奥尔堡大学这台教学量子计算机提供控制与读出系统",
+          "article_title": "Aalborg University Buys Quantum Computer to Train Engineers",
+          "article_url": "https://thequantuminsider.com/2026/11/23/aalborg-university-buys-quantum-computer-to-train-engineers/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 08:40:28 +0000",
+          "added_at": "2026-11-23T09:11:15.089884+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bluefors",
+      "target": "conscience",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Bluefors 为奥尔堡大学这台教学量子计算机提供低温基础设施",
+          "article_title": "Aalborg University Buys Quantum Computer to Train Engineers",
+          "article_url": "https://thequantuminsider.com/2026/11/23/aalborg-university-buys-quantum-computer-to-train-engineers/",
+          "source_name": "The Quantum Insider",
+          "published": "Mon, 23 Nov 2026 08:40:28 +0000",
+          "added_at": "2026-11-23T09:11:15.089884+00:00"
+        }
+      ]
+    },
+    {
+      "source": "founderful",
+      "target": "coprod",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Founderful 与 Prototype Capital 共同领投 coprod 600万美元种子前轮",
+          "article_title": "Robotics component maker coprod raises $6M to take on robotics ‘integration hell’",
+          "article_url": "https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 09:00:09 +0000",
+          "added_at": "2026-11-23T09:11:15.897312+00:00"
+        }
+      ]
+    },
+    {
+      "source": "prototype capital",
+      "target": "coprod",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Prototype Capital 与 Founderful 共同领投 coprod 600万美元种子前轮",
+          "article_title": "Robotics component maker coprod raises $6M to take on robotics ‘integration hell’",
+          "article_url": "https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 09:00:09 +0000",
+          "added_at": "2026-11-23T09:11:15.897312+00:00"
+        }
+      ]
+    },
+    {
+      "source": "general catalyst",
+      "target": "coprod",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "General Catalyst 参与 coprod 600万美元种子前轮",
+          "article_title": "Robotics component maker coprod raises $6M to take on robotics ‘integration hell’",
+          "article_url": "https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 09:00:09 +0000",
+          "added_at": "2026-11-23T09:11:15.897312+00:00"
+        }
+      ]
+    },
+    {
+      "source": "coprod",
+      "target": "eth club",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "coprod 的部件用于 ETH Robotics Club 的学生自制人形机器人 XALUN",
+          "article_title": "Robotics component maker coprod raises $6M to take on robotics ‘integration hell’",
+          "article_url": "https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 09:00:09 +0000",
+          "added_at": "2026-11-23T09:11:15.897312+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -42179,6 +42392,33 @@
       "source_name": "TechCrunch - AI",
       "published": "Mon, 23 Nov 2026 01:25:53 +0000",
       "added_at": "2026-11-23T02:10:00.619813+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Rotonium(公司新闻稿,未经独立验证)声称四有效比特光量子原型从光源到探测器全链路室温运行,是光量子绕开低温这条线索上的又一个数据点;但未披露探测效率等关键指标,单光子多自由度编码向多光子扩展仍是难点,受益层次在硅光/氮化硅代工封装和室温单光子探测器件,边缘量子尚停留在路线图阶段",
+      "article_title": "Rotonium Unveils a Quantum Computer That Operates at Room Temperature",
+      "article_url": "https://thequantuminsider.com/2026/11/23/rotonium-unveils-a-quantum-computer-that-operates-at-room-temperature/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 08:57:29 +0000",
+      "added_at": "2026-11-23T09:11:14.827722+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "奥尔堡大学采购2比特教学量子机(新闻稿,含供应商引语),说明人才培养正成为独立需求来源;连教学机也要配Bluefors制冷和Quantum Machines测控,低温与测控作为超导路线标准化使能层持续受益,但单笔金额小、属慢变量",
+      "article_title": "Aalborg University Buys Quantum Computer to Train Engineers",
+      "article_url": "https://thequantuminsider.com/2026/11/23/aalborg-university-buys-quantum-computer-to-train-engineers/",
+      "source_name": "The Quantum Insider",
+      "published": "Mon, 23 Nov 2026 08:40:28 +0000",
+      "added_at": "2026-11-23T09:11:15.358745+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "coprod 用统一EtherCAT总线和API的标准化电源/电池/传感/运动模组降低专用机器人'集成地狱'成本(成本周期为公司自述);若部件生态成形,将扩大对标准化执行器、传感器和实时控制芯片的需求,呼应麦肯锡关于人形机器人执行器与感知供应瓶颈的判断,但种子前轮尚早",
+      "article_title": "Robotics component maker coprod raises $6M to take on robotics ‘integration hell’",
+      "article_url": "https://siliconangle.com/2026/11/23/robotics-component-maker-coprod-raises-6m-to-take-on-robotics-integration-hell/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 23 Nov 2026 09:00:09 +0000",
+      "added_at": "2026-11-23T09:11:16.169399+00:00"
     }
   ]
 }
