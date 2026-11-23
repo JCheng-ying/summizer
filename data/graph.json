@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 94,
+      "mentions": 96,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-23T15:12:30.792188+00:00",
+      "last_seen": "2026-11-23T18:11:08.654605+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -454,7 +454,8 @@
         "cloud / hyperscaler",
         "hyperscaler",
         "cloud / Amazon Braket",
-        "cloud & e-commerce"
+        "cloud & e-commerce",
+        "e-commerce / cloud / custom AI chips"
       ],
       "sector_tags": [
         "AI板块",
@@ -465,9 +466,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 32,
+      "mentions": 33,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T13:11:52.320305+00:00"
+      "last_seen": "2026-11-23T18:11:08.654605+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -779,7 +780,8 @@
         "launch / satellites / orbital compute",
         "launch provider / Starlink",
         "launch / satellites",
-        "launch / satellite communications (Starlink)"
+        "launch / satellite communications (Starlink)",
+        "launch / satellite / AI compute"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -787,9 +789,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 19,
+      "mentions": 20,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-23T14:11:05.024385+00:00"
+      "last_seen": "2026-11-23T18:11:07.129257+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -6093,16 +6095,17 @@
       "type": "company",
       "sectors": [
         "memory / HBM",
-        "memory chips / HBM"
+        "memory chips / HBM",
+        "DRAM / HBM"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-09T06:06:07.837516+00:00",
-      "last_seen": "2026-11-14T17:09:45.112284+00:00"
+      "last_seen": "2026-11-23T18:11:07.905197+00:00"
     },
     "equinix": {
       "name": "Equinix",
@@ -6538,16 +6541,17 @@
       "name": "Apollo Global Management",
       "type": "company",
       "sectors": [
-        "private equity"
+        "private equity",
+        "private credit / alternative asset manager"
       ],
       "sector_tags": [
         "AI板块"
       ],
-      "hot": null,
+      "hot": "hot",
       "ticker": "APO",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:45.723814+00:00",
-      "last_seen": "2026-11-10T05:12:45.723814+00:00"
+      "last_seen": "2026-11-23T18:11:07.129257+00:00"
     },
     "lumen": {
       "name": "Lumen Technologies",
@@ -8028,12 +8032,14 @@
         "investment bank",
         "investment bank / infrastructure investing"
       ],
-      "sector_tags": [],
-      "hot": null,
-      "ticker": null,
-      "mentions": 3,
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "GS",
+      "mentions": 4,
       "first_seen": "2026-11-13T10:11:34.590052+00:00",
-      "last_seen": "2026-11-20T16:12:05.207842+00:00"
+      "last_seen": "2026-11-23T18:11:07.129257+00:00"
     },
     "quinbrook infrastructure partners": {
       "name": "Quinbrook Infrastructure Partners",
@@ -8156,7 +8162,8 @@
       "type": "company",
       "sectors": [
         "private equity",
-        "private equity / infrastructure investor"
+        "private equity / infrastructure investor",
+        "private equity / private credit"
       ],
       "sector_tags": [
         "AI板块",
@@ -8164,9 +8171,9 @@
       ],
       "hot": null,
       "ticker": "KKR",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-13T11:09:40.396868+00:00",
-      "last_seen": "2026-11-23T12:11:00.263592+00:00"
+      "last_seen": "2026-11-23T18:11:07.129257+00:00"
     },
     "singtel": {
       "name": "Singtel",
@@ -11138,16 +11145,17 @@
         "HPC servers / system integration",
         "servers / HPC",
         "servers",
-        "HPC systems"
+        "HPC systems",
+        "servers / networking"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "HPE",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-17T15:11:12.258072+00:00",
-      "last_seen": "2026-11-23T13:11:53.083340+00:00"
+      "last_seen": "2026-11-23T18:11:07.905197+00:00"
     },
     "lux": {
       "name": "Lux",
@@ -11946,16 +11954,17 @@
         "servers / AI factory",
         "AI servers / AI factory infrastructure",
         "servers / PowerEdge",
-        "servers / rack integration"
+        "servers / rack integration",
+        "servers / AI infrastructure"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-19T12:12:45.225780+00:00"
+      "last_seen": "2026-11-23T18:11:07.905197+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -12029,9 +12038,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T21:11:21.777206+00:00",
-      "last_seen": "2026-11-17T21:11:21.777206+00:00"
+      "last_seen": "2026-11-23T18:11:07.905197+00:00"
     },
     "supermicro": {
       "name": "Supermicro",
@@ -12045,9 +12054,9 @@
       ],
       "hot": null,
       "ticker": "SMCI",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T21:11:21.777206+00:00",
-      "last_seen": "2026-11-23T12:11:01.757369+00:00"
+      "last_seen": "2026-11-23T18:11:07.905197+00:00"
     },
     "lila sciences": {
       "name": "Lila Sciences",
@@ -15985,6 +15994,79 @@
       "mentions": 1,
       "first_seen": "2026-11-23T17:11:37.911444+00:00",
       "last_seen": "2026-11-23T17:11:37.911444+00:00"
+    },
+    "blackrock": {
+      "name": "BlackRock",
+      "type": "company",
+      "sectors": [
+        "asset manager"
+      ],
+      "sector_tags": [],
+      "hot": "hot",
+      "ticker": "BLK",
+      "mentions": 1,
+      "first_seen": "2026-11-23T18:11:07.129257+00:00",
+      "last_seen": "2026-11-23T18:11:07.129257+00:00"
+    },
+    "amd": {
+      "name": "AMD",
+      "type": "company",
+      "sectors": [
+        "CPUs / GPUs"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": "hot",
+      "ticker": "AMD",
+      "mentions": 1,
+      "first_seen": "2026-11-23T18:11:07.905197+00:00",
+      "last_seen": "2026-11-23T18:11:07.905197+00:00"
+    },
+    "mext": {
+      "name": "Mext",
+      "type": "company",
+      "sectors": [
+        "software-defined memory tiering (DRAM/NVMe)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T18:11:07.905197+00:00",
+      "last_seen": "2026-11-23T18:11:07.905197+00:00"
+    },
+    "decart": {
+      "name": "Decart",
+      "type": "company",
+      "sectors": [
+        "real-time world models / AI optimization stack"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T18:11:08.654605+00:00",
+      "last_seen": "2026-11-23T18:11:08.654605+00:00"
+    },
+    "trainium": {
+      "name": "Trainium",
+      "type": "product",
+      "sectors": [
+        "AWS custom AI accelerator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-23T18:11:08.654605+00:00",
+      "last_seen": "2026-11-23T18:11:08.654605+00:00"
     }
   },
   "edges": [
@@ -37638,6 +37720,171 @@
           "added_at": "2026-11-23T17:11:37.911444+00:00"
         }
       ]
+    },
+    {
+      "source": "apollo global management",
+      "target": "spacex",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Apollo 与高盛牵头为 SpaceX 发行 440 亿美元优先级和次级票据,用于采购 GPU,称是迄今最大的 GPU 融资",
+          "article_title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:14:29 +0000",
+          "added_at": "2026-11-23T18:11:07.129257+00:00"
+        }
+      ]
+    },
+    {
+      "source": "goldman sachs",
+      "target": "spacex",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "高盛与 Apollo 共同牵头 SpaceX 440 亿美元 GPU 融资票据",
+          "article_title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:14:29 +0000",
+          "added_at": "2026-11-23T18:11:07.129257+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackrock",
+      "target": "spacex",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "BlackRock 管理的基金和账户作为基石投资人认购 SpaceX GPU 融资票据",
+          "article_title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:14:29 +0000",
+          "added_at": "2026-11-23T18:11:07.129257+00:00"
+        }
+      ]
+    },
+    {
+      "source": "kkr",
+      "target": "spacex",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "KKR 提供咨询的资本账户作为基石投资人认购 SpaceX GPU 融资票据",
+          "article_title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:14:29 +0000",
+          "added_at": "2026-11-23T18:11:07.129257+00:00"
+        }
+      ]
+    },
+    {
+      "source": "spacex",
+      "target": "nvidia",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "融资将用于采购 Nvidia Vera Rubin 芯片,部署于 SpaceX 地面算力建设,预计 2027 年上半年交付",
+          "article_title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+          "article_url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:14:29 +0000",
+          "added_at": "2026-11-23T18:11:07.129257+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amd",
+      "target": "mext",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "AMD 近期收购 Mext,其软件让操作系统把 NVMe 闪存当作高速 DRAM 使用,以缓解内存短缺成本",
+          "article_title": "AI server OEMs hiking prices by 45% as memory shortage bites - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:08:00 +0000",
+          "added_at": "2026-11-23T18:11:07.905197+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dell",
+      "target": "supermicro",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者同为 AI 服务器 OEM,据 FT 均在交付时向客户要求高于合同价最多 45% 的价格以转嫁内存涨价",
+          "article_title": "AI server OEMs hiking prices by 45% as memory shortage bites - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:08:00 +0000",
+          "added_at": "2026-11-23T18:11:07.905197+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hewlett packard enterprise",
+      "target": "dell",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "同为服务器 OEM;HPE 承诺对 100 万美元以下报价锁价、报价有效期从 15 天延长到 30 天以争取客户",
+          "article_title": "AI server OEMs hiking prices by 45% as memory shortage bites - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Mon, 23 Nov 2026 17:08:00 +0000",
+          "added_at": "2026-11-23T18:11:07.905197+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "decart",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "据 Bloomberg,Amazon 以 75 亿美元收购 Decart 的优化栈 DOS 技术及创始团队和研究工程团队",
+          "article_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "article_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 17:14:23 +0000",
+          "added_at": "2026-11-23T18:11:08.654605+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "trainium",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Trainium 是 Amazon 自研 AI 芯片,此前只在自家数据中心使用,正准备对外出售",
+          "article_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "article_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 17:14:23 +0000",
+          "added_at": "2026-11-23T18:11:08.654605+00:00"
+        }
+      ]
+    },
+    {
+      "source": "trainium",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Amazon 准备对外销售 Trainium 与 Nvidia 竞争,Decart DOS 可降低客户从 Nvidia 迁移的成本",
+          "article_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "article_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "source_name": "TechCrunch - AI",
+          "published": "Mon, 23 Nov 2026 17:14:23 +0000",
+          "added_at": "2026-11-23T18:11:08.654605+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -44687,6 +44934,51 @@
       "source_name": "TechCrunch - AI",
       "published": "Mon, 23 Nov 2026 16:57:40 +0000",
       "added_at": "2026-11-23T17:11:38.896630+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Apollo/高盛牵头 440 亿美元 SpaceX GPU 票据(史上最大 GPU 融资)全部用于采购 Vera Rubin:GPU 正在成为私募信贷可标准化定价的抵押资产,大买家仍能拿到便宜资金,直接利好 Nvidia 及 HBM/CoWoS、电力与散热层;风险在于用债务买快速折旧资产,需跟踪票据利差和 GPU 残值",
+      "article_title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+      "article_url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 17:14:29 +0000",
+      "added_at": "2026-11-23T18:11:07.394114+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "中性偏谨慎:SpaceX 最大一笔算力融资明确用于地面算力建设,与此前报道的贷方要求芯片不得用于轨道数据中心的逻辑吻合,说明太空数据中心在资本层面仍是远期叙事",
+      "article_title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+      "article_url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 17:14:29 +0000",
+      "added_at": "2026-11-23T18:11:07.644988+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "内存短缺让服务器 OEM 交付时加价最高 45%,GPU 服务器涨 20-30%、CPU 节点涨两倍,SK Hynix 把缓解推迟到 2030 年:存储原厂(定价权)和半导体设备是确定性受益层,NAND/企业 SSD 和内存效率软件(KV cache 优化、Mext 式分层内存)次之,服务器 OEM 利润被夹击,云厂商和中小算力买家成本上升",
+      "article_title": "AI server OEMs hiking prices by 45% as memory shortage bites - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 17:08:00 +0000",
+      "added_at": "2026-11-23T18:11:08.159554+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "边际利好:DRAM/HBM 短缺推高集中式推理成本,让端侧推理在部分场景更有性价比;但端侧设备同样依赖 DRAM,逻辑只能算边际上的",
+      "article_title": "AI server OEMs hiking prices by 45% as memory shortage bites - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Mon, 23 Nov 2026 17:08:00 +0000",
+      "added_at": "2026-11-23T18:11:08.402681+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Amazon 75 亿美元收购 Decart 优化栈和团队,为 Trainium 对外销售扫清迁移成本瓶颈:AI 芯片竞争转向编译/优化软件层,利好 Trainium 供应链(Marvell/Alchip ASIC 设计、台积电、HBM)和 AWS,并为独立编译器/推理优化公司提供估值锚;长期在侵蚀 CUDA 护城河",
+      "article_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "article_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "source_name": "TechCrunch - AI",
+      "published": "Mon, 23 Nov 2026 17:14:23 +0000",
+      "added_at": "2026-11-23T18:11:08.914930+00:00"
     }
   ]
 }
