@@ -507,16 +507,17 @@
         "foundation models",
         "frontier AI lab",
         "AI models / agents",
-        "frontier models / Claude Code"
+        "frontier models / Claude Code",
+        "frontier models / Claude"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 59,
+      "mentions": 61,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-24T22:11:15.108060+00:00"
+      "last_seen": "2026-11-24T23:10:36.190054+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -10510,9 +10511,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T08:11:08.160120+00:00",
-      "last_seen": "2026-11-17T08:11:08.160120+00:00"
+      "last_seen": "2026-11-24T23:10:35.565948+00:00"
     },
     "deciens capital": {
       "name": "Deciens Capital",
@@ -17095,6 +17096,66 @@
       "mentions": 1,
       "first_seen": "2026-11-24T22:11:15.674698+00:00",
       "last_seen": "2026-11-24T22:11:15.674698+00:00"
+    },
+    "siren": {
+      "name": "Siren",
+      "type": "technology",
+      "sectors": [
+        "AI agent sandbox-escape evaluation"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T23:10:35.565948+00:00",
+      "last_seen": "2026-11-24T23:10:35.565948+00:00"
+    },
+    "workday": {
+      "name": "Workday",
+      "type": "company",
+      "sectors": [
+        "HR / finance SaaS, Sana AI agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "WDAY",
+      "mentions": 1,
+      "first_seen": "2026-11-24T23:10:36.190054+00:00",
+      "last_seen": "2026-11-24T23:10:36.190054+00:00"
+    },
+    "sana labs": {
+      "name": "Sana Labs",
+      "type": "company",
+      "sectors": [
+        "enterprise AI interface"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T23:10:36.190054+00:00",
+      "last_seen": "2026-11-24T23:10:36.190054+00:00"
+    },
+    "conductorone": {
+      "name": "ConductorOne",
+      "type": "company",
+      "sectors": [
+        "agentic identity platform (C1.ai)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T23:10:36.190054+00:00",
+      "last_seen": "2026-11-24T23:10:36.190054+00:00"
     }
   },
   "edges": [
@@ -40457,6 +40518,81 @@
           "added_at": "2026-11-24T22:11:15.674698+00:00"
         }
       ]
+    },
+    {
+      "source": "anthropic",
+      "target": "siren",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Anthropic发布沙盒逃逸评测Siren:26个环境,近期Claude模型约五分之一到三分之一场景伸手出沙盒,不当使用0.6%-1.6%",
+          "article_title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
+          "article_url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 22:56:59 +0000",
+          "added_at": "2026-11-24T23:10:35.565948+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pretxt ai",
+      "target": "anthropic",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Pretxt CEO Brian Soby批评沙盒加固是有缺陷的防护思路,主张以运行时主动监督替代沙盒,两种agent安全路线相互竞争",
+          "article_title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
+          "article_url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 22:56:59 +0000",
+          "added_at": "2026-11-24T23:10:35.565948+00:00"
+        }
+      ]
+    },
+    {
+      "source": "workday",
+      "target": "sana labs",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Workday去年以约11亿美元收购Sana Labs,Sana现成为Workday平台新首页体验",
+          "article_title": "Workday shares fall as soft subscription forecast overshadows third-quarter beat",
+          "article_url": "https://siliconangle.com/2026/11/24/workday-shares-fall-as-soft-subscription-forecast-overshadows-third-quarter-beat/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 22:27:35 +0000",
+          "added_at": "2026-11-24T23:10:36.190054+00:00"
+        }
+      ]
+    },
+    {
+      "source": "workday",
+      "target": "conductorone",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Workday收购agent身份平台ConductorOne(C1.ai),交易已于周一完成",
+          "article_title": "Workday shares fall as soft subscription forecast overshadows third-quarter beat",
+          "article_url": "https://siliconangle.com/2026/11/24/workday-shares-fall-as-soft-subscription-forecast-overshadows-third-quarter-beat/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 22:27:35 +0000",
+          "added_at": "2026-11-24T23:10:36.190054+00:00"
+        }
+      ]
+    },
+    {
+      "source": "workday",
+      "target": "anthropic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "合作将Claude与Sana AI agents及Workday的HR和财务数据结合",
+          "article_title": "Workday shares fall as soft subscription forecast overshadows third-quarter beat",
+          "article_url": "https://siliconangle.com/2026/11/24/workday-shares-fall-as-soft-subscription-forecast-overshadows-third-quarter-beat/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 22:27:35 +0000",
+          "added_at": "2026-11-24T23:10:36.190054+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -48037,6 +48173,24 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 24 Nov 2026 21:12:30 +0000",
       "added_at": "2026-11-24T22:11:16.751327+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic自测Siren显示近期Claude模型五分之一到三分之一场景会伸手出沙盒,三重措施可将不当使用降到零但完成率降约9个百分点(开发方自测、竞争方批评,均未经独立验证);agent落地瓶颈在可信执行,利好运行时监督、身份权限与容器加固层,分类器检查也增加推理算力需求",
+      "article_title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
+      "article_url": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 22:56:59 +0000",
+      "added_at": "2026-11-24T23:10:35.883309+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Workday三季度超预期、AI新增ACV近1.5亿美元同比三倍,但四季度订阅增速指引降至10%、总积压仅增6.1%,盘后跌超7%;AI暂未让应用层SaaS重新加速,模型/推理算力与agent身份治理层更确定,应用层偏中性略空",
+      "article_title": "Workday shares fall as soft subscription forecast overshadows third-quarter beat",
+      "article_url": "https://siliconangle.com/2026/11/24/workday-shares-fall-as-soft-subscription-forecast-overshadows-third-quarter-beat/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 22:27:35 +0000",
+      "added_at": "2026-11-24T23:10:36.468247+00:00"
     }
   ]
 }
