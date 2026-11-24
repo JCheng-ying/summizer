@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 100,
+      "mentions": 102,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-24T14:10:56.394826+00:00",
+      "last_seen": "2026-11-24T16:12:37.865413+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -6195,16 +6195,17 @@
         "neocloud / GPU rental",
         "GPU data center operator",
         "Singapore AI infrastructure / cloud",
-        "GPU cloud / chip reseller (Singapore)"
+        "GPU cloud / chip reseller (Singapore)",
+        "cloud / AI data center (Singapore)"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-17T13:11:15.970027+00:00"
+      "last_seen": "2026-11-24T16:12:35.696088+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -9426,14 +9427,15 @@
       "name": "Kaynes Semicon",
       "type": "company",
       "sectors": [
-        "semiconductor assembly / OSAT (India)"
+        "semiconductor assembly / OSAT (India)",
+        "OSAT / electronics manufacturing"
       ],
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T00:09:40.825140+00:00",
-      "last_seen": "2026-11-16T00:09:40.825140+00:00"
+      "last_seen": "2026-11-24T16:12:35.059256+00:00"
     },
     "info edge": {
       "name": "Info Edge",
@@ -12599,7 +12601,8 @@
       "name": "SEALSQ",
       "type": "company",
       "sectors": [
-        "secure semiconductors / PKI / post-quantum hardware"
+        "secure semiconductors / PKI / post-quantum hardware",
+        "post-quantum security semiconductors"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -12607,9 +12610,9 @@
       ],
       "hot": null,
       "ticker": "LAES",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-18T14:10:55.683267+00:00",
-      "last_seen": "2026-11-18T14:10:55.683267+00:00"
+      "last_seen": "2026-11-24T16:12:35.059256+00:00"
     },
     "quintessencelabs": {
       "name": "QuintessenceLabs",
@@ -16702,6 +16705,157 @@
       "mentions": 1,
       "first_seen": "2026-11-24T14:10:56.394826+00:00",
       "last_seen": "2026-11-24T14:10:56.394826+00:00"
+    },
+    "simera sense": {
+      "name": "Simera Sense",
+      "type": "company",
+      "sectors": [
+        "optical imaging payloads"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:34.104167+00:00",
+      "last_seen": "2026-11-24T16:12:34.104167+00:00"
+    },
+    "spacemanic": {
+      "name": "Spacemanic",
+      "type": "company",
+      "sectors": [
+        "satellite platform / mission integrator"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:34.104167+00:00",
+      "last_seen": "2026-11-24T16:12:34.104167+00:00"
+    },
+    "zaitra": {
+      "name": "Zaitra",
+      "type": "company",
+      "sectors": [
+        "onboard satellite AI processing"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:34.104167+00:00",
+      "last_seen": "2026-11-24T16:12:34.104167+00:00"
+    },
+    "world from space": {
+      "name": "World from Space",
+      "type": "company",
+      "sectors": [
+        "Earth observation analytics"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:34.104167+00:00",
+      "last_seen": "2026-11-24T16:12:34.104167+00:00"
+    },
+    "wiseqey": {
+      "name": "WISeQey",
+      "type": "company",
+      "sectors": [
+        "PKI / cybersecurity"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": "WQEY",
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:35.059256+00:00",
+      "last_seen": "2026-11-24T16:12:35.059256+00:00"
+    },
+    "miraex": {
+      "name": "Miraex",
+      "type": "company",
+      "sectors": [
+        "quantum photonic interconnects"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:35.059256+00:00",
+      "last_seen": "2026-11-24T16:12:35.059256+00:00"
+    },
+    "eeroq": {
+      "name": "EeroQ",
+      "type": "company",
+      "sectors": [
+        "quantum computing hardware"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:35.059256+00:00",
+      "last_seen": "2026-11-24T16:12:35.059256+00:00"
+    },
+    "massed compute": {
+      "name": "Massed Compute",
+      "type": "company",
+      "sectors": [
+        "GPU cloud / neocloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:37.865413+00:00",
+      "last_seen": "2026-11-24T16:12:37.865413+00:00"
+    },
+    "american tower": {
+      "name": "American Tower",
+      "type": "company",
+      "sectors": [
+        "communications towers / edge data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "AMT",
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:37.865413+00:00",
+      "last_seen": "2026-11-24T16:12:37.865413+00:00"
+    },
+    "coresite": {
+      "name": "CoreSite",
+      "type": "company",
+      "sectors": [
+        "interconnection data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T16:12:37.865413+00:00",
+      "last_seen": "2026-11-24T16:12:37.865413+00:00"
     }
   },
   "edges": [
@@ -25196,6 +25350,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Tue, 17 Nov 2026 12:35:38 +0000",
           "added_at": "2026-11-17T13:11:15.970027+00:00"
+        },
+        {
+          "description": "Megaspeed 曾采购英伟达硬件,被指协助把禁运英伟达硬件运入中国并在东南亚部署 GPU 远程服务中国客户;11 月连同泰、马子公司被美国商务部列入实体清单",
+          "article_title": "US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-govt-adds-singapores-megaspeed-and-subsidiaries-to-export-block-list/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 16:00:41 +0000",
+          "added_at": "2026-11-24T16:12:35.696088+00:00"
         }
       ]
     },
@@ -39506,6 +39668,171 @@
           "added_at": "2026-11-24T15:10:31.840626+00:00"
         }
       ]
+    },
+    {
+      "source": "simera sense",
+      "target": "spacemanic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方签署谅解备忘录,Spacemanic 的 CORVUS 平台围绕 Simera Sense 的 xScape200 Dual-Use 相机定制,提供端到端军民两用遥感任务",
+          "article_title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+          "article_url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+          "source_name": "SpaceNews",
+          "published": "Tue, 24 Nov 2026 15:17:50 +0000",
+          "added_at": "2026-11-24T16:12:34.104167+00:00"
+        }
+      ]
+    },
+    {
+      "source": "zaitra",
+      "target": "simera sense",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Zaitra 加入联盟,提供 SKAIDOCK 星载计算机及 SKAISEN 星上 AI 推理、SKAIPACK 图像压缩",
+          "article_title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+          "article_url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+          "source_name": "SpaceNews",
+          "published": "Tue, 24 Nov 2026 15:17:50 +0000",
+          "added_at": "2026-11-24T16:12:34.104167+00:00"
+        }
+      ]
+    },
+    {
+      "source": "world from space",
+      "target": "simera sense",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "World from Space 加入联盟,负责数据定标、质量评估和 ORBIS 平台上的任务调度与分发",
+          "article_title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+          "article_url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+          "source_name": "SpaceNews",
+          "published": "Tue, 24 Nov 2026 15:17:50 +0000",
+          "added_at": "2026-11-24T16:12:34.104167+00:00"
+        }
+      ]
+    },
+    {
+      "source": "zaitra",
+      "target": "spacemanic",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "同一谅解备忘录下,Zaitra 的星上处理集成进 Spacemanic 的卫星平台",
+          "article_title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+          "article_url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+          "source_name": "SpaceNews",
+          "published": "Tue, 24 Nov 2026 15:17:50 +0000",
+          "added_at": "2026-11-24T16:12:34.104167+00:00"
+        }
+      ]
+    },
+    {
+      "source": "wiseqey",
+      "target": "sealsq",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "WISeQey 是 SEALSQ 的母公司,双方共同开发 Quantum Highway,WISeQey 提供 PKI",
+          "article_title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
+          "article_url": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 14:54:13 +0000",
+          "added_at": "2026-11-24T16:12:35.059256+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sealsq",
+      "target": "eeroq",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "SEALSQ 投资 EeroQ,借此让 Quantum Highway 的 Chicago 枢纽接入美国量子计算生态",
+          "article_title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
+          "article_url": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 14:54:13 +0000",
+          "added_at": "2026-11-24T16:12:35.059256+00:00"
+        }
+      ]
+    },
+    {
+      "source": "miraex",
+      "target": "sealsq",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Miraex 的光子互连技术用于 Quantum Highway,把量子硬件接入数据中心光网络,Lausanne 枢纽依托其光子能力",
+          "article_title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
+          "article_url": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 14:54:13 +0000",
+          "added_at": "2026-11-24T16:12:35.059256+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sealsq",
+      "target": "kaynes semicon",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "在印度 Sanand,Kaynes 提供数据中心设施,SEALSQ 提供 OSAT 和安全芯片个性化,构成 Quantum Highway 印度枢纽",
+          "article_title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
+          "article_url": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 14:54:13 +0000",
+          "added_at": "2026-11-24T16:12:35.059256+00:00"
+        }
+      ]
+    },
+    {
+      "source": "massed compute",
+      "target": "american tower",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Massed Compute 在 American Tower 位于 Raleigh 的 2MW Edge 数据中心部署 GPU,提供裸金属和 GPU 云服务",
+          "article_title": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
+          "article_url": "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 15:49:26 +0000",
+          "added_at": "2026-11-24T16:12:37.865413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "american tower",
+      "target": "coresite",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "American Tower 通过旗下 CoreSite 平台为 Raleigh 站点客户提供到公有云的私有互联",
+          "article_title": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
+          "article_url": "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 15:49:26 +0000",
+          "added_at": "2026-11-24T16:12:37.865413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "massed compute",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Massed Compute 是英伟达 Preferred Partner,提供英伟达 GPU 算力",
+          "article_title": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
+          "article_url": "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 15:49:26 +0000",
+          "added_at": "2026-11-24T16:12:37.865413+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -46888,6 +47215,69 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 24 Nov 2026 14:10:27 +0000",
       "added_at": "2026-11-24T15:10:33.459956+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "(新闻稿,利益相关)四家欧洲公司签 MoU 打包载荷、平台、星上处理和数据分析,降低国防/政府客户采购遥感任务的门槛;仅为备忘录,尚无具名合同",
+      "article_title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+      "article_url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+      "source_name": "SpaceNews",
+      "published": "Tue, 24 Nov 2026 15:17:50 +0000",
+      "added_at": "2026-11-24T16:12:34.390045+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "(新闻稿,未经独立验证)Zaitra 星上 AI 推理被纳入标准任务方案,'传答案不传像素'解决下行带宽瓶颈,利好低功耗抗辐射推理计算模块",
+      "article_title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+      "article_url": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+      "source_name": "SpaceNews",
+      "published": "Tue, 24 Nov 2026 15:17:50 +0000",
+      "added_at": "2026-11-24T16:12:34.703307+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "(公司新闻稿,未经独立验证)SEALSQ 把 PQC 芯片、硬件信任根和量子硬件光子接入打包成跨美欧印的 Quantum Highway;近期可兑现的是 PQC 迁移需求,枢纽间量子链路和多数新枢纽仍是计划/备忘录阶段",
+      "article_title": "SEALSQ Expands Quantum Highway Network Across the U.S. and Europe",
+      "article_url": "https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 14:54:13 +0000",
+      "added_at": "2026-11-24T16:12:35.388628+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Megaspeed 及泰马子公司正式进入实体清单,东南亚 neocloud 渠道审查收紧;英伟达董事会新设国安与出口管制委员会、招首席合规官,12 月 1-2 日国会问询前合规成本上升,需求面暂不受影响",
+      "article_title": "US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list",
+      "article_url": "https://www.datacenterdynamics.com/en/news/us-govt-adds-singapores-megaspeed-and-subsidiaries-to-export-block-list/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 16:00:41 +0000",
+      "added_at": "2026-11-24T16:12:36.363008+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "(Vertiv 赞助内容,利益相关)机柜功率逼近 350-400kW 时铜导体和机柜空间成瓶颈,800VDC 边车、中压直流 UPS 和固态变压器拉动电力电子与 SiC/GaN 功率半导体需求,时间表跨到 2029 年",
+      "article_title": "Sponsored: From rack to data hall: The practical path to 800VDC",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/from-rack-to-data-hall-the-practical-path-to-800vdc/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "added_at": "2026-11-24T16:12:36.971736+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(Vertiv 赞助内容,利益相关)电源移出机柜可把 8-16U 还给计算,是 576-GPU 级高密度机柜物理落地的前提,2027 年起部署",
+      "article_title": "Sponsored: From rack to data hall: The practical path to 800VDC",
+      "article_url": "https://www.datacenterdynamics.com/en/opinions/from-rack-to-data-hall-the-practical-path-to-800vdc/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "added_at": "2026-11-24T16:12:37.288546+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Massed Compute 在 American Tower 铁塔脚下的 2MW 边缘机房部署 GPU,服务大学、生命科学和初创公司的长尾算力需求;规模很小,但显示铁塔公司开始以 GPU 租户拓展增量",
+      "article_title": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
+      "article_url": "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 15:49:26 +0000",
+      "added_at": "2026-11-24T16:12:38.143786+00:00"
     }
   ]
 }
