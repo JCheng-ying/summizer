@@ -930,15 +930,17 @@
     "iridium communications": {
       "name": "Iridium Communications",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "satellite communications"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "IRDM",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-24T19:10:33.151625+00:00"
     },
     "intuitive machines": {
       "name": "Intuitive Machines",
@@ -959,15 +961,17 @@
     "viasat": {
       "name": "Viasat",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "satellite communications"
+      ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "VSAT",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-08-06T04:44:48.296846+00:00"
+      "last_seen": "2026-11-24T19:10:33.151625+00:00"
     },
     "redwire space": {
       "name": "Redwire Space",
@@ -16919,6 +16923,89 @@
       "mentions": 1,
       "first_seen": "2026-11-24T17:10:57.349456+00:00",
       "last_seen": "2026-11-24T17:10:57.349456+00:00"
+    },
+    "myriota": {
+      "name": "Myriota",
+      "type": "company",
+      "sectors": [
+        "industrial IoT satellite connectivity"
+      ],
+      "sector_tags": [
+        "太空经济板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T19:10:33.151625+00:00",
+      "last_seen": "2026-11-24T19:10:33.151625+00:00"
+    },
+    "main sequence ventures": {
+      "name": "Main Sequence Ventures",
+      "type": "institution",
+      "sectors": [
+        "venture capital"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T19:10:33.151625+00:00",
+      "last_seen": "2026-11-24T19:10:33.151625+00:00"
+    },
+    "hostplus": {
+      "name": "Hostplus",
+      "type": "institution",
+      "sectors": [
+        "superannuation fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T19:10:33.151625+00:00",
+      "last_seen": "2026-11-24T19:10:33.151625+00:00"
+    },
+    "national reconstruction fund": {
+      "name": "National Reconstruction Fund Corporation",
+      "type": "institution",
+      "sectors": [
+        "Australian government investment fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T19:10:33.151625+00:00",
+      "last_seen": "2026-11-24T19:10:33.151625+00:00"
+    },
+    "funds sa": {
+      "name": "Funds SA",
+      "type": "institution",
+      "sectors": [
+        "public investment fund"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T19:10:33.151625+00:00",
+      "last_seen": "2026-11-24T19:10:33.151625+00:00"
+    },
+    "orbcomm": {
+      "name": "Orbcomm",
+      "type": "company",
+      "sectors": [
+        "satellite IoT"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T19:10:33.151625+00:00",
+      "last_seen": "2026-11-24T19:10:33.151625+00:00"
     }
   },
   "edges": [
@@ -39964,6 +40051,111 @@
           "added_at": "2026-11-24T17:10:57.349456+00:00"
         }
       ]
+    },
+    {
+      "source": "main sequence ventures",
+      "target": "myriota",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "共同领投 Myriota 4000万美元C轮第一部分",
+          "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+          "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+          "added_at": "2026-11-24T19:10:33.151625+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hostplus",
+      "target": "myriota",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "共同领投 Myriota 4000万美元C轮第一部分",
+          "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+          "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+          "added_at": "2026-11-24T19:10:33.151625+00:00"
+        }
+      ]
+    },
+    {
+      "source": "national reconstruction fund",
+      "target": "myriota",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "澳大利亚国家重建基金公司共同领投 Myriota C轮",
+          "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+          "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+          "added_at": "2026-11-24T19:10:33.151625+00:00"
+        }
+      ]
+    },
+    {
+      "source": "funds sa",
+      "target": "myriota",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "作为新投资者参与 Myriota C轮",
+          "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+          "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+          "added_at": "2026-11-24T19:10:33.151625+00:00"
+        }
+      ]
+    },
+    {
+      "source": "myriota",
+      "target": "iridium communications",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "在工业物联网卫星连接市场与老牌运营商 Iridium 竞争",
+          "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+          "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+          "added_at": "2026-11-24T19:10:33.151625+00:00"
+        }
+      ]
+    },
+    {
+      "source": "myriota",
+      "target": "orbcomm",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "在工业物联网卫星连接市场与 Orbcomm 竞争",
+          "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+          "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+          "added_at": "2026-11-24T19:10:33.151625+00:00"
+        }
+      ]
+    },
+    {
+      "source": "myriota",
+      "target": "viasat",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "在工业物联网卫星连接市场与 Viasat 竞争",
+          "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+          "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+          "added_at": "2026-11-24T19:10:33.151625+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -47472,6 +47664,33 @@
       "source_name": "TechCrunch - AI",
       "published": "Tue, 24 Nov 2026 18:02:59 +0000",
       "added_at": "2026-11-24T18:09:47.864301+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic上市不到一周即跌破83美元发行价(盘中最低76美元),Nvidia同日回吐超7%;公开市场开始对模型层'收入能否跑赢算力成本'投票,短期利空模型层与依赖一级市场融资的AI创业公司估值和IPO窗口,基础设施层已锁定的资本开支影响滞后",
+      "article_title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "article_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 24 Nov 2026 18:30:42 +0000",
+      "added_at": "2026-11-24T19:10:32.882780+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Myriota完成4000万美元C轮首笔融资用于下一代卫星,工业IoT低带宽卫星连接是太空经济中已有收入、按设备收费的细分方向,利好小卫星制造与拼车发射;但规模尚小,面对Iridium/Orbcomm/Viasat竞争仍待验证",
+      "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+      "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+      "added_at": "2026-11-24T19:10:33.434221+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Myriota推出5G NTN服务与长寿命资产追踪器,把矿山、燃料罐、离网光伏等偏远现场传感器接入网络,利好低功耗NTN芯片/模组这一边缘数据源头层,属于间接利好",
+      "article_title": "Industrial internet of things satellite platform Myriota raises $40M to scale its constellation and expand",
+      "article_url": "https://siliconangle.com/2026/11/24/industrial-internet-of-things-satellite-platform-myriota-raises-40m-to-scale-its-constellation-and-expand/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 18:50:57 +0000",
+      "added_at": "2026-11-24T19:10:33.705125+00:00"
     }
   ]
 }
