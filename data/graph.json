@@ -1522,16 +1522,18 @@
       "name": "ABB Ltd",
       "type": "company",
       "sectors": [
-        "industrial robots"
+        "industrial robots",
+        "electrification / motors and drives"
       ],
       "sector_tags": [
-        "机器人板块"
+        "机器人板块",
+        "能源板块"
       ],
       "hot": "hot",
       "ticker": "ABBN",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-10-15T05:35:19.684141+00:00"
+      "last_seen": "2026-11-24T17:10:55.936275+00:00"
     },
     "fanuc": {
       "name": "Fanuc Corporation",
@@ -6172,7 +6174,8 @@
         "AI data center / neocloud",
         "AI data centers",
         "neocloud",
-        "AI data center developer"
+        "AI data center developer",
+        "AI data center developer / cloud"
       ],
       "sector_tags": [
         "AI板块",
@@ -6180,9 +6183,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-09T06:06:09.263035+00:00",
-      "last_seen": "2026-11-18T16:11:39.204972+00:00"
+      "last_seen": "2026-11-24T17:10:57.349456+00:00"
     },
     "megaspeed": {
       "name": "Megaspeed",
@@ -10164,9 +10167,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-16T18:11:41.269696+00:00",
-      "last_seen": "2026-11-23T11:10:20.553198+00:00"
+      "last_seen": "2026-11-24T17:10:55.092795+00:00"
     },
     "aqsolotl": {
       "name": "AQSolotl",
@@ -11563,9 +11566,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T16:10:37.707122+00:00",
-      "last_seen": "2026-11-18T16:11:39.204972+00:00"
+      "last_seen": "2026-11-24T17:10:55.092795+00:00"
     },
     "saxon q": {
       "name": "SAXON Q",
@@ -16856,6 +16859,66 @@
       "mentions": 1,
       "first_seen": "2026-11-24T16:12:37.865413+00:00",
       "last_seen": "2026-11-24T16:12:37.865413+00:00"
+    },
+    "ziehlabegg": {
+      "name": "Ziehl-Abegg",
+      "type": "company",
+      "sectors": [
+        "fans, motors and ventilation systems"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T17:10:55.936275+00:00",
+      "last_seen": "2026-11-24T17:10:55.936275+00:00"
+    },
+    "g2 venture partners": {
+      "name": "G2 Venture Partners",
+      "type": "company",
+      "sectors": [
+        "climate tech venture capital"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T17:10:57.349456+00:00",
+      "last_seen": "2026-11-24T17:10:57.349456+00:00"
+    },
+    "antora energy": {
+      "name": "Antora Energy",
+      "type": "company",
+      "sectors": [
+        "long-duration energy storage"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T17:10:57.349456+00:00",
+      "last_seen": "2026-11-24T17:10:57.349456+00:00"
+    },
+    "form energy": {
+      "name": "Form Energy",
+      "type": "company",
+      "sectors": [
+        "long-duration energy storage"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T17:10:57.349456+00:00",
+      "last_seen": "2026-11-24T17:10:57.349456+00:00"
     }
   },
   "edges": [
@@ -34218,6 +34281,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 18 Nov 2026 15:40:23 +0000",
           "added_at": "2026-11-18T16:11:39.204972+00:00"
+        },
+        {
+          "description": "两家均在科罗拉多 Aurora 开发数据中心;QTS 的 160MW 项目施工基本完成,不受暂停令影响,Vantage 的 Trident 项目撤出",
+          "article_title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 16:57:00 +0000",
+          "added_at": "2026-11-24T17:10:55.092795+00:00"
         }
       ]
     },
@@ -39831,6 +39902,66 @@
           "source_name": "DataCenterDynamics",
           "published": "Tue, 24 Nov 2026 15:49:26 +0000",
           "added_at": "2026-11-24T16:12:37.865413+00:00"
+        }
+      ]
+    },
+    {
+      "source": "abb",
+      "target": "ziehlabegg",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "ABB 以 26.5 亿美元企业价值(股权价值 22.2 亿美元)收购德国风机与电机厂商 Ziehl-Abegg,并入 Motion 业务,预计 2027 年下半年完成",
+          "article_title": "ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 16:20:34 +0000",
+          "added_at": "2026-11-24T17:10:55.936275+00:00"
+        }
+      ]
+    },
+    {
+      "source": "g2 venture partners",
+      "target": "crusoe",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "G2VP 领投 Crusoe 的 C 轮融资",
+          "article_title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "article_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 16:10:00 +0000",
+          "added_at": "2026-11-24T17:10:57.349456+00:00"
+        }
+      ]
+    },
+    {
+      "source": "g2 venture partners",
+      "target": "antora energy",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Antora Energy 是 G2VP 的投资组合公司",
+          "article_title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "article_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 16:10:00 +0000",
+          "added_at": "2026-11-24T17:10:57.349456+00:00"
+        }
+      ]
+    },
+    {
+      "source": "antora energy",
+      "target": "form energy",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者被列为新一代长时储能厂商,争夺为离网太阳能数据中心提供全天候供电",
+          "article_title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "article_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 16:10:00 +0000",
+          "added_at": "2026-11-24T17:10:57.349456+00:00"
         }
       ]
     }
@@ -47278,6 +47409,60 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 24 Nov 2026 15:49:26 +0000",
       "added_at": "2026-11-24T16:12:38.143786+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Aurora 暂停令让已获批的 500MW Trident 项目撤出,社区许可成为能逆转项目的硬约束;已通电、获批或在建的存量产能(如 QTS 在 Aurora 的 160MW)稀缺性上升",
+      "article_title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 16:57:00 +0000",
+      "added_at": "2026-11-24T17:10:55.379617+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "社区反对的核心抓手是居民电价和用水,闭环/干式冷却、自带发电和储能这类能减少对居民电网压力的方案更容易拿到许可",
+      "article_title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 16:57:00 +0000",
+      "added_at": "2026-11-24T17:10:55.650203+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "ABB 以约 2 倍收入收购风机/电机厂 Ziehl-Abegg(2026 年收入约 14 亿美元、利润率个位数中段),继 Samsung 洽购 Modine 后,散热并购从系统层延伸到部件层,电气巨头在打包电机、驱动与冷却部件",
+      "article_title": "ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 16:20:34 +0000",
+      "added_at": "2026-11-24T17:10:56.227236+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "冷却部件供给由大集团整合扩产,间接缓解高密度机柜部署的散热节奏风险;Ziehl-Abegg 数据中心收入占比未披露,受益为间接",
+      "article_title": "ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 16:20:34 +0000",
+      "added_at": "2026-11-24T17:10:56.520959+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "(投资人观点,利益相关,未经独立验证)G2VP 称燃气年新增仅 60-70GW、太阳能超 1TW,主张数据中心走太阳能+长时储能离网路线绕开并网和许可;瓶颈在长时储能成本,离广泛采用还有几年",
+      "article_title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "article_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 24 Nov 2026 16:10:00 +0000",
+      "added_at": "2026-11-24T17:10:57.648467+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(投资人观点,利益相关)若离网太阳能+储能跑通,Crusoe 这类'把算力搬到电源旁'的开发商在选址和上线速度上占优;目前尚无此类主力电源合同",
+      "article_title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "article_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 24 Nov 2026 16:10:00 +0000",
+      "added_at": "2026-11-24T17:10:57.918439+00:00"
     }
   ]
 }
