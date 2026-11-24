@@ -257,9 +257,9 @@
         "AI accelerators / networking",
         "GPU / AI interconnect"
       ],
-      "mentions": 103,
+      "mentions": 104,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-24T21:10:30.194544+00:00",
+      "last_seen": "2026-11-24T22:11:16.482729+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -426,16 +426,17 @@
         "frontier AI lab",
         "foundation models / ChatGPT",
         "AI models / agents",
-        "AI models"
+        "AI models",
+        "frontier models / personal agent Dots"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 44,
+      "mentions": 45,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T22:12:38.112309+00:00"
+      "last_seen": "2026-11-24T22:11:15.108060+00:00"
     },
     "amazoncom": {
       "name": "Amazon.com Inc.",
@@ -457,7 +458,8 @@
         "cloud / Amazon Braket",
         "cloud & e-commerce",
         "e-commerce / cloud / custom AI chips",
-        "cloud (Amazon Braket)"
+        "cloud (Amazon Braket)",
+        "e-commerce"
       ],
       "sector_tags": [
         "AI板块",
@@ -468,9 +470,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 34,
+      "mentions": 35,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T19:10:19.232862+00:00"
+      "last_seen": "2026-11-24T22:11:15.674698+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -484,7 +486,8 @@
         "AI models / agents",
         "AI models / hyperscaler",
         "social media & AI",
-        "hyperscaler / social media"
+        "hyperscaler / social media",
+        "personal AI agent Muse"
       ],
       "sector_tags": [
         "AI板块",
@@ -492,9 +495,9 @@
       ],
       "hot": "hot",
       "ticker": "META",
-      "mentions": 17,
+      "mentions": 19,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+      "last_seen": "2026-11-24T22:11:15.674698+00:00"
     },
     "anthropic": {
       "name": "Anthropic",
@@ -503,16 +506,17 @@
         "frontier AI models",
         "foundation models",
         "frontier AI lab",
-        "AI models / agents"
+        "AI models / agents",
+        "frontier models / Claude Code"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 58,
+      "mentions": 59,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T22:12:36.628957+00:00"
+      "last_seen": "2026-11-24T22:11:15.108060+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -2758,7 +2762,8 @@
       "type": "institution",
       "sectors": [
         "robotics research",
-        "academic research"
+        "academic research",
+        "AI research"
       ],
       "sector_tags": [
         "机器人板块",
@@ -2766,9 +2771,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-09T05:41:42.904677+00:00",
-      "last_seen": "2026-11-15T05:09:36.977161+00:00"
+      "last_seen": "2026-11-24T22:11:15.108060+00:00"
     },
     "nasa": {
       "name": "NASA",
@@ -2827,9 +2832,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-09T05:41:43.395872+00:00",
-      "last_seen": "2026-11-17T23:11:58.365535+00:00"
+      "last_seen": "2026-11-24T22:11:15.108060+00:00"
     },
     "servicenow": {
       "name": "ServiceNow",
@@ -6205,16 +6210,17 @@
         "GPU data center operator",
         "Singapore AI infrastructure / cloud",
         "GPU cloud / chip reseller (Singapore)",
-        "cloud / AI data center (Singapore)"
+        "cloud / AI data center (Singapore)",
+        "Singapore cloud operator"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-24T16:12:35.696088+00:00"
+      "last_seen": "2026-11-24T22:11:16.482729+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -6732,14 +6738,17 @@
       "name": "Walmart",
       "type": "company",
       "sectors": [
-        "retail"
+        "retail",
+        "retail / Agent Gateway"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": "hot",
       "ticker": "WMT",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-10T05:12:47.255345+00:00",
-      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+      "last_seen": "2026-11-24T22:11:15.674698+00:00"
     },
     "kddi": {
       "name": "KDDI",
@@ -17011,6 +17020,81 @@
       "mentions": 1,
       "first_seen": "2026-11-24T19:10:33.151625+00:00",
       "last_seen": "2026-11-24T19:10:33.151625+00:00"
+    },
+    "shellbench": {
+      "name": "ShellBench",
+      "type": "technology",
+      "sectors": [
+        "personal AI agent benchmark"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T22:11:15.108060+00:00",
+      "last_seen": "2026-11-24T22:11:15.108060+00:00"
+    },
+    "the openclaw foundation": {
+      "name": "The OpenClaw Foundation",
+      "type": "institution",
+      "sectors": [
+        "open-source AI agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T22:11:15.108060+00:00",
+      "last_seen": "2026-11-24T22:11:15.108060+00:00"
+    },
+    "parsewave": {
+      "name": "Parsewave",
+      "type": "company",
+      "sectors": [
+        "AI evaluation data"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T22:11:15.108060+00:00",
+      "last_seen": "2026-11-24T22:11:15.108060+00:00"
+    },
+    "red hat": {
+      "name": "Red Hat",
+      "type": "company",
+      "sectors": [
+        "enterprise open-source software"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T22:11:15.108060+00:00",
+      "last_seen": "2026-11-24T22:11:15.108060+00:00"
+    },
+    "instacart": {
+      "name": "Instacart",
+      "type": "company",
+      "sectors": [
+        "grocery delivery"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T22:11:15.674698+00:00",
+      "last_seen": "2026-11-24T22:11:15.674698+00:00"
     }
   },
   "edges": [
@@ -18064,6 +18148,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 18 Nov 2026 23:50:41 +0000",
           "added_at": "2026-11-19T17:12:48.844544+00:00"
+        },
+        {
+          "description": "ShellBench中GPT-6 Astra在Pi harness胜过Claude Fable 5.2,在Claude Code中则落后;双方个人agent Dots与Claude Duet竞争",
+          "article_title": "Even the best AI agents struggle with everyday life",
+          "article_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+          "added_at": "2026-11-24T22:11:15.108060+00:00"
         }
       ]
     },
@@ -20649,6 +20741,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Fri, 13 Nov 2026 16:00:12 +0000",
           "added_at": "2026-11-13T16:11:03.328916+00:00"
+        },
+        {
+          "description": "Muse与Dots争夺个人AI agent市场;ShellBench中最强模型失败率均超三分之一",
+          "article_title": "Even the best AI agents struggle with everyday life",
+          "article_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+          "added_at": "2026-11-24T22:11:15.108060+00:00"
         }
       ]
     },
@@ -25513,6 +25613,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Tue, 24 Nov 2026 16:00:41 +0000",
           "added_at": "2026-11-24T16:12:35.696088+00:00"
+        },
+        {
+          "description": "Megaspeed处于黄仁勋丑闻中心,上榜后购买英伟达最新芯片需许可证,但据报道商务部未适用FDPR条款,低端GPU与HBM限制存在漏洞",
+          "article_title": "Congress scrutinizes Jensen Huang’s return as Megaspeed restrictions raise questions",
+          "article_url": "https://siliconangle.com/2026/11/24/congress-scrutinizes-jensen-huangs-return-as-megaspeed-restrictions-raise-questions/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 21:12:30 +0000",
+          "added_at": "2026-11-24T22:11:16.482729+00:00"
         }
       ]
     },
@@ -40229,6 +40337,126 @@
           "added_at": "2026-11-24T21:10:30.194544+00:00"
         }
       ]
+    },
+    {
+      "source": "the openclaw foundation",
+      "target": "shellbench",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "OpenClaw Foundation与Parsewave、Hugging Face、Red Hat、UC Berkeley合作开发ShellBench,基于逾千万条真实agent交互",
+          "article_title": "Even the best AI agents struggle with everyday life",
+          "article_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+          "added_at": "2026-11-24T22:11:15.108060+00:00"
+        }
+      ]
+    },
+    {
+      "source": "parsewave",
+      "target": "shellbench",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "参与开发个人agent日常任务基准ShellBench",
+          "article_title": "Even the best AI agents struggle with everyday life",
+          "article_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+          "added_at": "2026-11-24T22:11:15.108060+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hugging face",
+      "target": "shellbench",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "参与开发个人agent日常任务基准ShellBench",
+          "article_title": "Even the best AI agents struggle with everyday life",
+          "article_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+          "added_at": "2026-11-24T22:11:15.108060+00:00"
+        }
+      ]
+    },
+    {
+      "source": "red hat",
+      "target": "shellbench",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "参与开发个人agent日常任务基准ShellBench",
+          "article_title": "Even the best AI agents struggle with everyday life",
+          "article_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+          "added_at": "2026-11-24T22:11:15.108060+00:00"
+        }
+      ]
+    },
+    {
+      "source": "university of california berkeley",
+      "target": "shellbench",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "参与开发个人agent日常任务基准ShellBench",
+          "article_title": "Even the best AI agents struggle with everyday life",
+          "article_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+          "added_at": "2026-11-24T22:11:15.108060+00:00"
+        }
+      ]
+    },
+    {
+      "source": "walmart",
+      "target": "meta platforms",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "沃尔玛通过Agent Gateway接入Meta的Muse,用户可经Muse购买黑五折扣商品,Muse无法获取购物历史",
+          "article_title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "article_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:32:38 +0000",
+          "added_at": "2026-11-24T22:11:15.674698+00:00"
+        }
+      ]
+    },
+    {
+      "source": "instacart",
+      "target": "meta platforms",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Instacart此前也已与Meta的AI agent Muse合作",
+          "article_title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "article_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:32:38 +0000",
+          "added_at": "2026-11-24T22:11:15.674698+00:00"
+        }
+      ]
+    },
+    {
+      "source": "walmart",
+      "target": "amazoncom",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "沃尔玛开放第三方agent购物,亚马逊则阻止第三方agent代客下单,两种agent商业策略相反",
+          "article_title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+          "article_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+          "source_name": "TechCrunch - AI",
+          "published": "Tue, 24 Nov 2026 21:32:38 +0000",
+          "added_at": "2026-11-24T22:11:15.674698+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -47782,6 +48010,33 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 24 Nov 2026 20:27:32 +0000",
       "added_at": "2026-11-24T21:10:30.862296+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "ShellBench显示最强个人agent失败率超三分之一、15.7%违反安全要求、三次全对不到一半,且强模型表现越来越依赖harness;瓶颈从模型转向执行层一致性与安全,利好推理算力、harness/agent框架与agent安全治理层,个人agent付费转化可能慢于预期",
+      "article_title": "Even the best AI agents struggle with everyday life",
+      "article_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 24 Nov 2026 21:33:29 +0000",
+      "added_at": "2026-11-24T22:11:15.396239+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "沃尔玛经Agent Gateway向Meta Muse开放黑五购物,与亚马逊封闭策略相反;agent商业瓶颈在用户信任,利好推理算力和零售网关、支付身份与反欺诈等接入层,前端agent可靠性仍未过关",
+      "article_title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "article_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "source_name": "TechCrunch - AI",
+      "published": "Tue, 24 Nov 2026 21:32:38 +0000",
+      "added_at": "2026-11-24T22:11:15.948433+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "商务部对Megaspeed上实体清单却未适用FDPR、国会两党严查黄仁勋复职,英伟达股价复职后大涨后回吐5.8%;治理与政治信用仍是瓶颈,若补上FDPR可能收紧东南亚渠道和HBM出货,短期波动、治理溢价偏空",
+      "article_title": "Congress scrutinizes Jensen Huang’s return as Megaspeed restrictions raise questions",
+      "article_url": "https://siliconangle.com/2026/11/24/congress-scrutinizes-jensen-huangs-return-as-megaspeed-restrictions-raise-questions/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 21:12:30 +0000",
+      "added_at": "2026-11-24T22:11:16.751327+00:00"
     }
   ]
 }
