@@ -254,11 +254,12 @@
         "AI accelerators / Aerial RAN computer",
         "GPU / accelerated computing",
         "AI chips / systems",
-        "AI accelerators / networking"
+        "AI accelerators / networking",
+        "GPU / AI interconnect"
       ],
-      "mentions": 102,
+      "mentions": 103,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-24T16:12:37.865413+00:00",
+      "last_seen": "2026-11-24T21:10:30.194544+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -547,9 +548,9 @@
       ],
       "hot": "hot",
       "ticker": "ORCL",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T12:11:01.012891+00:00"
+      "last_seen": "2026-11-24T21:10:30.194544+00:00"
     },
     "palantir": {
       "name": "Palantir Technologies",
@@ -1844,7 +1845,8 @@
         "CPUs / EPYC",
         "GPU/CPU chip design",
         "CPU/GPU",
-        "semiconductors / GPUs & CPUs"
+        "semiconductors / GPUs & CPUs",
+        "GPU / AI rack (Helios)"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1853,9 +1855,9 @@
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 32,
+      "mentions": 33,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-22T02:15:54.166185+00:00"
+      "last_seen": "2026-11-24T21:10:30.194544+00:00"
     },
     "mediatek": {
       "name": "MediaTek Inc.",
@@ -11176,16 +11178,17 @@
         "HPC systems",
         "servers / networking",
         "enterprise IT / networking",
-        "AI servers & networking"
+        "AI servers & networking",
+        "AI servers / networking"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "HPE",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-11-17T15:11:12.258072+00:00",
-      "last_seen": "2026-11-24T02:26:58.028831+00:00"
+      "last_seen": "2026-11-24T21:10:30.194544+00:00"
     },
     "lux": {
       "name": "Lux",
@@ -14135,16 +14138,17 @@
       "name": "Vultr",
       "type": "company",
       "sectors": [
-        "cloud / neocloud"
+        "cloud / neocloud",
+        "neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T17:12:48.347197+00:00",
-      "last_seen": "2026-11-19T17:12:48.347197+00:00"
+      "last_seen": "2026-11-24T21:10:30.194544+00:00"
     },
     "delta gold": {
       "name": "Delta Gold Technologies",
@@ -16289,16 +16293,17 @@
       "name": "Juniper Networks",
       "type": "company",
       "sectors": [
-        "networking"
+        "networking",
+        "networking / routing"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-23T22:12:38.615695+00:00",
-      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+      "last_seen": "2026-11-24T21:10:30.194544+00:00"
     },
     "national research council canada": {
       "name": "National Research Council Canada",
@@ -39239,6 +39244,14 @@
           "source_name": "SiliconANGLE",
           "published": "Mon, 23 Nov 2026 21:11:24 +0000",
           "added_at": "2026-11-23T22:12:38.615695+00:00"
+        },
+        {
+          "description": "HPE完成Juniper整合,年度成本协同目标上调至8亿美元,网络业务预计到FY27Q4贡献超40%营业利润",
+          "article_title": "Key insights from HPE’s Q4 earnings report",
+          "article_url": "https://siliconangle.com/2026/11/24/key-insights-from-hpes-q4-earnings-report/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 20:27:32 +0000",
+          "added_at": "2026-11-24T21:10:30.194544+00:00"
         }
       ]
     },
@@ -40154,6 +40167,66 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 24 Nov 2026 18:50:57 +0000",
           "added_at": "2026-11-24T19:10:33.151625+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vultr",
+      "target": "hewlett packard enterprise",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Vultr向HPE下了12亿美元订单;HPE强调只卖设备、不通过HPFS为neocloud提供融资",
+          "article_title": "Key insights from HPE’s Q4 earnings report",
+          "article_url": "https://siliconangle.com/2026/11/24/key-insights-from-hpes-q4-earnings-report/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 20:27:32 +0000",
+          "added_at": "2026-11-24T21:10:30.194544+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hewlett packard enterprise",
+      "target": "advanced micro devices",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "AMD Helios机架采用HPE以太网交换而非Nvidia专有互联,是HPE下半年收入爬坡的关键",
+          "article_title": "Key insights from HPE’s Q4 earnings report",
+          "article_url": "https://siliconangle.com/2026/11/24/key-insights-from-hpes-q4-earnings-report/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 20:27:32 +0000",
+          "added_at": "2026-11-24T21:10:30.194544+00:00"
+        }
+      ]
+    },
+    {
+      "source": "hewlett packard enterprise",
+      "target": "nvidia",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "HPE以太网交换方案(Helios)被客户视为Nvidia专有互联之外的分散供应选择",
+          "article_title": "Key insights from HPE’s Q4 earnings report",
+          "article_url": "https://siliconangle.com/2026/11/24/key-insights-from-hpes-q4-earnings-report/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 20:27:32 +0000",
+          "added_at": "2026-11-24T21:10:30.194544+00:00"
+        }
+      ]
+    },
+    {
+      "source": "oracle",
+      "target": "hewlett packard enterprise",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "HPE下半年收入爬坡部分取决于与Oracle的交易",
+          "article_title": "Key insights from HPE’s Q4 earnings report",
+          "article_url": "https://siliconangle.com/2026/11/24/key-insights-from-hpes-q4-earnings-report/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 20:27:32 +0000",
+          "added_at": "2026-11-24T21:10:30.194544+00:00"
         }
       ]
     }
@@ -47691,6 +47764,24 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 24 Nov 2026 18:50:57 +0000",
       "added_at": "2026-11-24T19:10:33.705125+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "HPE订单增88%、AI积压105亿美元,但网络部件交期28-40周、内存紧到2028年下半年;Cloud&AI利润率从18.4%指引降至约14%,利润向内存与网络互联层转移,网络将贡献超40%营业利润,Helios以太网机架挑战Nvidia专有互联;HPE对neocloud融资零敞口(分析师观点偏多)",
+      "article_title": "Key insights from HPE’s Q4 earnings report",
+      "article_url": "https://siliconangle.com/2026/11/24/key-insights-from-hpes-q4-earnings-report/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 20:27:32 +0000",
+      "added_at": "2026-11-24T21:10:30.555142+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "HPE CEO判断到本十年末80%AI需求为推理且大量落在企业本地、分布式部署,推理算力向企业机房下沉,对edge AI属弱关联利好,原文未涉及终端设备",
+      "article_title": "Key insights from HPE’s Q4 earnings report",
+      "article_url": "https://siliconangle.com/2026/11/24/key-insights-from-hpes-q4-earnings-report/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 20:27:32 +0000",
+      "added_at": "2026-11-24T21:10:30.862296+00:00"
     }
   ]
 }
