@@ -16278,6 +16278,36 @@
       "mentions": 1,
       "first_seen": "2026-11-23T22:12:38.615695+00:00",
       "last_seen": "2026-11-23T22:12:38.615695+00:00"
+    },
+    "national research council canada": {
+      "name": "National Research Council Canada",
+      "type": "institution",
+      "sectors": [
+        "government quantum & nanotechnology R&D"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T09:10:29.159955+00:00",
+      "last_seen": "2026-11-24T09:10:29.159955+00:00"
+    },
+    "university of warwick": {
+      "name": "University of Warwick",
+      "type": "institution",
+      "sectors": [
+        "semiconductor materials research (germanium-silicon)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T09:10:29.159955+00:00",
+      "last_seen": "2026-11-24T09:10:29.159955+00:00"
     }
   },
   "edges": [
@@ -38511,6 +38541,21 @@
           "added_at": "2026-11-24T02:26:57.490067+00:00"
         }
       ]
+    },
+    {
+      "source": "national research council canada",
+      "target": "university of warwick",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "NRC 与华威大学合作开发面向百万量子比特单芯片扩展的锗硅量子点材料平台,获 NRC 量子传感器挑战计划支持",
+          "article_title": "Canadian Researchers Piece Together a Million-Qubit Quantum Chip",
+          "article_url": "https://thequantuminsider.com/2026/11/24/canadian-researchers-piece-together-a-million-qubit-quantum-chip/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 08:43:08 +0000",
+          "added_at": "2026-11-24T09:10:29.159955+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -45686,6 +45731,24 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 23 Nov 2026 23:24:51 +0000",
       "added_at": "2026-11-24T02:26:58.296927+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "马里兰大学用耦合光纤环演示频率'合成维度',为光量子路线提供以频率模式代替物理器件数量的扩展思路;仅为底层物理演示(新闻稿),受益层在低损耗光子集成平台与射频控制电子,距离商业化很远",
+      "article_title": "Accelerating Computing With Light",
+      "article_url": "https://thequantuminsider.com/2026/11/24/accelerating-computing-with-light/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 08:52:49 +0000",
+      "added_at": "2026-11-24T09:10:28.875612+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "NRC 与华威大学的锗硅叠层材料平台指向半导体量子点路线的规模化瓶颈——晶圆级材料一致性;新闻稿标题放大结果、未给出指标,受益层在外延材料/设备与量子代工,仍需观望",
+      "article_title": "Canadian Researchers Piece Together a Million-Qubit Quantum Chip",
+      "article_url": "https://thequantuminsider.com/2026/11/24/canadian-researchers-piece-together-a-million-qubit-quantum-chip/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 08:43:08 +0000",
+      "added_at": "2026-11-24T09:10:29.444296+00:00"
     }
   ]
 }
