@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 99,
+      "mentions": 100,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-24T13:11:33.128848+00:00",
+      "last_seen": "2026-11-24T14:10:56.394826+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -1317,9 +1317,9 @@
       ],
       "hot": "cold",
       "ticker": "PSQL",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-19T17:12:43.371685+00:00"
+      "last_seen": "2026-11-24T14:10:55.001873+00:00"
     },
     "xanadu quantum": {
       "name": "Xanadu Quantum Technologies",
@@ -7943,16 +7943,17 @@
       "name": "Thales",
       "type": "company",
       "sectors": [
-        "aerospace & defense"
+        "aerospace & defense",
+        "aerospace / defense"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T10:11:33.875226+00:00",
-      "last_seen": "2026-11-13T10:11:33.875226+00:00"
+      "last_seen": "2026-11-24T14:10:55.001873+00:00"
     },
     "leonardo": {
       "name": "Leonardo",
@@ -16554,6 +16555,151 @@
       "mentions": 1,
       "first_seen": "2026-11-24T13:11:33.975164+00:00",
       "last_seen": "2026-11-24T13:11:33.975164+00:00"
+    },
+    "parityqc": {
+      "name": "ParityQC",
+      "type": "company",
+      "sectors": [
+        "quantum error correction / architecture"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:55.001873+00:00",
+      "last_seen": "2026-11-24T14:10:55.001873+00:00"
+    },
+    "thales nederland": {
+      "name": "Thales Nederland",
+      "type": "company",
+      "sectors": [
+        "defense systems"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:55.001873+00:00",
+      "last_seen": "2026-11-24T14:10:55.001873+00:00"
+    },
+    "european defence fund": {
+      "name": "European Defence Fund",
+      "type": "institution",
+      "sectors": [
+        "EU defence funding programme"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:55.001873+00:00",
+      "last_seen": "2026-11-24T14:10:55.001873+00:00"
+    },
+    "nocera": {
+      "name": "Nocera",
+      "type": "company",
+      "sectors": [
+        "AI infrastructure holding (Taiwan)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:55.566055+00:00",
+      "last_seen": "2026-11-24T14:10:55.566055+00:00"
+    },
+    "bitrock": {
+      "name": "BitRock",
+      "type": "company",
+      "sectors": [
+        "gas-powered modular AI data centers (Canada)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:55.566055+00:00",
+      "last_seen": "2026-11-24T14:10:55.566055+00:00"
+    },
+    "inergx": {
+      "name": "INERGX",
+      "type": "company",
+      "sectors": [
+        "energy storage / power optimization"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:55.566055+00:00",
+      "last_seen": "2026-11-24T14:10:55.566055+00:00"
+    },
+    "qmax": {
+      "name": "QMAX Technology",
+      "type": "company",
+      "sectors": [
+        "memory distribution (Taiwan)"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:55.566055+00:00",
+      "last_seen": "2026-11-24T14:10:55.566055+00:00"
+    },
+    "digital innovations": {
+      "name": "Digital Innovations Group",
+      "type": "company",
+      "sectors": [
+        "AI software (IRMA AI)"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:55.566055+00:00",
+      "last_seen": "2026-11-24T14:10:55.566055+00:00"
+    },
+    "newyork greencloud": {
+      "name": "NewYork GreenCloud",
+      "type": "company",
+      "sectors": [
+        "biomass-powered AI data centers"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:56.394826+00:00",
+      "last_seen": "2026-11-24T14:10:56.394826+00:00"
+    },
+    "atlas cloud ai": {
+      "name": "Atlas Cloud AI",
+      "type": "company",
+      "sectors": [
+        "AI cloud / GPU hosting"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T14:10:56.394826+00:00",
+      "last_seen": "2026-11-24T14:10:56.394826+00:00"
     }
   },
   "edges": [
@@ -39193,6 +39339,156 @@
           "added_at": "2026-11-24T13:11:33.975164+00:00"
         }
       ]
+    },
+    {
+      "source": "european defence fund",
+      "target": "pasqal",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "CoPaNA 项目入选欧洲防务基金 EDF 2025 年度征集,由 Pasqal 牵头协调,为期三年",
+          "article_title": "Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 13:33:45 +0000",
+          "added_at": "2026-11-24T14:10:55.001873+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "parityqc",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "CoPaNA 项目中 ParityQC 负责纠错码与架构,Pasqal 负责中性原子硬件与实验,共同推进容错量子计算蓝图",
+          "article_title": "Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 13:33:45 +0000",
+          "added_at": "2026-11-24T14:10:55.001873+00:00"
+        }
+      ]
+    },
+    {
+      "source": "pasqal",
+      "target": "thales nederland",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "CoPaNA 项目中 Thales Nederland 识别国防应用场景并估算在容错机器上运行所需资源",
+          "article_title": "Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 13:33:45 +0000",
+          "added_at": "2026-11-24T14:10:55.001873+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thales",
+      "target": "thales nederland",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Thales Nederland 是 Thales 集团在荷兰的子公司",
+          "article_title": "Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing",
+          "article_url": "https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 13:33:45 +0000",
+          "added_at": "2026-11-24T14:10:55.001873+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nocera",
+      "target": "bitrock",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nocera 以 2200 万美元购入 BitRock 44% 股权(有约束力 LOI),资金用于 Alberta 首个 10MW 燃气自供电模块化 AI 数据中心",
+          "article_title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+          "article_url": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 13:53:02 +0000",
+          "added_at": "2026-11-24T14:10:55.566055+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nocera",
+      "target": "inergx",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Nocera 7 月宣布入股英国储能与电力优化公司 INERGX",
+          "article_title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+          "article_url": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 13:53:02 +0000",
+          "added_at": "2026-11-24T14:10:55.566055+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nocera",
+      "target": "qmax",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Nocera 收购台湾 Crucial 内存分销商 QMAX Technology 30% 控股权益",
+          "article_title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+          "article_url": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 13:53:02 +0000",
+          "added_at": "2026-11-24T14:10:55.566055+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nocera",
+      "target": "digital innovations",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Nocera 6 月与 Digital Innovations Group 建立风险投资平台合作",
+          "article_title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+          "article_url": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 13:53:02 +0000",
+          "added_at": "2026-11-24T14:10:55.566055+00:00"
+        }
+      ]
+    },
+    {
+      "source": "newyork greencloud",
+      "target": "atlas cloud ai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "NewYork GreenCloud 将在 Ione 站点为 Atlas Cloud AI 托管 288 台 HGX B300 系统,四年期、初始投资 2.5 亿美元",
+          "article_title": "NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California",
+          "article_url": "https://www.datacenterdynamics.com/en/news/newyork-greencloud-submits-application-to-build-144mw-biomass-powered-data-center-in-ione-california/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 13:20:40 +0000",
+          "added_at": "2026-11-24T14:10:56.394826+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "atlas cloud ai",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Atlas Cloud AI 在 Ione 部署的专用集群含 2304 块 Nvidia Blackwell GPU",
+          "article_title": "NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California",
+          "article_url": "https://www.datacenterdynamics.com/en/news/newyork-greencloud-submits-application-to-build-144mw-biomass-powered-data-center-in-ione-california/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 13:20:40 +0000",
+          "added_at": "2026-11-24T14:10:56.394826+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -46503,6 +46799,42 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 24 Nov 2026 12:30:34 +0000",
       "added_at": "2026-11-24T13:11:34.314937+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Pasqal 牵头 EDF 三年期 CoPaNA 项目,与 ParityQC、Thales Nederland 合作推进中性原子容错量子计算蓝图,欧洲把量子纳入国防与主权技术资金池;但只产出蓝图、2029 早期 FTQC 为公司路线图(新闻稿,利益相关),偏正面但需克制",
+      "article_title": "Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing",
+      "article_url": "https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 13:33:45 +0000",
+      "added_at": "2026-11-24T14:10:55.280054+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Nocera 2200 万美元入股 BitRock,看重其自有燃气发电设备和 Alberta 发电许可,10MW 一段模块化扩张到 200MW 以绕开并网排队;利好现场燃气发电、预制模块化供配电与储能,但目前仅为 LOI、首期未建成",
+      "article_title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+      "article_url": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 13:53:02 +0000",
+      "added_at": "2026-11-24T14:10:55.844246+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "电力而非 GPU 成为 AI 基础设施稀缺资产,中小资本开始投向自带电的模块化算力项目;10MW 对整体算力供给影响小,后续阶段需单独融资,偏中性",
+      "article_title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+      "article_url": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 13:53:02 +0000",
+      "added_at": "2026-11-24T14:10:56.123055+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "NewYork GreenCloud 申请在闲置后复活的 Buena Vista 生物质电厂旁建 14.4MW 表后供电数据中心,电厂计划从 18MW 扩到 41MW;说明闲置小型发电资产因 AI 需求被重新定价,但燃料经济性、扩容和加州许可是瓶颈,'负碳'为公司自述,偏中性",
+      "article_title": "NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California",
+      "article_url": "https://www.datacenterdynamics.com/en/news/newyork-greencloud-submits-application-to-build-144mw-biomass-powered-data-center-in-ione-california/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 13:20:40 +0000",
+      "added_at": "2026-11-24T14:10:56.669009+00:00"
     }
   ]
 }
