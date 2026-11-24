@@ -7092,7 +7092,8 @@
       "type": "company",
       "sectors": [
         "AI data center developer",
-        "data centers"
+        "data centers",
+        "AI/HPC data center developer"
       ],
       "sector_tags": [
         "AI板块",
@@ -7100,9 +7101,9 @@
       ],
       "hot": null,
       "ticker": "APLD",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-11T06:19:46.422486+00:00",
-      "last_seen": "2026-11-19T12:12:45.718352+00:00"
+      "last_seen": "2026-11-24T15:10:31.840626+00:00"
     },
     "new york state digit": {
       "name": "New York State DIGIT",
@@ -9811,16 +9812,17 @@
       "type": "company",
       "sectors": [
         "infrastructure finance",
-        "asset management / infrastructure"
+        "asset management / infrastructure",
+        "asset management / infrastructure investment"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-16T14:12:41.691201+00:00",
-      "last_seen": "2026-11-17T13:11:16.688688+00:00"
+      "last_seen": "2026-11-24T15:10:31.840626+00:00"
     },
     "swi stoneweg icona": {
       "name": "SWI Stoneweg Icona Group",
@@ -39489,6 +39491,21 @@
           "added_at": "2026-11-24T14:10:56.394826+00:00"
         }
       ]
+    },
+    {
+      "source": "macquarie",
+      "target": "applied digital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Applied Digital 通过与 Macquarie Asset Management 的 50 亿美元程序化股权合作,为新签 150MW、18 年期超大规模云厂商租约对应的建设融资",
+          "article_title": "Applied Digital signs $5.4bn 18-year lease with unnamed hyperscaler",
+          "article_url": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-54bn-18-year-lease-with-unnamed-hyperscaler/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 14:53:30 +0000",
+          "added_at": "2026-11-24T15:10:31.840626+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -46835,6 +46852,42 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 24 Nov 2026 13:20:40 +0000",
       "added_at": "2026-11-24T14:10:56.669009+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Applied Digital 与未具名投资级超大规模云厂商签 150MW、18 年、54 亿美元基础租约(含续约 127 亿),合同基础收入超 410 亿美元;云厂商为 2028 年才交付的容量锁定长租约,说明算力资本开支未放缓,但租户不具名、收入 2028 年才开始",
+      "article_title": "Applied Digital signs $5.4bn 18-year lease with unnamed hyperscaler",
+      "article_url": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-54bn-18-year-lease-with-unnamed-hyperscaler/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 14:53:30 +0000",
+      "added_at": "2026-11-24T15:10:32.194790+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Applied Digital 已有 2.2GW 并网峰值负载,能按时通电的场地被云厂商长期锁定;2028 上半年交付意味着变压器、开关设备、电力电子需在 2027 年前到位,利好电网与供配电层",
+      "article_title": "Applied Digital signs $5.4bn 18-year lease with unnamed hyperscaler",
+      "article_url": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-54bn-18-year-lease-with-unnamed-hyperscaler/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 14:53:30 +0000",
+      "added_at": "2026-11-24T15:10:32.534434+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "台积电申请在 Brazos County 建 2nm 晶圆厂(2027 动工、2029 投产),与 SpaceX TeraFab 所在 Grimes County 相邻,得州中部大功率全天候负载叠加,电力与供水压力上升;项目仍处申请阶段、土地未购,偏中性",
+      "article_title": "TSMC files application for proposed 2nm chip fab in Brazos County, Texas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 14:10:27 +0000",
+      "added_at": "2026-11-24T15:10:33.187758+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "美国本土 2nm 产能解决的是地缘与供应链韧性瓶颈而非短期产能瓶颈,2029 年投产对 2027-2028 算力供给无帮助;先受益的是半导体设备材料,AI 芯片设计与云厂商获得更分散的供应,偏中性",
+      "article_title": "TSMC files application for proposed 2nm chip fab in Brazos County, Texas",
+      "article_url": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 14:10:27 +0000",
+      "added_at": "2026-11-24T15:10:33.459956+00:00"
     }
   ]
 }
