@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 97,
+      "mentions": 98,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-23T19:10:19.232862+00:00",
+      "last_seen": "2026-11-24T02:26:58.028831+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -790,9 +790,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 20,
+      "mentions": 21,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-23T18:11:07.129257+00:00"
+      "last_seen": "2026-11-24T02:26:57.490067+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -866,16 +866,17 @@
         "aerospace and defense",
         "aerospace & defense",
         "defense / solid rocket boosters",
-        "solid rocket boosters / defense"
+        "solid rocket boosters / defense",
+        "aerospace & defense / Cygnus cargo"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "NOC",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-16T13:10:08.563022+00:00"
+      "last_seen": "2026-11-24T02:26:57.490067+00:00"
     },
     "l3harris": {
       "name": "L3Harris Technologies",
@@ -2774,9 +2775,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 14,
+      "mentions": 15,
       "first_seen": "2026-08-09T05:41:43.146703+00:00",
-      "last_seen": "2026-11-19T22:11:33.336118+00:00"
+      "last_seen": "2026-11-24T02:26:57.490067+00:00"
     },
     "flexiv": {
       "name": "Flexiv",
@@ -7906,16 +7907,17 @@
       "name": "Thales Alenia Space",
       "type": "company",
       "sectors": [
-        "satellite manufacturing"
+        "satellite manufacturing",
+        "spacecraft modules"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T10:11:33.875226+00:00",
-      "last_seen": "2026-11-13T10:11:33.875226+00:00"
+      "last_seen": "2026-11-24T02:26:57.490067+00:00"
     },
     "edge aerospace": {
       "name": "Edge Aerospace",
@@ -11155,16 +11157,17 @@
         "servers",
         "HPC systems",
         "servers / networking",
-        "enterprise IT / networking"
+        "enterprise IT / networking",
+        "AI servers & networking"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "HPE",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-17T15:11:12.258072+00:00",
-      "last_seen": "2026-11-23T22:12:38.615695+00:00"
+      "last_seen": "2026-11-24T02:26:58.028831+00:00"
     },
     "lux": {
       "name": "Lux",
@@ -11966,16 +11969,17 @@
         "AI servers / AI factory infrastructure",
         "servers / PowerEdge",
         "servers / rack integration",
-        "servers / AI infrastructure"
+        "servers / AI infrastructure",
+        "AI servers"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-23T18:11:07.905197+00:00"
+      "last_seen": "2026-11-24T02:26:58.028831+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -23242,6 +23246,14 @@
           "source_name": "NASASpaceFlight.com",
           "published": "Sun, 08 Nov 2026 04:43:57 +0000",
           "added_at": "2026-11-09T06:06:01.385594+00:00"
+        },
+        {
+          "description": "NASA 通过商业补给服务采购 Cygnus 空间站货运任务,NG-25 计划 11 月 29 日发射",
+          "article_title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Mon, 23 Nov 2026 23:28:00 +0000",
+          "added_at": "2026-11-24T02:26:57.490067+00:00"
         }
       ]
     },
@@ -38061,6 +38073,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 23 Nov 2026 17:08:00 +0000",
           "added_at": "2026-11-23T18:11:07.905197+00:00"
+        },
+        {
+          "description": "Dell 被称为 HPE 在 AI 服务器业务上最大的竞争对手",
+          "article_title": "HPE’s stock slides despite record revenue growth and upbeat forecast",
+          "article_url": "https://siliconangle.com/2026/11/23/hpes-stock-slides-despite-record-revenue-growth-and-upbeat-forecast/",
+          "source_name": "SiliconANGLE",
+          "published": "Mon, 23 Nov 2026 23:24:51 +0000",
+          "added_at": "2026-11-24T02:26:58.028831+00:00"
         }
       ]
     },
@@ -38459,6 +38479,36 @@
           "source_name": "SiliconANGLE",
           "published": "Mon, 23 Nov 2026 21:11:24 +0000",
           "added_at": "2026-11-23T22:12:38.615695+00:00"
+        }
+      ]
+    },
+    {
+      "source": "northrop grumman",
+      "target": "spacex",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Northrop 为 Cygnus 加订第六次 Falcon 9 发射,因自家 Antares 330 近期仍不可用",
+          "article_title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Mon, 23 Nov 2026 23:28:00 +0000",
+          "added_at": "2026-11-24T02:26:57.490067+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thales alenia space",
+      "target": "northrop grumman",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Thales Alenia Space 在都灵制造 Cygnus 加压货舱,NG-22 货舱运输中受损,一年多仍待修复",
+          "article_title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+          "article_url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+          "source_name": "NASASpaceFlight.com",
+          "published": "Mon, 23 Nov 2026 23:28:00 +0000",
+          "added_at": "2026-11-24T02:26:57.490067+00:00"
         }
       ]
     }
@@ -45618,6 +45668,24 @@
       "source_name": "SiliconANGLE",
       "published": "Mon, 23 Nov 2026 21:11:24 +0000",
       "added_at": "2026-11-23T22:12:38.865327+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Northrop 因 Antares 330 无首飞时间而第六次加订 Falcon 9,说明中型发射班次仍是瓶颈且高度集中在 SpaceX,需求真实、供给集中,利好具备高频可复用发射能力的一层",
+      "article_title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
+      "article_url": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
+      "source_name": "NASASpaceFlight.com",
+      "published": "Mon, 23 Nov 2026 23:28:00 +0000",
+      "added_at": "2026-11-24T02:26:57.760270+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "HPE 季度收入同比增 50%、2027 财年增速指引上调至 27%-35%,并称推理与 agent 需求持续、内存闪存网络部件紧张到 2028 年底,从订单端确认推理需求加速,但服务器整机层利润受上游内存定价权挤压",
+      "article_title": "HPE’s stock slides despite record revenue growth and upbeat forecast",
+      "article_url": "https://siliconangle.com/2026/11/23/hpes-stock-slides-despite-record-revenue-growth-and-upbeat-forecast/",
+      "source_name": "SiliconANGLE",
+      "published": "Mon, 23 Nov 2026 23:24:51 +0000",
+      "added_at": "2026-11-24T02:26:58.296927+00:00"
     }
   ]
 }
