@@ -256,9 +256,9 @@
         "AI chips / systems",
         "AI accelerators / networking"
       ],
-      "mentions": 98,
+      "mentions": 99,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-24T02:26:58.028831+00:00",
+      "last_seen": "2026-11-24T13:11:33.128848+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -530,9 +530,9 @@
       ],
       "hot": "hot",
       "ticker": "AVGO",
-      "mentions": 10,
+      "mentions": 11,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-20T01:11:33.292659+00:00"
+      "last_seen": "2026-11-24T13:11:32.578952+00:00"
     },
     "oracle": {
       "name": "Oracle Corporation",
@@ -1207,9 +1207,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 16,
+      "mentions": 17,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-22T02:15:56.564982+00:00"
+      "last_seen": "2026-11-24T13:11:31.743279+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -4644,9 +4644,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-16T20:10:10.600253+00:00"
+      "last_seen": "2026-11-24T13:11:31.200127+00:00"
     },
     "los alamos national laboratory": {
       "name": "Los Alamos National Laboratory",
@@ -6129,9 +6129,9 @@
       ],
       "hot": "hot",
       "ticker": "EQIX",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-09T06:06:08.786657+00:00",
-      "last_seen": "2026-11-23T14:11:04.035444+00:00"
+      "last_seen": "2026-11-24T13:11:31.200127+00:00"
     },
     "tallgrass energy": {
       "name": "Tallgrass Energy",
@@ -6289,9 +6289,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-09T06:06:12.402871+00:00",
-      "last_seen": "2026-11-18T12:10:15.580904+00:00"
+      "last_seen": "2026-11-24T13:11:32.578952+00:00"
     },
     "marvell": {
       "name": "Marvell Technology",
@@ -6383,9 +6383,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-10T05:12:44.190729+00:00",
-      "last_seen": "2026-11-22T02:15:56.564982+00:00"
+      "last_seen": "2026-11-24T13:11:31.200127+00:00"
     },
     "qant": {
       "name": "Q.ANT",
@@ -7074,7 +7074,8 @@
         "government",
         "federal government",
         "federal agency / export controls",
-        "US government"
+        "US government",
+        "government / CHIPS Act"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -7082,9 +7083,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-22T02:15:56.564982+00:00"
+      "last_seen": "2026-11-24T13:11:31.200127+00:00"
     },
     "applied digital": {
       "name": "Applied Digital",
@@ -8397,16 +8398,17 @@
       "name": "Etched",
       "type": "company",
       "sectors": [
-        "AI inference ASIC startup"
+        "AI inference ASIC startup",
+        "transformer inference ASIC"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T17:11:08.955963+00:00",
-      "last_seen": "2026-11-13T17:11:08.955963+00:00"
+      "last_seen": "2026-11-24T13:11:32.578952+00:00"
     },
     "olix": {
       "name": "Olix",
@@ -8901,9 +8903,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-14T00:09:37.686440+00:00",
-      "last_seen": "2026-11-19T22:11:34.786118+00:00"
+      "last_seen": "2026-11-24T13:11:32.578952+00:00"
     },
     "ucla": {
       "name": "UCLA",
@@ -13141,9 +13143,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-18T23:11:04.752589+00:00",
-      "last_seen": "2026-11-18T23:11:04.752589+00:00"
+      "last_seen": "2026-11-24T13:11:32.578952+00:00"
     },
     "elad gil": {
       "name": "Elad Gil",
@@ -14165,16 +14167,17 @@
       "name": "University of Toronto",
       "type": "institution",
       "sectors": [
-        "university research (planar gold spin devices)"
+        "university research (planar gold spin devices)",
+        "research university"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T18:10:40.678852+00:00",
-      "last_seen": "2026-11-19T18:10:40.678852+00:00"
+      "last_seen": "2026-11-24T13:11:31.743279+00:00"
     },
     "dmatrix": {
       "name": "d-Matrix",
@@ -16032,16 +16035,17 @@
       "name": "AMD",
       "type": "company",
       "sectors": [
-        "CPUs / GPUs"
+        "CPUs / GPUs",
+        "GPU / CPU"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "AMD",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-23T18:11:07.905197+00:00",
-      "last_seen": "2026-11-23T18:11:07.905197+00:00"
+      "last_seen": "2026-11-24T13:11:32.578952+00:00"
     },
     "mext": {
       "name": "Mext",
@@ -16428,6 +16432,128 @@
       "mentions": 1,
       "first_seen": "2026-11-24T12:10:40.004834+00:00",
       "last_seen": "2026-11-24T12:10:40.004834+00:00"
+    },
+    "multiverse computing": {
+      "name": "Multiverse Computing",
+      "type": "company",
+      "sectors": [
+        "quantum-inspired AI / model compression"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T13:11:31.743279+00:00",
+      "last_seen": "2026-11-24T13:11:31.743279+00:00"
+    },
+    "marlowe": {
+      "name": "Marlowe",
+      "type": "company",
+      "sectors": [
+        "multi-silicon AI inference cloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T13:11:32.578952+00:00",
+      "last_seen": "2026-11-24T13:11:32.578952+00:00"
+    },
+    "ltn compute": {
+      "name": "LTN Compute",
+      "type": "company",
+      "sectors": [
+        "AI infrastructure / GPUaaS (India)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T13:11:33.128848+00:00",
+      "last_seen": "2026-11-24T13:11:33.128848+00:00"
+    },
+    "vyomaai": {
+      "name": "Vyoma.AI",
+      "type": "company",
+      "sectors": [
+        "data centers (India)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T13:11:33.128848+00:00",
+      "last_seen": "2026-11-24T13:11:33.128848+00:00"
+    },
+    "larsen toubro": {
+      "name": "Larsen & Toubro",
+      "type": "company",
+      "sectors": [
+        "engineering & construction conglomerate"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T13:11:33.128848+00:00",
+      "last_seen": "2026-11-24T13:11:33.128848+00:00"
+    },
+    "proper voltage": {
+      "name": "Proper Voltage",
+      "type": "company",
+      "sectors": [
+        "battery control / integration (bOS)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T13:11:33.975164+00:00",
+      "last_seen": "2026-11-24T13:11:33.975164+00:00"
+    },
+    "unigrid": {
+      "name": "Unigrid",
+      "type": "company",
+      "sectors": [
+        "sodium-ion battery cells"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T13:11:33.975164+00:00",
+      "last_seen": "2026-11-24T13:11:33.975164+00:00"
+    },
+    "echion": {
+      "name": "Echion Technologies",
+      "type": "company",
+      "sectors": [
+        "battery materials / energy storage"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T13:11:33.975164+00:00",
+      "last_seen": "2026-11-24T13:11:33.975164+00:00"
     }
   },
   "edges": [
@@ -24284,6 +24410,14 @@
           "source_name": "The Quantum Insider",
           "published": "Mon, 09 Nov 2026 19:52:56 +0000",
           "added_at": "2026-11-10T05:12:44.190729+00:00"
+        },
+        {
+          "description": "Diraq 与 Equinix 合作把硅自旋量子计算机部署进商业数据中心",
+          "article_title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce",
+          "article_url": "https://thequantuminsider.com/2026/11/24/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 12:23:46 +0000",
+          "added_at": "2026-11-24T13:11:31.200127+00:00"
         }
       ]
     },
@@ -36678,6 +36812,14 @@
           "source_name": "The Quantum Insider",
           "published": "Fri, 20 Nov 2026 16:05:47 +0000",
           "added_at": "2026-11-22T02:15:56.564982+00:00"
+        },
+        {
+          "description": "商务部 CHIPS 研发办公室与 Diraq 正式敲定最高 3800 万美元 CHIPS 法案资助,用于在美国建设硅基量子芯片的制造与测试能力",
+          "article_title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce",
+          "article_url": "https://thequantuminsider.com/2026/11/24/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 12:23:46 +0000",
+          "added_at": "2026-11-24T13:11:31.200127+00:00"
         }
       ]
     },
@@ -38839,6 +38981,216 @@
           "source_name": "DataCenterDynamics",
           "published": "Tue, 24 Nov 2026 11:58:28 +0000",
           "added_at": "2026-11-24T12:10:40.004834+00:00"
+        }
+      ]
+    },
+    {
+      "source": "darpa",
+      "target": "diraq",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Diraq 进入 DARPA 量子基准计划(QBI)最终阶段 Stage C",
+          "article_title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce",
+          "article_url": "https://thequantuminsider.com/2026/11/24/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 12:23:46 +0000",
+          "added_at": "2026-11-24T13:11:31.200127+00:00"
+        }
+      ]
+    },
+    {
+      "source": "multiverse computing",
+      "target": "university of toronto",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "双方研究者合作把 Qwen3 中 8 个 block 替换为可在量子处理器上运行的模块,参数减少约 16%",
+          "article_title": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
+          "article_url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 12:23:06 +0000",
+          "added_at": "2026-11-24T13:11:31.743279+00:00"
+        }
+      ]
+    },
+    {
+      "source": "multiverse computing",
+      "target": "ibm",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "研究在 156 量子比特 IBM Heron 处理器上运行量子模块,每 token 约 90 秒处理器时间",
+          "article_title": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
+          "article_url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+          "source_name": "The Quantum Insider",
+          "published": "Tue, 24 Nov 2026 12:23:06 +0000",
+          "added_at": "2026-11-24T13:11:31.743279+00:00"
+        }
+      ]
+    },
+    {
+      "source": "accel",
+      "target": "marlowe",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Accel 参与领投 Marlowe 2.77 亿美元种子轮",
+          "article_title": "AI cloud startup Marlowe secures $277m in seed funding",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-marlowe-secures-277m-in-seed-funding/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:40:44 +0000",
+          "added_at": "2026-11-24T13:11:32.578952+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bessemer venture partners",
+      "target": "marlowe",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Bessemer 参与领投 Marlowe 2.77 亿美元种子轮",
+          "article_title": "AI cloud startup Marlowe secures $277m in seed funding",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-marlowe-secures-277m-in-seed-funding/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:40:44 +0000",
+          "added_at": "2026-11-24T13:11:32.578952+00:00"
+        }
+      ]
+    },
+    {
+      "source": "altimeter capital management",
+      "target": "marlowe",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Altimeter 参与领投 Marlowe 2.77 亿美元种子轮",
+          "article_title": "AI cloud startup Marlowe secures $277m in seed funding",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-marlowe-secures-277m-in-seed-funding/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:40:44 +0000",
+          "added_at": "2026-11-24T13:11:32.578952+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amd",
+      "target": "marlowe",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Marlowe 与 AMD 签算力合作,为客户提供 Helios 机架级系统",
+          "article_title": "AI cloud startup Marlowe secures $277m in seed funding",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-marlowe-secures-277m-in-seed-funding/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:40:44 +0000",
+          "added_at": "2026-11-24T13:11:32.578952+00:00"
+        }
+      ]
+    },
+    {
+      "source": "etched",
+      "target": "marlowe",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Marlowe 与 Etched 合作建设其 frontier inference cluster 最早的生产站点之一",
+          "article_title": "AI cloud startup Marlowe secures $277m in seed funding",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-marlowe-secures-277m-in-seed-funding/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:40:44 +0000",
+          "added_at": "2026-11-24T13:11:32.578952+00:00"
+        }
+      ]
+    },
+    {
+      "source": "broadcom",
+      "target": "marlowe",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Marlowe 称在建算力项目会用到 Broadcom 等公司的技术",
+          "article_title": "AI cloud startup Marlowe secures $277m in seed funding",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-marlowe-secures-277m-in-seed-funding/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:40:44 +0000",
+          "added_at": "2026-11-24T13:11:32.578952+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vyomaai",
+      "target": "ltn compute",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "LTN Compute 是 Vyoma.AI 的 AI 基础设施子公司",
+          "article_title": "LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ltn-compute-to-deploy-10000-gpu-cluster-at-chennai-data-center/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:30:34 +0000",
+          "added_at": "2026-11-24T13:11:33.128848+00:00"
+        }
+      ]
+    },
+    {
+      "source": "larsen toubro",
+      "target": "vyomaai",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Vyoma.AI 为 L&T 所有,金奈园区规划为吉瓦级 AI 基础设施中心",
+          "article_title": "LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ltn-compute-to-deploy-10000-gpu-cluster-at-chennai-data-center/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:30:34 +0000",
+          "added_at": "2026-11-24T13:11:33.128848+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "ltn compute",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "LTN Compute 将在金奈部署 1 万块 Nvidia B300 GPU 集群,供一家未具名推理基础设施提供商使用",
+          "article_title": "LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ltn-compute-to-deploy-10000-gpu-cluster-at-chennai-data-center/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:30:34 +0000",
+          "added_at": "2026-11-24T13:11:33.128848+00:00"
+        }
+      ]
+    },
+    {
+      "source": "unigrid",
+      "target": "proper voltage",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Salt Vault 数据中心 UPS 电池柜采用 Unigrid 的钠-铬氧化物(NCO)钠离子电芯,结合 Proper Voltage 的 bOS",
+          "article_title": "Proper Voltage launches sodium-ion battery cabinet for data center UPS systems",
+          "article_url": "https://www.datacenterdynamics.com/en/news/proper-voltage-launches-sodium-ion-battery-cabinet-for-data-center-ups-systems/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:30:34 +0000",
+          "added_at": "2026-11-24T13:11:33.975164+00:00"
+        }
+      ]
+    },
+    {
+      "source": "proper voltage",
+      "target": "echion",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方上月签 MoU,整合储能产品开发面向数据中心的储能平台",
+          "article_title": "Proper Voltage launches sodium-ion battery cabinet for data center UPS systems",
+          "article_url": "https://www.datacenterdynamics.com/en/news/proper-voltage-launches-sodium-ion-battery-cabinet-for-data-center-ups-systems/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 12:30:34 +0000",
+          "added_at": "2026-11-24T13:11:33.975164+00:00"
         }
       ]
     }
@@ -46097,6 +46449,60 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 24 Nov 2026 11:58:28 +0000",
       "added_at": "2026-11-24T12:10:40.558095+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Diraq 正式拿到商务部最高 3800 万美元 CHIPS 资助(此前为意向书),专门用于硅自旋量子芯片的美国制造与测试能力,说明政策开始把量子当作芯片制造问题来扶持;路线图 2029 年 1000 逻辑比特属公司自述、较激进(新闻稿,利益相关)",
+      "article_title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce",
+      "article_url": "https://thequantuminsider.com/2026/11/24/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 12:23:46 +0000",
+      "added_at": "2026-11-24T13:11:31.461120+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Multiverse/多伦多大学把 Qwen3 中 8 层换成量子模块,模拟中困惑度仅差约 1%,但同参数经典网络几乎全面更好、IBM Heron 上每 token 需约 90 秒;量子加速大模型离实用很远,属中性偏谨慎的降温信号",
+      "article_title": "Researchers Fit Quantum Circuits Into a 30 Billion-Parameter AI Model",
+      "article_url": "https://thequantuminsider.com/2026/11/24/researchers-fit-quantum-circuits-into-a-30-billion-parameter-ai-model/",
+      "source_name": "The Quantum Insider",
+      "published": "Tue, 24 Nov 2026 12:23:06 +0000",
+      "added_at": "2026-11-24T13:11:32.040988+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "前微软 VP 创立的 Marlowe 成立半年拿到 2.77 亿美元种子轮,主打 AMD Helios + Etched ASIC 的多芯片推理云,已有两个项目签约和三家推理承购客户;说明推理时代每瓦 token 成本成为核心瓶颈,利好非 NVIDIA 推理芯片与开放以太网互联,但选址与规模未披露",
+      "article_title": "AI cloud startup Marlowe secures $277m in seed funding",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-marlowe-secures-277m-in-seed-funding/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 12:40:44 +0000",
+      "added_at": "2026-11-24T13:11:32.861047+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "L&T 旗下 LTN Compute 签约在金奈部署 1 万块 Nvidia B300 集群,供未具名推理提供商训练/微调/部署模型,印度 AI 基建从容量规划落到具体万卡订单;客户与上线时间未披露",
+      "article_title": "LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ltn-compute-to-deploy-10000-gpu-cluster-at-chennai-data-center/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 12:30:34 +0000",
+      "added_at": "2026-11-24T13:11:33.407585+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "金奈园区现有 30MW、在建 52MW、具备 150MVA 电力,规划吉瓦级;万卡 B300 的真正瓶颈是已通电可交付机柜,具备工程与电力能力的基础设施方和配电/液冷设备受益",
+      "article_title": "LTN Compute to deploy 10,000-GPU cluster at Chennai Data Center",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ltn-compute-to-deploy-10000-gpu-cluster-at-chennai-data-center/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 12:30:34 +0000",
+      "added_at": "2026-11-24T13:11:33.689437+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Proper Voltage 与 Unigrid 推出钠离子数据中心 UPS 电池柜,宣称可直接替换现有锂电/铅酸系统、适配 800VDC、热稳定性更好;AI 负载频繁波动让循环寿命与脉冲功率更重要,但为厂商自述、未经验证,2027 年 4 月才交付",
+      "article_title": "Proper Voltage launches sodium-ion battery cabinet for data center UPS systems",
+      "article_url": "https://www.datacenterdynamics.com/en/news/proper-voltage-launches-sodium-ion-battery-cabinet-for-data-center-ups-systems/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 12:30:34 +0000",
+      "added_at": "2026-11-24T13:11:34.314937+00:00"
     }
   ]
 }
