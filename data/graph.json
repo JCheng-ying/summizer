@@ -5231,16 +5231,18 @@
       "type": "company",
       "sectors": [
         "IT services / data centers",
-        "data centers / IT services"
+        "data centers / IT services",
+        "data center developer / IT services"
       ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-06T07:01:16.658721+00:00",
-      "last_seen": "2026-11-09T06:06:08.786657+00:00"
+      "last_seen": "2026-11-24T12:10:40.004834+00:00"
     },
     "zutacore": {
       "name": "ZutaCore",
@@ -16340,6 +16342,92 @@
       "mentions": 1,
       "first_seen": "2026-11-24T11:10:00.760480+00:00",
       "last_seen": "2026-11-24T11:10:00.760480+00:00"
+    },
+    "bgrimm power": {
+      "name": "B.Grimm Power",
+      "type": "company",
+      "sectors": [
+        "Thai industrial power producer"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T12:10:40.004834+00:00",
+      "last_seen": "2026-11-24T12:10:40.004834+00:00"
+    },
+    "digital edge": {
+      "name": "Digital Edge",
+      "type": "company",
+      "sectors": [
+        "APAC data center operator"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T12:10:40.004834+00:00",
+      "last_seen": "2026-11-24T12:10:40.004834+00:00"
+    },
+    "aether": {
+      "name": "Aether Holdings",
+      "type": "company",
+      "sectors": [
+        "fintech / modular AI data center (Aether Compute)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T12:10:40.004834+00:00",
+      "last_seen": "2026-11-24T12:10:40.004834+00:00"
+    },
+    "cho thavee": {
+      "name": "Cho Thavee",
+      "type": "company",
+      "sectors": [
+        "Thai trailer and bus manufacturer"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T12:10:40.004834+00:00",
+      "last_seen": "2026-11-24T12:10:40.004834+00:00"
+    },
+    "advance capital partners": {
+      "name": "Advance Capital Partners",
+      "type": "company",
+      "sectors": [
+        "Singapore capital partner"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T12:10:40.004834+00:00",
+      "last_seen": "2026-11-24T12:10:40.004834+00:00"
+    },
+    "noviant": {
+      "name": "Noviant",
+      "type": "company",
+      "sectors": [
+        "technology infrastructure services"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T12:10:40.004834+00:00",
+      "last_seen": "2026-11-24T12:10:40.004834+00:00"
     }
   },
   "edges": [
@@ -38663,6 +38751,96 @@
           "added_at": "2026-11-24T11:10:00.760480+00:00"
         }
       ]
+    },
+    {
+      "source": "bgrimm power",
+      "target": "ntt data",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "B.Grimm Power 与 NTT Global Data Centers 签署 MoU,共同推进泰国 400MW 数据中心项目,投资约 1130 亿泰铢(约 33 亿美元)",
+          "article_title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 11:58:28 +0000",
+          "added_at": "2026-11-24T12:10:40.004834+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bgrimm power",
+      "target": "ntt data",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "B.Grimm 此前已与 NTT 签多笔能源协议,为其春武里园区数据中心供电",
+          "article_title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 11:58:28 +0000",
+          "added_at": "2026-11-24T12:10:40.004834+00:00"
+        }
+      ]
+    },
+    {
+      "source": "bgrimm power",
+      "target": "digital edge",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "B.Grimm 也与亚太数据中心运营商 Digital Edge 有合作",
+          "article_title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 11:58:28 +0000",
+          "added_at": "2026-11-24T12:10:40.004834+00:00"
+        }
+      ]
+    },
+    {
+      "source": "aether",
+      "target": "cho thavee",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Aether Compute 与 Cho Thavee 拟成立各持股 47.5% 的合资公司,把孔敬约 14 英亩工厂(现有约 850kW 电力)改造为 AI 数据中心",
+          "article_title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 11:58:28 +0000",
+          "added_at": "2026-11-24T12:10:40.004834+00:00"
+        }
+      ]
+    },
+    {
+      "source": "advance capital partners",
+      "target": "aether",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "ACP 作为资本方参与 Aether 与 Cho Thavee 的泰国 AI 数据中心合资项目,持股 5%",
+          "article_title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 11:58:28 +0000",
+          "added_at": "2026-11-24T12:10:40.004834+00:00"
+        }
+      ]
+    },
+    {
+      "source": "aether",
+      "target": "noviant",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Aether 于 8 月收购技术基础设施服务公司 Noviant 60% 股权",
+          "article_title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 11:58:28 +0000",
+          "added_at": "2026-11-24T12:10:40.004834+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -45883,6 +46061,42 @@
       "source_name": "DataCenterDynamics",
       "published": "Tue, 24 Nov 2026 10:31:42 +0000",
       "added_at": "2026-11-24T11:10:01.593903+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "DatacenterHawk:Q3 全球已投运托管容量 77GW 已超 2025 全年 51GW,空置率却从 3.5% 降到 1.8%,超大规模厂商租赁 52GW 超过自建 39GW;需求吸收快于供给,已建成容量会被填满并转化为 GPU/网络采购,托管商议价能力增强",
+      "article_title": "DatacenterHawk: Global data center supply grows two-thirds, but vacancy shrinks",
+      "article_url": "https://www.datacenterdynamics.com/en/news/datacenterhawk-global-data-center-supply-grows-two-thirds-but-vacancy-shrinks/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 12:02:29 +0000",
+      "added_at": "2026-11-24T12:10:39.469741+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "空置率 1.8% 说明瓶颈是已通电、可立即交付的容量;北欧凭电力与冷却拿走欧洲 49% 租赁、FLAPD 降至 23%,德州占吸收榜前列,利好能缩短拿电时间的变压器、开关设备、现场发电与储能",
+      "article_title": "DatacenterHawk: Global data center supply grows two-thirds, but vacancy shrinks",
+      "article_url": "https://www.datacenterdynamics.com/en/news/datacenterhawk-global-data-center-supply-grows-two-thirds-but-vacancy-shrinks/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 12:02:29 +0000",
+      "added_at": "2026-11-24T12:10:39.731684+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "泰国最大工业电力商之一 B.Grimm Power 与 NTT Global Data Centers 签 400MW、约 33 亿美元数据中心 MoU,电力公司直接入局解决新兴市场拿电瓶颈;仅为 MoU,无客户与时间表",
+      "article_title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 11:58:28 +0000",
+      "added_at": "2026-11-24T12:10:40.284654+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "NTT 泰国现有不到 20MW,400MW MoU 是面向 AI 负载的量级跃迁,呼应亚太租赁超去年全年;Aether 850kW 工厂改造项目体量小、属概念先行,仍需观望",
+      "article_title": "NTT signs MoU with B.Grimm for 400MW data center project in Thailand",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ntt-signs-mou-with-bgrimm-for-400mw-data-center-project-in-thailand/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 11:58:28 +0000",
+      "added_at": "2026-11-24T12:10:40.558095+00:00"
     }
   ]
 }
