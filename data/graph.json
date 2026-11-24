@@ -915,16 +915,17 @@
       "sectors": [
         "satellite broadband",
         "direct-to-device satellites",
-        "satellite direct-to-device"
+        "satellite direct-to-device",
+        "direct-to-device LEO satellite constellation"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": "ASTS",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-16T11:12:05.828049+00:00"
+      "last_seen": "2026-11-24T11:10:00.760480+00:00"
     },
     "iridium communications": {
       "name": "Iridium Communications",
@@ -10598,13 +10599,14 @@
         "telecom operator"
       ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "太空经济板块"
       ],
       "hot": null,
       "ticker": "VOD",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T12:10:23.028154+00:00",
-      "last_seen": "2026-11-17T12:10:23.028154+00:00"
+      "last_seen": "2026-11-24T11:10:00.760480+00:00"
     },
     "elsewedy electric": {
       "name": "Elsewedy Electric",
@@ -16308,6 +16310,36 @@
       "mentions": 1,
       "first_seen": "2026-11-24T09:10:29.159955+00:00",
       "last_seen": "2026-11-24T09:10:29.159955+00:00"
+    },
+    "university of málaga": {
+      "name": "University of Málaga",
+      "type": "institution",
+      "sectors": [
+        "telecommunications research"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T11:10:00.760480+00:00",
+      "last_seen": "2026-11-24T11:10:00.760480+00:00"
+    },
+    "university of granada": {
+      "name": "University of Granada",
+      "type": "institution",
+      "sectors": [
+        "telecommunications research"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-24T11:10:00.760480+00:00",
+      "last_seen": "2026-11-24T11:10:00.760480+00:00"
     }
   },
   "edges": [
@@ -38556,6 +38588,81 @@
           "added_at": "2026-11-24T09:10:29.159955+00:00"
         }
       ]
+    },
+    {
+      "source": "vodafone",
+      "target": "ast spacemobile",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方在西班牙 Málaga 启用所称欧洲首个地球—太空站,用于验证 D2D 手机直连卫星宽带及地面/低轨网络无缝切换",
+          "article_title": "Vodafone, AST SpaceMobile switches on Earth-space station in Málaga, Spain",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-ast-spacemobile-switches-on-earth-space-station-in-m%C3%A1laga-spain/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 10:31:42 +0000",
+          "added_at": "2026-11-24T11:10:00.760480+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vodafone",
+      "target": "ast spacemobile",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Vodafone 是 AST SpaceMobile 的战略投资方之一",
+          "article_title": "Vodafone, AST SpaceMobile switches on Earth-space station in Málaga, Spain",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-ast-spacemobile-switches-on-earth-space-station-in-m%C3%A1laga-spain/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 10:31:42 +0000",
+          "added_at": "2026-11-24T11:10:00.760480+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vodafone",
+      "target": "university of málaga",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "与 Málaga 大学电信工程学院合作建立 Málaga Satellite Centre",
+          "article_title": "Vodafone, AST SpaceMobile switches on Earth-space station in Málaga, Spain",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-ast-spacemobile-switches-on-earth-space-station-in-m%C3%A1laga-spain/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 10:31:42 +0000",
+          "added_at": "2026-11-24T11:10:00.760480+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ast spacemobile",
+      "target": "university of málaga",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "共同建立 Málaga Satellite Centre,开展地面与低轨卫星融合网络研发",
+          "article_title": "Vodafone, AST SpaceMobile switches on Earth-space station in Málaga, Spain",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-ast-spacemobile-switches-on-earth-space-station-in-m%C3%A1laga-spain/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 10:31:42 +0000",
+          "added_at": "2026-11-24T11:10:00.760480+00:00"
+        }
+      ]
+    },
+    {
+      "source": "vodafone",
+      "target": "university of granada",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "在 Granada 合作安装自动化系统,远程采集 AST 卫星、Málaga 网关与地面网络之间的数据和通话日志",
+          "article_title": "Vodafone, AST SpaceMobile switches on Earth-space station in Málaga, Spain",
+          "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-ast-spacemobile-switches-on-earth-space-station-in-m%C3%A1laga-spain/",
+          "source_name": "DataCenterDynamics",
+          "published": "Tue, 24 Nov 2026 10:31:42 +0000",
+          "added_at": "2026-11-24T11:10:00.760480+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -45749,6 +45856,33 @@
       "source_name": "The Quantum Insider",
       "published": "Tue, 24 Nov 2026 08:43:08 +0000",
       "added_at": "2026-11-24T09:10:29.444296+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Vodafone 与 AST SpaceMobile 在 Málaga 启用欧洲首个 D2D 地面—太空测试站,打通运营商网关与芯片/终端联合验证,是 AST 在欧洲商用变现的前置条件;利好低轨直连星座与地面段基础设施,但商用时间表未公布",
+      "article_title": "Vodafone, AST SpaceMobile switches on Earth-space station in Málaga, Spain",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-ast-spacemobile-switches-on-earth-space-station-in-m%C3%A1laga-spain/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 10:31:42 +0000",
+      "added_at": "2026-11-24T11:10:01.028509+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "Vodafone 将在 Málaga 测试远程/危险场所自主巡检机器人在地面与低轨卫星网络间的无缝连接,属弱信号:无具体客户和部署规模",
+      "article_title": "Vodafone, AST SpaceMobile switches on Earth-space station in Málaga, Spain",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-ast-spacemobile-switches-on-earth-space-station-in-m%C3%A1laga-spain/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 10:31:42 +0000",
+      "added_at": "2026-11-24T11:10:01.317513+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "运营商开始验证巡检机器人、安全无人机等终端设备在无地面覆盖区的地面/卫星双网连接与功耗优化,属弱信号,尚无具体订单",
+      "article_title": "Vodafone, AST SpaceMobile switches on Earth-space station in Málaga, Spain",
+      "article_url": "https://www.datacenterdynamics.com/en/news/vodafone-ast-spacemobile-switches-on-earth-space-station-in-m%C3%A1laga-spain/",
+      "source_name": "DataCenterDynamics",
+      "published": "Tue, 24 Nov 2026 10:31:42 +0000",
+      "added_at": "2026-11-24T11:10:01.593903+00:00"
     }
   ]
 }
