@@ -1315,9 +1315,9 @@
       ],
       "hot": "cold",
       "ticker": "IQMX",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-18T16:11:37.032653+00:00"
+      "last_seen": "2026-11-25T21:47:14.011328+00:00"
     },
     "pasqal": {
       "name": "Pasqal",
@@ -1926,7 +1926,8 @@
         "cloud & AI",
         "hyperscaler / AI",
         "big tech",
-        "hyperscaler / cloud"
+        "hyperscaler / cloud",
+        "Google parent"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1938,9 +1939,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 60,
+      "mentions": 61,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-25T09:11:19.252647+00:00"
+      "last_seen": "2026-11-25T21:47:16.077532+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -9172,31 +9173,33 @@
       "name": "Character.ai",
       "type": "company",
       "sectors": [
-        "consumer AI chatbot"
+        "consumer AI chatbot",
+        "consumer companion chatbot"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-14T18:10:00.752904+00:00",
-      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+      "last_seen": "2026-11-25T21:47:16.077532+00:00"
     },
     "the walt disney": {
       "name": "The Walt Disney Company",
       "type": "company",
       "sectors": [
-        "media & entertainment IP"
+        "media & entertainment IP",
+        "media / entertainment"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DIS",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-14T18:10:00.752904+00:00",
-      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+      "last_seen": "2026-11-25T21:47:16.077532+00:00"
     },
     "humane": {
       "name": "Humane",
@@ -13953,16 +13956,17 @@
       "name": "Ministry of Science and ICT (South Korea)",
       "type": "institution",
       "sectors": [
-        "government ministry"
+        "government ministry",
+        "Korean science ministry"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T13:10:47.008841+00:00",
-      "last_seen": "2026-11-19T13:10:47.008841+00:00"
+      "last_seen": "2026-11-25T21:47:14.011328+00:00"
     },
     "national information society agency nia": {
       "name": "National Information Society Agency (NIA)",
@@ -18077,6 +18081,35 @@
       "mentions": 1,
       "first_seen": "2026-11-25T17:12:15.502678+00:00",
       "last_seen": "2026-11-25T17:12:15.502678+00:00"
+    },
+    "qai": {
+      "name": "QAI",
+      "type": "company",
+      "sectors": [
+        "Korean quantum-AI data center / QaaS"
+      ],
+      "sector_tags": [
+        "量子计算板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T21:47:14.011328+00:00",
+      "last_seen": "2026-11-25T21:47:14.011328+00:00"
+    },
+    "smirks and pangs acquisition": {
+      "name": "Smirks and Pangs Acquisition LLC",
+      "type": "company",
+      "sectors": [
+        "anonymous bidder for chat data"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T21:47:16.077532+00:00",
+      "last_seen": "2026-11-25T21:47:16.077532+00:00"
     }
   },
   "edges": [
@@ -30552,6 +30585,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Sat, 14 Nov 2026 17:30:00 +0000",
           "added_at": "2026-11-14T18:10:00.752904+00:00"
+        },
+        {
+          "description": "Google 签下 Character.ai 技术的非独家授权,联合创始人 Noam Shazeer 和 Daniel De Freitas 回到 Google",
+          "article_title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "article_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 17:35:58 +0000",
+          "added_at": "2026-11-25T21:47:16.077532+00:00"
         }
       ]
     },
@@ -42628,6 +42669,51 @@
           "added_at": "2026-11-25T17:12:15.502678+00:00"
         }
       ]
+    },
+    {
+      "source": "qai",
+      "target": "iqm quantum computers",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "QAI 订购一台 IQM Radiance R3 54 比特量子计算机,2027 年底前装入其首尔数据中心,通过 QaaS 与 GPU 算力打包提供",
+          "article_title": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
+          "article_url": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 18:08:13 +0000",
+          "added_at": "2026-11-25T21:47:14.011328+00:00"
+        }
+      ]
+    },
+    {
+      "source": "smirks and pangs acquisition",
+      "target": "characterai",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "11 月 13 日成立的特拉华公司被选为 Character.ai 用户聊天数据拍卖的基础报价方,42 州总检察长反对该出售",
+          "article_title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "article_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 17:35:58 +0000",
+          "added_at": "2026-11-25T21:47:16.077532+00:00"
+        }
+      ]
+    },
+    {
+      "source": "the walt disney",
+      "target": "characterai",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Disney 拟以 2000 万美元获得 Character.ai 知识产权授权(不含用户聊天)并雇用其大部分剩余员工,尚待法院最终批准",
+          "article_title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "article_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 17:35:58 +0000",
+          "added_at": "2026-11-25T21:47:16.077532+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -50775,6 +50861,51 @@
       "source_name": "DataCenterDynamics",
       "published": "Wed, 25 Nov 2026 16:20:00 +0000",
       "added_at": "2026-11-25T17:12:16.055564+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "(IQM 新闻稿,未经独立验证)IQM 一周内第二笔 Radiance R3 54 比特订单,买家是韩国私营数据中心 QAI,将以 QaaS 形式与 GPU 同址出租;韩国政府以 2035 年'最高利用率'、1 万人才、2000 家企业目标补需求端,瓶颈在用户接入而非比特数,利好标准化整机厂与低温/控制电子学供应链,但交付在 2027 年底",
+      "article_title": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
+      "article_url": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 18:08:13 +0000",
+      "added_at": "2026-11-25T21:47:14.273958+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "QAI 把 QPU 当作 GPU 旁的加速器规划进数据中心,量子-经典混合负载方向利好 HPC 互联和混合调度软件(如 CUDA-Q 一类平台),对 GPU 需求增量可忽略,属方向性信号",
+      "article_title": "IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre",
+      "article_url": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 18:08:13 +0000",
+      "added_at": "2026-11-25T21:47:14.564049+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "纽约继加州之后禁售内置联网 AI 聊天机器人的玩具五年,罚款每天 1.5 万美元;面向儿童的消费陪伴机器人/AI 玩具在两个人口大州被整类关门,瓶颈是社会许可而非成本,短期明确利空",
+      "article_title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "article_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 18:11:46 +0000",
+      "added_at": "2026-11-25T21:47:15.176655+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "被禁的是依赖联网的聊天玩具,若未来立法区分本地处理与云端产品,端侧小模型和低功耗 SoC 可能获得差异化优势;但现行法条整类禁止、未给端侧开口子,短期偏负面,长期影响为推测",
+      "article_title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "article_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 18:11:46 +0000",
+      "added_at": "2026-11-25T21:47:15.568071+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Character.ai 破产后拟拍卖 2100 万美国账户(含 210 万未成年人)聊天记录,遭 42 州总检察长反对;消费陪伴 AI 面临未成年人安全诉讼、留存模式与安全冲突、数据资产退出时不可变现三重瓶颈,对该层估值偏利空,相对受益的是用授权+招聘低成本获取人才/IP 的大平台和数据治理合规工具,算力层基本不受影响",
+      "article_title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "article_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 17:35:58 +0000",
+      "added_at": "2026-11-25T21:47:16.692261+00:00"
     }
   ]
 }
