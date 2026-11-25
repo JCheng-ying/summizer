@@ -17382,6 +17382,51 @@
       "mentions": 1,
       "first_seen": "2026-11-25T09:11:19.252647+00:00",
       "last_seen": "2026-11-25T09:11:19.252647+00:00"
+    },
+    "nexent capital": {
+      "name": "Nexent Capital",
+      "type": "company",
+      "sectors": [
+        "AI infrastructure & energy fund manager (GIFT City / ADGM)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T10:10:10.661855+00:00",
+      "last_seen": "2026-11-25T10:10:10.661855+00:00"
+    },
+    "tryfacta": {
+      "name": "Tryfacta",
+      "type": "company",
+      "sectors": [
+        "data center & power asset sponsor platform"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T10:10:10.661855+00:00",
+      "last_seen": "2026-11-25T10:10:10.661855+00:00"
+    },
+    "tyagi family office": {
+      "name": "Tyagi family office",
+      "type": "institution",
+      "sectors": [
+        "family office"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T10:10:10.661855+00:00",
+      "last_seen": "2026-11-25T10:10:10.661855+00:00"
     }
   },
   "edges": [
@@ -41210,6 +41255,36 @@
           "added_at": "2026-11-25T09:11:19.252647+00:00"
         }
       ]
+    },
+    {
+      "source": "tyagi family office",
+      "target": "nexent capital",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Tyagi 家族办公室向 Nexent Capital ADGM Fund I 提供 2000 万美元锚定承诺",
+          "article_title": "Nexent Capital IFSC Launches $1 Billion Quantum Computing-ready AI Infrastructure & Advanced Energy Fund",
+          "article_url": "https://thequantuminsider.com/2026/11/25/nexent-capital-launches-1-billion-ai-infrastructure-energy-fund/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 09:17:07 +0000",
+          "added_at": "2026-11-25T10:10:10.661855+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nexent capital",
+      "target": "tryfacta",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "基金项目储备包括 Nexent Capital 与 Tryfacta 平台关联方发起的数据中心和电力资产",
+          "article_title": "Nexent Capital IFSC Launches $1 Billion Quantum Computing-ready AI Infrastructure & Advanced Energy Fund",
+          "article_url": "https://thequantuminsider.com/2026/11/25/nexent-capital-launches-1-billion-ai-infrastructure-energy-fund/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 09:17:07 +0000",
+          "added_at": "2026-11-25T10:10:10.661855+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -48943,6 +49018,24 @@
       "source_name": "DataCenterDynamics",
       "published": "Wed, 25 Nov 2026 08:46:00 +0000",
       "added_at": "2026-11-25T09:11:20.116425+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Nexent Capital 发起目标 10 亿美元的 AI 基础设施与先进能源基金,投向北美和印度的 GW 级能源园区与电力资产,印证电力是数据中心瓶颈;但目前锚定仅 2000 万美元且尚未获 FSRA 授权(公司新闻稿,未经独立验证,含关联方项目)",
+      "article_title": "Nexent Capital IFSC Launches $1 Billion Quantum Computing-ready AI Infrastructure & Advanced Energy Fund",
+      "article_url": "https://thequantuminsider.com/2026/11/25/nexent-capital-launches-1-billion-ai-infrastructure-energy-fund/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 09:17:07 +0000",
+      "added_at": "2026-11-25T10:10:10.971080+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "又一支专项基金追逐数据中心这一瓶颈层资产,是资本面的边际确认而非新增算力需求;基金仍处募资前期,首次关账最快约一年后(公司新闻稿,未经独立验证)",
+      "article_title": "Nexent Capital IFSC Launches $1 Billion Quantum Computing-ready AI Infrastructure & Advanced Energy Fund",
+      "article_url": "https://thequantuminsider.com/2026/11/25/nexent-capital-launches-1-billion-ai-infrastructure-energy-fund/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 09:17:07 +0000",
+      "added_at": "2026-11-25T10:10:11.270508+00:00"
     }
   ]
 }
