@@ -1,0 +1,10 @@
+# The questions Jensen Huang and Nvidia will still have to answer about Megaspeed
+https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/
+
+黄仁勋复职并没有让 Megaspeed 事件结束,这篇文章把剩下的问题收窄到了一个法律概念上:Nvidia 到底"知道"什么。这件事的意义在于,它决定了出口管制合规责任的边界——芯片厂商只拿到客户的书面保证够不够,还是必须对自己掌握的其他信息负责。
+
+文章大部分事件背景我们在之前几篇已经写过,包括 [美国把 Megaspeed 及其子公司列入出口管制清单](2026-11-24-us-gov-t-adds-singapore-s-megaspeed-and-subsidiaries-to-export-block-list.md)、[国会审查黄仁勋复职](2026-11-24-congress-scrutinizes-jensen-huang-s-return-as-megaspeed-restrictions-raise-quest.md)、[加州总检察长传唤 Nvidia](2026-11-20-california-ag-issues-nvidia-with-subpoena-as-part-of-probe-into-chinese-chip-exp.md) 以及 [SEC 据报调查 Nvidia](2026-11-17-sec-reportedly-investigating-nvidia-amid-huang-exit.md),这里只看新增的部分。文章指出,出口管制律师的看法是:芯片转运对 Nvidia 这样的公司本来是常见问题,厂商需要终端用户遵守规则的保证,但同时不能忽视其他可能让这些保证不可信的信息。因此黄仁勋与 Megaspeed 高管 Alice Huang 的私人关系才是最大的问题,甚至比她被指控为中国情报机构提供信息更严重——如果 Nvidia 从基层员工到 CEO 有理由相信 Megaspeed 的陈述不可靠,公司的法律风险就会上升。第二个新增信息是联邦层面的态度:美国司法部长 Todd Blanche 在周二的发布会上称 Nvidia 是"好的企业公民",暗示 Nvidia 不是调查对象,但拒绝回答关于 Megaspeed 调查的问题,甚至表示不知道"出口调查仍在进行"指的是什么,而司法部上周还说该调查仍在进行。第三,文章认为其他机构可能更严格:加州总检察长 Rob Bonta 和 SEC 的调查都和公司信息披露有关,做空者此前批评过 Nvidia 在记者提出芯片转运问题后,停止在财报中单独披露对新加坡的出口。众议院三个委员会下周将私下约谈黄仁勋和 Nvidia 首席法务 Tim Teter,据报 Teter 去年曾介入商务部对 Megaspeed 的调查。
+
+个人看法:这篇文章最有价值的地方是把风险从"联邦出口管制"转移到了"信息披露"。联邦司法部的态度已经相当明确地偏向 Nvidia,所以真正的不确定性来自三个方向:第一是加州总检察长和 SEC 的披露类调查,它们不依赖联邦政治意愿,针对的是停止披露新加坡出口这一具体行为;第二是两党国会议员,他们既关注中国问题,也在质疑白宫在复职中的角色;第三是股东集体诉讼,这和 [股东起诉 Nvidia 和黄仁勋](2026-11-10-nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jen.md)是一条线,"知道什么"这个问题的答案会直接影响诉讼结果。
+
+从 AI 板块的角度,这里的瓶颈不是 Nvidia 的技术或需求,[首次财报](2026-11-17-business-as-usual-for-nvidia-as-it-beats-expectations-in-first-earnings-call-aft.md)已经说明业务照常。瓶颈是治理和合规不确定性带来的估值折价,以及出口管制规则本身在收紧——上周的新规禁止购买美国芯片的大型数据中心为中国等国家的客户提供服务,这对东南亚的 neocloud 和第三方数据中心运营商是更实际的约束,它们需要建立终端客户审查能力。受益的层次可能是合规和审计这一层(KYC、芯片追踪、出口合规软件),以及在美国本土和盟友市场有清晰客户结构的数据中心运营商;受压的是依赖东南亚转运需求的中间商。对 AI 基础设施的长期需求判断不变,但短期还需要观望,值得跟踪的信号是下周众议院约谈之后有没有新的文件被公开,特别是 Teter 介入商务部调查的具体细节。

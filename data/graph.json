@@ -2230,15 +2230,17 @@
     "duke energy": {
       "name": "Duke Energy",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "utility"
+      ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": "hot",
       "ticker": "DUK",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-08-06T04:59:53.197516+00:00"
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
     },
     "chevron": {
       "name": "Chevron",
@@ -4485,7 +4487,8 @@
         "government / energy research",
         "government research funding",
         "government",
-        "government science funding"
+        "government science funding",
+        "US energy department"
       ],
       "sector_tags": [
         "能源板块",
@@ -4494,9 +4497,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-10-25T06:05:12.258254+00:00",
-      "last_seen": "2026-11-23T19:10:19.232862+00:00"
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
     },
     "generative bionics": {
       "name": "Generative Bionics",
@@ -4573,7 +4576,8 @@
         "telecom / AI data centers",
         "investment holding",
         "telecom / AI investment",
-        "investment / AI infrastructure"
+        "investment / AI infrastructure",
+        "tech investor"
       ],
       "sector_tags": [
         "AI板块",
@@ -4583,9 +4587,9 @@
       ],
       "hot": "hot",
       "ticker": "9434.T",
-      "mentions": 10,
+      "mentions": 11,
       "first_seen": "2026-11-02T01:41:22.570043+00:00",
-      "last_seen": "2026-11-23T15:12:30.792188+00:00"
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
     },
     "nscale": {
       "name": "Nscale",
@@ -9756,7 +9760,8 @@
       "type": "company",
       "sectors": [
         "infrastructure investor / developer",
-        "infrastructure asset manager"
+        "infrastructure asset manager",
+        "infrastructure investor"
       ],
       "sector_tags": [
         "能源板块",
@@ -9764,9 +9769,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-16T14:12:40.415551+00:00",
-      "last_seen": "2026-11-18T13:11:52.489182+00:00"
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
     },
     "cyrusone": {
       "name": "CyrusOne",
@@ -9780,9 +9785,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-16T14:12:40.415551+00:00",
-      "last_seen": "2026-11-23T12:11:00.263592+00:00"
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
     },
     "carlyle": {
       "name": "Carlyle",
@@ -9795,9 +9800,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T14:12:40.415551+00:00",
-      "last_seen": "2026-11-16T14:12:40.415551+00:00"
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
     },
     "westbank": {
       "name": "Westbank",
@@ -11868,16 +11873,17 @@
       "name": "U.S. Department of Defense",
       "type": "institution",
       "sectors": [
-        "defense"
+        "defense",
+        "US defense department"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T18:11:18.536127+00:00",
-      "last_seen": "2026-11-17T21:11:21.290033+00:00"
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
     },
     "typesafe": {
       "name": "TypeSafe",
@@ -17766,6 +17772,113 @@
       "mentions": 1,
       "first_seen": "2026-11-25T13:12:05.391091+00:00",
       "last_seen": "2026-11-25T13:12:05.391091+00:00"
+    },
+    "us army": {
+      "name": "U.S. Army",
+      "type": "institution",
+      "sectors": [
+        "US Department of the Army / military land"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T14:11:31.943819+00:00",
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
+    },
+    "dc blox": {
+      "name": "DC Blox",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T14:11:31.943819+00:00",
+      "last_seen": "2026-11-25T14:11:31.943819+00:00"
+    },
+    "fortescue": {
+      "name": "Fortescue",
+      "type": "company",
+      "sectors": [
+        "energy and metals / green hydrogen"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T14:11:32.728389+00:00",
+      "last_seen": "2026-11-25T14:11:32.728389+00:00"
+    },
+    "phoenix hydrogen hub": {
+      "name": "Phoenix Hydrogen Hub LLC",
+      "type": "company",
+      "sectors": [
+        "Buckeye Energy Campus developer"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T14:11:32.728389+00:00",
+      "last_seen": "2026-11-25T14:11:32.728389+00:00"
+    },
+    "arizona public service": {
+      "name": "Arizona Public Service",
+      "type": "company",
+      "sectors": [
+        "utility"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T14:11:32.728389+00:00",
+      "last_seen": "2026-11-25T14:11:32.728389+00:00"
+    },
+    "clayco": {
+      "name": "Clayco",
+      "type": "company",
+      "sectors": [
+        "construction / real estate"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T14:11:32.728389+00:00",
+      "last_seen": "2026-11-25T14:11:32.728389+00:00"
+    },
+    "crg": {
+      "name": "CRG",
+      "type": "company",
+      "sectors": [
+        "real estate development (Clayco)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T14:11:32.728389+00:00",
+      "last_seen": "2026-11-25T14:11:32.728389+00:00"
     }
   },
   "edges": [
@@ -30992,6 +31105,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 18 Nov 2026 12:28:46 +0000",
           "added_at": "2026-11-18T13:11:52.489182+00:00"
+        },
+        {
+          "description": "Brookfield 在 DOE 位于肯塔基的土地上开发吉瓦级数据中心项目",
+          "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+          "added_at": "2026-11-25T14:11:31.943819+00:00"
         }
       ]
     },
@@ -31015,6 +31136,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Wed, 18 Nov 2026 12:28:46 +0000",
           "added_at": "2026-11-18T13:11:52.489182+00:00"
+        },
+        {
+          "description": "SoftBank 在 DOE 位于俄亥俄的土地上开发吉瓦级数据中心项目",
+          "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+          "added_at": "2026-11-25T14:11:31.943819+00:00"
         }
       ]
     },
@@ -41977,6 +42106,126 @@
           "added_at": "2026-11-25T13:12:05.391091+00:00"
         }
       ]
+    },
+    {
+      "source": "us department of defense",
+      "target": "us army",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "陆军部隶属国防部,本次就九处基地土地发布电力与数据中心开发 RFP,要求方案必须包含发电、停电后一小时内供电并持续 14 天",
+          "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+          "added_at": "2026-11-25T14:11:31.943819+00:00"
+        }
+      ]
+    },
+    {
+      "source": "carlyle",
+      "target": "us army",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Carlyle 在陆军位于得州和犹他的土地上开发数据中心项目",
+          "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+          "added_at": "2026-11-25T14:11:31.943819+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cyrusone",
+      "target": "us army",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "CyrusOne 在陆军位于得州和犹他的土地上开发数据中心项目",
+          "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+          "added_at": "2026-11-25T14:11:31.943819+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dc blox",
+      "target": "us department of energy",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "DC Blox 被选中在 DOE 位于南卡罗来纳的土地上开发表后供电数据中心园区",
+          "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+          "added_at": "2026-11-25T14:11:31.943819+00:00"
+        }
+      ]
+    },
+    {
+      "source": "duke energy",
+      "target": "us army",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Duke Energy 为 Fort Bragg 招标地块提供输电服务,旗下 Piedmont Natural Gas 管线紧邻地块",
+          "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+          "added_at": "2026-11-25T14:11:31.943819+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fortescue",
+      "target": "phoenix hydrogen hub",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Fortescue 是 Phoenix Hydrogen Hub LLC 的背后公司,把取消的氢能项目地块改为配 300MW 燃气电厂和 BESS 的 Buckeye 数据中心园区",
+          "article_title": "Three data center projects planned around Phoenix, Arizona",
+          "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:27:54 +0000",
+          "added_at": "2026-11-25T14:11:32.728389+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arizona public service",
+      "target": "phoenix hydrogen hub",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "APS 为 Buckeye 园区初期提供 120MW 电力,之后由现场燃气发电供电",
+          "article_title": "Three data center projects planned around Phoenix, Arizona",
+          "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:27:54 +0000",
+          "added_at": "2026-11-25T14:11:32.728389+00:00"
+        }
+      ]
+    },
+    {
+      "source": "clayco",
+      "target": "crg",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "CRG 是 Clayco 的地产开发部门,在 Eloy 申请改规划建设 400MW 的 Southwest Crossing 二期",
+          "article_title": "Three data center projects planned around Phoenix, Arizona",
+          "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 13:27:54 +0000",
+          "added_at": "2026-11-25T14:11:32.728389+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -49935,6 +50184,60 @@
       "source_name": "DataCenterDynamics",
       "published": "Wed, 25 Nov 2026 12:06:48 +0000",
       "added_at": "2026-11-25T13:12:05.930405+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "南非提出把临近退役的电厂改造为数据中心,Eskom 有约 6GW 富余峰值容量;已有的并网接口被当作稀缺资产重新定价,但电厂改造多在 2040 年后,短期看点是 Eskom 富余电力能否签下超大规模客户",
+      "article_title": "South African gov't floats converting old power stations into data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/south-african-govt-floats-converting-old-power-stations-into-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 14:01:01 +0000",
+      "added_at": "2026-11-25T14:11:31.687155+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "陆军九处基地 RFP 规定不能只建数据中心、发电方案须在停电一小时内恢复并连续供电 14 天,把'自带电源+韧性'制度化;地块多邻近天然气管线但缺水,燃气发电设备、BESS/微电网和低水耗散热是解决瓶颈的受益层",
+      "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+      "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+      "added_at": "2026-11-25T14:11:32.203905+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "联邦土地持续向 AI 数据中心开放,增加算力选址供给,属间接利好;但仍处 RFP 阶段且面临限制联邦土地建数据中心的立法挑战",
+      "article_title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+      "article_url": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 13:31:39 +0000",
+      "added_at": "2026-11-25T14:11:32.464816+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "凤凰城周边三个项目都用现场燃气发电加储能,电网从主供变为过渡(Buckeye 初期 120MW 来自 APS,后续靠 300MW 自建燃气电厂);燃机/往复式发动机、BESS 和现场变电站是受益层",
+      "article_title": "Three data center projects planned around Phoenix, Arizona",
+      "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 13:27:54 +0000",
+      "added_at": "2026-11-25T14:11:32.987166+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "数据中心接盘取消的氢能项目和烂尾商业地块,算力需求继续向西南扩散,但 Casa Grande 项目尚无最终用户,规划申请不等于真实需求",
+      "article_title": "Three data center projects planned around Phoenix, Arizona",
+      "article_url": "https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 13:27:54 +0000",
+      "added_at": "2026-11-25T14:11:33.240561+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "司法部长称 Nvidia 是好企业公民、暗示其非调查对象,但加州 AG、SEC 的披露类调查和国会约谈继续,'Nvidia 知道什么'决定法律风险;治理不确定性带来估值折价,出口新规对东南亚 neocloud 的终端客户审查要求更实际,长期需求判断不变",
+      "article_title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "article_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "added_at": "2026-11-25T14:11:33.952907+00:00"
     }
   ]
 }
