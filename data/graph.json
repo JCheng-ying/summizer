@@ -255,11 +255,12 @@
         "GPU / accelerated computing",
         "AI chips / systems",
         "AI accelerators / networking",
-        "GPU / AI interconnect"
+        "GPU / AI interconnect",
+        "GPUs / AI accelerators"
       ],
-      "mentions": 104,
+      "mentions": 105,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-24T22:11:16.482729+00:00",
+      "last_seen": "2026-11-25T01:10:08.010525+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -515,9 +516,9 @@
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 61,
+      "mentions": 62,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-24T23:10:36.190054+00:00"
+      "last_seen": "2026-11-25T01:10:08.010525+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -2871,16 +2872,17 @@
       "type": "company",
       "sectors": [
         "open-weight LLM lab",
-        "AI models"
+        "AI models",
+        "open-source LLMs"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-09T05:41:43.881750+00:00",
-      "last_seen": "2026-11-19T17:12:46.407367+00:00"
+      "last_seen": "2026-11-25T01:10:08.010525+00:00"
     },
     "stanford university": {
       "name": "Stanford University",
@@ -3730,16 +3732,17 @@
       "sectors": [
         "frontier open-weights AI models (Kimi series)",
         "open-weight LLM lab (Kimi)",
-        "open-weight LLM (Kimi)"
+        "open-weight LLM (Kimi)",
+        "open-source LLMs (Kimi)"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-11-16T14:12:38.501060+00:00"
+      "last_seen": "2026-11-25T01:10:08.010525+00:00"
     },
     "zai": {
       "name": "Z.ai",
@@ -6212,16 +6215,17 @@
         "Singapore AI infrastructure / cloud",
         "GPU cloud / chip reseller (Singapore)",
         "cloud / AI data center (Singapore)",
-        "Singapore cloud operator"
+        "Singapore cloud operator",
+        "GPU cloud / chip reseller"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 10,
+      "mentions": 11,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-24T22:11:16.482729+00:00"
+      "last_seen": "2026-11-25T01:10:08.010525+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -30292,6 +30296,14 @@
           "source_name": "Import AI (Substack)",
           "published": "Mon, 16 Nov 2026 14:01:15 GMT",
           "added_at": "2026-11-16T14:12:38.501060+00:00"
+        },
+        {
+          "description": "Sonnenfeld声称Kimi等中国开源模型通过蒸馏Anthropic模型取得类似效果(其个人观点,未经证实)",
+          "article_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+          "article_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+          "added_at": "2026-11-25T01:10:08.010525+00:00"
         }
       ]
     },
@@ -40610,6 +40622,36 @@
           "added_at": "2026-11-25T00:10:13.607740+00:00"
         }
       ]
+    },
+    {
+      "source": "nvidia",
+      "target": "megaspeed",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "文章称合作方Megaspeed因出口管制案于周一被列入美国贸易黑名单,是英伟达同时面对的多项调查之一",
+          "article_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+          "article_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+          "added_at": "2026-11-25T01:10:08.010525+00:00"
+        }
+      ]
+    },
+    {
+      "source": "deepseek",
+      "target": "anthropic",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Sonnenfeld声称DeepSeek等中国开源模型借助高端英伟达芯片蒸馏Anthropic模型获得接近的效果(其个人观点,未经证实)",
+          "article_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+          "article_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+          "added_at": "2026-11-25T01:10:08.010525+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -48235,6 +48277,15 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 24 Nov 2026 23:48:11 +0000",
       "added_at": "2026-11-25T00:10:14.538159+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Sonnenfeld认为英伟达董事会在政府施压下让黄仁勋复职将面临大规模股东诉讼(已有5起、估计或达30起)和个人赔偿责任,治理风险从政治周期延长到司法周期;若芯片流入中国军工院校的说法在听证会坐实,出口管制可能进一步收紧,对AI板块偏利空,基础设施需求暂未受影响",
+      "article_title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "article_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+      "added_at": "2026-11-25T01:10:08.282245+00:00"
     }
   ]
 }
