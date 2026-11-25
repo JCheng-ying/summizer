@@ -258,9 +258,9 @@
         "GPU / AI interconnect",
         "GPUs / AI accelerators"
       ],
-      "mentions": 105,
+      "mentions": 106,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-25T01:10:08.010525+00:00",
+      "last_seen": "2026-11-25T12:11:40.460951+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -6988,23 +6988,25 @@
       "name": "European Commission",
       "type": "institution",
       "sectors": [
-        "EU executive"
+        "EU executive",
+        "EU executive / tech policy"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-11T06:19:44.111949+00:00",
-      "last_seen": "2026-11-11T06:19:44.111949+00:00"
+      "last_seen": "2026-11-25T12:11:39.102475+00:00"
     },
     "eurohpc joint undertaking": {
       "name": "EuroHPC Joint Undertaking",
       "type": "institution",
       "sectors": [
         "EU supercomputing programme",
-        "EU HPC funding body"
+        "EU HPC funding body",
+        "European HPC & quantum infrastructure"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -7012,9 +7014,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-11T06:19:44.111949+00:00",
-      "last_seen": "2026-11-17T15:11:12.987413+00:00"
+      "last_seen": "2026-11-25T12:11:39.102475+00:00"
     },
     "special competitive studies project": {
       "name": "Special Competitive Studies Project",
@@ -13731,9 +13733,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T12:12:40.065276+00:00",
-      "last_seen": "2026-11-19T12:12:40.065276+00:00"
+      "last_seen": "2026-11-25T12:11:40.460951+00:00"
     },
     "hermesepitek": {
       "name": "Hermes-Epitek",
@@ -17365,11 +17367,11 @@
       "sector_tags": [
         "AI板块"
       ],
-      "hot": null,
+      "hot": "hot",
       "ticker": "DLR",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-25T09:11:19.252647+00:00",
-      "last_seen": "2026-11-25T09:11:19.252647+00:00"
+      "last_seen": "2026-11-25T12:11:43.701842+00:00"
     },
     "global switch": {
       "name": "Global Switch",
@@ -17488,6 +17490,127 @@
       "mentions": 1,
       "first_seen": "2026-11-25T11:10:32.150746+00:00",
       "last_seen": "2026-11-25T11:10:32.150746+00:00"
+    },
+    "european investment bank": {
+      "name": "European Investment Bank",
+      "type": "institution",
+      "sectors": [
+        "EU public investment bank"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T12:11:39.102475+00:00",
+      "last_seen": "2026-11-25T12:11:39.102475+00:00"
+    },
+    "xtx markets": {
+      "name": "XTX Markets",
+      "type": "company",
+      "sectors": [
+        "algorithmic trading / self-built AI compute"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T12:11:39.664213+00:00",
+      "last_seen": "2026-11-25T12:11:39.664213+00:00"
+    },
+    "yit": {
+      "name": "YIT",
+      "type": "company",
+      "sectors": [
+        "construction contractor"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T12:11:39.664213+00:00",
+      "last_seen": "2026-11-25T12:11:39.664213+00:00"
+    },
+    "exaion": {
+      "name": "Exaion",
+      "type": "company",
+      "sectors": [
+        "AI cloud / GPUaaS"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T12:11:40.460951+00:00",
+      "last_seen": "2026-11-25T12:11:40.460951+00:00"
+    },
+    "mara": {
+      "name": "Mara Holdings",
+      "type": "company",
+      "sectors": [
+        "bitcoin mining / energy-backed infrastructure"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "MARA",
+      "mentions": 1,
+      "first_seen": "2026-11-25T12:11:40.460951+00:00",
+      "last_seen": "2026-11-25T12:11:40.460951+00:00"
+    },
+    "edf pulse ventures": {
+      "name": "EDF Pulse Ventures",
+      "type": "company",
+      "sectors": [
+        "corporate venture arm of EDF"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T12:11:40.460951+00:00",
+      "last_seen": "2026-11-25T12:11:40.460951+00:00"
+    },
+    "qumulusai": {
+      "name": "QumulusAI",
+      "type": "company",
+      "sectors": [
+        "AI cloud"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T12:11:40.460951+00:00",
+      "last_seen": "2026-11-25T12:11:40.460951+00:00"
+    },
+    "comed": {
+      "name": "ComEd",
+      "type": "company",
+      "sectors": [
+        "electric utility (Exelon subsidiary)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T12:11:43.701842+00:00",
+      "last_seen": "2026-11-25T12:11:43.701842+00:00"
     }
   },
   "edges": [
@@ -26427,6 +26550,14 @@
           "source_name": "The Quantum Insider",
           "published": "Tue, 10 Nov 2026 17:32:31 +0000",
           "added_at": "2026-11-11T06:19:44.111949+00:00"
+        },
+        {
+          "description": "Quantum Act 提案指定 EuroHPC 联合体(或其继任者)为欧盟层面量子研究、创新和基础设施的主要执行机构",
+          "article_title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
+          "article_url": "https://thequantuminsider.com/2026/11/25/european-commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 11:01:30 +0000",
+          "added_at": "2026-11-25T12:11:39.102475+00:00"
         }
       ]
     },
@@ -41436,6 +41567,111 @@
           "added_at": "2026-11-25T11:10:32.150746+00:00"
         }
       ]
+    },
+    {
+      "source": "european commission",
+      "target": "european investment bank",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "欧盟委员会将与欧洲投资银行集团合作尽快组建 Sovereign Tech Equity Fund",
+          "article_title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
+          "article_url": "https://thequantuminsider.com/2026/11/25/european-commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 11:01:30 +0000",
+          "added_at": "2026-11-25T12:11:39.102475+00:00"
+        }
+      ]
+    },
+    {
+      "source": "yit",
+      "target": "xtx markets",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "YIT 担任 XTX Markets 芬兰 Kajaani 22.5MW 数据中心的主承包商,并参与第二座设施建设",
+          "article_title": "Quant trading firm XTX Markets launches 22.5MW data center in Kajaani, Finland",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quant-trading-firm-xtx-markets-launches-225mw-data-center-in-kajaani-finland/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:01:30 +0000",
+          "added_at": "2026-11-25T12:11:39.664213+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mara",
+      "target": "exaion",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Mara Holdings 与 EDF Pulse Ventures 于 2025 年 8 月收购 Exaion,Mara 提供能源支撑的基础设施,Exaion 将其转化为算力和云服务",
+          "article_title": "Exaion signs $79m GPUaaS contract with US customer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/exaion-signs-79m-gpuaas-contract-with-us-customer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 11:52:27 +0000",
+          "added_at": "2026-11-25T12:11:40.460951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "edf pulse ventures",
+      "target": "exaion",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "EDF Pulse Ventures 与 Mara 共同收购 Exaion",
+          "article_title": "Exaion signs $79m GPUaaS contract with US customer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/exaion-signs-79m-gpuaas-contract-with-us-customer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 11:52:27 +0000",
+          "added_at": "2026-11-25T12:11:40.460951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "exaion",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Exaion 7900 万美元四年期 take-or-pay GPUaaS 合同基于 Nvidia HGX B300 服务器",
+          "article_title": "Exaion signs $79m GPUaaS contract with US customer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/exaion-signs-79m-gpuaas-contract-with-us-customer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 11:52:27 +0000",
+          "added_at": "2026-11-25T12:11:40.460951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quandela",
+      "target": "exaion",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Exaion 加拿大 Sherbrooke 数据中心部署了一台 Quandela 量子计算机",
+          "article_title": "Exaion signs $79m GPUaaS contract with US customer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/exaion-signs-79m-gpuaas-contract-with-us-customer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 11:52:27 +0000",
+          "added_at": "2026-11-25T12:11:40.460951+00:00"
+        }
+      ]
+    },
+    {
+      "source": "comed",
+      "target": "digital realty",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Digital Realty 在 Rolling Meadows 规划 156MW 数据中心园区,并在相邻地块配建一座 240MW 的 ComEd 变电站",
+          "article_title": "Digital Realty buys vacant office outside Chicago, plans 156MW data center campus",
+          "article_url": "https://www.datacenterdynamics.com/en/news/digital-realty-buys-vacant-office-outside-chicago-plans-156mw-data-center-campus/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 11:15:18 +0000",
+          "added_at": "2026-11-25T12:11:43.701842+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -49214,6 +49450,105 @@
       "source_name": "DataCenterDynamics",
       "published": "Wed, 25 Nov 2026 10:23:40 +0000",
       "added_at": "2026-11-25T11:10:32.775401+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "欧盟正式提出 Quantum Act 并为主权科技股权基金 STEF 打基础,针对欧洲量子产业从科研到量产的制造、供应链和成长期资本瓶颈,利好欧洲本土量子硬件、上游部件和后量子密码,但预算与基金规模尚未确定(官方新闻稿)",
+      "article_title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
+      "article_url": "https://thequantuminsider.com/2026/11/25/european-commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 11:01:30 +0000",
+      "added_at": "2026-11-25T12:11:39.384120+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "XTX Markets 指芬兰电网征地审批从数月拖到数年,第三座数据中心供电不确定,说明欧洲瓶颈从发电转向输电并网与行政审批,输电和电网设备需求确定但兑现节奏取决于审批",
+      "article_title": "Quant trading firm XTX Markets launches 22.5MW data center in Kajaani, Finland",
+      "article_url": "https://www.datacenterdynamics.com/en/news/quant-trading-firm-xtx-markets-launches-225mw-data-center-in-kajaani-finland/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:01:30 +0000",
+      "added_at": "2026-11-25T12:11:39.926060+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "量化交易公司投入超 4 亿欧元并计划数十亿欧元自建深度学习数据中心,说明金融等高付费行业客户也在把算力搬进自有设施,支撑 GPU 与数据中心设备需求",
+      "article_title": "Quant trading firm XTX Markets launches 22.5MW data center in Kajaani, Finland",
+      "article_url": "https://www.datacenterdynamics.com/en/news/quant-trading-firm-xtx-markets-launches-225mw-data-center-in-kajaani-finland/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:01:30 +0000",
+      "added_at": "2026-11-25T12:11:40.186917+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Mara 通过 Exaion 把搁浅天然气和风电等能源资产直接转为 GPU 算力,表后供电的矿企转型模式正在拿到 take-or-pay 合同",
+      "article_title": "Exaion signs $79m GPUaaS contract with US customer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/exaion-signs-79m-gpuaas-contract-with-us-customer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 11:52:27 +0000",
+      "added_at": "2026-11-25T12:11:40.739618+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Exaion 签下 7900 万美元 100% take-or-pay 的 B300 GPUaaS 合同并称有超 30MW 需求意向,中小 GPU 云服务商借 take-or-pay 合同转移需求风险,'马上能通电的容量'仍是稀缺资源",
+      "article_title": "Exaion signs $79m GPUaaS contract with US customer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/exaion-signs-79m-gpuaas-contract-with-us-customer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 11:52:27 +0000",
+      "added_at": "2026-11-25T12:11:41.031478+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Applied Digital 按期交付 Polaris Forge 2 首个 25MW 数据厅并完成首栋 75MW 调试,验证'合同→交付'执行能力,支撑数据中心开发商这一层的融资与估值",
+      "article_title": "Applied Digital brings online 25MW data hall at Polaris Forge 2 data center in North Dakota",
+      "article_url": "https://www.datacenterdynamics.com/en/news/applied-digital-brings-online-25mw-data-hall-at-polaris-forge-2-data-center-in-north-dakota/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 11:46:00 +0000",
+      "added_at": "2026-11-25T12:11:41.655529+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Polaris Forge 2 规划 1GW 且客户另有 800MW 优先购买权,意味着北达科他州电网、变电站和配电设备的持续需求",
+      "article_title": "Applied Digital brings online 25MW data hall at Polaris Forge 2 data center in North Dakota",
+      "article_url": "https://www.datacenterdynamics.com/en/news/applied-digital-brings-online-25mw-data-hall-at-polaris-forge-2-data-center-in-north-dakota/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 11:46:00 +0000",
+      "added_at": "2026-11-25T12:11:41.970156+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Fluidstack 推出工厂预制的模块化数据中心 Blackbird,声称六个月交付最多 400MW(厂商自述,未经验证),把土建机电瓶颈工业化,AI 云服务商对传统机电集成商依赖下降",
+      "article_title": "Fluidstack launches modular data center product, Blackbird",
+      "article_url": "https://www.datacenterdynamics.com/en/news/fluidstack-launches-modular-data-center-product-blackbird/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 11:36:38 +0000",
+      "added_at": "2026-11-25T12:11:42.544229+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Blackbird 配套 Electrical Skid 直接接入 35kV 中压电源,模块化压缩施工期后瓶颈更彻底地转向电力接入,中压配电和变压器需求随之放大(厂商自述,未经验证)",
+      "article_title": "Fluidstack launches modular data center product, Blackbird",
+      "article_url": "https://www.datacenterdynamics.com/en/news/fluidstack-launches-modular-data-center-product-blackbird/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 11:36:38 +0000",
+      "added_at": "2026-11-25T12:11:42.848039+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Digital Realty 将芝加哥郊区空置办公园区改建为 156MW 数据中心,在地方暂停令频现的环境下,拥有成熟都市圈站点和审批经验的托管商更具护城河",
+      "article_title": "Digital Realty buys vacant office outside Chicago, plans 156MW data center campus",
+      "article_url": "https://www.datacenterdynamics.com/en/news/digital-realty-buys-vacant-office-outside-chicago-plans-156mw-data-center-campus/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 11:15:18 +0000",
+      "added_at": "2026-11-25T12:11:44.012738+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "156MW IT 负载需配建 240MW ComEd 变电站,大客户专属变电站扩大公用事业受监管资产基础并带动变压器和高压开关需求",
+      "article_title": "Digital Realty buys vacant office outside Chicago, plans 156MW data center campus",
+      "article_url": "https://www.datacenterdynamics.com/en/news/digital-realty-buys-vacant-office-outside-chicago-plans-156mw-data-center-campus/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 11:15:18 +0000",
+      "added_at": "2026-11-25T12:11:44.293443+00:00"
     }
   ]
 }
