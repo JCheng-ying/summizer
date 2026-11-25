@@ -406,7 +406,8 @@
         "cloud & AI",
         "hyperscaler / cloud",
         "cloud / hyperscaler (Azure)",
-        "cloud / enterprise software / security"
+        "cloud / enterprise software / security",
+        "cloud / enterprise software"
       ],
       "sector_tags": [
         "AI板块",
@@ -414,9 +415,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 32,
+      "mentions": 33,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-23T14:11:04.035444+00:00"
+      "last_seen": "2026-11-25T05:10:16.935965+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -516,9 +517,9 @@
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 63,
+      "mentions": 64,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-25T03:10:11.487437+00:00"
+      "last_seen": "2026-11-25T05:10:16.935965+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -12310,14 +12311,17 @@
       "name": "Zoom Communications",
       "type": "company",
       "sectors": [
-        "communications software"
+        "communications software",
+        "communications platform / AI agents / contact center"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
-      "ticker": null,
-      "mentions": 1,
+      "ticker": "ZM",
+      "mentions": 2,
       "first_seen": "2026-11-18T02:10:31.786956+00:00",
-      "last_seen": "2026-11-18T02:10:31.786956+00:00"
+      "last_seen": "2026-11-25T05:10:16.935965+00:00"
     },
     "ericsson": {
       "name": "Ericsson",
@@ -17238,6 +17242,32 @@
       "mentions": 1,
       "first_seen": "2026-11-25T03:10:11.487437+00:00",
       "last_seen": "2026-11-25T03:10:11.487437+00:00"
+    },
+    "solarwinds": {
+      "name": "SolarWinds",
+      "type": "company",
+      "sectors": [
+        "IT management software"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T05:10:16.935965+00:00",
+      "last_seen": "2026-11-25T05:10:16.935965+00:00"
+    },
+    "dsi systems": {
+      "name": "DSI Systems",
+      "type": "company",
+      "sectors": [
+        "enterprise customer"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T05:10:16.935965+00:00",
+      "last_seen": "2026-11-25T05:10:16.935965+00:00"
     }
   },
   "edges": [
@@ -40788,6 +40818,81 @@
           "added_at": "2026-11-25T03:10:11.487437+00:00"
         }
       ]
+    },
+    {
+      "source": "zoom communications",
+      "target": "anthropic",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Zoom CEO Eric Yuan 称 Anthropic 是合作伙伴,Zoom 也是 Anthropic 的投资者",
+          "article_title": "Zoom’s conversations-to-completion strategy is starting to pay off",
+          "article_url": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 04:43:29 +0000",
+          "added_at": "2026-11-25T05:10:16.935965+00:00"
+        }
+      ]
+    },
+    {
+      "source": "anthropic",
+      "target": "zoom communications",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Anthropic 推出 Claude Meetings beta,分析师在 Zoom 财报电话会上将其视为模型厂商向会议应用层上移的竞争风险",
+          "article_title": "Zoom’s conversations-to-completion strategy is starting to pay off",
+          "article_url": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 04:43:29 +0000",
+          "added_at": "2026-11-25T05:10:16.935965+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "zoom communications",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Microsoft 在 Ignite 2026 上同样提出 conversations to completion,与 Zoom 争夺从会议对话到工作执行的 agent 场景",
+          "article_title": "Zoom’s conversations-to-completion strategy is starting to pay off",
+          "article_url": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 04:43:29 +0000",
+          "added_at": "2026-11-25T05:10:16.935965+00:00"
+        }
+      ]
+    },
+    {
+      "source": "solarwinds",
+      "target": "zoom communications",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "SolarWinds 扩大了 Zoom 许可,同时重新调整其 Microsoft 套餐",
+          "article_title": "Zoom’s conversations-to-completion strategy is starting to pay off",
+          "article_url": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 04:43:29 +0000",
+          "added_at": "2026-11-25T05:10:16.935965+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dsi systems",
+      "target": "zoom communications",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "DSI Systems 用 Zoom 平台替换了五个独立产品",
+          "article_title": "Zoom’s conversations-to-completion strategy is starting to pay off",
+          "article_url": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 04:43:29 +0000",
+          "added_at": "2026-11-25T05:10:16.935965+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -48458,6 +48563,15 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 25 Nov 2026 02:36:45 +0000",
       "added_at": "2026-11-25T03:10:11.977526+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Zoom 三季度企业收入增长 8.6% 创 13 个季度新高,CX 前十大订单全含付费 AI,显示拥有一手对话上下文的平台型应用公司能把 agent 变现;但 Q4 指引放缓、token 成本上升、Anthropic Claude Meetings 等模型厂商上移带来竞争,应用层情绪仍需观望(分析师专栏,数据来自管理层表述)",
+      "article_title": "Zoom’s conversations-to-completion strategy is starting to pay off",
+      "article_url": "https://siliconangle.com/2026/11/24/zooms-conversations-to-completion-strategy-is-starting-to-pay-off/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 04:43:29 +0000",
+      "added_at": "2026-11-25T05:10:17.276006+00:00"
     }
   ]
 }
