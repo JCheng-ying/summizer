@@ -1171,16 +1171,17 @@
       "name": "Rigetti Computing",
       "type": "company",
       "sectors": [
-        "superconducting quantum computing"
+        "superconducting quantum computing",
+        "superconducting quantum hardware"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": "hot",
       "ticker": "RGTI",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-22T02:15:56.564982+00:00"
+      "last_seen": "2026-11-25T09:11:15.662318+00:00"
     },
     "dwave quantum": {
       "name": "D-Wave Quantum",
@@ -1250,9 +1251,9 @@
       ],
       "hot": "hot",
       "ticker": "QNT",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-22T02:15:56.564982+00:00"
+      "last_seen": "2026-11-25T09:11:15.662318+00:00"
     },
     "psiquantum": {
       "name": "PsiQuantum",
@@ -1432,9 +1433,9 @@
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+      "last_seen": "2026-11-25T09:11:15.662318+00:00"
     },
     "quera computing": {
       "name": "QuEra Computing",
@@ -1922,7 +1923,8 @@
         "AI models / agents / cloud",
         "cloud & AI",
         "hyperscaler / AI",
-        "big tech"
+        "big tech",
+        "hyperscaler / cloud"
       ],
       "sector_tags": [
         "edge AI板块",
@@ -1934,9 +1936,9 @@
       ],
       "hot": "hot",
       "ticker": "GOOGL",
-      "mentions": 59,
+      "mentions": 60,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-22T11:10:14.679720+00:00"
+      "last_seen": "2026-11-25T09:11:19.252647+00:00"
     },
     "microchip incorporated": {
       "name": "Microchip Technology Incorporated",
@@ -6147,9 +6149,9 @@
       ],
       "hot": "hot",
       "ticker": "EQIX",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-09T06:06:08.786657+00:00",
-      "last_seen": "2026-11-24T13:11:31.200127+00:00"
+      "last_seen": "2026-11-25T09:11:19.252647+00:00"
     },
     "tallgrass energy": {
       "name": "Tallgrass Energy",
@@ -7970,16 +7972,18 @@
       "type": "company",
       "sectors": [
         "aerospace & defense",
-        "aerospace / defense"
+        "aerospace / defense",
+        "defense / IT / sovereign cloud"
       ],
       "sector_tags": [
-        "太空经济板块"
+        "太空经济板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-13T10:11:33.875226+00:00",
-      "last_seen": "2026-11-24T14:10:55.001873+00:00"
+      "last_seen": "2026-11-25T09:11:19.252647+00:00"
     },
     "leonardo": {
       "name": "Leonardo",
@@ -9682,16 +9686,17 @@
       "name": "Engie",
       "type": "company",
       "sectors": [
-        "utility / energy management"
+        "utility / energy management",
+        "utility / energy supply"
       ],
       "sector_tags": [
         "能源板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T12:09:37.105953+00:00",
-      "last_seen": "2026-11-16T12:09:37.105953+00:00"
+      "last_seen": "2026-11-25T09:11:19.252647+00:00"
     },
     "arianespace": {
       "name": "Arianespace",
@@ -11824,16 +11829,18 @@
       "type": "company",
       "sectors": [
         "electrical equipment / grid automation",
-        "energy management"
+        "energy management",
+        "data center power & liquid cooling"
       ],
       "sector_tags": [
-        "能源板块"
+        "能源板块",
+        "AI板块"
       ],
-      "hot": null,
+      "hot": "hot",
       "ticker": "SU.PA",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T18:11:18.047543+00:00",
-      "last_seen": "2026-11-20T10:10:31.739098+00:00"
+      "last_seen": "2026-11-25T09:11:17.083501+00:00"
     },
     "vals": {
       "name": "Vals",
@@ -13285,16 +13292,17 @@
       "name": "Standard Chartered",
       "type": "company",
       "sectors": [
-        "banking"
+        "banking",
+        "banking / quantum finance research"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T00:11:07.421041+00:00",
-      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+      "last_seen": "2026-11-25T09:11:15.662318+00:00"
     },
     "fujitsu": {
       "name": "Fujitsu",
@@ -13315,16 +13323,17 @@
       "name": "Qubitra Technologies",
       "type": "company",
       "sectors": [
-        "quantum and quantum-inspired finance solutions (JV)"
+        "quantum and quantum-inspired finance solutions (JV)",
+        "quantum / quantum-inspired finance software"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T00:11:07.421041+00:00",
-      "last_seen": "2026-11-19T00:11:07.421041+00:00"
+      "last_seen": "2026-11-25T09:11:15.662318+00:00"
     },
     "bmo": {
       "name": "BMO",
@@ -17268,6 +17277,111 @@
       "mentions": 1,
       "first_seen": "2026-11-25T05:10:16.935965+00:00",
       "last_seen": "2026-11-25T05:10:16.935965+00:00"
+    },
+    "monetary authority of singapore": {
+      "name": "Monetary Authority of Singapore",
+      "type": "institution",
+      "sectors": [
+        "financial regulator / FSTI quantum scheme"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T09:11:15.662318+00:00",
+      "last_seen": "2026-11-25T09:11:15.662318+00:00"
+    },
+    "motivair": {
+      "name": "Motivair",
+      "type": "company",
+      "sectors": [
+        "liquid cooling CDU"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T09:11:17.083501+00:00",
+      "last_seen": "2026-11-25T09:11:17.083501+00:00"
+    },
+    "uniflair": {
+      "name": "Uniflair",
+      "type": "company",
+      "sectors": [
+        "data center cooling equipment"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T09:11:17.083501+00:00",
+      "last_seen": "2026-11-25T09:11:17.083501+00:00"
+    },
+    "tricolore computing": {
+      "name": "Tricolore Computing",
+      "type": "company",
+      "sectors": [
+        "Google data center subsidiary (France)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T09:11:19.252647+00:00",
+      "last_seen": "2026-11-25T09:11:19.252647+00:00"
+    },
+    "rte": {
+      "name": "RTE",
+      "type": "company",
+      "sectors": [
+        "French transmission system operator"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T09:11:19.252647+00:00",
+      "last_seen": "2026-11-25T09:11:19.252647+00:00"
+    },
+    "digital realty": {
+      "name": "Digital Realty",
+      "type": "company",
+      "sectors": [
+        "colocation data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "DLR",
+      "mentions": 1,
+      "first_seen": "2026-11-25T09:11:19.252647+00:00",
+      "last_seen": "2026-11-25T09:11:19.252647+00:00"
+    },
+    "global switch": {
+      "name": "Global Switch",
+      "type": "company",
+      "sectors": [
+        "colocation data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T09:11:19.252647+00:00",
+      "last_seen": "2026-11-25T09:11:19.252647+00:00"
     }
   },
   "edges": [
@@ -30297,6 +30411,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 16 Nov 2026 11:36:01 +0000",
           "added_at": "2026-11-16T12:09:37.105953+00:00"
+        },
+        {
+          "description": "Engie 与 Google 签署 MoU,可能为 Châteauroux 地区 Ozans 数据中心项目供电",
+          "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+          "added_at": "2026-11-25T09:11:19.252647+00:00"
         }
       ]
     },
@@ -40893,6 +41015,201 @@
           "added_at": "2026-11-25T05:10:16.935965+00:00"
         }
       ]
+    },
+    {
+      "source": "monetary authority of singapore",
+      "target": "standard chartered",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Standard Chartered 量子研究项目第一年由 MAS 管理的 FSTI 量子技术计划支持",
+          "article_title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+          "article_url": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 08:15:02 +0000",
+          "added_at": "2026-11-25T09:11:15.662318+00:00"
+        }
+      ]
+    },
+    {
+      "source": "standard chartered",
+      "target": "oxford quantum circuits oqc",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Standard Chartered 量子研究项目与 OQC 合作,获取量子硬件与研究能力",
+          "article_title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+          "article_url": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 08:15:02 +0000",
+          "added_at": "2026-11-25T09:11:15.662318+00:00"
+        }
+      ]
+    },
+    {
+      "source": "standard chartered",
+      "target": "quantinuum",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Standard Chartered 量子研究项目与 Quantinuum 合作",
+          "article_title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+          "article_url": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 08:15:02 +0000",
+          "added_at": "2026-11-25T09:11:15.662318+00:00"
+        }
+      ]
+    },
+    {
+      "source": "standard chartered",
+      "target": "rigetti computing",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Standard Chartered 量子研究项目与 Rigetti 合作",
+          "article_title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+          "article_url": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 08:15:02 +0000",
+          "added_at": "2026-11-25T09:11:15.662318+00:00"
+        }
+      ]
+    },
+    {
+      "source": "standard chartered",
+      "target": "qubitra",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Standard Chartered 与 Qubitra 合作研究量子语言模型、时间序列预测与衍生品定价",
+          "article_title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+          "article_url": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 08:15:02 +0000",
+          "added_at": "2026-11-25T09:11:15.662318+00:00"
+        }
+      ]
+    },
+    {
+      "source": "schneider electric",
+      "target": "motivair",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Motivair by Schneider Electric 品牌 CDU,Conselve 新实验室可验证最高 5MW 的 Motivair CDU",
+          "article_title": "Schneider Electric doubles CDU manufacturing capacity at factory in Conselve, Italy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/schneider-electric-liquid-cooling-conselve-italy-cdu/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 09:00:40 +0000",
+          "added_at": "2026-11-25T09:11:17.083501+00:00"
+        }
+      ]
+    },
+    {
+      "source": "schneider electric",
+      "target": "uniflair",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Schneider 于 2010 年收购 Uniflair,获得其 1980 年代建成的意大利 Conselve 工厂",
+          "article_title": "Schneider Electric doubles CDU manufacturing capacity at factory in Conselve, Italy",
+          "article_url": "https://www.datacenterdynamics.com/en/news/schneider-electric-liquid-cooling-conselve-italy-cdu/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 09:00:40 +0000",
+          "added_at": "2026-11-25T09:11:17.083501+00:00"
+        }
+      ]
+    },
+    {
+      "source": "alphabet",
+      "target": "tricolore computing",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "据 Mediapart,Google 子公司 Tricolore Computing 为 Villedieu-sur-Indre 1.2GW 数据中心项目提交并网申请",
+          "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+          "added_at": "2026-11-25T09:11:19.252647+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rte",
+      "target": "tricolore computing",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "RTE 针对该并网申请提出 6,700 万欧元、需七到八年完成的接入方案",
+          "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+          "added_at": "2026-11-25T09:11:19.252647+00:00"
+        }
+      ]
+    },
+    {
+      "source": "equinix",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Google 在法国目前没有自建数据中心,依赖 Equinix 等第三方设施",
+          "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+          "added_at": "2026-11-25T09:11:19.252647+00:00"
+        }
+      ]
+    },
+    {
+      "source": "digital realty",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Google 在法国依赖 Digital Realty 等第三方数据中心设施",
+          "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+          "added_at": "2026-11-25T09:11:19.252647+00:00"
+        }
+      ]
+    },
+    {
+      "source": "global switch",
+      "target": "alphabet",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Google 在法国依赖 Global Switch 等第三方数据中心设施",
+          "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+          "added_at": "2026-11-25T09:11:19.252647+00:00"
+        }
+      ]
+    },
+    {
+      "source": "thales",
+      "target": "alphabet",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Google 通过与 Thales 的合作在法国提供主权云",
+          "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+          "added_at": "2026-11-25T09:11:19.252647+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -48572,6 +48889,60 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 25 Nov 2026 04:43:29 +0000",
       "added_at": "2026-11-25T05:10:17.276006+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "Standard Chartered 在 MAS 资助下完成第一年量子研究并扩大项目,与 OQC、Quantinuum、Rigetti、Qubitra 合作,声称衍生品定价迭代减少最多 18 倍;对量子硬件是小幅需求确认,近期更实际的受益层是量子启发算法软件(公司新闻稿,指标未经独立验证)",
+      "article_title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+      "article_url": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 08:15:02 +0000",
+      "added_at": "2026-11-25T09:11:16.258892+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Standard Chartered 的量子启发适配器在信用风险等微调任务上声称可训练参数减少 18 倍,若能复现将成为参数高效微调的新工具,受益仍在金融机构 AI 部署与推理基础设施(公司新闻稿,未经独立验证)",
+      "article_title": "Standard Chartered Expands Quantum Computing Research Program Following Successful Research Phase",
+      "article_url": "https://thequantuminsider.com/2026/11/25/standard-chartered-expands-quantum-computing-research-program-following-successful-research-phase/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 08:15:02 +0000",
+      "added_at": "2026-11-25T09:11:16.676041+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Schneider 将意大利 Conselve 工厂 CDU 产能翻倍、Big Chiller 产能提升 50%、测试能力扩至三倍,显示欧洲高密度 AI 机柜液冷需求足以支撑重资产扩产,散热这一瓶颈层的设备商持续受益(公司公告,未披露投资额)",
+      "article_title": "Schneider Electric doubles CDU manufacturing capacity at factory in Conselve, Italy",
+      "article_url": "https://www.datacenterdynamics.com/en/news/schneider-electric-liquid-cooling-conselve-italy-cdu/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 09:00:40 +0000",
+      "added_at": "2026-11-25T09:11:17.577680+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Schneider 同周推出基于电力电子的交直流混合配电产品,半导体开关替代机械开关,增量需求落在 SiC/GaN 功率器件与直流配电,同时惠及电网侧储能与并网技术",
+      "article_title": "Schneider Electric doubles CDU manufacturing capacity at factory in Conselve, Italy",
+      "article_url": "https://www.datacenterdynamics.com/en/news/schneider-electric-liquid-cooling-conselve-italy-cdu/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 09:00:40 +0000",
+      "added_at": "2026-11-25T09:11:18.105291+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Google 子公司为法国 Villedieu-sur-Indre 1.2GW 数据中心提交并网申请,RTE 报出 6,700 万欧元、七到八年的接入方案,说明并网时间是欧洲数据中心核心瓶颈,输变电设备与 Engie/EDF 等能源供应方受益(二手报道,Google 称仅为探索性规划)",
+      "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+      "added_at": "2026-11-25T09:11:19.679659+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Google 在法国以并网申请提前占位未来算力产能,但七八年时间尺度对短期算力供给无影响,反而凸显 Equinix、Digital Realty 等已通电存量托管容量的价值(二手报道,项目真实性存疑)",
+      "article_title": "Google planning 1.2GW data center near Châteauroux, France - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 08:46:00 +0000",
+      "added_at": "2026-11-25T09:11:20.116425+00:00"
     }
   ]
 }
