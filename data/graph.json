@@ -516,9 +516,9 @@
       ],
       "hot": "hot",
       "ticker": "ANT",
-      "mentions": 62,
+      "mentions": 63,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-25T01:10:08.010525+00:00"
+      "last_seen": "2026-11-25T03:10:11.487437+00:00"
     },
     "broadcom": {
       "name": "Broadcom Inc.",
@@ -17223,6 +17223,21 @@
       "mentions": 1,
       "first_seen": "2026-11-25T02:11:06.687372+00:00",
       "last_seen": "2026-11-25T02:11:06.687372+00:00"
+    },
+    "claude install as app": {
+      "name": "Claude Install as App",
+      "type": "product",
+      "sectors": [
+        "AI-generated desktop apps"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T03:10:11.487437+00:00",
+      "last_seen": "2026-11-25T03:10:11.487437+00:00"
     }
   },
   "edges": [
@@ -40758,6 +40773,21 @@
           "added_at": "2026-11-25T02:11:06.687372+00:00"
         }
       ]
+    },
+    {
+      "source": "anthropic",
+      "target": "claude install as app",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Anthropic 推出 beta 功能 Install as App,可把 Claude artifact 转成 Windows/macOS 独立桌面应用,支持通知和 connector,但需联网并登录 Claude",
+          "article_title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
+          "article_url": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 02:36:45 +0000",
+          "added_at": "2026-11-25T03:10:11.487437+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -48419,6 +48449,15 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 25 Nov 2026 01:30:32 +0000",
       "added_at": "2026-11-25T02:11:06.959418+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Anthropic 推出 Install as App,让 Claude 生成的 artifact 成为可常驻、可调用 Claude 和 connector 的桌面应用,推理从偶发调用变成持续运行,利好推理算力与模型平台层;长尾席位制 SaaS 相对承压,但功能仍为 beta、需联网登录,变现效果待观察",
+      "article_title": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
+      "article_url": "https://siliconangle.com/2026/11/24/anthropic-is-trying-to-kill-traditional-desktop-apps-with-claude-generated-desktop-apps/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 02:36:45 +0000",
+      "added_at": "2026-11-25T03:10:11.977526+00:00"
     }
   ]
 }
