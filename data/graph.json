@@ -9192,16 +9192,17 @@
       "name": "HP Inc.",
       "type": "company",
       "sectors": [
-        "PC & devices"
+        "PC & devices",
+        "PCs / printers"
       ],
       "sector_tags": [
         "edge AI板块"
       ],
       "hot": null,
       "ticker": "HPQ",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-14T18:10:00.752904+00:00",
-      "last_seen": "2026-11-14T18:10:00.752904+00:00"
+      "last_seen": "2026-11-25T00:10:13.607740+00:00"
     },
     "relay": {
       "name": "Relay",
@@ -12001,16 +12002,17 @@
         "servers / PowerEdge",
         "servers / rack integration",
         "servers / AI infrastructure",
-        "AI servers"
+        "AI servers",
+        "AI servers / PCs"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-24T02:26:58.028831+00:00"
+      "last_seen": "2026-11-25T00:10:13.607740+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -40593,6 +40595,21 @@
           "added_at": "2026-11-24T23:10:36.190054+00:00"
         }
       ]
+    },
+    {
+      "source": "dell",
+      "target": "hp",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两家同在PC市场竞争;Gartner称三季度全球PC出货降22%,Dell客户端收入128.9亿美元不及预期,HP靠涨价超预期但利润率下滑且不给指引",
+          "article_title": "Dell and HP beat expectations, but their fortunes are diverging as AI dynamics crush the PC market",
+          "article_url": "https://siliconangle.com/2026/11/24/dell-and-hp-beat-expectations-but-their-fortunes-are-diverging-as-ai-dynamics-crush-the-pc-market/",
+          "source_name": "SiliconANGLE",
+          "published": "Tue, 24 Nov 2026 23:48:11 +0000",
+          "added_at": "2026-11-25T00:10:13.607740+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -48191,6 +48208,33 @@
       "source_name": "SiliconANGLE",
       "published": "Tue, 24 Nov 2026 22:27:35 +0000",
       "added_at": "2026-11-24T23:10:36.468247+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Dell三季度AI优化服务器销售约220亿美元、同比增291%,AI服务器积压1323亿美元并上调未来财年AI服务器销售预期至780亿美元;AI基础设施需求强劲,存储与GPU上游掌握定价权,整机集成层毛利需观察",
+      "article_title": "Dell and HP beat expectations, but their fortunes are diverging as AI dynamics crush the PC market",
+      "article_url": "https://siliconangle.com/2026/11/24/dell-and-hp-beat-expectations-but-their-fortunes-are-diverging-as-ai-dynamics-crush-the-pc-market/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 23:48:11 +0000",
+      "added_at": "2026-11-25T00:10:13.917877+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Dell称每笔AI服务器订单都核查客户能否获得土地和电力,电力已成为积压订单兑现的前置约束,利好电网接入、电源与散热配套",
+      "article_title": "Dell and HP beat expectations, but their fortunes are diverging as AI dynamics crush the PC market",
+      "article_url": "https://siliconangle.com/2026/11/24/dell-and-hp-beat-expectations-but-their-fortunes-are-diverging-as-ai-dynamics-crush-the-pc-market/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 23:48:11 +0000",
+      "added_at": "2026-11-25T00:10:14.229621+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "存储芯片涨价推高整机价格,Gartner称三季度全球PC出货降22%,HP拒绝给指引;AI PC作为端侧AI载体的换机周期被推迟,偏空",
+      "article_title": "Dell and HP beat expectations, but their fortunes are diverging as AI dynamics crush the PC market",
+      "article_url": "https://siliconangle.com/2026/11/24/dell-and-hp-beat-expectations-but-their-fortunes-are-diverging-as-ai-dynamics-crush-the-pc-market/",
+      "source_name": "SiliconANGLE",
+      "published": "Tue, 24 Nov 2026 23:48:11 +0000",
+      "added_at": "2026-11-25T00:10:14.538159+00:00"
     }
   ]
 }
