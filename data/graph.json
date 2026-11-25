@@ -258,9 +258,9 @@
         "GPU / AI interconnect",
         "GPUs / AI accelerators"
       ],
-      "mentions": 106,
+      "mentions": 108,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-25T12:11:40.460951+00:00",
+      "last_seen": "2026-11-25T13:12:03.985533+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -7714,16 +7714,17 @@
       "sectors": [
         "networking",
         "networking / observability",
-        "networking / security infrastructure"
+        "networking / security infrastructure",
+        "networking equipment"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "CSCO",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-13T06:17:15.584969+00:00",
-      "last_seen": "2026-11-23T22:12:38.112309+00:00"
+      "last_seen": "2026-11-25T13:12:04.820549+00:00"
     },
     "hitachi": {
       "name": "Hitachi",
@@ -10719,16 +10720,17 @@
       "sectors": [
         "telecom equipment / AI chips (Ascend)",
         "AI chips (Ascend) / telecom equipment",
-        "Ascend NPUs"
+        "Ascend NPUs",
+        "telecom equipment / AI chips"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-17T13:11:15.970027+00:00",
-      "last_seen": "2026-11-23T15:12:29.533876+00:00"
+      "last_seen": "2026-11-25T13:12:04.820549+00:00"
     },
     "pure dc": {
       "name": "Pure DC",
@@ -17611,6 +17613,159 @@
       "mentions": 1,
       "first_seen": "2026-11-25T12:11:43.701842+00:00",
       "last_seen": "2026-11-25T12:11:43.701842+00:00"
+    },
+    "stratum": {
+      "name": "Stratum Holdings",
+      "type": "company",
+      "sectors": [
+        "AI cloud / GPU leasing (formerly La Rosa Holdings)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:02.933968+00:00",
+      "last_seen": "2026-11-25T13:12:02.933968+00:00"
+    },
+    "ocean power": {
+      "name": "Ocean Power Technologies",
+      "type": "company",
+      "sectors": [
+        "wave-powered ocean buoys (PowerBuoy)"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:02.933968+00:00",
+      "last_seen": "2026-11-25T13:12:02.933968+00:00"
+    },
+    "sato": {
+      "name": "Sato Technologies",
+      "type": "company",
+      "sectors": [
+        "bitcoin mining to AI colocation (Qritical AI)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:03.985533+00:00",
+      "last_seen": "2026-11-25T13:12:03.985533+00:00"
+    },
+    "datum": {
+      "name": "Datum Technology",
+      "type": "company",
+      "sectors": [
+        "AI cloud / network provider (neocloud)"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:03.985533+00:00",
+      "last_seen": "2026-11-25T13:12:03.985533+00:00"
+    },
+    "databank": {
+      "name": "DataBank",
+      "type": "company",
+      "sectors": [
+        "colocation data centers"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:03.985533+00:00",
+      "last_seen": "2026-11-25T13:12:03.985533+00:00"
+    },
+    "futurewei": {
+      "name": "Futurewei Technologies",
+      "type": "company",
+      "sectors": [
+        "Huawei US R&D subsidiary"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:04.820549+00:00",
+      "last_seen": "2026-11-25T13:12:04.820549+00:00"
+    },
+    "huawei device usa": {
+      "name": "Huawei Device USA",
+      "type": "company",
+      "sectors": [
+        "Huawei US device subsidiary"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:04.820549+00:00",
+      "last_seen": "2026-11-25T13:12:04.820549+00:00"
+    },
+    "prime": {
+      "name": "Prime Group Holdings",
+      "type": "company",
+      "sectors": [
+        "real estate / self-storage owner"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:05.391091+00:00",
+      "last_seen": "2026-11-25T13:12:05.391091+00:00"
+    },
+    "prime storage": {
+      "name": "Prime Storage",
+      "type": "company",
+      "sectors": [
+        "self-storage operator"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:05.391091+00:00",
+      "last_seen": "2026-11-25T13:12:05.391091+00:00"
+    },
+    "edge inference": {
+      "name": "Edge Inference LLC",
+      "type": "company",
+      "sectors": [
+        "edge AI inference points (Prime affiliate)"
+      ],
+      "sector_tags": [
+        "edge AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T13:12:05.391091+00:00",
+      "last_seen": "2026-11-25T13:12:05.391091+00:00"
     }
   },
   "edges": [
@@ -41672,6 +41827,156 @@
           "added_at": "2026-11-25T12:11:43.701842+00:00"
         }
       ]
+    },
+    {
+      "source": "stratum",
+      "target": "ocean power",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "双方签署协议探索由波浪、风能和太阳能供电的海上数据中心,第一阶段由 OPT 评估在 PowerBuoy 平台上部署 Stratum GPU 的技术和商业可行性",
+          "article_title": "Stratum Holdings and Ocean Power Technologies partner on offshore data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/stratum-holdings-and-ocean-power-technologies-partner-on-offshore-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:50:38 +0000",
+          "added_at": "2026-11-25T13:12:02.933968+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "stratum",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Stratum 10 月购入 Nvidia B300 GPU 并以长期租赁方式出租,计划与 PowerBuoy 结合",
+          "article_title": "Stratum Holdings and Ocean Power Technologies partner on offshore data centers",
+          "article_url": "https://www.datacenterdynamics.com/en/news/stratum-holdings-and-ocean-power-technologies-partner-on-offshore-data-centers/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:50:38 +0000",
+          "added_at": "2026-11-25T13:12:02.933968+00:00"
+        }
+      ]
+    },
+    {
+      "source": "datum",
+      "target": "sato",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Datum 与 Sato 子公司 Qritical AI 签署主服务协议,在 Sato 魁北克 Joliette 20MW 水电站点的原比特币挖矿机房部署 B300 服务器,签约到交付仅 22 天",
+          "article_title": "Cryptominer Sato Technologies secures neocloud Datum as customer for Canadian data center",
+          "article_url": "https://www.datacenterdynamics.com/en/news/cryptominer-sato-technologies-secures-neocloud-datum-as-customer-for-canadian-data-center/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:12:22 +0000",
+          "added_at": "2026-11-25T13:12:03.985533+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "datum",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "Datum 在 Joliette 部署 Nvidia B300 服务器,并用 Nvidia BlueField DPU 构建开放网络云",
+          "article_title": "Cryptominer Sato Technologies secures neocloud Datum as customer for Canadian data center",
+          "article_url": "https://www.datacenterdynamics.com/en/news/cryptominer-sato-technologies-secures-neocloud-datum-as-customer-for-canadian-data-center/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:12:22 +0000",
+          "added_at": "2026-11-25T13:12:03.985533+00:00"
+        }
+      ]
+    },
+    {
+      "source": "datum",
+      "target": "databank",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Datum 此前在 DataBank 位于 Ashburn、达拉斯和盐湖城的设施中部署了网络接入点",
+          "article_title": "Cryptominer Sato Technologies secures neocloud Datum as customer for Canadian data center",
+          "article_url": "https://www.datacenterdynamics.com/en/news/cryptominer-sato-technologies-secures-neocloud-datum-as-customer-for-canadian-data-center/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:12:22 +0000",
+          "added_at": "2026-11-25T13:12:03.985533+00:00"
+        }
+      ]
+    },
+    {
+      "source": "huawei",
+      "target": "futurewei",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Futurewei 作为华为美国子公司与华为一同被纽约东区联邦陪审团定罪",
+          "article_title": "Huawei found guilty of sanctions violations and stealing US trade secrets",
+          "article_url": "https://www.datacenterdynamics.com/en/news/huawei-found-guilty-of-sanctions-violations-and-stealing-us-trade-secrets/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:10:52 +0000",
+          "added_at": "2026-11-25T13:12:04.820549+00:00"
+        }
+      ]
+    },
+    {
+      "source": "huawei",
+      "target": "huawei device usa",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Huawei Device USA 作为华为美国子公司与华为一同被定罪",
+          "article_title": "Huawei found guilty of sanctions violations and stealing US trade secrets",
+          "article_url": "https://www.datacenterdynamics.com/en/news/huawei-found-guilty-of-sanctions-violations-and-stealing-us-trade-secrets/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:10:52 +0000",
+          "added_at": "2026-11-25T13:12:04.820549+00:00"
+        }
+      ]
+    },
+    {
+      "source": "huawei",
+      "target": "cisco systems",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "两者在路由器等网络设备上直接竞争;美国司法部称华为复制了 Cisco 路由器核心源代码,陪审团认定华为共谋窃取商业秘密罪名成立",
+          "article_title": "Huawei found guilty of sanctions violations and stealing US trade secrets",
+          "article_url": "https://www.datacenterdynamics.com/en/news/huawei-found-guilty-of-sanctions-violations-and-stealing-us-trade-secrets/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:10:52 +0000",
+          "added_at": "2026-11-25T13:12:04.820549+00:00"
+        }
+      ]
+    },
+    {
+      "source": "prime",
+      "target": "prime storage",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Prime Group Holdings 通过 Prime Storage 在美国持有数百处自助仓库资产,并计划在其中部署边缘数据中心和 BESS",
+          "article_title": "Decision delayed on Prime Group plan to convert self-storage facility into data center in South Carolina",
+          "article_url": "https://www.datacenterdynamics.com/en/news/decision-delayed-on-prime-group-plan-to-convert-self-storage-facility-into-data-center-in-south-carolina/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:06:48 +0000",
+          "added_at": "2026-11-25T13:12:05.391091+00:00"
+        }
+      ]
+    },
+    {
+      "source": "prime",
+      "target": "edge inference",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Prime 通过关联公司 Edge Inference LLC 在马萨诸塞和佐治亚等地申请建设 AI 推理点",
+          "article_title": "Decision delayed on Prime Group plan to convert self-storage facility into data center in South Carolina",
+          "article_url": "https://www.datacenterdynamics.com/en/news/decision-delayed-on-prime-group-plan-to-convert-self-storage-facility-into-data-center-in-south-carolina/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 12:06:48 +0000",
+          "added_at": "2026-11-25T13:12:05.391091+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -49549,6 +49854,87 @@
       "source_name": "DataCenterDynamics",
       "published": "Wed, 25 Nov 2026 11:15:18 +0000",
       "added_at": "2026-11-25T12:11:44.293443+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "客座文章(作者从事 QKD 研究,含风投背景,有立场)指出 AI 正在帮助改进密码攻击、HAWK 已被撤回,主张在关键链路上用 QKD 叠加 PQC 防'先存储后解密';但 NCSC 和 NSA 仍明确不推荐 QKD,利好主要落在 PQC 迁移和 QKD+PQC 混合集成这一层,纯 QKD 设备在西方短期难放量",
+      "article_title": "Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links",
+      "article_url": "https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 12:27:15 +0000",
+      "added_at": "2026-11-25T13:12:02.418313+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "DeepMind 与 Anthropic 的 AI 辅助密码分析结果说明 AI 安全研究正在产生实际能力,AI 正成为密码学安全估计变动的新变量",
+      "article_title": "Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links",
+      "article_url": "https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 12:27:15 +0000",
+      "added_at": "2026-11-25T13:12:02.670507+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Stratum 与 OPT 研究用波浪/风/光自供电的海上数据中心(仅可行性研究阶段),反映陆地电力约束推动'自带能源'选址,海工平台和海洋能源储能是更确定的受益层",
+      "article_title": "Stratum Holdings and Ocean Power Technologies partner on offshore data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/stratum-holdings-and-ocean-power-technologies-partner-on-offshore-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:50:38 +0000",
+      "added_at": "2026-11-25T13:12:03.199467+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "海上浮标数据中心本质是面向国防、油气和海洋监测的高功率边缘节点,利好耐恶劣环境的紧凑型计算和通信设备,但功率密度和维护是瓶颈,尚早",
+      "article_title": "Stratum Holdings and Ocean Power Technologies partner on offshore data centers",
+      "article_url": "https://www.datacenterdynamics.com/en/news/stratum-holdings-and-ocean-power-technologies-partner-on-offshore-data-centers/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:50:38 +0000",
+      "added_at": "2026-11-25T13:12:03.474147+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Sato 把 20MW 水电矿场机房 22 天内交付给 AI 客户,说明已并网的低价电力容量本身就是稀缺资产,矿企转型 AI 托管从大公司扩展到小矿场",
+      "article_title": "Cryptominer Sato Technologies secures neocloud Datum as customer for Canadian data center",
+      "article_url": "https://www.datacenterdynamics.com/en/news/cryptominer-sato-technologies-secures-neocloud-datum-as-customer-for-canadian-data-center/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:12:22 +0000",
+      "added_at": "2026-11-25T13:12:04.263952+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "小型 neocloud Datum 借现成矿场容量快速上线 B300 服务推理和 AI 编程客户,推理需求正外溢到中小 neocloud,但其抗风险能力较弱",
+      "article_title": "Cryptominer Sato Technologies secures neocloud Datum as customer for Canadian data center",
+      "article_url": "https://www.datacenterdynamics.com/en/news/cryptominer-sato-technologies-secures-neocloud-datum-as-customer-for-canadian-data-center/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:12:22 +0000",
+      "added_at": "2026-11-25T13:12:04.545753+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "华为被美国陪审团认定窃取商业秘密和违反制裁(RICO 罪名不成立,尚未量刑且华为将继续法律行动),为美国后续加码管制和施压盟友排除华为提供法律依据,中美两套 AI 与网络供应链继续分离,利好 Cisco 等西方网络设备商在摇摆市场的竞争",
+      "article_title": "Huawei found guilty of sanctions violations and stealing US trade secrets",
+      "article_url": "https://www.datacenterdynamics.com/en/news/huawei-found-guilty-of-sanctions-violations-and-stealing-us-trade-secrets/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:10:52 +0000",
+      "added_at": "2026-11-25T13:12:05.118365+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Prime 把自助仓库改成 5MW 'AI 推理点'是推理下沉到城郊的务实路径,但 Greenville 推迟审批、Salem 撤销许可说明社区阻力已蔓延到小型边缘节点,嵌入现有建筑、无需改变用地性质的推理设备更受益",
+      "article_title": "Decision delayed on Prime Group plan to convert self-storage facility into data center in South Carolina",
+      "article_url": "https://www.datacenterdynamics.com/en/news/decision-delayed-on-prime-group-plan-to-convert-self-storage-facility-into-data-center-in-south-carolina/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:06:48 +0000",
+      "added_at": "2026-11-25T13:12:05.662301+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Prime 把 BESS 与推理点打包部署,表后储能可缓解社区和电网顾虑,成为小型数据中心获批的筹码",
+      "article_title": "Decision delayed on Prime Group plan to convert self-storage facility into data center in South Carolina",
+      "article_url": "https://www.datacenterdynamics.com/en/news/decision-delayed-on-prime-group-plan-to-convert-self-storage-facility-into-data-center-in-south-carolina/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 12:06:48 +0000",
+      "added_at": "2026-11-25T13:12:05.930405+00:00"
     }
   ]
 }
