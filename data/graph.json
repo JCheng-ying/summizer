@@ -4702,7 +4702,8 @@
       "name": "Jülich Supercomputing Centre",
       "type": "institution",
       "sectors": [
-        "HPC center"
+        "HPC center",
+        "HPC / JUNIQ quantum infrastructure"
       ],
       "sector_tags": [
         "AI板块",
@@ -4710,9 +4711,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-02T01:41:37.078106+00:00",
-      "last_seen": "2026-11-10T05:12:44.450063+00:00"
+      "last_seen": "2026-11-25T11:10:31.497276+00:00"
     },
     "gentherm": {
       "name": "Gentherm",
@@ -5510,7 +5511,8 @@
         "private equity",
         "alternative asset management",
         "private equity / infrastructure",
-        "alternative asset manager"
+        "alternative asset manager",
+        "alternative asset manager / digital infrastructure investor"
       ],
       "sector_tags": [
         "AI板块",
@@ -5518,9 +5520,9 @@
       ],
       "hot": "hot",
       "ticker": "BX",
-      "mentions": 7,
+      "mentions": 8,
       "first_seen": "2026-11-06T07:01:18.116586+00:00",
-      "last_seen": "2026-11-16T18:11:41.269696+00:00"
+      "last_seen": "2026-11-25T11:10:32.150746+00:00"
     },
     "martin uav": {
       "name": "Martin UAV",
@@ -10589,7 +10591,8 @@
       "name": "Forschungszentrum Jülich",
       "type": "institution",
       "sectors": [
-        "interdisciplinary research center / power system communications"
+        "interdisciplinary research center / power system communications",
+        "research center / supercomputing"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -10597,9 +10600,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-17T11:09:44.960216+00:00",
-      "last_seen": "2026-11-17T11:09:44.960216+00:00"
+      "last_seen": "2026-11-25T11:10:31.497276+00:00"
     },
     "idemia secure transactions": {
       "name": "IDEMIA Secure Transactions",
@@ -17427,6 +17430,64 @@
       "mentions": 1,
       "first_seen": "2026-11-25T10:10:10.661855+00:00",
       "last_seen": "2026-11-25T10:10:10.661855+00:00"
+    },
+    "arque systems": {
+      "name": "ARQUE Systems",
+      "type": "company",
+      "sectors": [
+        "silicon spin-qubit quantum computing (shuttling)"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T11:10:31.497276+00:00",
+      "last_seen": "2026-11-25T11:10:31.497276+00:00"
+    },
+    "rwth aachen university": {
+      "name": "RWTH Aachen University",
+      "type": "institution",
+      "sectors": [
+        "university"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T11:10:31.497276+00:00",
+      "last_seen": "2026-11-25T11:10:31.497276+00:00"
+    },
+    "link logistics": {
+      "name": "Link Logistics",
+      "type": "company",
+      "sectors": [
+        "last-mile industrial real estate / data center development"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T11:10:32.150746+00:00",
+      "last_seen": "2026-11-25T11:10:32.150746+00:00"
+    },
+    "landmark dividend": {
+      "name": "Landmark Dividend",
+      "type": "company",
+      "sectors": [
+        "digital infrastructure real estate"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T11:10:32.150746+00:00",
+      "last_seen": "2026-11-25T11:10:32.150746+00:00"
     }
   },
   "edges": [
@@ -41285,6 +41346,96 @@
           "added_at": "2026-11-25T10:10:10.661855+00:00"
         }
       ]
+    },
+    {
+      "source": "arque systems",
+      "target": "forschungszentrum jülich",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "双方在约 3500 万欧元的 Q-STAR.NRW 项目下开发最多 200 量子比特的硅自旋量子计算机,项目至 2029 年底",
+          "article_title": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
+          "article_url": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 10:18:34 +0000",
+          "added_at": "2026-11-25T11:10:31.497276+00:00"
+        }
+      ]
+    },
+    {
+      "source": "arque systems",
+      "target": "jülich supercomputing centre",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "ARQUE 此前已将 5 比特系统接入 JSC 的 JUNIQ,新的 200 比特系统也将接入 JUNIQ 与经典 HPC 混合使用",
+          "article_title": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
+          "article_url": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 10:18:34 +0000",
+          "added_at": "2026-11-25T11:10:31.497276+00:00"
+        }
+      ]
+    },
+    {
+      "source": "forschungszentrum jülich",
+      "target": "arque systems",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "ARQUE Systems 是于利希研究中心与亚琛工业大学的衍生(spin-off)公司",
+          "article_title": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
+          "article_url": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 10:18:34 +0000",
+          "added_at": "2026-11-25T11:10:31.497276+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rwth aachen university",
+      "target": "arque systems",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "ARQUE Systems 是亚琛工业大学与于利希研究中心的衍生(spin-off)公司",
+          "article_title": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
+          "article_url": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+          "source_name": "The Quantum Insider",
+          "published": "Wed, 25 Nov 2026 10:18:34 +0000",
+          "added_at": "2026-11-25T11:10:31.497276+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "link logistics",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Link Logistics 是 Blackstone 于 2019 年设立的最后一公里物流地产运营商,正考虑在明尼阿波利斯 Fridley 开发约 48 亿美元、252MW 的数据中心",
+          "article_title": "Blackstone's Link Logistics eyes data center outside Minneapolis, Minnesota",
+          "article_url": "https://www.datacenterdynamics.com/en/news/blackstones-link-logistics-eyes-data-center-outside-minneapolis-minnesota/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 10:23:40 +0000",
+          "added_at": "2026-11-25T11:10:32.150746+00:00"
+        }
+      ]
+    },
+    {
+      "source": "link logistics",
+      "target": "landmark dividend",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Link Logistics 此前将 El Segundo 的一处数据中心出售给 Landmark Dividend",
+          "article_title": "Blackstone's Link Logistics eyes data center outside Minneapolis, Minnesota",
+          "article_url": "https://www.datacenterdynamics.com/en/news/blackstones-link-logistics-eyes-data-center-outside-minneapolis-minnesota/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 10:23:40 +0000",
+          "added_at": "2026-11-25T11:10:32.150746+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -49036,6 +49187,33 @@
       "source_name": "The Quantum Insider",
       "published": "Wed, 25 Nov 2026 09:17:07 +0000",
       "added_at": "2026-11-25T10:10:11.270508+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "ARQUE 与于利希研究中心在 3500 万欧元 Q-STAR.NRW 项目下做 200 比特硅自旋量子机,shuttling 架构针对控制布线瓶颈,强化'量子=半导体制造+控制架构'路线;联合新闻稿,保真度数据未公开,未经独立验证",
+      "article_title": "ARQUE Systems and Forschungszentrum Jülich Plan 200-Qubit Quantum Computer",
+      "article_url": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 10:18:34 +0000",
+      "added_at": "2026-11-25T11:10:31.815803+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Blackstone 旗下 Link Logistics 考虑在明尼阿波利斯近郊改造工业用地建 252MW 数据中心,瓶颈在供电与审批而非资本,利好当地电网扩容与输变电设备;仅为非正式计划,尚未提交申请",
+      "article_title": "Blackstone's Link Logistics eyes data center outside Minneapolis, Minnesota",
+      "article_url": "https://www.datacenterdynamics.com/en/news/blackstones-link-logistics-eyes-data-center-outside-minneapolis-minnesota/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 10:23:40 +0000",
+      "added_at": "2026-11-25T11:10:32.476059+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "物流地产被重新定价为可接电的算力用地,Link 已在亚特兰大、宾州、萨克拉门托等地布局数据中心,是 AI 数据中心供给的边际增量;信号很弱,项目尚未正式申请",
+      "article_title": "Blackstone's Link Logistics eyes data center outside Minneapolis, Minnesota",
+      "article_url": "https://www.datacenterdynamics.com/en/news/blackstones-link-logistics-eyes-data-center-outside-minneapolis-minnesota/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 10:23:40 +0000",
+      "added_at": "2026-11-25T11:10:32.775401+00:00"
     }
   ]
 }
