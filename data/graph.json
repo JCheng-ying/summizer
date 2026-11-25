@@ -13842,16 +13842,17 @@
       "name": "Nutanix",
       "type": "company",
       "sectors": [
-        "hybrid cloud software"
+        "hybrid cloud software",
+        "hybrid cloud infrastructure software"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": "NTNX",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T12:12:45.718352+00:00",
-      "last_seen": "2026-11-19T12:12:45.718352+00:00"
+      "last_seen": "2026-11-25T02:11:05.626510+00:00"
     },
     "empery digital": {
       "name": "Empery Digital",
@@ -17162,6 +17163,66 @@
       "mentions": 1,
       "first_seen": "2026-11-24T23:10:36.190054+00:00",
       "last_seen": "2026-11-24T23:10:36.190054+00:00"
+    },
+    "vmware": {
+      "name": "VMware",
+      "type": "company",
+      "sectors": [
+        "virtualization / private cloud software"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T02:11:05.626510+00:00",
+      "last_seen": "2026-11-25T02:11:05.626510+00:00"
+    },
+    "epochal ai": {
+      "name": "Epochal AI",
+      "type": "company",
+      "sectors": [
+        "AI training data / predictive model training environments"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T02:11:06.687372+00:00",
+      "last_seen": "2026-11-25T02:11:06.687372+00:00"
+    },
+    "guodong zhang": {
+      "name": "Guodong Zhang",
+      "type": "person",
+      "sectors": [
+        "Epochal AI CEO, xAI co-founder"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T02:11:06.687372+00:00",
+      "last_seen": "2026-11-25T02:11:06.687372+00:00"
+    },
+    "epochal time portal": {
+      "name": "Epochal Time Portal",
+      "type": "product",
+      "sectors": [
+        "timestamped historical web data for model training"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T02:11:06.687372+00:00",
+      "last_seen": "2026-11-25T02:11:06.687372+00:00"
     }
   },
   "edges": [
@@ -40652,6 +40713,51 @@
           "added_at": "2026-11-25T01:10:08.010525+00:00"
         }
       ]
+    },
+    {
+      "source": "nutanix",
+      "target": "vmware",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "文章称VMware是Nutanix最大的竞争对手;CEO Ramaswami 2020年从VMware COO任上跳槽至Nutanix,曾遭VMware起诉后庭外和解",
+          "article_title": "Rajiv Ramaswami to step down as Nutanix begins hunt for its next CEO",
+          "article_url": "https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 01:54:05 +0000",
+          "added_at": "2026-11-25T02:11:05.626510+00:00"
+        }
+      ]
+    },
+    {
+      "source": "guodong zhang",
+      "target": "epochal ai",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Epochal首轮1亿美元资金全部由CEO、xAI联合创始人Guodong Zhang本人提供",
+          "article_title": "Epochal launches with $100M to help developers train predictive AI models",
+          "article_url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 01:30:32 +0000",
+          "added_at": "2026-11-25T02:11:06.687372+00:00"
+        }
+      ]
+    },
+    {
+      "source": "epochal ai",
+      "target": "epochal time portal",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Time Portal是Epochal首个产品,提供超1万亿个带时间戳的历史网页及时间同步沙盒,用于训练预测类模型",
+          "article_title": "Epochal launches with $100M to help developers train predictive AI models",
+          "article_url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 01:30:32 +0000",
+          "added_at": "2026-11-25T02:11:06.687372+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -48286,6 +48392,33 @@
       "source_name": "TechCrunch - AI",
       "published": "Wed, 25 Nov 2026 00:12:02 +0000",
       "added_at": "2026-11-25T01:10:08.282245+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Nutanix单季超预期但全年指引中值低于预期,叠加CEO Ramaswami宣布卸任,盘后跌8%;与同日Workday、HPE一起说明市场不再为企业IT中间层的稳健增长买单、只看AI增量,对AI板块中性,算力层不受影响、企业软件中间层估值承压",
+      "article_title": "Rajiv Ramaswami to step down as Nutanix begins hunt for its next CEO",
+      "article_url": "https://siliconangle.com/2026/11/24/rajiv-ramaswami-to-step-down-as-nutanix-begins-hunt-for-its-next-ceo/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 01:54:05 +0000",
+      "added_at": "2026-11-25T02:11:05.896440+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Axios匿名信源称Anthropic与OpenAI内部就过强而难以控制的未发布模型出现员工与高管对峙(未经官方证实);瓶颈从算力转向可控性与可发布性,发布节奏放慢、合规与治理风险上升,对模型和应用层偏利空,AI安全评估、agent沙盒与算力层仍受益",
+      "article_title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
+      "article_url": "https://siliconangle.com/2026/11/24/staff-at-anthropic-and-open-ai-sound-alarm-on-advanced-models-too-powerful-to-release/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 01:41:52 +0000",
+      "added_at": "2026-11-25T02:11:06.412296+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "xAI联合创始人自掏1亿美元创立Epochal,用带时间戳的万亿网页和时间同步沙盒为预测类模型提供可验证奖励的训练环境;说明训练数据/RL环境供给正成为独立瓶颈与赛道,利好算力与数据环境基础设施层,但商业化尚未验证",
+      "article_title": "Epochal launches with $100M to help developers train predictive AI models",
+      "article_url": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 01:30:32 +0000",
+      "added_at": "2026-11-25T02:11:06.959418+00:00"
     }
   ]
 }
