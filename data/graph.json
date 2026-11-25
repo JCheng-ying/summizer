@@ -258,9 +258,9 @@
         "GPU / AI interconnect",
         "GPUs / AI accelerators"
       ],
-      "mentions": 108,
+      "mentions": 109,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-25T13:12:03.985533+00:00",
+      "last_seen": "2026-11-25T16:11:19.738108+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -2839,9 +2839,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-08-09T05:41:43.395872+00:00",
-      "last_seen": "2026-11-24T22:11:15.108060+00:00"
+      "last_seen": "2026-11-25T16:11:19.738108+00:00"
     },
     "servicenow": {
       "name": "ServiceNow",
@@ -3753,16 +3753,17 @@
       "name": "Z.ai",
       "type": "company",
       "sectors": [
-        "open-weights AI models (GLM series)"
+        "open-weights AI models (GLM series)",
+        "open-weight LLMs (GLM)"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-23T05:53:20.548775+00:00",
-      "last_seen": "2026-10-15T05:35:20.148398+00:00"
+      "last_seen": "2026-11-25T16:11:19.738108+00:00"
     },
     "ollobot": {
       "name": "Ollobot",
@@ -11920,16 +11921,17 @@
       "type": "company",
       "sectors": [
         "AI model router",
-        "model routing / inference marketplace"
+        "model routing / inference marketplace",
+        "LLM routing / inference aggregation"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-17T19:10:21.770682+00:00",
-      "last_seen": "2026-11-17T23:11:58.365535+00:00"
+      "last_seen": "2026-11-25T16:11:19.738108+00:00"
     },
     "sqwish": {
       "name": "Sqwish",
@@ -15823,12 +15825,14 @@
       "sectors": [
         "payments"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-23T15:12:31.554681+00:00",
-      "last_seen": "2026-11-23T15:12:31.554681+00:00"
+      "last_seen": "2026-11-25T16:11:19.738108+00:00"
     },
     "decagon": {
       "name": "Decagon",
@@ -17925,6 +17929,67 @@
       "mentions": 1,
       "first_seen": "2026-11-25T15:10:45.492575+00:00",
       "last_seen": "2026-11-25T15:10:45.492575+00:00"
+    },
+    "arizona land consulting": {
+      "name": "Arizona Land Consulting",
+      "type": "company",
+      "sectors": [
+        "data center site assembly / powered land"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T16:11:18.846824+00:00",
+      "last_seen": "2026-11-25T16:11:18.846824+00:00"
+    },
+    "chamath palihapitiya": {
+      "name": "Chamath Palihapitiya",
+      "type": "person",
+      "sectors": [
+        "investor"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T16:11:18.846824+00:00",
+      "last_seen": "2026-11-25T16:11:18.846824+00:00"
+    },
+    "tenzai": {
+      "name": "Tenzai",
+      "type": "company",
+      "sectors": [
+        "AI security agents"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T16:11:19.738108+00:00",
+      "last_seen": "2026-11-25T16:11:19.738108+00:00"
+    },
+    "att": {
+      "name": "AT&T",
+      "type": "company",
+      "sectors": [
+        "telecom; enterprise AI adopter"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "T",
+      "mentions": 1,
+      "first_seen": "2026-11-25T16:11:19.738108+00:00",
+      "last_seen": "2026-11-25T16:11:19.738108+00:00"
     }
   },
   "edges": [
@@ -22317,6 +22382,14 @@
           "source_name": "TechCrunch - AI",
           "published": "Tue, 17 Nov 2026 23:04:35 +0000",
           "added_at": "2026-11-17T23:11:58.365535+00:00"
+        },
+        {
+          "description": "英伟达 9 月以近 130 亿美元收购托管超过 300 万个模型的 Hugging Face,控制企业评估/微调/量化/部署开源权重模型的入口",
+          "article_title": "Open-weight models are the hottest thing in AI. Are they right for you?",
+          "article_url": "https://siliconangle.com/2026/11/25/open-weight-models-are-the-hottest-thing-in-ai-are-they-right-for-you/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 15:59:44 +0000",
+          "added_at": "2026-11-25T16:11:19.738108+00:00"
         }
       ]
     },
@@ -42302,6 +42375,51 @@
           "added_at": "2026-11-25T15:10:45.492575+00:00"
         }
       ]
+    },
+    {
+      "source": "arizona land consulting",
+      "target": "chamath palihapitiya",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "为开发商、超大规模云厂商、AI 实验室和 neocloud 整合数据中心用地的 Arizona Land Consulting 与预言行业洗牌的投资人 Chamath Palihapitiya 合作",
+          "article_title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+          "article_url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 15:41:43 +0000",
+          "added_at": "2026-11-25T16:11:18.846824+00:00"
+        }
+      ]
+    },
+    {
+      "source": "stripe",
+      "target": "openrouter",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "成立三年的模型路由平台 OpenRouter 于 8 月以 75 亿美元出售给 Stripe",
+          "article_title": "Open-weight models are the hottest thing in AI. Are they right for you?",
+          "article_url": "https://siliconangle.com/2026/11/25/open-weight-models-are-the-hottest-thing-in-ai-are-they-right-for-you/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 15:59:44 +0000",
+          "added_at": "2026-11-25T16:11:19.738108+00:00"
+        }
+      ]
+    },
+    {
+      "source": "tenzai",
+      "target": "zai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Tenzai 基于 Z.ai 的 GLM 5.2 构建的 agent 登顶 HackerOne 排行榜,单位算力发现数比闭源模型基线多 30%",
+          "article_title": "Open-weight models are the hottest thing in AI. Are they right for you?",
+          "article_url": "https://siliconangle.com/2026/11/25/open-weight-models-are-the-hottest-thing-in-ai-are-they-right-for-you/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 15:59:44 +0000",
+          "added_at": "2026-11-25T16:11:19.738108+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -50341,6 +50459,42 @@
       "source_name": "TechCrunch - AI",
       "published": "Wed, 25 Nov 2026 14:10:18 +0000",
       "added_at": "2026-11-25T15:10:46.283633+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(播客简介,信息有限)英伟达只在数据中心接近可运行时才担保,neocloud 遭遇施工延误和更贵的债务;建设期风险移回开发商和贷款方,握有土地/电力/外壳的开发商和能自建的超大规模云厂商受益,高杠杆早期 neocloud 承压,2027 洗牌仍只是预测,整体偏中性",
+      "article_title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "article_url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 15:41:43 +0000",
+      "added_at": "2026-11-25T16:11:19.139571+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "数据中心稀缺资源从 GPU 转向能马上接电的土地,电力公司开始让 TSMC 这类大客户出资建设供电设施,说明电力扩容需求真实且有人买单,再次确认'电力先于 GPU'",
+      "article_title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "article_url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 15:41:43 +0000",
+      "added_at": "2026-11-25T16:11:19.419275+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "开源权重模型在 Vercel 网关 token 流量占比从 7% 升到 56%,AT&T/Pinterest/Uber 大幅降本;token 单价瓶颈已被解决,新瓶颈是评估、路由、数据质量和 GPU 利用率,受益层是算力(英伟达借 Hugging Face 控制入口)、模型路由(OpenRouter 75 亿美元定价)、私有化整机与评估/FinOps 工具,前沿实验室企业 API 定价权承压",
+      "article_title": "Open-weight models are the hottest thing in AI. Are they right for you?",
+      "article_url": "https://siliconangle.com/2026/11/25/open-weight-models-are-the-hottest-thing-in-ai-are-they-right-for-you/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 15:59:44 +0000",
+      "added_at": "2026-11-25T16:11:20.038883+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "小模型能力逼近大模型、蒸馏和边缘容器部署降低 agent 延迟,扩大边缘推理可用场景;但原文主要讨论企业机房而非终端设备,挂钩权重较低",
+      "article_title": "Open-weight models are the hottest thing in AI. Are they right for you?",
+      "article_url": "https://siliconangle.com/2026/11/25/open-weight-models-are-the-hottest-thing-in-ai-are-they-right-for-you/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 15:59:44 +0000",
+      "added_at": "2026-11-25T16:11:20.343478+00:00"
     }
   ]
 }
