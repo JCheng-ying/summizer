@@ -17879,6 +17879,52 @@
       "mentions": 1,
       "first_seen": "2026-11-25T14:11:32.728389+00:00",
       "last_seen": "2026-11-25T14:11:32.728389+00:00"
+    },
+    "promera": {
+      "name": "Promera",
+      "type": "company",
+      "sectors": [
+        "data center critical infrastructure services"
+      ],
+      "sector_tags": [
+        "能源板块",
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T15:10:45.492575+00:00",
+      "last_seen": "2026-11-25T15:10:45.492575+00:00"
+    },
+    "bg energy": {
+      "name": "B&G Energy",
+      "type": "company",
+      "sectors": [
+        "data center electrical contractor (LV/MV/HV)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T15:10:45.492575+00:00",
+      "last_seen": "2026-11-25T15:10:45.492575+00:00"
+    },
+    "angeles equity partners": {
+      "name": "Angeles Equity Partners",
+      "type": "company",
+      "sectors": [
+        "private equity"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T15:10:45.492575+00:00",
+      "last_seen": "2026-11-25T15:10:45.492575+00:00"
     }
   },
   "edges": [
@@ -42226,6 +42272,36 @@
           "added_at": "2026-11-25T14:11:32.728389+00:00"
         }
       ]
+    },
+    {
+      "source": "promera",
+      "target": "bg energy",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Promera 收购爱尔兰数据中心电气承包商 B&G Energy,把服务扩展到发电机、UPS、BESS、开关柜集成等关键电力基础设施,金额未披露",
+          "article_title": "Promera acquires Irish electrical contractor B&G to expand data center offering",
+          "article_url": "https://www.datacenterdynamics.com/en/news/promera-acquires-irish-electrical-contractor-bg-to-expand-data-center-offering/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 14:10:39 +0000",
+          "added_at": "2026-11-25T15:10:45.492575+00:00"
+        }
+      ]
+    },
+    {
+      "source": "angeles equity partners",
+      "target": "promera",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Promera 由私募 Angeles Equity Partners 支持,2026 年连续并购扩展数据中心全链条服务",
+          "article_title": "Promera acquires Irish electrical contractor B&G to expand data center offering",
+          "article_url": "https://www.datacenterdynamics.com/en/news/promera-acquires-irish-electrical-contractor-bg-to-expand-data-center-offering/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 14:10:39 +0000",
+          "added_at": "2026-11-25T15:10:45.492575+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -50238,6 +50314,33 @@
       "source_name": "TechCrunch - AI",
       "published": "Wed, 25 Nov 2026 13:00:00 +0000",
       "added_at": "2026-11-25T14:11:33.952907+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "(行业游说方新闻稿,利益相关)QuIC 要求 Quantum Act 生效六个月内落实 3-5 亿欧元、五年 77-123 亿欧元的公共采购,并在 STEF 中划出量子份额;从需求侧解决欧洲量子公司缺稳定买家的瓶颈,后量子密码的六个月强制采购最先产生收入,欧洲本土硬件和系统集成商次之,但数字只是诉求,能否写进最终文本不确定",
+      "article_title": "QuIC Welcomes the European Quantum Act, Pledges to ‘Mobilize Industry”",
+      "article_url": "https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/",
+      "source_name": "The Quantum Insider",
+      "published": "Wed, 25 Nov 2026 14:05:24 +0000",
+      "added_at": "2026-11-25T15:10:44.935274+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "数据中心电力瓶颈下,设备之外的高中低压电气集成、施工和调试能力也在被私募通过并购整合;电气/机电承包这一层分散且未被充分定价,但交易金额未披露,只是行业整合的一个信号",
+      "article_title": "Promera acquires Irish electrical contractor B&G to expand data center offering",
+      "article_url": "https://www.datacenterdynamics.com/en/news/promera-acquires-irish-electrical-contractor-bg-to-expand-data-center-offering/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 14:10:39 +0000",
+      "added_at": "2026-11-25T15:10:45.771917+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "据报道亚马逊与 Meta 谈判让 Muse 接入亚马逊商店,卡点在搜索排序和广告分成;agent 商业的瓶颈是利益分配与下单责任而非技术,接入层(网关、支付授权、反欺诈)和 agent 时代的广告形式是关键,但仅为匿名消息源报道,尚未确认",
+      "article_title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "article_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 14:10:18 +0000",
+      "added_at": "2026-11-25T15:10:46.283633+00:00"
     }
   ]
 }
