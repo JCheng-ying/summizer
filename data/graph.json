@@ -790,7 +790,8 @@
         "launch provider / Starlink",
         "launch / satellites",
         "launch / satellite communications (Starlink)",
-        "launch / satellite / AI compute"
+        "launch / satellite / AI compute",
+        "launch / Starlink LEO network"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -798,9 +799,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 21,
+      "mentions": 22,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-24T02:26:57.490067+00:00"
+      "last_seen": "2026-11-25T17:12:13.946653+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -1505,16 +1506,17 @@
       "type": "company",
       "sectors": [
         "humanoid & legged robotics",
-        "legged / humanoid robotics"
+        "legged / humanoid robotics",
+        "quadruped robots (Spot)"
       ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-08-06T04:57:08.306288+00:00",
-      "last_seen": "2026-11-12T04:06:47.806934+00:00"
+      "last_seen": "2026-11-25T17:12:12.617463+00:00"
     },
     "hyundai motor": {
       "name": "Hyundai Motor Group",
@@ -3981,16 +3983,18 @@
       "name": "University of Pennsylvania",
       "type": "institution",
       "sectors": [
-        "computational social listening / LLM-based pharmacovigilance research"
+        "computational social listening / LLM-based pharmacovigilance research",
+        "robotics research"
       ],
       "sector_tags": [
-        "AI板块"
+        "AI板块",
+        "机器人板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-09-16T06:31:10.654550+00:00",
-      "last_seen": "2026-09-16T06:31:10.654550+00:00"
+      "last_seen": "2026-11-25T17:12:12.617463+00:00"
     },
     "chalmers university of": {
       "name": "Chalmers University of Technology",
@@ -4665,13 +4669,15 @@
       ],
       "sector_tags": [
         "太空经济板块",
-        "量子计算板块"
+        "量子计算板块",
+        "机器人板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-11-02T01:41:33.092411+00:00",
-      "last_seen": "2026-11-24T13:11:31.200127+00:00"
+      "last_seen": "2026-11-25T17:12:12.617463+00:00"
     },
     "los alamos national laboratory": {
       "name": "Los Alamos National Laboratory",
@@ -10258,16 +10264,19 @@
       "name": "Carnegie Mellon University",
       "type": "institution",
       "sectors": [
-        "university"
+        "university",
+        "robotics research"
       ],
       "sector_tags": [
-        "量子计算板块"
+        "量子计算板块",
+        "机器人板块",
+        "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T19:10:33.018104+00:00",
-      "last_seen": "2026-11-16T19:10:33.018104+00:00"
+      "last_seen": "2026-11-25T17:12:12.617463+00:00"
     },
     "generation quantum genq": {
       "name": "Generation Quantum (GenQ)",
@@ -15954,7 +15963,8 @@
       "name": "Panthalassa",
       "type": "company",
       "sectors": [
-        "wave-powered floating AI compute"
+        "wave-powered floating AI compute",
+        "wave-powered floating AI inference nodes"
       ],
       "sector_tags": [
         "AI板块",
@@ -15962,9 +15972,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-23T17:11:37.911444+00:00",
-      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+      "last_seen": "2026-11-25T17:12:13.946653+00:00"
     },
     "peter thiel": {
       "name": "Peter Thiel",
@@ -15972,27 +15982,30 @@
       "sectors": [
         "investor"
       ],
-      "sector_tags": [],
+      "sector_tags": [
+        "AI板块"
+      ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-23T17:11:37.911444+00:00",
-      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+      "last_seen": "2026-11-25T17:12:13.946653+00:00"
     },
     "naver": {
       "name": "Naver",
       "type": "company",
       "sectors": [
-        "internet / cloud"
+        "internet / cloud",
+        "Korean internet / cloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-23T17:11:37.911444+00:00",
-      "last_seen": "2026-11-23T17:11:37.911444+00:00"
+      "last_seen": "2026-11-25T17:12:13.946653+00:00"
     },
     "subsea cloud": {
       "name": "Subsea Cloud",
@@ -17990,6 +18003,80 @@
       "mentions": 1,
       "first_seen": "2026-11-25T16:11:19.738108+00:00",
       "last_seen": "2026-11-25T16:11:19.738108+00:00"
+    },
+    "university of maryland": {
+      "name": "University of Maryland",
+      "type": "institution",
+      "sectors": [
+        "RoboScout team; autonomous triage"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T17:12:12.617463+00:00",
+      "last_seen": "2026-11-25T17:12:12.617463+00:00"
+    },
+    "battelle": {
+      "name": "Battelle",
+      "type": "institution",
+      "sectors": [
+        "applied science nonprofit; drone-based triage"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T17:12:12.617463+00:00",
+      "last_seen": "2026-11-25T17:12:12.617463+00:00"
+    },
+    "delhi technological university": {
+      "name": "Delhi Technological University",
+      "type": "institution",
+      "sectors": [
+        "student drone/robot team"
+      ],
+      "sector_tags": [
+        "机器人板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T17:12:12.617463+00:00",
+      "last_seen": "2026-11-25T17:12:12.617463+00:00"
+    },
+    "edgeconnex": {
+      "name": "EdgeConneX",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块",
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T17:12:15.502678+00:00",
+      "last_seen": "2026-11-25T17:12:15.502678+00:00"
+    },
+    "village of ashville": {
+      "name": "Village of Ashville",
+      "type": "institution",
+      "sectors": [
+        "local government, Ohio"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-25T17:12:15.502678+00:00",
+      "last_seen": "2026-11-25T17:12:15.502678+00:00"
     }
   },
   "edges": [
@@ -39694,6 +39781,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 23 Nov 2026 17:00:41 +0000",
           "added_at": "2026-11-23T17:11:37.911444+00:00"
+        },
+        {
+          "description": "Peter Thiel 领投 Panthalassa 1.4 亿美元 B 轮",
+          "article_title": "Panthalassa, floating data centers, and the power of the ocean",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 17:00:42 +0000",
+          "added_at": "2026-11-25T17:12:13.946653+00:00"
         }
       ]
     },
@@ -39709,6 +39804,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Mon, 23 Nov 2026 17:00:41 +0000",
           "added_at": "2026-11-23T17:11:37.911444+00:00"
+        },
+        {
+          "description": "Naver 投资 Panthalassa,该轮估值 20 亿美元",
+          "article_title": "Panthalassa, floating data centers, and the power of the ocean",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 17:00:42 +0000",
+          "added_at": "2026-11-25T17:12:13.946653+00:00"
         }
       ]
     },
@@ -42418,6 +42521,111 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 25 Nov 2026 15:59:44 +0000",
           "added_at": "2026-11-25T16:11:19.738108+00:00"
+        }
+      ]
+    },
+    {
+      "source": "darpa",
+      "target": "university of maryland",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "马里兰大学 RoboScout 队赢得 DARPA Triage Challenge 决赛大奖 150 万美元",
+          "article_title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+          "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 25 Nov 2026 15:00:03 +0000",
+          "added_at": "2026-11-25T17:12:12.617463+00:00"
+        }
+      ]
+    },
+    {
+      "source": "darpa",
+      "target": "battelle",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "Battelle 的 DART 无人机队赢得 Triage Challenge 前两年冠军,决赛获第二",
+          "article_title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+          "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 25 Nov 2026 15:00:03 +0000",
+          "added_at": "2026-11-25T17:12:12.617463+00:00"
+        }
+      ]
+    },
+    {
+      "source": "darpa",
+      "target": "delhi technological university",
+      "type": "research_collaboration",
+      "evidence": [
+        {
+          "description": "德里理工大学学生队在 Triage Challenge 一个子项目中得分最高,获 30 万美元",
+          "article_title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+          "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 25 Nov 2026 15:00:03 +0000",
+          "added_at": "2026-11-25T17:12:12.617463+00:00"
+        }
+      ]
+    },
+    {
+      "source": "university of maryland",
+      "target": "boston dynamics",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "RoboScout 用 Spot 四足机器人听呼喊并以毫米波雷达和热成像远程测生命体征",
+          "article_title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+          "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 25 Nov 2026 15:00:03 +0000",
+          "added_at": "2026-11-25T17:12:12.617463+00:00"
+        }
+      ]
+    },
+    {
+      "source": "university of pennsylvania",
+      "target": "boston dynamics",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "宾大队在无人机和轮式机器人之外加入四台 Spot 以应对楼梯和瓦砾",
+          "article_title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+          "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+          "source_name": "IEEE Spectrum - Robotics",
+          "published": "Wed, 25 Nov 2026 15:00:03 +0000",
+          "added_at": "2026-11-25T17:12:12.617463+00:00"
+        }
+      ]
+    },
+    {
+      "source": "panthalassa",
+      "target": "spacex",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Panthalassa 海上算力节点计划通过 Starlink 等低轨卫星网络联网",
+          "article_title": "Panthalassa, floating data centers, and the power of the ocean",
+          "article_url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 17:00:42 +0000",
+          "added_at": "2026-11-25T17:12:13.946653+00:00"
+        }
+      ]
+    },
+    {
+      "source": "edgeconnex",
+      "target": "village of ashville",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "EdgeConneX 与 Ashville 村议会达成数据中心和 800MW 表后燃气电厂协议,承诺向社区提供最多 1.02 亿美元,但 81% 选民在公投中反对",
+          "article_title": "Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County",
+          "article_url": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
+          "source_name": "DataCenterDynamics",
+          "published": "Wed, 25 Nov 2026 16:20:00 +0000",
+          "added_at": "2026-11-25T17:12:15.502678+00:00"
         }
       ]
     }
@@ -50495,6 +50703,78 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 25 Nov 2026 15:59:44 +0000",
       "added_at": "2026-11-25T16:11:20.343478+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "DARPA Triage Challenge 决赛中马里兰大学用 Spot 四足机器人+无人机与医护协同,一次运行找到全部伤员(纯人工平均 50%),冠军赛救命干预覆盖率 74% 对人类 25%;轮式机器人过不了瓦砾,四足平台和毫米波雷达/热成像远程测生命体征是瓶颈所在,军方和应急部门可能是四足机器人最先付费的客户,但仍处竞赛阶段",
+      "article_title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+      "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Wed, 25 Nov 2026 15:00:03 +0000",
+      "added_at": "2026-11-25T17:12:12.890869+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "灾区缺乏可靠网络(比赛中多队被 Wi-Fi/GPS 错误拖累),感知融合与检伤判断必须在机器人和无人机本地完成,为低功耗边缘推理提供具体需求场景,但距离采购仍远",
+      "article_title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+      "article_url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+      "source_name": "IEEE Spectrum - Robotics",
+      "published": "Wed, 25 Nov 2026 15:00:03 +0000",
+      "added_at": "2026-11-25T17:12:13.154558+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "万国数据 Q3 净收入同比 +10%、签约面积 +25.5%、上架率升至 81.2%,但全年 capex 指引从 15 亿下调至约 12 亿美元且未说明原因;需求真实而扩产放缓,推测瓶颈在算力芯片供给或客户开支意愿,对中国 IDC 开发商扩张弹性偏谨慎,海外算力链不受影响,整体中性偏谨慎",
+      "article_title": "GDS Holdings posts 10 percent net revenue increase YoY, revises down capex expectations",
+      "article_url": "https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 17:00:54 +0000",
+      "added_at": "2026-11-25T17:12:13.676330+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "(公司访谈,数据未经独立验证)Panthalassa 用波浪能驱动 200–800kW 的自主漂浮节点,自带发电和海水换热、无需锚泊,2027 年部署 Ocean-3 示范船队并计划建吉瓦级工厂;若跑通将首次把波浪能与 AI 推理这个强付费负载绑定,受益在海工制造与液冷换热配套,但仍是远期期权",
+      "article_title": "Panthalassa, floating data centers, and the power of the ocean",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 17:00:42 +0000",
+      "added_at": "2026-11-25T17:12:14.217055+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "离网漂浮算力专攻推理和强化学习而非预训练,Thiel 领投 1.4 亿美元 B 轮、Naver 按 20 亿美元估值入股,说明资本愿为'电网之外的算力'定价;单节点仅几百千瓦,短期对推理加速器需求增量很小",
+      "article_title": "Panthalassa, floating data centers, and the power of the ocean",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 17:00:42 +0000",
+      "added_at": "2026-11-25T17:12:14.478336+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "Panthalassa 海上节点依赖 Starlink 等低轨卫星网络回传,海上/离网算力越多,低轨卫星的企业与海事带宽需求越多,是太空经济与 AI 基础设施的一条具体连接",
+      "article_title": "Panthalassa, floating data centers, and the power of the ocean",
+      "article_url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 17:00:42 +0000",
+      "added_at": "2026-11-25T17:12:14.746432+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "俄亥俄选址委员会批准为 EdgeConneX 数据中心表后供电的最高 800MW 燃气电厂,EdgeConneX 另申请 430MW 表后燃气电厂;数据中心自带燃气电源成为绕开电网和地方阻力的主路径,利好燃气轮机/往复式机组厂商和阿巴拉契亚天然气上中游",
+      "article_title": "Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 16:20:00 +0000",
+      "added_at": "2026-11-25T17:12:15.785638+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "81% 选民公投反对后州级选址委员会仍以公共利益为由放行,说明州层面可压过地方民意为数据中心开绿灯,社会许可瓶颈出现解法,对 AI 基础设施扩张偏正面;但仍有 30 天复议和州最高法院上诉风险",
+      "article_title": "Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County",
+      "article_url": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
+      "source_name": "DataCenterDynamics",
+      "published": "Wed, 25 Nov 2026 16:20:00 +0000",
+      "added_at": "2026-11-25T17:12:16.055564+00:00"
     }
   ]
 }
