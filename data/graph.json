@@ -259,9 +259,9 @@
         "GPUs / AI accelerators",
         "AI GPUs / data center"
       ],
-      "mentions": 112,
+      "mentions": 113,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-26T02:37:38.588989+00:00",
+      "last_seen": "2026-11-26T02:39:38.424332+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -6753,16 +6753,17 @@
       "name": "ElevenLabs",
       "type": "company",
       "sectors": [
-        "voice AI"
+        "voice AI",
+        "voice / audio AI models"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-10T05:12:47.007626+00:00",
-      "last_seen": "2026-11-10T05:12:47.007626+00:00"
+      "last_seen": "2026-11-26T02:39:38.424332+00:00"
     },
     "walmart": {
       "name": "Walmart",
@@ -16112,14 +16113,15 @@
       "name": "BlackRock",
       "type": "company",
       "sectors": [
-        "asset manager"
+        "asset manager",
+        "asset management"
       ],
       "sector_tags": [],
       "hot": "hot",
       "ticker": "BLK",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-23T18:11:07.129257+00:00",
-      "last_seen": "2026-11-23T18:11:07.129257+00:00"
+      "last_seen": "2026-11-26T02:39:38.424332+00:00"
     },
     "amd": {
       "name": "AMD",
@@ -18149,6 +18151,34 @@
       "mentions": 1,
       "first_seen": "2026-11-26T02:37:38.588989+00:00",
       "last_seen": "2026-11-26T02:37:38.588989+00:00"
+    },
+    "wellington management": {
+      "name": "Wellington Management",
+      "type": "company",
+      "sectors": [
+        "asset management"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T02:39:38.424332+00:00",
+      "last_seen": "2026-11-26T02:39:38.424332+00:00"
+    },
+    "kotoba": {
+      "name": "Kotoba",
+      "type": "company",
+      "sectors": [
+        "Japanese audio processing models"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T02:39:38.424332+00:00",
+      "last_seen": "2026-11-26T02:39:38.424332+00:00"
     }
   },
   "edges": [
@@ -26759,6 +26789,14 @@
           "source_name": "SiliconANGLE",
           "published": "Mon, 09 Nov 2026 23:52:55 +0000",
           "added_at": "2026-11-10T05:12:47.007626+00:00"
+        },
+        {
+          "description": "英伟达风投部门 NVentures 参与了 ElevenLabs 上一轮 220 亿美元估值的融资",
+          "article_title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+          "article_url": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 26 Nov 2026 01:42:07 +0000",
+          "added_at": "2026-11-26T02:39:38.424332+00:00"
         }
       ]
     },
@@ -42927,6 +42965,51 @@
           "added_at": "2026-11-26T02:37:38.588989+00:00"
         }
       ]
+    },
+    {
+      "source": "blackrock",
+      "target": "elevenlabs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "BlackRock 参与 ElevenLabs 上一轮 220 亿美元估值融资;ElevenLabs 正洽谈 330 亿美元估值新一轮",
+          "article_title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+          "article_url": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 26 Nov 2026 01:42:07 +0000",
+          "added_at": "2026-11-26T02:39:38.424332+00:00"
+        }
+      ]
+    },
+    {
+      "source": "wellington management",
+      "target": "elevenlabs",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Wellington 参与 ElevenLabs 上一轮 220 亿美元估值融资",
+          "article_title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+          "article_url": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 26 Nov 2026 01:42:07 +0000",
+          "added_at": "2026-11-26T02:39:38.424332+00:00"
+        }
+      ]
+    },
+    {
+      "source": "elevenlabs",
+      "target": "kotoba",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "ElevenLabs 本月同意收购为日本企业开发音频处理模型的 Kotoba,Nikkei Asia 报道金额 1 亿美元,并将在日本扩招销售",
+          "article_title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+          "article_url": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+          "source_name": "SiliconANGLE",
+          "published": "Thu, 26 Nov 2026 01:42:07 +0000",
+          "added_at": "2026-11-26T02:39:38.424332+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -51191,6 +51274,15 @@
       "source_name": "SiliconANGLE",
       "published": "Wed, 25 Nov 2026 19:56:33 +0000",
       "added_at": "2026-11-26T02:37:39.153193+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "ElevenLabs 据报洽谈 330 亿美元估值融资(上一轮 220 亿),年化收入 9 月以来增加 1 亿美元至 7 亿美元,约 47 倍收入;语音 AI 的瓶颈在实时延迟、本地化和企业分发,Kotoba 收购是买语言能力与渠道;实时语音是低延迟高并发的推理负载,利好推理算力(英伟达兼为股东),应用层收入兑现但估值已高,本轮可能含老股转让,资本分歧在加大",
+      "article_title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+      "article_url": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+      "source_name": "SiliconANGLE",
+      "published": "Thu, 26 Nov 2026 01:42:07 +0000",
+      "added_at": "2026-11-26T02:39:38.710833+00:00"
     }
   ]
 }
