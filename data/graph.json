@@ -256,11 +256,12 @@
         "AI chips / systems",
         "AI accelerators / networking",
         "GPU / AI interconnect",
-        "GPUs / AI accelerators"
+        "GPUs / AI accelerators",
+        "AI GPUs / data center"
       ],
-      "mentions": 109,
+      "mentions": 112,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-25T16:11:19.738108+00:00",
+      "last_seen": "2026-11-26T02:37:38.588989+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -461,7 +462,8 @@
         "cloud & e-commerce",
         "e-commerce / cloud / custom AI chips",
         "cloud (Amazon Braket)",
-        "e-commerce"
+        "e-commerce",
+        "cloud / Amazon Leo satellites"
       ],
       "sector_tags": [
         "AI板块",
@@ -472,9 +474,9 @@
       ],
       "hot": "hot",
       "ticker": "AMZN",
-      "mentions": 35,
+      "mentions": 36,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-24T22:11:15.674698+00:00"
+      "last_seen": "2026-11-26T02:37:36.421572+00:00"
     },
     "meta platforms": {
       "name": "Meta Platforms Inc.",
@@ -603,9 +605,9 @@
       ],
       "hot": "hot",
       "ticker": "CRWV",
-      "mentions": 13,
+      "mentions": 14,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-19T20:11:31.521156+00:00"
+      "last_seen": "2026-11-26T02:37:38.588989+00:00"
     },
     "soundhound ai": {
       "name": "SoundHound AI",
@@ -791,7 +793,8 @@
         "launch / satellites",
         "launch / satellite communications (Starlink)",
         "launch / satellite / AI compute",
-        "launch / Starlink LEO network"
+        "launch / Starlink LEO network",
+        "launch / satellites / orbital data centers"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -799,9 +802,9 @@
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 22,
+      "mentions": 23,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-25T17:12:13.946653+00:00"
+      "last_seen": "2026-11-26T02:37:36.421572+00:00"
     },
     "blue origin": {
       "name": "Blue Origin",
@@ -812,16 +815,17 @@
         "launch / lunar lander",
         "launch / engines",
         "launch",
-        "launch provider"
+        "launch provider",
+        "launch / Project Sunrise orbital data centers"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-16T13:10:08.563022+00:00"
+      "last_seen": "2026-11-26T02:37:36.421572+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -978,9 +982,9 @@
       ],
       "hot": "hot",
       "ticker": "VSAT",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-24T19:10:33.151625+00:00"
+      "last_seen": "2026-11-26T02:37:36.421572+00:00"
     },
     "redwire space": {
       "name": "Redwire Space",
@@ -1213,7 +1217,8 @@
         "quantum / computing",
         "IT / quantum",
         "quantum computing / hybrid quantum-classical",
-        "IT / quantum computing"
+        "IT / quantum computing",
+        "enterprise IT / AI"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1221,9 +1226,9 @@
       ],
       "hot": "hot",
       "ticker": "IBM",
-      "mentions": 17,
+      "mentions": 18,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-24T13:11:31.743279+00:00"
+      "last_seen": "2026-11-26T02:37:38.588989+00:00"
     },
     "honeywell": {
       "name": "Honeywell",
@@ -2638,15 +2643,17 @@
     "walden": {
       "name": "Walden Robotics",
       "type": "company",
-      "sectors": [],
+      "sectors": [
+        "industrial robots trained in simulation"
+      ],
       "sector_tags": [
         "机器人板块"
       ],
       "hot": "cold",
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-08-06T05:07:36.963318+00:00",
-      "last_seen": "2026-08-06T05:07:36.963318+00:00"
+      "last_seen": "2026-11-26T02:37:38.588989+00:00"
     },
     "toyota motor": {
       "name": "Toyota Motor Corporation",
@@ -5532,9 +5539,9 @@
       ],
       "hot": "hot",
       "ticker": "BX",
-      "mentions": 8,
+      "mentions": 9,
       "first_seen": "2026-11-06T07:01:18.116586+00:00",
-      "last_seen": "2026-11-25T11:10:32.150746+00:00"
+      "last_seen": "2026-11-26T02:37:34.827755+00:00"
     },
     "martin uav": {
       "name": "Martin UAV",
@@ -6589,16 +6596,17 @@
       "type": "company",
       "sectors": [
         "private equity",
-        "private credit / alternative asset manager"
+        "private credit / alternative asset manager",
+        "private credit / asset management"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "APO",
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-10T05:12:45.723814+00:00",
-      "last_seen": "2026-11-23T18:11:07.129257+00:00"
+      "last_seen": "2026-11-26T02:37:34.827755+00:00"
     },
     "lumen": {
       "name": "Lumen Technologies",
@@ -8098,9 +8106,9 @@
       ],
       "hot": "hot",
       "ticker": "GS",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-13T10:11:34.590052+00:00",
-      "last_seen": "2026-11-23T18:11:07.129257+00:00"
+      "last_seen": "2026-11-26T02:37:34.827755+00:00"
     },
     "quinbrook infrastructure partners": {
       "name": "Quinbrook Infrastructure Partners",
@@ -8568,7 +8576,8 @@
       "name": "Starcloud",
       "type": "company",
       "sectors": [
-        "orbital AI data centers"
+        "orbital AI data centers",
+        "orbital AI data center startup"
       ],
       "sector_tags": [
         "太空经济板块",
@@ -8576,9 +8585,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-13T17:11:09.897564+00:00",
-      "last_seen": "2026-11-13T17:11:09.897564+00:00"
+      "last_seen": "2026-11-26T02:37:36.421572+00:00"
     },
     "california institute of caltech": {
       "name": "California Institute of Technology (Caltech)",
@@ -12049,9 +12058,9 @@
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-25T00:10:13.607740+00:00"
+      "last_seen": "2026-11-26T02:37:38.588989+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -18110,6 +18119,36 @@
       "mentions": 1,
       "first_seen": "2026-11-25T21:47:16.077532+00:00",
       "last_seen": "2026-11-25T21:47:16.077532+00:00"
+    },
+    "cognition ai": {
+      "name": "Cognition AI",
+      "type": "company",
+      "sectors": [
+        "AI software engineering agent (Devin)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T02:37:38.588989+00:00",
+      "last_seen": "2026-11-26T02:37:38.588989+00:00"
+    },
+    "vast data": {
+      "name": "Vast Data",
+      "type": "company",
+      "sectors": [
+        "AI data storage / KV cache offload"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T02:37:38.588989+00:00",
+      "last_seen": "2026-11-26T02:37:38.588989+00:00"
     }
   },
   "edges": [
@@ -19653,6 +19692,14 @@
           "source_name": "Orbital Today",
           "published": "2026-02-10",
           "added_at": "2026-08-06T04:44:48.296846+00:00"
+        },
+        {
+          "description": "卫星通信公司 Viasat 申请驳回 SpaceX 的 Starmind 星座申请,被 FCC 拒绝",
+          "article_title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+          "article_url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 23:00:53 +0000",
+          "added_at": "2026-11-26T02:37:36.421572+00:00"
         }
       ]
     },
@@ -19676,6 +19723,14 @@
           "source_name": "NASASpaceFlight.com",
           "published": "Sat, 15 Aug 2026 22:57:11 +0000",
           "added_at": "2026-08-16T20:14:54.664014+00:00"
+        },
+        {
+          "description": "Blue Origin 3 月申请最多 51600 颗数据中心卫星的 Project Sunrise,与 SpaceX 获批的 100 万颗 Starmind 轨道数据中心星座竞争",
+          "article_title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+          "article_url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 23:00:53 +0000",
+          "added_at": "2026-11-26T02:37:36.421572+00:00"
         }
       ]
     },
@@ -27546,6 +27601,14 @@
           "source_name": "SiliconANGLE",
           "published": "Thu, 19 Nov 2026 19:32:32 +0000",
           "added_at": "2026-11-19T20:11:31.521156+00:00"
+        },
+        {
+          "description": "英伟达 Ian Buck 在 CoreWeave 活动上介绍与 Vera Rubin 配合的 Groq 3 LPX 推理加速器,称每代 GPU 每瓦 token 提升 10 倍以上",
+          "article_title": "Three insights you may have missed from theCUBE’s coverage of the Fully Connected event",
+          "article_url": "https://siliconangle.com/2026/11/25/three-insights-missed-thecubes-coverage-fully-connected-event-fullyconnected/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 19:56:33 +0000",
+          "added_at": "2026-11-26T02:37:38.588989+00:00"
         }
       ]
     },
@@ -42714,6 +42777,156 @@
           "added_at": "2026-11-25T21:47:16.077532+00:00"
         }
       ]
+    },
+    {
+      "source": "goldman sachs",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "8 月英伟达宣布与包括 Goldman Sachs 在内的六家金融机构安排 5000 亿美元 AI 基础设施融资,原条款英伟达担保 25% 贷款",
+          "article_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "article_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 22:44:32 +0000",
+          "added_at": "2026-11-26T02:37:34.827755+00:00"
+        }
+      ]
+    },
+    {
+      "source": "apollo global management",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Apollo 是英伟达 5000 亿美元 AI 基础设施融资安排的六家金融机构之一;S&P 若下调英伟达评级,贷方可能要求更高担保比例",
+          "article_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "article_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 22:44:32 +0000",
+          "added_at": "2026-11-26T02:37:34.827755+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blackstone",
+      "target": "nvidia",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Blackstone 是英伟达 5000 亿美元 AI 基础设施融资安排的六家金融机构之一",
+          "article_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "article_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "source_name": "TechCrunch - AI",
+          "published": "Wed, 25 Nov 2026 22:44:32 +0000",
+          "added_at": "2026-11-26T02:37:34.827755+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "spacex",
+      "type": "supplier",
+      "evidence": [
+        {
+          "description": "第一代 Starmind 卫星 AI1 围绕太空优化版英伟达 Vera Rubin NVL72 机柜级系统打造,Musk 称最早明年三季度入轨",
+          "article_title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+          "article_url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 23:00:53 +0000",
+          "added_at": "2026-11-26T02:37:36.421572+00:00"
+        }
+      ]
+    },
+    {
+      "source": "starcloud",
+      "target": "spacex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Starcloud 开发在轨 AI 数据中心,8 月以 23 亿美元估值融资 2.5 亿美元,被 FCC 主席提及为轨道数据中心竞争者之一",
+          "article_title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+          "article_url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 23:00:53 +0000",
+          "added_at": "2026-11-26T02:37:36.421572+00:00"
+        }
+      ]
+    },
+    {
+      "source": "amazoncom",
+      "target": "spacex",
+      "type": "competition",
+      "evidence": [
+        {
+          "description": "Amazon Leo 卫星业务曾申请驳回 Starmind 申请并称其为'远大抱负而非真实计划',被 FCC 拒绝",
+          "article_title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+          "article_url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 23:00:53 +0000",
+          "added_at": "2026-11-26T02:37:36.421572+00:00"
+        }
+      ]
+    },
+    {
+      "source": "dell",
+      "target": "coreweave",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Dell 与 CoreWeave 合作,把 CoreWeave 的 Racky 管理软件集成进工厂测试,并改进液冷泄漏检测(赞助活动口径)",
+          "article_title": "Three insights you may have missed from theCUBE’s coverage of the Fully Connected event",
+          "article_url": "https://siliconangle.com/2026/11/25/three-insights-missed-thecubes-coverage-fully-connected-event-fullyconnected/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 19:56:33 +0000",
+          "added_at": "2026-11-26T02:37:38.588989+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ibm",
+      "target": "coreweave",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "IBM 因新硬件供电散热需求选择 CoreWeave,合作扩展到身份管理和 CoreWeave Sandboxes 工作负载隔离的联合工程",
+          "article_title": "Three insights you may have missed from theCUBE’s coverage of the Fully Connected event",
+          "article_url": "https://siliconangle.com/2026/11/25/three-insights-missed-thecubes-coverage-fully-connected-event-fullyconnected/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 19:56:33 +0000",
+          "added_at": "2026-11-26T02:37:38.588989+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cognition ai",
+      "target": "coreweave",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Cognition 在多国数据中心训练 Devin 智能体,CoreWeave 为此类持续学习系统推出 Forge 平台与 Agent Lens(赞助活动口径)",
+          "article_title": "Three insights you may have missed from theCUBE’s coverage of the Fully Connected event",
+          "article_url": "https://siliconangle.com/2026/11/25/three-insights-missed-thecubes-coverage-fully-connected-event-fullyconnected/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 19:56:33 +0000",
+          "added_at": "2026-11-26T02:37:38.588989+00:00"
+        }
+      ]
+    },
+    {
+      "source": "walden",
+      "target": "coreweave",
+      "type": "partnership",
+      "evidence": [
+        {
+          "description": "Walden Robotics 用大规模仿真准备机器人部署,与 CoreWeave 现场工程团队一同在 Fully Connected 活动介绍,称机器人自 5 月起跑满生产班次",
+          "article_title": "Three insights you may have missed from theCUBE’s coverage of the Fully Connected event",
+          "article_url": "https://siliconangle.com/2026/11/25/three-insights-missed-thecubes-coverage-fully-connected-event-fullyconnected/",
+          "source_name": "SiliconANGLE",
+          "published": "Wed, 25 Nov 2026 19:56:33 +0000",
+          "added_at": "2026-11-26T02:37:38.588989+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -50906,6 +51119,78 @@
       "source_name": "TechCrunch - AI",
       "published": "Wed, 25 Nov 2026 17:35:58 +0000",
       "added_at": "2026-11-25T21:47:16.692261+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "S&P 因黄仁勋撤职复职暴露的治理与关键人物风险考虑把英伟达从 AA 下调至 AA-;英伟达为信用不足的 neocloud 做担保,下调会抬高其债务成本或抵押要求,贷方本已要求超过 25% 的担保比例——AI 扩张的瓶颈正延伸到资金成本,对依赖英伟达背书的 neocloud 偏利空,相对受益的是自身高信用的超大规模云厂商和资产支持型私募信贷;压的是扩张速度而非需求,审查需 90 天",
+      "article_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "article_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source_name": "TechCrunch - AI",
+      "published": "Wed, 25 Nov 2026 22:44:32 +0000",
+      "added_at": "2026-11-26T02:37:35.112328+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "FCC 首次批准太空数据中心星座:SpaceX 可部署最多 100 万颗 Starmind,但须 2033 年前首星运行、2035 年 10 万颗、2040 年 100 万颗,否则牌照作废,600 公里以上壳层还需补交碎片计划;监管瓶颈松开,剩下融资、散热表面积、碎片三大瓶颈,受益层是发射与星间光链路、航天级电源热控、在轨服务,兑现以年计",
+      "article_title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+      "article_url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 23:00:53 +0000",
+      "added_at": "2026-11-26T02:37:36.699641+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Starmind 首代 AI1 基于太空优化版 Vera Rubin NVL72,为 AI 算力开出一个远期轨道出口,对英伟达等 AI 芯片为边际利好;但 SpaceX 已披露的 GPU 融资落在地面,近期算力增量仍在地面,属长期信号",
+      "article_title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+      "article_url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 23:00:53 +0000",
+      "added_at": "2026-11-26T02:37:36.978187+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "100 万颗卫星规模意味着在轨组装、维护与退役无法靠人工,空间机器人与在轨服务是太空数据中心的必要配套,为机器人板块与太空经济交汇点提供远期需求,时间以十年计",
+      "article_title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
+      "article_url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 23:00:53 +0000",
+      "added_at": "2026-11-26T02:37:37.255165+00:00"
+    },
+    {
+      "sector": "edge AI板块",
+      "description": "Ambarella 财报全面不及预期、两天累计跌近四成,原因是客户为减轻内存价格飙升的冲击取消或推迟订单;内存短缺开始挤出价格敏感的边缘 AI 设备需求,边缘芯片厂被夹在内存成本与终端售价之间,短期明确利空,复苏可能要等内存供给缓解",
+      "article_title": "AI infrastructure stocks continue their slide, but Anthropic closes higher",
+      "article_url": "https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 21:15:32 +0000",
+      "added_at": "2026-11-26T02:37:38.029360+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "AI 基础设施股抛售延续,英伟达复职后回吐 3.8%,云厂商普跌、Oracle 跌 5%;但 Micron 2027 年 75% 产能已售罄、Dell/HPE 能转嫁内存成本收涨、Anthropic 回到发行价附近,产业链开始按成本转嫁能力分化,更像情绪与估值调整而非需求证伪,资金面偏弱",
+      "article_title": "AI infrastructure stocks continue their slide, but Anthropic closes higher",
+      "article_url": "https://siliconangle.com/2026/11/25/ai-infrastructure-stocks-continue-their-slide-but-anthropic-closes-higher/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 21:15:32 +0000",
+      "added_at": "2026-11-26T02:37:38.307281+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "(CoreWeave 赞助活动内容,未经独立验证)推理成为基础设施经济性主导,50 万 token 会话占 5%-10% 显存,瓶颈转向推理显存与可靠性;受益层是英伟达(每瓦 token)、内存与面向 AI 的存储(Vast Data 卸载 KV cache)、把可靠性左移到工厂的 Dell 等整机厂;CoreWeave 向可观测性/评估/沙箱软件扩张以提高客户粘性",
+      "article_title": "Three insights you may have missed from theCUBE’s coverage of the Fully Connected event",
+      "article_url": "https://siliconangle.com/2026/11/25/three-insights-missed-thecubes-coverage-fully-connected-event-fullyconnected/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 19:56:33 +0000",
+      "added_at": "2026-11-26T02:37:38.876661+00:00"
+    },
+    {
+      "sector": "机器人板块",
+      "description": "(CoreWeave 赞助活动内容,未经独立验证)Walden Robotics 称其仿真训练、部署中持续学习的工业机器人自 5 月起与人类一起跑满生产班次,做上下料、配套和子装配;若可验证,说明物理 AI 正变成稳定推理负载,利好机器人板块,需等客户名单与部署规模佐证",
+      "article_title": "Three insights you may have missed from theCUBE’s coverage of the Fully Connected event",
+      "article_url": "https://siliconangle.com/2026/11/25/three-insights-missed-thecubes-coverage-fully-connected-event-fullyconnected/",
+      "source_name": "SiliconANGLE",
+      "published": "Wed, 25 Nov 2026 19:56:33 +0000",
+      "added_at": "2026-11-26T02:37:39.153193+00:00"
     }
   ]
 }
