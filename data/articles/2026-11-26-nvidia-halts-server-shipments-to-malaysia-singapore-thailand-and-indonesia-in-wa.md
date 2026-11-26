@@ -1,0 +1,12 @@
+# Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia in wake of new Dep’t of Commerce export rule - report
+https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/
+
+这篇文章表面上是一条出货暂停的新闻，背后的命题是：东南亚过去两年作为"中立地带"承接 AI 算力的角色，正在被美国出口管制直接改写。如果这个暂停不是临时性的，那么东南亚数据中心建设潮的需求逻辑、以及 Nvidia 收入里一块很大的地区性来源，都要重新估算。
+
+文章指出，根据 FT 的报道，Nvidia 已经要求其制造合作伙伴停止向马来西亚、新加坡、泰国和印尼发货服务器，Dell 和 Supermicro 等公司已经通知这些国家的客户，目前尚不清楚暂停是否是临时的。触发点是美国商务部工业与安全局（BIS）在 11 月 16 日发布的临时最终规则：向印尼、马来西亚、新加坡、泰国和巴西出口、再出口或境内转移先进半导体都需要许可证，理由是这些国家存在"高于正常水平的转移风险"；同时规则还限制通过第三国数据中心远程访问先进 AI 芯片和服务器，防止现有管制被"远程计算安排"绕开。这条规则和我们在 [US tightens AI chip export controls](2026-11-16-us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-co.md) 里讨论的是同一件事，而这篇文章给出了它在供应链上的第一个具体后果。
+
+文章给出的一个数字很关键：根据 Nvidia 的公司账目，2025 年 Nvidia 通过新加坡子公司确认了 1040 亿美元收入，同比增长 72%，而且部分来自台湾和中国的收入也通过新加坡记账。需要注意的是，记账地不等于最终使用地，所以这 1040 亿不能直接等同于"会被这次暂停影响的收入"，但它说明新加坡在 Nvidia 的销售结构里是一个枢纽。文章还把这条规则放回了整个 Jensen Huang 事件的脉络里：被指为中国间谍的 Alice Huang 曾是新加坡 Megaspeed 的高管，Megaspeed 正因涉嫌把 Nvidia GPU 走私进中国而被调查，美国政府本周已经把 Megaspeed 及其泰国、马来西亚子公司列入实体清单（见 [US gov't adds Singapore's Megaspeed and subsidiaries to export block list](2026-11-24-us-gov-t-adds-singapore-s-megaspeed-and-subsidiaries-to-export-block-list.md)）。Huang 本人 11 月 12 日辞职、11 天后在 Trump 和 Vance 施压下被董事会复职，这部分在 [The unfolding Jensen Huang scandal: a timeline](2026-11-11-the-unfolding-jensen-huang-scandal-a-timeline.md) 和 [Nvidia reverses course and brings Jensen Huang back as CEO](2026-11-23-nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo.md) 里都已经讨论过。
+
+个人看法：这件事要拆成三层来看。第一层是 Nvidia 本身，短期内东南亚订单的确认会推迟，但更重要的是它让市场意识到，Nvidia 的收入增长里有一部分依赖"转口枢纽"，而政策可以在一周之内把枢纽关掉，这和 [S&P considers Nvidia credit downgrade](2026-11-25-s-p-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks.md) 里提到的治理与关键人风险是叠加的，属于 AI 板块里算力层的一个利空信号。第二层是服务器 OEM，Dell、Supermicro 这类整机厂直接承担出货暂停，库存和交付节奏会受影响。第三层是东南亚本地的数据中心和云服务商，比如在柔佛、新加坡布局的项目（之前 [Alibaba Cloud launches sixth data center in Malaysia](2026-11-20-alibaba-cloud-launches-sixth-data-center-in-malaysia.md) 就是这一类），如果拿不到最新 GPU，它们的扩张逻辑就会从"承接全球 AI 训练"退回到"服务本地需求"。
+
+按照"先找瓶颈"的思路，这里的瓶颈已经不是 GPU 产能，而是许可证，也就是监管。谁在解决这个瓶颈？短期看是那些位于美国本土或者盟友名单内、可以合规获得 GPU 的算力提供商，需求可能会向它们转移；远程访问条款也意味着"在第三国建机房然后远程租给受限客户"这条路被堵住了。所以我对 AI 板块的判断是：总量上算力需求没有消失，但地理分布在被政策重新切分，短期内对 Nvidia 和东南亚链条偏利空。现在还不清楚暂停会持续多久，值得跟踪的是 BIS 会不会在这五个国家批出第一批许可证，以及 Nvidia 下一季财报里新加坡子公司的收入占比。

@@ -259,9 +259,9 @@
         "GPUs / AI accelerators",
         "AI GPUs / data center"
       ],
-      "mentions": 113,
+      "mentions": 115,
       "first_seen": "2026-08-03T04:04:08.213293+00:00",
-      "last_seen": "2026-11-26T02:39:38.424332+00:00",
+      "last_seen": "2026-11-26T20:35:54.835850+00:00",
       "sector_tags": [
         "AI板块",
         "量子计算板块",
@@ -416,9 +416,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 34,
+      "mentions": 35,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-26T15:43:07.475230+00:00"
+      "last_seen": "2026-11-26T20:35:37.007406+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -816,16 +816,17 @@
         "launch / engines",
         "launch",
         "launch provider",
-        "launch / Project Sunrise orbital data centers"
+        "launch / Project Sunrise orbital data centers",
+        "launch / space infrastructure"
       ],
       "sector_tags": [
         "太空经济板块"
       ],
       "hot": "hot",
       "ticker": null,
-      "mentions": 10,
+      "mentions": 11,
       "first_seen": "2026-08-06T04:44:48.296846+00:00",
-      "last_seen": "2026-11-26T02:37:36.421572+00:00"
+      "last_seen": "2026-11-26T20:35:37.007406+00:00"
     },
     "rocket lab": {
       "name": "Rocket Lab",
@@ -1282,7 +1283,8 @@
       "sectors": [
         "CPUs / foundry",
         "semiconductors",
-        "semiconductors / foundry & advanced packaging"
+        "semiconductors / foundry & advanced packaging",
+        "semiconductors / foundry"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -1291,9 +1293,9 @@
       ],
       "hot": "hot",
       "ticker": "INTC",
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-20T15:09:47.279927+00:00"
+      "last_seen": "2026-11-26T20:35:56.612938+00:00"
     },
     "arqit quantum": {
       "name": "Arqit Quantum",
@@ -3217,9 +3219,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-08-15T05:55:30.112336+00:00",
-      "last_seen": "2026-11-16T00:09:40.825140+00:00"
+      "last_seen": "2026-11-26T20:35:37.007406+00:00"
     },
     "kratos defense and security": {
       "name": "Kratos Defense and Security",
@@ -5372,16 +5374,17 @@
       "sectors": [
         "AI cloud",
         "AI neocloud",
-        "AI cloud / GPU infrastructure"
+        "AI cloud / GPU infrastructure",
+        "neocloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-06T07:01:16.950330+00:00",
-      "last_seen": "2026-11-20T12:10:34.960334+00:00"
+      "last_seen": "2026-11-26T20:35:43.600031+00:00"
     },
     "century aluminum": {
       "name": "Century Aluminum",
@@ -6170,9 +6173,9 @@
       ],
       "hot": "hot",
       "ticker": "EQIX",
-      "mentions": 5,
+      "mentions": 6,
       "first_seen": "2026-11-09T06:06:08.786657+00:00",
-      "last_seen": "2026-11-25T09:11:19.252647+00:00"
+      "last_seen": "2026-11-26T20:35:54.835850+00:00"
     },
     "tallgrass energy": {
       "name": "Tallgrass Energy",
@@ -6240,16 +6243,17 @@
         "GPU cloud / chip reseller (Singapore)",
         "cloud / AI data center (Singapore)",
         "Singapore cloud operator",
-        "GPU cloud / chip reseller"
+        "GPU cloud / chip reseller",
+        "Singapore IT / cloud"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 11,
+      "mentions": 12,
       "first_seen": "2026-11-09T06:06:10.005703+00:00",
-      "last_seen": "2026-11-25T01:10:08.010525+00:00"
+      "last_seen": "2026-11-26T20:35:46.329007+00:00"
     },
     "xai": {
       "name": "xAI",
@@ -7128,7 +7132,9 @@
         "federal government",
         "federal agency / export controls",
         "US government",
-        "government / CHIPS Act"
+        "government / CHIPS Act",
+        "export controls / BIS",
+        "CHIPS Act / export controls"
       ],
       "sector_tags": [
         "量子计算板块",
@@ -7136,9 +7142,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 7,
+      "mentions": 9,
       "first_seen": "2026-11-11T06:19:45.925248+00:00",
-      "last_seen": "2026-11-24T13:11:31.200127+00:00"
+      "last_seen": "2026-11-26T20:35:56.612938+00:00"
     },
     "applied digital": {
       "name": "Applied Digital",
@@ -9782,7 +9788,8 @@
       "sectors": [
         "infrastructure investor / developer",
         "infrastructure asset manager",
-        "infrastructure investor"
+        "infrastructure investor",
+        "infrastructure investment"
       ],
       "sector_tags": [
         "能源板块",
@@ -9790,9 +9797,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-16T14:12:40.415551+00:00",
-      "last_seen": "2026-11-25T14:11:31.943819+00:00"
+      "last_seen": "2026-11-26T20:35:53.053817+00:00"
     },
     "cyrusone": {
       "name": "CyrusOne",
@@ -9993,16 +10000,17 @@
       "name": "Prologis",
       "type": "company",
       "sectors": [
-        "industrial real estate / data center developer"
+        "industrial real estate / data center developer",
+        "logistics / industrial REIT"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": "PLD",
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-16T15:11:59.855485+00:00",
-      "last_seen": "2026-11-16T15:11:59.855485+00:00"
+      "last_seen": "2026-11-26T20:35:43.600031+00:00"
     },
     "city of trenton ohio": {
       "name": "City of Trenton, Ohio",
@@ -11905,9 +11913,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-11-17T18:11:18.536127+00:00",
-      "last_seen": "2026-11-26T15:43:08.919154+00:00"
+      "last_seen": "2026-11-26T20:35:43.600031+00:00"
     },
     "typesafe": {
       "name": "TypeSafe",
@@ -12053,16 +12061,17 @@
         "servers / rack integration",
         "servers / AI infrastructure",
         "AI servers",
-        "AI servers / PCs"
+        "AI servers / PCs",
+        "servers / OEM"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": "hot",
       "ticker": "DELL",
-      "mentions": 10,
+      "mentions": 11,
       "first_seen": "2026-11-17T20:10:44.140530+00:00",
-      "last_seen": "2026-11-26T02:37:38.588989+00:00"
+      "last_seen": "2026-11-26T20:35:46.329007+00:00"
     },
     "lumi ai factory": {
       "name": "LUMI AI Factory",
@@ -12145,16 +12154,17 @@
       "type": "company",
       "sectors": [
         "AI servers",
-        "servers / systems integration"
+        "servers / systems integration",
+        "AI servers / OEM"
       ],
       "sector_tags": [
         "AI板块"
       ],
       "hot": null,
       "ticker": "SMCI",
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-17T21:11:21.777206+00:00",
-      "last_seen": "2026-11-23T18:11:07.905197+00:00"
+      "last_seen": "2026-11-26T20:35:46.329007+00:00"
     },
     "lila sciences": {
       "name": "Lila Sciences",
@@ -13656,9 +13666,9 @@
       "sector_tags": [],
       "hot": null,
       "ticker": null,
-      "mentions": 1,
+      "mentions": 2,
       "first_seen": "2026-11-19T11:10:42.907541+00:00",
-      "last_seen": "2026-11-19T11:10:42.907541+00:00"
+      "last_seen": "2026-11-26T20:35:53.053817+00:00"
     },
     "mubadala": {
       "name": "Mubadala",
@@ -18328,6 +18338,154 @@
       "mentions": 1,
       "first_seen": "2026-11-26T15:43:08.919154+00:00",
       "last_seen": "2026-11-26T15:43:08.919154+00:00"
+    },
+    "rbc signals": {
+      "name": "RBC Signals",
+      "type": "company",
+      "sectors": [
+        "satellite ground station / communications"
+      ],
+      "sector_tags": [
+        "太空经济板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:37.007406+00:00",
+      "last_seen": "2026-11-26T20:35:37.007406+00:00"
+    },
+    "washington harbour partners": {
+      "name": "Washington Harbour Partners",
+      "type": "company",
+      "sectors": [
+        "national security-focused private investment"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:37.007406+00:00",
+      "last_seen": "2026-11-26T20:35:37.007406+00:00"
+    },
+    "compass datacenters": {
+      "name": "Compass Datacenters",
+      "type": "company",
+      "sectors": [
+        "data center developer"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:53.053817+00:00",
+      "last_seen": "2026-11-26T20:35:53.053817+00:00"
+    },
+    "sharon ai": {
+      "name": "Sharon AI",
+      "type": "company",
+      "sectors": [
+        "neocloud / GPU cloud (Australia)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:54.835850+00:00",
+      "last_seen": "2026-11-26T20:35:54.835850+00:00"
+    },
+    "esds software solution": {
+      "name": "ESDS Software Solution",
+      "type": "company",
+      "sectors": [
+        "Indian cloud provider"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:54.835850+00:00",
+      "last_seen": "2026-11-26T20:35:54.835850+00:00"
+    },
+    "nextdc": {
+      "name": "NextDC",
+      "type": "company",
+      "sectors": [
+        "data center operator (Australia)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "NXT.AX",
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:54.835850+00:00",
+      "last_seen": "2026-11-26T20:35:54.835850+00:00"
+    },
+    "greensquaredc": {
+      "name": "GreenSquareDC",
+      "type": "company",
+      "sectors": [
+        "data center operator (Australia)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:54.835850+00:00",
+      "last_seen": "2026-11-26T20:35:54.835850+00:00"
+    },
+    "meridian energy": {
+      "name": "Meridian Energy",
+      "type": "company",
+      "sectors": [
+        "renewable generation (New Zealand)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": "MEL.NZ",
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:57.811442+00:00",
+      "last_seen": "2026-11-26T20:35:57.811442+00:00"
+    },
+    "mercury": {
+      "name": "Mercury",
+      "type": "company",
+      "sectors": [
+        "renewable generation (New Zealand)"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:57.811442+00:00",
+      "last_seen": "2026-11-26T20:35:57.811442+00:00"
+    },
+    "datagrid": {
+      "name": "Datagrid",
+      "type": "company",
+      "sectors": [
+        "data center developer (New Zealand)"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T20:35:57.811442+00:00",
+      "last_seen": "2026-11-26T20:35:57.811442+00:00"
     }
   },
   "edges": [
@@ -34608,6 +34766,14 @@
           "source_name": "SiliconANGLE",
           "published": "Wed, 18 Nov 2026 10:46:31 +0000",
           "added_at": "2026-11-18T11:09:51.670268+00:00"
+        },
+        {
+          "description": "据 FT,Dell 已通知马来西亚、新加坡、泰国、印尼客户,Nvidia 叫停了这些国家的服务器订单出货",
+          "article_title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia in wake of new Dep’t of Commerce export rule - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 14:17:50 +0000",
+          "added_at": "2026-11-26T20:35:46.329007+00:00"
         }
       ]
     },
@@ -34781,6 +34947,14 @@
           "source_name": "SiliconANGLE",
           "published": "Tue, 17 Nov 2026 20:27:24 +0000",
           "added_at": "2026-11-17T21:11:21.777206+00:00"
+        },
+        {
+          "description": "据 FT,Supermicro 作为 Nvidia 制造伙伴同样通知东南亚四国客户服务器出货暂停",
+          "article_title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia in wake of new Dep’t of Commerce export rule - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 14:17:50 +0000",
+          "added_at": "2026-11-26T20:35:46.329007+00:00"
         }
       ]
     },
@@ -43272,6 +43446,246 @@
           "added_at": "2026-11-26T15:43:08.919154+00:00"
         }
       ]
+    },
+    {
+      "source": "washington harbour partners",
+      "target": "rbc signals",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Washington Harbour Partners 向 RBC Signals 投资 1000 万美元,用于扩大政府服务业务及星间链路、光学地面通信等商业化",
+          "article_title": "RBC Signals secures $10m investment from national security-focused private investor",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rbc-signals-secures-10m-investment-from-national-security-focused-private-investor/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 15:00:41 +0000",
+          "added_at": "2026-11-26T20:35:37.007406+00:00"
+        }
+      ]
+    },
+    {
+      "source": "rbc signals",
+      "target": "microsoft",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "RBC Signals 2025 年从 Microsoft 收购 10 套 S/X 波段跟踪天线",
+          "article_title": "RBC Signals secures $10m investment from national security-focused private investor",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rbc-signals-secures-10m-investment-from-national-security-focused-private-investor/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 15:00:41 +0000",
+          "added_at": "2026-11-26T20:35:37.007406+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us space force",
+      "target": "rbc signals",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "RBC Signals 2026 年被选为美国太空军 Joint Antenna Marketplace 天线供应商",
+          "article_title": "RBC Signals secures $10m investment from national security-focused private investor",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rbc-signals-secures-10m-investment-from-national-security-focused-private-investor/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 15:00:41 +0000",
+          "added_at": "2026-11-26T20:35:37.007406+00:00"
+        }
+      ]
+    },
+    {
+      "source": "blue origin",
+      "target": "rbc signals",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "RBC Signals 获得支持 Blue Origin 全球地面站部署的合同",
+          "article_title": "RBC Signals secures $10m investment from national security-focused private investor",
+          "article_url": "https://www.datacenterdynamics.com/en/news/rbc-signals-secures-10m-investment-from-national-security-focused-private-investor/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 15:00:41 +0000",
+          "added_at": "2026-11-26T20:35:37.007406+00:00"
+        }
+      ]
+    },
+    {
+      "source": "fluidstack",
+      "target": "prologis",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Prologis 以 1.629 亿美元将宾州 Northampton 的 Lehigh Valley East 16 工业设施(最高 300MW 数据中心)出售给 Fluidstack",
+          "article_title": "Prologis sells industrial facility to Fluidstack for data center in Pennsylvania",
+          "article_url": "https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 14:30:36 +0000",
+          "added_at": "2026-11-26T20:35:43.600031+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of defense",
+      "target": "fluidstack",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "据 2026 年 9 月报道,五角大楼曾洽谈向 Fluidstack 提供 50 亿美元债务融资(报道中,未确认)",
+          "article_title": "Prologis sells industrial facility to Fluidstack for data center in Pennsylvania",
+          "article_url": "https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 14:30:36 +0000",
+          "added_at": "2026-11-26T20:35:43.600031+00:00"
+        }
+      ]
+    },
+    {
+      "source": "brookfield",
+      "target": "compass datacenters",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "Brookfield Infrastructure Partners 与安大略教师退休金计划于 2023 年 6 月以 55 亿美元收购 Compass",
+          "article_title": "Compass could pause $380m ABS transaction due to investor rout after outage - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/compass-could-pause-380m-abs-transaction-due-to-investor-rout-after-outage-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:38:57 +0000",
+          "added_at": "2026-11-26T20:35:53.053817+00:00"
+        }
+      ]
+    },
+    {
+      "source": "ontario teachers pension plan",
+      "target": "compass datacenters",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "安大略教师退休金计划与 Brookfield 于 2023 年 6 月以 55 亿美元共同收购 Compass",
+          "article_title": "Compass could pause $380m ABS transaction due to investor rout after outage - report",
+          "article_url": "https://www.datacenterdynamics.com/en/news/compass-could-pause-380m-abs-transaction-due-to-investor-rout-after-outage-report/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:38:57 +0000",
+          "added_at": "2026-11-26T20:35:53.053817+00:00"
+        }
+      ]
+    },
+    {
+      "source": "esds software solution",
+      "target": "sharon ai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "ESDS 与 Sharon AI 签五年约 12.5 亿美元合同,Sharon AI 在悉尼为其部署 8208 块 B300,12 月中旬交付、2027 年 1 月起计费,每月约 2100 万美元",
+          "article_title": "8,208 GPUs deployed by Sharon AI for ESDS Software Solution in Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/8208-gpus-deployed-by-sharon-ai-for-esds-software-solution-in-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:33:07 +0000",
+          "added_at": "2026-11-26T20:35:54.835850+00:00"
+        }
+      ]
+    },
+    {
+      "source": "nvidia",
+      "target": "sharon ai",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Nvidia 对 Sharon AI 有六年 take-or-pay 承诺,支撑 72MW、4 万块 GB300 部署,计划 2027 年初开始调试",
+          "article_title": "8,208 GPUs deployed by Sharon AI for ESDS Software Solution in Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/8208-gpus-deployed-by-sharon-ai-for-esds-software-solution-in-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:33:07 +0000",
+          "added_at": "2026-11-26T20:35:54.835850+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sharon ai",
+      "target": "nextdc",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Sharon AI 在 NextDC 墨尔本 M3 有 72MW 合同容量",
+          "article_title": "8,208 GPUs deployed by Sharon AI for ESDS Software Solution in Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/8208-gpus-deployed-by-sharon-ai-for-esds-software-solution-in-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:33:07 +0000",
+          "added_at": "2026-11-26T20:35:54.835850+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sharon ai",
+      "target": "greensquaredc",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Sharon AI 在 GreenSquareDC 澳大利亚设施租用 15MW",
+          "article_title": "8,208 GPUs deployed by Sharon AI for ESDS Software Solution in Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/8208-gpus-deployed-by-sharon-ai-for-esds-software-solution-in-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:33:07 +0000",
+          "added_at": "2026-11-26T20:35:54.835850+00:00"
+        }
+      ]
+    },
+    {
+      "source": "sharon ai",
+      "target": "equinix",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Sharon AI 在 Equinix 悉尼 SYD3 和 SYD5 拥有容量",
+          "article_title": "8,208 GPUs deployed by Sharon AI for ESDS Software Solution in Australia",
+          "article_url": "https://www.datacenterdynamics.com/en/news/8208-gpus-deployed-by-sharon-ai-for-esds-software-solution-in-australia/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:33:07 +0000",
+          "added_at": "2026-11-26T20:35:54.835850+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us department of commerce",
+      "target": "intel",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "美国政府以 89 亿美元(57 亿 CHIPS 法案资金+32 亿 Secure Enclave 资金)取得 Intel 9.9% 股权;股东诉讼指控商务部施压 Intel 接受该交易",
+          "article_title": "Trump administration pressured Intel into accepting gov’t stake in company, lawsuit documents allege",
+          "article_url": "https://www.datacenterdynamics.com/en/news/trump-administration-pressured-intel-into-accepting-govt-stake-in-company-lawsuit-documents-allege/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:17:06 +0000",
+          "added_at": "2026-11-26T20:35:56.612938+00:00"
+        }
+      ]
+    },
+    {
+      "source": "meridian energy",
+      "target": "datagrid",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "Meridian 以 3000 万美元取得 Datagrid 11.27% 股权,并签 140MW、15 年 PPA 期权,CEO Mike Roan 出任董事",
+          "article_title": "NZ energy firm Meridian invests in Datagrid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nz-energy-firm-meridian-invests-in-datagrid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:10:37 +0000",
+          "added_at": "2026-11-26T20:35:57.811442+00:00"
+        }
+      ]
+    },
+    {
+      "source": "mercury",
+      "target": "datagrid",
+      "type": "investment",
+      "evidence": [
+        {
+          "description": "新西兰能源公司 Mercury 于 7 月入股 Datagrid",
+          "article_title": "NZ energy firm Meridian invests in Datagrid",
+          "article_url": "https://www.datacenterdynamics.com/en/news/nz-energy-firm-meridian-invests-in-datagrid/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:10:37 +0000",
+          "added_at": "2026-11-26T20:35:57.811442+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -51617,6 +52031,78 @@
       "source_name": "DataCenterDynamics",
       "published": "Thu, 26 Nov 2026 10:42:59 +0000",
       "added_at": "2026-11-26T15:43:09.428402+00:00"
+    },
+    {
+      "sector": "太空经济板块",
+      "description": "RBC Signals 获 1000 万美元投资扩张政府业务及星间链路、光学地面通信和空间态势感知,已是太空军天线供应商并支持 Blue Origin 地面站;卫星数据回传的瓶颈在地面段,国防客户先付费,但规模小、赛道早期,只能观望",
+      "article_title": "RBC Signals secures $10m investment from national security-focused private investor",
+      "article_url": "https://www.datacenterdynamics.com/en/news/rbc-signals-secures-10m-investment-from-national-security-focused-private-investor/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 15:00:41 +0000",
+      "added_at": "2026-11-26T20:35:39.038929+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Prologis 将已获改建许可、最高 300MW 的仓库以 1.629 亿美元卖给 Fluidstack,已有电力和许可的工业用地成为稀缺资产;算力基础设施继续扩张,但 neocloud 仍承担建设与融资风险",
+      "article_title": "Prologis sells industrial facility to Fluidstack for data center in Pennsylvania",
+      "article_url": "https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 14:30:36 +0000",
+      "added_at": "2026-11-26T20:35:44.453663+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "Prologis 称已有约 5.6GW 电力获电力公司承诺或在后期谈判、目标 10GW,电网接入权正被地产商变现;300MW 级单体项目需要变电站和输电升级,利好电网与发电侧",
+      "article_title": "Prologis sells industrial facility to Fluidstack for data center in Pennsylvania",
+      "article_url": "https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 14:30:36 +0000",
+      "added_at": "2026-11-26T20:35:45.398284+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "BIS 新规要求向东南亚四国及巴西出口先进芯片需许可证并封堵第三国远程访问,Nvidia 随即叫停对马来西亚、新加坡、泰国、印尼的服务器出货(2025 年其新加坡子公司记账收入 1040 亿美元);瓶颈从 GPU 产能变成许可证,短期利空 Nvidia、Dell/Supermicro 等 OEM 和东南亚数据中心,算力需求向美国本土及合规地区转移,暂停期限未知",
+      "article_title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia in wake of new Dep’t of Commerce export rule - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 14:17:50 +0000",
+      "added_at": "2026-11-26T20:35:47.196595+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "据 Bloomberg(Compass 未确认),Compass 因数据中心宕机后投资者抛售而推迟 3.8 亿美元 ABS 至明年;以租约现金流为抵押的债务融资对宕机和社区诉讼高度敏感,资金在对基础设施层风险重新定价,偏谨慎;能降低宕机风险的 UPS、备用电源、电力管理层反而受益",
+      "article_title": "Compass could pause $380m ABS transaction due to investor rout after outage - report",
+      "article_url": "https://www.datacenterdynamics.com/en/news/compass-could-pause-380m-abs-transaction-due-to-investor-rout-after-outage-report/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 12:38:57 +0000",
+      "added_at": "2026-11-26T20:35:54.028477+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Sharon AI 为 ESDS 部署 8208 块 B300,但收入从 Q3 推迟到 2027 年 1 月,Q3 收入 993 万美元、运营亏损 3746 万美元、在建工程 13.85 亿美元,剩余履约义务 38 亿美元,Nvidia 以 take-or-pay 托底 4 万块 GB300;需求有真实订单,瓶颈是现金流时间差,GPU 与 NextDC/Equinix 等托管方确定性受益,小型 neocloud 股权风险高,关注 12 月验收和 1 月计费",
+      "article_title": "8,208 GPUs deployed by Sharon AI for ESDS Software Solution in Australia",
+      "article_url": "https://www.datacenterdynamics.com/en/news/8208-gpus-deployed-by-sharon-ai-for-esds-software-solution-in-australia/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 12:33:07 +0000",
+      "added_at": "2026-11-26T20:35:55.463838+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "Intel 股东诉讼披露的文件指控商务部以 CHIPS 资金施压 Intel 接受政府 9.9% 入股,叠加 Nvidia CEO 在白宫施压下复职,美国芯片公司决策与华盛顿越绑越紧;政府持股给 Intel 隐性托底,但治理和少数股东权益风险上升,属治理风险而非需求风险,偏中性谨慎,指控尚未经法院认定",
+      "article_title": "Trump administration pressured Intel into accepting gov’t stake in company, lawsuit documents allege",
+      "article_url": "https://www.datacenterdynamics.com/en/news/trump-administration-pressured-intel-into-accepting-govt-stake-in-company-lawsuit-documents-allege/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 12:17:06 +0000",
+      "added_at": "2026-11-26T20:35:57.223430+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "新西兰水电商 Meridian 以 3000 万美元入股 280MW 的 Datagrid 园区并签 140MW、15 年 PPA 期权,继 Mercury 之后第二家发电商入股;电力是数据中心瓶颈,掌握可调度可再生能源的发电商开始分享下游价值,但 PPA 仅为期权、2028 年后才起始",
+      "article_title": "NZ energy firm Meridian invests in Datagrid",
+      "article_url": "https://www.datacenterdynamics.com/en/news/nz-energy-firm-meridian-invests-in-datagrid/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 12:10:37 +0000",
+      "added_at": "2026-11-26T20:35:58.327276+00:00"
     }
   ]
 }
