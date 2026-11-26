@@ -416,9 +416,9 @@
       ],
       "hot": "hot",
       "ticker": "MSFT",
-      "mentions": 33,
+      "mentions": 34,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-25T05:10:16.935965+00:00"
+      "last_seen": "2026-11-26T15:43:07.475230+00:00"
     },
     "openai": {
       "name": "OpenAI",
@@ -557,9 +557,9 @@
       ],
       "hot": "hot",
       "ticker": "ORCL",
-      "mentions": 9,
+      "mentions": 10,
       "first_seen": "2026-08-06T04:43:25.270278+00:00",
-      "last_seen": "2026-11-24T21:10:30.194544+00:00"
+      "last_seen": "2026-11-26T15:43:06.719040+00:00"
     },
     "palantir": {
       "name": "Palantir Technologies",
@@ -1320,9 +1320,9 @@
       ],
       "hot": "cold",
       "ticker": "IQMX",
-      "mentions": 6,
+      "mentions": 7,
       "first_seen": "2026-08-06T04:45:56.401807+00:00",
-      "last_seen": "2026-11-25T21:47:14.011328+00:00"
+      "last_seen": "2026-11-26T15:43:05.242255+00:00"
     },
     "pasqal": {
       "name": "Pasqal",
@@ -2322,9 +2322,9 @@
       ],
       "hot": "hot",
       "ticker": "BE",
-      "mentions": 4,
+      "mentions": 5,
       "first_seen": "2026-08-06T04:59:53.197516+00:00",
-      "last_seen": "2026-11-13T06:17:10.573039+00:00"
+      "last_seen": "2026-11-26T15:43:06.719040+00:00"
     },
     "oklo": {
       "name": "Oklo Inc",
@@ -5116,9 +5116,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-06T06:49:28.119096+00:00",
-      "last_seen": "2026-11-23T13:11:51.320621+00:00"
+      "last_seen": "2026-11-26T15:43:05.242255+00:00"
     },
     "draco": {
       "name": "DRACO",
@@ -7010,16 +7010,17 @@
       "type": "institution",
       "sectors": [
         "EU executive",
-        "EU executive / tech policy"
+        "EU executive / tech policy",
+        "EU executive / policy"
       ],
       "sector_tags": [
         "量子计算板块"
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 2,
+      "mentions": 3,
       "first_seen": "2026-11-11T06:19:44.111949+00:00",
-      "last_seen": "2026-11-25T12:11:39.102475+00:00"
+      "last_seen": "2026-11-26T15:43:05.242255+00:00"
     },
     "eurohpc joint undertaking": {
       "name": "EuroHPC Joint Undertaking",
@@ -11904,9 +11905,9 @@
       ],
       "hot": null,
       "ticker": null,
-      "mentions": 3,
+      "mentions": 4,
       "first_seen": "2026-11-17T18:11:18.536127+00:00",
-      "last_seen": "2026-11-25T14:11:31.943819+00:00"
+      "last_seen": "2026-11-26T15:43:08.919154+00:00"
     },
     "typesafe": {
       "name": "TypeSafe",
@@ -18179,6 +18180,154 @@
       "mentions": 1,
       "first_seen": "2026-11-26T02:39:38.424332+00:00",
       "last_seen": "2026-11-26T02:39:38.424332+00:00"
+    },
+    "pqshield": {
+      "name": "PQShield",
+      "type": "company",
+      "sectors": [
+        "post-quantum cryptography IP and hardware"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:05.242255+00:00",
+      "last_seen": "2026-11-26T15:43:05.242255+00:00"
+    },
+    "sparrow quantum": {
+      "name": "Sparrow Quantum",
+      "type": "company",
+      "sectors": [
+        "photonic quantum / single-photon sources"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:05.242255+00:00",
+      "last_seen": "2026-11-26T15:43:05.242255+00:00"
+    },
+    "equal1": {
+      "name": "Equal1",
+      "type": "company",
+      "sectors": [
+        "silicon spin qubit quantum-on-chip"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:05.242255+00:00",
+      "last_seen": "2026-11-26T15:43:05.242255+00:00"
+    },
+    "quantum emotion": {
+      "name": "Quantum eMotion",
+      "type": "company",
+      "sectors": [
+        "quantum-secure cybersecurity"
+      ],
+      "sector_tags": [
+        "量子计算板块"
+      ],
+      "hot": null,
+      "ticker": "QNC",
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:05.971525+00:00",
+      "last_seen": "2026-11-26T15:43:05.971525+00:00"
+    },
+    "plurilock security": {
+      "name": "Plurilock Security",
+      "type": "company",
+      "sectors": [
+        "cybersecurity"
+      ],
+      "sector_tags": [],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:05.971525+00:00",
+      "last_seen": "2026-11-26T15:43:05.971525+00:00"
+    },
+    "quanta computer": {
+      "name": "Quanta Computer",
+      "type": "company",
+      "sectors": [
+        "server / AI rack ODM"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": "2382.TW",
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:06.719040+00:00",
+      "last_seen": "2026-11-26T15:43:06.719040+00:00"
+    },
+    "quanta manufacturing nashville": {
+      "name": "Quanta Manufacturing Nashville",
+      "type": "company",
+      "sectors": [
+        "US server manufacturing"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:06.719040+00:00",
+      "last_seen": "2026-11-26T15:43:06.719040+00:00"
+    },
+    "cheyenne light": {
+      "name": "Cheyenne Light",
+      "type": "company",
+      "sectors": [
+        "Wyoming electric utility"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:07.475230+00:00",
+      "last_seen": "2026-11-26T15:43:07.475230+00:00"
+    },
+    "bright horizon energy": {
+      "name": "Bright Horizon Energy",
+      "type": "company",
+      "sectors": [
+        "utility holding company"
+      ],
+      "sector_tags": [
+        "能源板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:07.475230+00:00",
+      "last_seen": "2026-11-26T15:43:07.475230+00:00"
+    },
+    "us air force": {
+      "name": "U.S. Air Force",
+      "type": "institution",
+      "sectors": [
+        "military / defense HPC"
+      ],
+      "sector_tags": [
+        "AI板块"
+      ],
+      "hot": null,
+      "ticker": null,
+      "mentions": 1,
+      "first_seen": "2026-11-26T15:43:08.919154+00:00",
+      "last_seen": "2026-11-26T15:43:08.919154+00:00"
     }
   },
   "edges": [
@@ -21240,6 +21389,14 @@
           "source_name": "DataCenterDynamics",
           "published": "Fri, 06 Nov 2026 13:25:48 +0000",
           "added_at": "2026-11-09T06:06:08.786657+00:00"
+        },
+        {
+          "description": "Bloom 与 Oracle 的供电协议扩大至最多 2.8GW,但新墨西哥 Jupiter 数据中心因供气管道遭反对受阻",
+          "article_title": "Quanta inks $367m deal with Bloom Energy for two fuel cell anchored microgrid systems",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quanta-inks-367m-deal-with-bloom-energy-for-two-fuel-cell-anchored-microgrid-systems/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:00:51 +0000",
+          "added_at": "2026-11-26T15:43:06.719040+00:00"
         }
       ]
     },
@@ -43010,6 +43167,111 @@
           "added_at": "2026-11-26T02:39:38.424332+00:00"
         }
       ]
+    },
+    {
+      "source": "equal1",
+      "target": "european space agency",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Equal1 CEO 称其 RacQ 硅基量子服务器目前在欧洲航天局运行",
+          "article_title": "European Quantum Community Reacts to New Quantum Strategy",
+          "article_url": "https://thequantuminsider.com/2026/11/26/european-quantum-community-reacts-to-new-quantum-strategy/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 26 Nov 2026 09:40:04 +0000",
+          "added_at": "2026-11-26T15:43:05.242255+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quantum emotion",
+      "target": "plurilock security",
+      "type": "acquisition",
+      "evidence": [
+        {
+          "description": "QeM 完成收购 Plurilock,每股对价 0.084 加元现金加 0.0763 股 QeM 股票,获 99.58% 股东支持,Plurilock 将从 TSXV 退市",
+          "article_title": "Quantum eMotion Completes Acquisition of Plurilock Security",
+          "article_url": "https://thequantuminsider.com/2026/11/26/quantum-emotion-completes-acquisition-plurilock-security/",
+          "source_name": "The Quantum Insider",
+          "published": "Thu, 26 Nov 2026 09:14:50 +0000",
+          "added_at": "2026-11-26T15:43:05.971525+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quanta manufacturing nashville",
+      "target": "quanta computer",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Quanta Manufacturing Nashville 是广达在美国制造、组装、维修服务器与云硬件的子公司",
+          "article_title": "Quanta inks $367m deal with Bloom Energy for two fuel cell anchored microgrid systems",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quanta-inks-367m-deal-with-bloom-energy-for-two-fuel-cell-anchored-microgrid-systems/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:00:51 +0000",
+          "added_at": "2026-11-26T15:43:06.719040+00:00"
+        }
+      ]
+    },
+    {
+      "source": "quanta computer",
+      "target": "bloom energy",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "广达以美国子公司名义向 Bloom 采购两套燃料电池微电网,据报约 3.67 亿美元(加州约 2.499 亿、田纳西约 1.171 亿),是双方第三笔交易",
+          "article_title": "Quanta inks $367m deal with Bloom Energy for two fuel cell anchored microgrid systems",
+          "article_url": "https://www.datacenterdynamics.com/en/news/quanta-inks-367m-deal-with-bloom-energy-for-two-fuel-cell-anchored-microgrid-systems/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 12:00:51 +0000",
+          "added_at": "2026-11-26T15:43:06.719040+00:00"
+        }
+      ]
+    },
+    {
+      "source": "cheyenne light",
+      "target": "bright horizon energy",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "Cheyenne Light 是 Bright Horizon Energy 子公司,后者由 Black Hills Corp. 与 NorthWestern Energy Group 合并而成,本月完成合并",
+          "article_title": "Cheyenne Light applies to build transmission infrastructure for three Microsoft data centers in Wyoming",
+          "article_url": "https://www.datacenterdynamics.com/en/news/cheyenne-light-applies-to-build-transmission-infrastructure-for-three-microsoft-data-centers-in-wyoming/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 11:49:48 +0000",
+          "added_at": "2026-11-26T15:43:07.475230+00:00"
+        }
+      ]
+    },
+    {
+      "source": "microsoft",
+      "target": "cheyenne light",
+      "type": "customer",
+      "evidence": [
+        {
+          "description": "Cheyenne Light 向 FERC 申请为微软三座计划中的数据中心建设输配电设施,费用由微软通过施工补助金和预付款承担,按大负荷电价供电",
+          "article_title": "Cheyenne Light applies to build transmission infrastructure for three Microsoft data centers in Wyoming",
+          "article_url": "https://www.datacenterdynamics.com/en/news/cheyenne-light-applies-to-build-transmission-infrastructure-for-three-microsoft-data-centers-in-wyoming/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 11:49:48 +0000",
+          "added_at": "2026-11-26T15:43:07.475230+00:00"
+        }
+      ]
+    },
+    {
+      "source": "us air force",
+      "target": "us department of defense",
+      "type": "subsidiary",
+      "evidence": [
+        {
+          "description": "国防部下属空军华盛顿区发布 sources sought,征询以商业或公私合作模式建设约 3 万 GPU、约 20 亿美元的航空航天 HPC/AI 超算",
+          "article_title": "US Air Force plans 30,000-GPU HPC and AI supercomputer",
+          "article_url": "https://www.datacenterdynamics.com/en/news/us-air-force-plans-30000-gpu-hpc-and-ai-supercomputer/",
+          "source_name": "DataCenterDynamics",
+          "published": "Thu, 26 Nov 2026 10:42:59 +0000",
+          "added_at": "2026-11-26T15:43:08.919154+00:00"
+        }
+      ]
     }
   ],
   "sector_signals": [
@@ -51283,6 +51545,78 @@
       "source_name": "SiliconANGLE",
       "published": "Thu, 26 Nov 2026 01:42:07 +0000",
       "added_at": "2026-11-26T02:39:38.710833+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "欧盟 Quantum Act 业界反应显示欧洲量子产业瓶颈在需求(公共采购)、资本(Sovereign Tech Equity Fund)和制造(与 Chips Act 2.0 衔接),而非科研;有交付记录的欧洲硬件公司和硅基路线受益,PQC 义务让密码迁移先变成有时间表的采购,PQC 厂商比量子计算机更早拿到收入;但按控制权决定采购资格可能让依赖美国资本的公司两难,法案和预算仍待审议",
+      "article_title": "European Quantum Community Reacts to New Quantum Strategy",
+      "article_url": "https://thequantuminsider.com/2026/11/26/european-quantum-community-reacts-to-new-quantum-strategy/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 26 Nov 2026 09:40:04 +0000",
+      "added_at": "2026-11-26T15:43:05.489950+00:00"
+    },
+    {
+      "sector": "量子计算板块",
+      "description": "(公司新闻稿,利益相关)Quantum eMotion 以换股为主收购有北美政府和北约客户的 Plurilock,补的是量子安全的渠道瓶颈;PQC 迁移若写进政府采购,有存量政府客户的安全公司成为稀缺资产,但这是外围安全应用层、体量小、股本稀释明显且无收入数据,只能观望",
+      "article_title": "Quantum eMotion Completes Acquisition of Plurilock Security",
+      "article_url": "https://thequantuminsider.com/2026/11/26/quantum-emotion-completes-acquisition-plurilock-security/",
+      "source_name": "The Quantum Insider",
+      "published": "Thu, 26 Nov 2026 09:14:50 +0000",
+      "added_at": "2026-11-26T15:43:06.230612+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "广达为美国服务器工厂向 Bloom 采购约 3.67 亿美元燃料电池微电网,电力约束从数据中心传导到 AI 硬件制造;瓶颈是并网排队,能快速现场发电的 Bloom 受益,其次是天然气上游与管道(Oracle 项目正卡在管道上),金额来自报道、容量未披露,且依赖天然气有减碳和社区反对隐患",
+      "article_title": "Quanta inks $367m deal with Bloom Energy for two fuel cell anchored microgrid systems",
+      "article_url": "https://www.datacenterdynamics.com/en/news/quanta-inks-367m-deal-with-bloom-energy-for-two-fuel-cell-anchored-microgrid-systems/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 12:00:51 +0000",
+      "added_at": "2026-11-26T15:43:06.975898+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "英伟达整机柜核心代工厂广达在美扩产并自建电源,说明美国本土 AI 服务器制造在加速,对整机柜、液冷和电源配套是持续需求",
+      "article_title": "Quanta inks $367m deal with Bloom Energy for two fuel cell anchored microgrid systems",
+      "article_url": "https://www.datacenterdynamics.com/en/news/quanta-inks-367m-deal-with-bloom-energy-for-two-fuel-cell-anchored-microgrid-systems/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 12:00:51 +0000",
+      "added_at": "2026-11-26T15:43:07.223430+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "微软出资让 Cheyenne Light 为其三座数据中心建输配电设施,FERC 关注大负荷输电成本回收,hyperscaler 正从电力买家变成电网出资人;受益层次是手握 GW 级储备、成本由客户承担的地方电力公司,以及绕不开的变压器、开关和高压电缆;协议涂黑、规模不明,只能判断方向",
+      "article_title": "Cheyenne Light applies to build transmission infrastructure for three Microsoft data centers in Wyoming",
+      "article_url": "https://www.datacenterdynamics.com/en/news/cheyenne-light-applies-to-build-transmission-infrastructure-for-three-microsoft-data-centers-in-wyoming/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 11:49:48 +0000",
+      "added_at": "2026-11-26T15:43:07.723666+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "微软在 Cheyenne 同时推进五个数据中心站点、当地储备超 3GW,算力扩张意愿未减弱,对 GPU 和数据中心基础设施是持续背景利好",
+      "article_title": "Cheyenne Light applies to build transmission infrastructure for three Microsoft data centers in Wyoming",
+      "article_url": "https://www.datacenterdynamics.com/en/news/cheyenne-light-applies-to-build-transmission-infrastructure-for-three-microsoft-data-centers-in-wyoming/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 11:49:48 +0000",
+      "added_at": "2026-11-26T15:43:07.977710+00:00"
+    },
+    {
+      "sector": "AI板块",
+      "description": "美国空军征询约 3 万 GPU、约 20 亿美元的 HPC/AI 超算,并寻求商业锚定租户分摊 3-5 年折旧,把 neocloud 模式引入国防采购;受益层次是 GPU、100kW+ 机柜的整机柜集成与液冷、以及能打包算力加融资的 neocloud 和基础设施基金;目前只是信息征询,距正式合同尚远",
+      "article_title": "US Air Force plans 30,000-GPU HPC and AI supercomputer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/us-air-force-plans-30000-gpu-hpc-and-ai-supercomputer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 10:42:59 +0000",
+      "added_at": "2026-11-26T15:43:09.174431+00:00"
+    },
+    {
+      "sector": "能源板块",
+      "description": "空军超算站点需从约 750kW 扩到 30MW 并再加 30MW 场地和电池储能,电力与储能设备是硬需求",
+      "article_title": "US Air Force plans 30,000-GPU HPC and AI supercomputer",
+      "article_url": "https://www.datacenterdynamics.com/en/news/us-air-force-plans-30000-gpu-hpc-and-ai-supercomputer/",
+      "source_name": "DataCenterDynamics",
+      "published": "Thu, 26 Nov 2026 10:42:59 +0000",
+      "added_at": "2026-11-26T15:43:09.428402+00:00"
     }
   ]
 }
